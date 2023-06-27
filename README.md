@@ -1,62 +1,61 @@
-![](vertopal_8f97f4f4cc344ecdbe0e6ccf00fee4ad/media/image1.png){width="0.5338145231846019in"
-height="0.297995406824147in"}
+<img src="media/image1.png" style="width:0.53381in;height:0.298in" />
 
-> **KAUPAN TYÖEHTOSOPIMUS** 1.2.2023--31.1.2025
+> **KAUPAN TYÖEHTOSOPIMUS** 1.2.2023–31.1.2025
 >
 > ja PALKKALIITE
 >
-> 1.6.2023--31.1.2025
+> 1.6.2023–31.1.2025
 >
-> **Kaupan työehtosopimus** 1.2.2023--31.1.2025
+> **Kaupan työehtosopimus** 1.2.2023–31.1.2025
 
 ja Palkkaliite
 
-> 1.6.2023--31.1.2025
+> 1.6.2023–31.1.2025
 
-####  A Työehtosopimus s. 15--89
+####  A Työehtosopimus s. 15–89
 
-> B Ammattiryhmäpöytäkirjat
-> \...\...\...\...\...\...\...\...\...\...\...\...\...\.... s. 92--107
+> B Ammattiryhmäpöytäkirjat ...........................................
+> s. 92–107
 
--   Asentajat ja huoltomiehet
+- Asentajat ja huoltomiehet
 
--   Huolto- ja liikenneasematyöntekijät
+- Huolto- ja liikenneasematyöntekijät
 
--   Kioskimyyjät
+- Kioskimyyjät
 
--   Provisiopalkkaiset myyjät
+- Provisiopalkkaiset myyjät
 
--   Somistajat
+- Somistajat
 
--   Tukkumyyjät ja ostajat
+- Tukkumyyjät ja ostajat
 
--   Logistiikkatyöntekijät
+- Logistiikkatyöntekijät
 
-####  C Työaikapöytäkirjat \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\... s. 108--130
+####  C Työaikapöytäkirjat ...................................................... s. 108–130
 
--   Arkipyhäjärjestelmä
+- Arkipyhäjärjestelmä
 
--   Vuosityöajan lyhennys
+- Vuosityöajan lyhennys
 
--   Joustava kokoaikatyö
+- Joustava kokoaikatyö
 
--   Lisätyön tarjoaminen
+- Lisätyön tarjoaminen
 
--   Kokoaikatyön tarjoaminen
+- Kokoaikatyön tarjoaminen
 
--   Työaikapankki
+- Työaikapankki
 
--   Väkivallan uhka
+- Väkivallan uhka
 
-####  D Sopimukset \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\... s. 132--160
+####  D Sopimukset .................................................................. s. 132–160
 
 > Luottamusmiessopimus Työsuojelun yhteistoimintasopimus Koulutussopimus
 
-####  E Lomakkeet\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...s. 162--169
+####  E Lomakkeet.....................................................................s. 162–169
 
 > Erimielisyysmuistio Työsopimuslomake
 
-####  F Palkkaliite\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\... s. 171--203
+####  F Palkkaliite..................................................................... s. 171–203
 
 1.  Vuosiportaat
 
@@ -72,13 +71,13 @@ ja Palkkaliite
 
 7.  Lisät
 
-# K[AUPAN TYÖEHTOSOPIMUS](#_bookmark0)
+# K[AUPAN TYÖEHTOSOPIMUS](#1 §__Sopimuksen_ulottuvuus)
 
 > SISÄLLYS
 
-1.  [SOVELTAMISALA 16](#_bookmark0)
+1.  [SOVELTAMISALA 16](#1 §__Sopimuksen_ulottuvuus)
 
-[1 § Sopimuksen ulottuvuus 16](#_bookmark0)
+[1 § Sopimuksen ulottuvuus 16](#1 §__Sopimuksen_ulottuvuus)
 
 2.  [TYÖSUHDE 17](#työsuhde)
 
@@ -91,398 +90,395 @@ ja Palkkaliite
     5.  [§ Työsuhteen päättyminen ja lomautus
         18](#määräaikainen-sopimus)
 
-[*Irtisanomisaika 18*](#määräaikainen-sopimus)
+[Irtisanomisaika 18](#määräaikainen-sopimus)
 
-[*Korvaukset 20*](#_bookmark3)
+[Korvaukset 20](#_bookmark3)
 
-[*Työsuhteen purkaminen 21*](#_bookmark4)
+[Työsuhteen purkaminen 21](#_bookmark4)
 
-[*Lomautus 21*](#_bookmark4)
+[Lomautus 21](#_bookmark4)
 
 3.  [TYÖAIKA 22](#työaika)
 
-```{=html}
 <!-- -->
-```
+
 6.  [§ Työaika 22](#työaika)
 
-[*Työajasta sopiminen 22*](#työaika)
+[Työajasta sopiminen 22](#työaika)
 
-[*Säännöllisen työajan järjestäminen viikon jaksossa 22*](#työaika)
+[Säännöllisen työajan järjestäminen viikon jaksossa 22](#työaika)
 
-[*Tasoittumisjärjestelmä 23*](#_bookmark6)
+[Tasoittumisjärjestelmä 23](#Tasoittumisjärjestelmä_)
 
-[*Säännöllisen työajan järjestäminen tasoittumisjaksossa
-23*](#_bookmark6)
+[Säännöllisen työajan järjestäminen tasoittumisjaksossa
+23](#Tasoittumisjärjestelmä_)
 
-[*2--26 viikon tasoittumisjakso 24*](#_bookmark7)
+[2–26 viikon tasoittumisjakso 24](#2–26_viikon_tasoittumisjakso)
 
-[*27--52 viikon tasoittumisjakso 24*](#_bookmark7)
+[27–52 viikon tasoittumisjakso 24](#2–26_viikon_tasoittumisjakso)
 
-[*Työvuoroluettelo 25*](#työvuoroluettelo)
+[Työvuoroluettelo 25](#työvuoroluettelo)
 
-[*Työhönsidonnaisuusaika 27*](#työhönsidonnaisuusaika)
+[Työhönsidonnaisuusaika 27](#työhönsidonnaisuusaika)
 
-[*Vuorokausilepo 27*](#työhönsidonnaisuusaika)
+[Vuorokausilepo 27](#työhönsidonnaisuusaika)
 
-[*Viikkolepo 27*](#työhönsidonnaisuusaika)
+[Viikkolepo 27](#työhönsidonnaisuusaika)
 
-[*Yötyö 27*](#työhönsidonnaisuusaika)
+[Yötyö 27](#työhönsidonnaisuusaika)
 
-[*Varallaolo ja hätätyö 28*](#_bookmark10)
+[Varallaolo ja hätätyö 28](#Varallaolo_ja_hätätyö)
 
-[*Liukuva työaika 28*](#_bookmark10)
+[Liukuva työaika 28](#Varallaolo_ja_hätätyö)
 
-[*Muut työaikajärjestelyt 29*](#_bookmark11)
+[Muut työaikajärjestelyt 29](#7_§_Vapaat)
 
-7.  [§ Vapaat 29](#_bookmark11)
+7.  [§ Vapaat 29](#7_§_Vapaat)
 
-[*Vapaapäivät 29*](#_bookmark11)
+[Vapaapäivät 29](#7_§_Vapaat)
 
-[*Tasoittumisjakso ja vapaapäivä 30*](#tasoittumisjakso-ja-vapaapäivä)
+[Tasoittumisjakso ja vapaapäivä 30](#tasoittumisjakso-ja-vapaapäivä)
 
-[*Työviikko 30*](#tasoittumisjakso-ja-vapaapäivä)
+[Työviikko 30](#tasoittumisjakso-ja-vapaapäivä)
 
-[*Vuosivapaajärjestelmä 31*](#_bookmark13)
+[Vuosivapaajärjestelmä 31](#_bookmark13)
 
-[*Vuosivapaan ansainta 31*](#_bookmark13)
+[Vuosivapaan ansainta 31](#_bookmark13)
 
-[*Vuosivapaan antaminen 32*](#_bookmark14)
+[Vuosivapaan antaminen 32](#Vuosivapaan_antaminen)
 
-[*Vuosivapaan vaikutus työaikaan ja vuosivapaan
-pituudesta*](#vuosivapaan-vaikutus-työaikaan-ja-vuosivapaan-pituudesta-toisin-sopiminen)
+[Vuosivapaan vaikutus työaikaan ja vuosivapaan
+pituudesta](#vuosivapaan-vaikutus-työaikaan-ja-vuosivapaan-pituudesta-toisin-sopiminen)
 
-[*toisin sopiminen
-34*](#vuosivapaan-vaikutus-työaikaan-ja-vuosivapaan-pituudesta-toisin-sopiminen)
+[toisin sopiminen
+34](#vuosivapaan-vaikutus-työaikaan-ja-vuosivapaan-pituudesta-toisin-sopiminen)
 
-[*Palkka vuosivapaan ajalta 35*](#_bookmark16)
+[Palkka vuosivapaan ajalta 35](#Palkka_vuosivapaan_ajalta)
 
-[*Vuosivapaan maksaminen rahakorvauksena
-36*](#vuosivapaan-maksaminen-rahakorvauksena)
+[Vuosivapaan maksaminen rahakorvauksena
+36](#vuosivapaan-maksaminen-rahakorvauksena)
 
-[*Vuosivapaat työsuhteen päättyessä
-37*](#vuosivapaat-työsuhteen-päättyessä)
+[Vuosivapaat työsuhteen päättyessä
+37](#vuosivapaat-työsuhteen-päättyessä)
 
-[*Vapaapäivien sijoittelu 37*](#vuosivapaat-työsuhteen-päättyessä)
+[Vapaapäivien sijoittelu 37](#vuosivapaat-työsuhteen-päättyessä)
 
 8.  [§ Ruoka- ja kahvitauko 39](#ruoka--ja-kahvitauko)
 
-[*Ruokatauko 39*](#ruoka--ja-kahvitauko)
+[Ruokatauko 39](#ruoka--ja-kahvitauko)
 
-[*Kahvitauko 39*](#ruoka--ja-kahvitauko)
+[Kahvitauko 39](#ruoka--ja-kahvitauko)
 
 9.  [§ Lisä- ja ylityö 40](#lisä--ja-ylityö)
 
-[*Lisätyö 40*](#lisä--ja-ylityö)
+[Lisätyö 40](#lisä--ja-ylityö)
 
-[*Ylityö 40*](#lisä--ja-ylityö)
+[Ylityö 40](#lisä--ja-ylityö)
 
-[*Lisä- ja ylityösuostumus 40*](#lisä--ja-ylityö)
+[Lisä- ja ylityösuostumus 40](#lisä--ja-ylityö)
 
-[*Lisätyön tarjoamisen periaatteiden käsittely 40*](#lisä--ja-ylityö)
+[Lisätyön tarjoamisen periaatteiden käsittely 40](#lisä--ja-ylityö)
 
-[*Korotettu palkka 40*](#lisä--ja-ylityö)
+[Korotettu palkka 40](#lisä--ja-ylityö)
 
-[*Korotettu palkka tasoittumisjaksossa 42*](#_bookmark21)
+[Korotettu palkka tasoittumisjaksossa
+42](#Korotettu_palkka_tasoittumisjaksossa)
 
-[*Korotetun palkan maksaminen tasoittumisjaksossa 44*](#_bookmark22)
+[Korotetun palkan maksaminen tasoittumisjaksossa
+44](#Korotetun_palkan_maksaminen_tasoittumisj)
 
-[*Lisä- ja ylityökorvaus vapaa-aikana 44*](#_bookmark22)
+[Lisä- ja ylityökorvaus vapaa-aikana
+44](#Korotetun_palkan_maksaminen_tasoittumisj)
 
-[*Työsopimuksen päättyminen kesken tasoittumisjakson
-45*](#työsopimuksen-päättyminen-kesken-tasoittumisjakson)
+[Työsopimuksen päättyminen kesken tasoittumisjakson
+45](#työsopimuksen-päättyminen-kesken-tasoittumisjakson)
 
-[*Työajan enimmäismäärä 46*](#_bookmark24)
+[Työajan enimmäismäärä 46](#10_§_Sunnuntaityö)
 
-[*Tuntipalkkajakaja 46*](#_bookmark24)
+[Tuntipalkkajakaja 46](#10_§_Sunnuntaityö)
 
-[*Lisä- ja ylityökorvausten vanhentuminen 46*](#_bookmark24)
+[Lisä- ja ylityökorvausten vanhentuminen 46](#10_§_Sunnuntaityö)
 
-10. [§ Sunnuntaityö 46](#_bookmark24)
+10. [§ Sunnuntaityö 46](#10_§_Sunnuntaityö)
 
-```{=html}
 <!-- -->
-```
+
 4.  [PALKKAUS 47](#palkkaus)
 
-```{=html}
 <!-- -->
-```
+
 11. [§ Työpalkat 47](#palkkaus)
 
-[*Palkan suuruus 47*](#palkkaus)
+[Palkan suuruus 47](#palkkaus)
 
-[*Palvelusaika 47*](#palkkaus)
+[Palvelusaika 47](#palkkaus)
 
-[*Koulutus 48*](#_bookmark26)
+[Koulutus 48](#_bookmark26)
 
-[*Työskentely vaativammassa tehtävässä 48*](#_bookmark26)
+[Työskentely vaativammassa tehtävässä 48](#_bookmark26)
 
-[*Tilapäinen siirto 48*](#_bookmark26)
+[Tilapäinen siirto 48](#_bookmark26)
 
-[*Siirto vaativuustasossa 49*](#siirto-vaativuustasossa)
+[Siirto vaativuustasossa 49](#siirto-vaativuustasossa)
 
-[*Vaativuustasojen ylittävä palkka 49*](#siirto-vaativuustasossa)
+[Vaativuustasojen ylittävä palkka 49](#siirto-vaativuustasossa)
 
-[*Osakuukauden palkka 49*](#siirto-vaativuustasossa)
+[Osakuukauden palkka 49](#siirto-vaativuustasossa)
 
-[*Koululaispalkka 50*](#_bookmark28)
+[Koululaispalkka 50](#_bookmark28)
 
-[*Taulukkopalkat 51*](#taulukkopalkat)
+[Taulukkopalkat 51](#taulukkopalkat)
 
-[*Alle 37,5 tuntia tekevät 51*](#taulukkopalkat)
+[Alle 37,5 tuntia tekevät 51](#taulukkopalkat)
 
 12. [§ Myyjät ja myymälätyöntekijät 51](#taulukkopalkat)
 
-[*Harjoitteluaika 51*](#taulukkopalkat)
+[Harjoitteluaika 51](#taulukkopalkat)
 
-[*Vaativuustasot 51*](#taulukkopalkat)
+[Vaativuustasot 51](#taulukkopalkat)
 
-[*Iltalisä 52*](#_bookmark30)
+[Iltalisä 52](#_bookmark30)
 
-[*Aattoiltalisä 53*](#aattoiltalisä)
+[Aattoiltalisä 53](#aattoiltalisä)
 
-[*Yölisä 53*](#aattoiltalisä)
+[Yölisä 53](#aattoiltalisä)
 
-[*Lauantailisä 53*](#aattoiltalisä)
+[Lauantailisä 53](#aattoiltalisä)
 
-[*Inventaarilisä lauantaina 54*](#_bookmark32)
+[Inventaarilisä lauantaina 54](#_bookmark32)
 
-[*Vastuulisä 54*](#_bookmark32)
+[Vastuulisä 54](#_bookmark32)
 
-[*Myymälänhoitajan sijaisuuslisä 54*](#_bookmark32)
+[Myymälänhoitajan sijaisuuslisä 54](#_bookmark32)
 
-[*Kylmä- ja pakkashuonelisä 55*](#_bookmark33)
+[Kylmä- ja pakkashuonelisä 55](#13_§_Varastotyöntekijät)
 
-[*Hälytysraha 55*](#_bookmark33)
+[Hälytysraha 55](#13_§_Varastotyöntekijät)
 
-13. [§ Logistiikkatyöntekijät](#_bookmark33) 56
+13. [§ Logistiikkatyöntekijät](#13_§_Varastotyöntekijät) 56
 
-*[Harjoitteluaika](#_bookmark33) 56*
+[Harjoitteluaika](#13_§_Varastotyöntekijät) 56
 
-[*Iltalisä 56*](#logistiikkatyöntekijät)
+[Iltalisä 56](#logistiikkatyöntekijät)
 
-[*Yölisä 56*](#logistiikkatyöntekijät)
+[Yölisä 56](#logistiikkatyöntekijät)
 
-[*Lauantailisä 56*](#logistiikkatyöntekijät)
+[Lauantailisä 56](#logistiikkatyöntekijät)
 
-[*Olosuhdelisät 56*](#logistiikkatyöntekijät)
+[Olosuhdelisät 56](#logistiikkatyöntekijät)
 
-[*Pakastevarastolisä 57*](#_bookmark35)
+[Pakastevarastolisä 57](#Pakastevarastolisä)
 
-[*Työryhmän vanhin (nokkamies) 57*](#_bookmark35)
+[Työryhmän vanhin (nokkamies) 57](#Pakastevarastolisä)
 
-*[Hälytysraha](#_bookmark35) 58*
+[Hälytysraha](#Pakastevarastolisä) 58
 
-*[Vaativuusluokitus](#vaativuusluokitus) 58*
+[Vaativuusluokitus](#vaativuusluokitus) 58
 
-14. [§ Toimihenkilöt 58](#hälytysraha-2)
+14. [§ Toimihenkilöt 58](#hälytysraha-1)
 
-[*Harjoitteluaika 58*](#hälytysraha-2)
+[Harjoitteluaika 58](#hälytysraha-1)
 
-[*Työaikalisät 58*](#hälytysraha-2)
+[Työaikalisät 58](#hälytysraha-1)
 
-[*Vaativuusluokitus 58*](#hälytysraha-2)
+[Vaativuusluokitus 58](#hälytysraha-1)
 
-15. [§ Muut ammattiryhmät 5](#hälytysraha-2)9
+15. [§ Muut ammattiryhmät 5](#hälytysraha-1)9
 
-*[Pika- ja noutotukkutyöntekijät](#hälytysraha-2) 59*
+[Pika- ja noutotukkutyöntekijät](#hälytysraha-1) 59
 
-[*Vahtimestarit 59*](#muut-ammattiryhmät)
+[Vahtimestarit 59](#muut-ammattiryhmät)
 
-[*Lähetit 59*](#muut-ammattiryhmät)
+[Lähetit 59](#muut-ammattiryhmät)
 
-[*Korjausompelijat 59*](#muut-ammattiryhmät)
+[Korjausompelijat 59](#muut-ammattiryhmät)
 
-[*Siivoojat 59*](#muut-ammattiryhmät)
+[Siivoojat 59](#muut-ammattiryhmät)
 
 5.  [POISSAOLOT 60](#poissaolot)
 
-```{=html}
 <!-- -->
-```
+
 16. [§ Sairastuminen 60](#poissaolot)
 
-[*Palkanmaksun edellytykset 60*](#poissaolot)
+[Palkanmaksun edellytykset 60](#poissaolot)
 
-[*Ilmoitusvelvollisuus ja lääkärintodistus 60*](#poissaolot)
+[Ilmoitusvelvollisuus ja lääkärintodistus 60](#poissaolot)
 
-[*Menettely terveyspalveluiden puuttuessa 61*](#_bookmark39)
+[Menettely terveyspalveluiden puuttuessa
+61](#Menettely_terveyspalveluiden_puuttuessa)
 
-[*Omailmoitusmenettely 61*](#_bookmark39)
+[Omailmoitusmenettely 61](#Menettely_terveyspalveluiden_puuttuessa)
 
-[*Työskentely osittaisella työkyvyllä 62*](#_bookmark40)
+[Työskentely osittaisella työkyvyllä
+62](#Työskentely_osittaisella_työkyvyllä_)
 
-[*Palkanmaksu 63*](#palkanmaksu)
+[Palkanmaksu 63](#palkanmaksu)
 
-[*Sairauden uusiutuminen 64*](#_bookmark42)
+[Sairauden uusiutuminen 64](#Sairauden_uusiutuminen)
 
-[*Karanteeni 65*](#_bookmark43)
+[Karanteeni 65](#Karanteeni)
 
-[*Alle 37,5 tuntia tekevät 65*](#_bookmark43)
+[Alle 37,5 tuntia tekevät 65](#Karanteeni)
 
 17. [§ Tilapäinen poissaolo 66](#tilapäinen-poissaolo)
 
-[*Äkillinen sairaus perheessä 66*](#tilapäinen-poissaolo)
+[Äkillinen sairaus perheessä 66](#tilapäinen-poissaolo)
 
-[*Vihkiminen ja merkkipäivä 67*](#_bookmark45)
+[Vihkiminen ja merkkipäivä 67](#Vihkiminen_ja_merkkipäivä)
 
-[*Kuolema ja hautajaiset 67*](#_bookmark45)
+[Kuolema ja hautajaiset 67](#Vihkiminen_ja_merkkipäivä)
 
-[*Kutsunta ja kertausharjoitukset 68*](#_bookmark46)
+[Kutsunta ja kertausharjoitukset 68](#Kutsunta_ja_kertausharjoitukset)
 
-[*Yhteiskunnallinen toiminta 68*](#_bookmark46)
+[Yhteiskunnallinen toiminta 68](#Kutsunta_ja_kertausharjoitukset)
 
-[*Vaikeasti sairas lapsi 68*](#_bookmark46)
+[Vaikeasti sairas lapsi 68](#Kutsunta_ja_kertausharjoitukset)
 
-[*Vuosilomaedut 68*](#_bookmark46)
+[Vuosilomaedut 68](#Kutsunta_ja_kertausharjoitukset)
 
 18. [§ Lääkärintarkastukset 69](#lääkärintarkastukset)
 
-[*Palkanmaksun edellytykset 69*](#lääkärintarkastukset)
+[Palkanmaksun edellytykset 69](#lääkärintarkastukset)
 
-19. [§ Lapsen syntymä 70](#_bookmark48)
+19. [§ Lapsen syntymä 70](#19_§_Lapsen_syntymä)
 
-[*Perhevapaat 70*](#_bookmark48)
+[Perhevapaat 70](#19_§_Lapsen_syntymä)
 
-[*Palkanmaksu perhevapaiden ajalta 70*](#_bookmark48)
+[Palkanmaksu perhevapaiden ajalta 70](#19_§_Lapsen_syntymä)
 
-[*Ilmoitusajat 71*](#_bookmark49)
+[Ilmoitusajat 71](#Ilmoitusajat)
 
-[*Vapaan ajankohdan muuttaminen 71*](#_bookmark49)
+[Vapaan ajankohdan muuttaminen 71](#Ilmoitusajat)
 
 6.  [VUOSILOMA 72](#vuosiloma)
 
-```{=html}
 <!-- -->
-```
+
 20. [§ Vuosiloma 72](#vuosiloma)
 
-[*Loman pituus 72*](#vuosiloma)
+[Loman pituus 72](#vuosiloma)
 
-[*Loman antaminen 73*](#_bookmark51)
+[Loman antaminen 73](#Loman_antaminen)
 
-[*Loma ja vapaapäivä 73*](#_bookmark51)
+[Loma ja vapaapäivä 73](#Loman_antaminen)
 
-[*Lomapalkan ja lomakorvauksen maksaminen 74*](#_bookmark52)
+[Lomapalkan ja lomakorvauksen maksaminen
+74](#Lomapalkan_ja_lomakorvauksen_maksaminen)
 
-[*Lomapalkan laskeminen 74*](#_bookmark52)
+[Lomapalkan laskeminen 74](#Lomapalkan_ja_lomakorvauksen_maksaminen)
 
-[*Lomapalkan laskeminen lisien osalta 74*](#_bookmark52)
+[Lomapalkan laskeminen lisien osalta
+74](#Lomapalkan_ja_lomakorvauksen_maksaminen)
 
-[*Alle 37,5 tuntia tekevät 75*](#_bookmark53)
+[Alle 37,5 tuntia tekevät 75](#_bookmark53)
 
 20. [a § Vuosilomalain mukaisen lisävapaapäivän korvaus
-    78](#_bookmark54)
+    78](#20_a_§_Vuosilomalain_mukaisen_lisävapaap)
 
-[*Lisävapaapäivän korvauksen laskenta kokoaikaisella*](#_bookmark54)
+[Lisävapaapäivän korvauksen laskenta
+kokoaikaisella](#20_a_§_Vuosilomalain_mukaisen_lisävapaap)
 
-[*kuukausipalkkaisella työntekijällä 78*](#_bookmark54)
+[kuukausipalkkaisella työntekijällä
+78](#20_a_§_Vuosilomalain_mukaisen_lisävapaap)
 
-[*Lisävapaapäivän korvauksen laskenta alle 37,5 tuntia tekevällä
-78*](#_bookmark54)
+[Lisävapaapäivän korvauksen laskenta alle 37,5 tuntia tekevällä
+78](#20_a_§_Vuosilomalain_mukaisen_lisävapaap)
 
 21. [§ Lomaraha 79](#lomaraha)
 
-[*Suuruus 79*](#lomaraha)
+[Suuruus 79](#lomaraha)
 
-[*Maksamisedellytykset 79*](#lomaraha)
+[Maksamisedellytykset 79](#lomaraha)
 
-[*Hoitovapaa 80*](#_bookmark56)
+[Hoitovapaa 80](#_bookmark56)
 
-[*Varusmiespalvelus 80*](#_bookmark56)
+[Varusmiespalvelus 80](#_bookmark56)
 
-[*Työsuhteen päättyminen loman aikana 80*](#_bookmark56)
+[Työsuhteen päättyminen loman aikana 80](#_bookmark56)
 
-[*Eläkkeelle siirtyminen 81*](#eläkkeelle-siirtyminen)
+[Eläkkeelle siirtyminen 81](#eläkkeelle-siirtyminen)
 
-[*Maksamisaika 81*](#eläkkeelle-siirtyminen)
+[Maksamisaika 81](#eläkkeelle-siirtyminen)
 
-[*Lomarahan vaihtaminen vapaaksi 81*](#eläkkeelle-siirtyminen)
+[Lomarahan vaihtaminen vapaaksi 81](#eläkkeelle-siirtyminen)
 
-[*Alle 37,5 tuntia tekevät 82*](#_bookmark58)
+[Alle 37,5 tuntia tekevät 82](#Alle_37,5_tuntia_tekevät)
 
 7.  [MATKAT 83](#matkat)
 
-```{=html}
 <!-- -->
-```
+
 22. [§ Matkakustannukset 83](#matkat)
 
-[*Matkakustannukset 83*](#matkat)
+[Matkakustannukset 83](#matkat)
 
-[*Yrityksen matkustussääntö 83*](#matkat)
+[Yrityksen matkustussääntö 83](#matkat)
 
-[*Päiväraha 83*](#matkat)
+[Päiväraha 83](#matkat)
 
-[*Ateriakorvaus 83*](#matkat)
+[Ateriakorvaus 83](#matkat)
 
 8.  [SOPIMINEN TYÖPAIKALLA 84](#sopiminen-työpaikalla)
 
-```{=html}
 <!-- -->
-```
+
 23. [§ Työpaikkakohtainen sopiminen 84](#sopiminen-työpaikalla)
 
 24. [§ Paikallinen sopiminen 84](#sopiminen-työpaikalla)
 
-```{=html}
 <!-- -->
-```
+
 9.  [ERINÄISET MÄÄRÄYKSET 85](#erinäiset-määräykset)
 
-```{=html}
 <!-- -->
-```
+
 25. [§ Erinäiset määräykset 85](#erinäiset-määräykset)
 
-[*Noudatettavat sopimukset 85*](#erinäiset-määräykset)
+[Noudatettavat sopimukset 85](#erinäiset-määräykset)
 
-[*Jäsenmaksuperintä 85*](#erinäiset-määräykset)
+[Jäsenmaksuperintä 85](#erinäiset-määräykset)
 
-[*Kokoontuminen työpaikalla 86*](#_bookmark62)
+[Kokoontuminen työpaikalla 86](#Kokoontuminen_työpaikalla)
 
-[*Luottamusmies 86*](#_bookmark62)
+[Luottamusmies 86](#Kokoontuminen_työpaikalla)
 
-[*PAMin valtuuston ja hallituksen jäsen 86*](#_bookmark62)
+[PAMin valtuuston ja hallituksen jäsen 86](#Kokoontuminen_työpaikalla)
 
-[*Perehdyttäminen 86*](#_bookmark62)
+[Perehdyttäminen 86](#Kokoontuminen_työpaikalla)
 
-[*Ryhmähenkivakuutus 87*](#ryhmähenkivakuutus)
+[Ryhmähenkivakuutus 87](#ryhmähenkivakuutus)
 
-[*Työasut -- myyjät 87*](#ryhmähenkivakuutus)
+[Työasut – myyjät 87](#ryhmähenkivakuutus)
 
-[*Työasut -- logistiikkatyöntekijät 87*](#ryhmähenkivakuutus)
+[Työasut – logistiikkatyöntekijät 87](#ryhmähenkivakuutus)
 
-[*Kassavaje 87*](#ryhmähenkivakuutus)
+[Kassavaje 87](#ryhmähenkivakuutus)
 
 10. [NEUVOTTELUJÄRJESTYS JA TYÖRAUHA
     88](#neuvottelujärjestys-ja-työrauha)
 
-```{=html}
 <!-- -->
-```
+
 26. [§ Erimielisyydet 88](#neuvottelujärjestys-ja-työrauha)
 
-[*Paikalliset neuvottelut 88*](#neuvottelujärjestys-ja-työrauha)
+[Paikalliset neuvottelut 88](#neuvottelujärjestys-ja-työrauha)
 
-[*Liittoneuvottelut 88*](#neuvottelujärjestys-ja-työrauha)
+[Liittoneuvottelut 88](#neuvottelujärjestys-ja-työrauha)
 
-[*Neuvottelujen toteutus 88*](#neuvottelujärjestys-ja-työrauha)
+[Neuvottelujen toteutus 88](#neuvottelujärjestys-ja-työrauha)
 
-[*Työtuomioistuin 88*](#neuvottelujärjestys-ja-työrauha)
+[Työtuomioistuin 88](#neuvottelujärjestys-ja-työrauha)
 
 27. [§ Työrauha ja sopimusrikkomukset
     > 88](#neuvottelujärjestys-ja-työrauha)
 
-```{=html}
 <!-- -->
-```
+
 11. [VOIMASSAOLO 89](#voimassaolo)
 
-```{=html}
 <!-- -->
-```
+
 28. [§ Sopimuksen voimassaolo 89](#voimassaolo)
 
 [AMMATTIRYHMÄPÖYTÄKIRJAT
@@ -497,9 +493,9 @@ pituudesta*](#vuosivapaan-vaikutus-työaikaan-ja-vuosivapaan-pituudesta-toisin-s
 2.  [§ Ohjeelliset ansioluvut ja vähimmäispalkka
     92](#ammattiryhmäpöytäkirjat-asentajat-ja-huoltomiehet)
 
-[*Vaativuustasot 93*](#vaativuustasot-1)
+[Vaativuustasot 93](#vaativuustasot-1)
 
-[*Vähimmäispalkka 93*](#vaativuustasot-1)
+[Vähimmäispalkka 93](#vaativuustasot-1)
 
 3.  [§ Matkakustannukset 94](#matkakustannukset-2)
 
@@ -514,21 +510,22 @@ pituudesta*](#vuosivapaan-vaikutus-työaikaan-ja-vuosivapaan-pituudesta-toisin-s
 
 3.  [§ Palkat 95](#huolto--ja-liikenneasematyöntekijät)
 
-[*Harjoitteluaika 95*](#huolto--ja-liikenneasematyöntekijät)
+[Harjoitteluaika 95](#huolto--ja-liikenneasematyöntekijät)
 
-[*Palkkaryhmät 96*](#palkkaryhmät)
+[Palkkaryhmät 96](#palkkaryhmät)
 
-[*Huolto- ja liikenneaseman ravintolatyöntekijä 96*](#palkkaryhmät)
+[Huolto- ja liikenneaseman ravintolatyöntekijä 96](#palkkaryhmät)
 
-[*Luvanhaltijan edustajan sijainen 97*](#_bookmark71)
+[Luvanhaltijan edustajan sijainen 97](#Luvanhaltijan_edustajan_sijainen)
 
-[*Huolto- ja liikenneaseman ravintolaesihenkilö 97*](#_bookmark71)
+[Huolto- ja liikenneaseman ravintolaesihenkilö
+97](#Luvanhaltijan_edustajan_sijainen)
 
-[*Huoltoasentajien vaativuustasot 97*](#_bookmark71)
+[Huoltoasentajien vaativuustasot 97](#Luvanhaltijan_edustajan_sijainen)
 
-4.  [§ Lisät](#_bookmark72) 97
+4.  [§ Lisät](#4_§_Lisät) 97
 
-*Hälytysraha 98*
+Hälytysraha 98
 
 5.  § Työasut 98
 
@@ -540,11 +537,11 @@ pituudesta*](#vuosivapaan-vaikutus-työaikaan-ja-vuosivapaan-pituudesta-toisin-s
 
 3.  [§ Ilta- ja yölisä](#kioskimyyjät) 99
 
-*[Iltalisä](#kioskimyyjät) 99*
+[Iltalisä](#kioskimyyjät) 99
 
-*[Yölisä](#kioskimyyjät) 99*
+[Yölisä](#kioskimyyjät) 99
 
-*[Ilta- ja yölisät sunnuntaina](#kioskimyyjät) 99*
+[Ilta- ja yölisät sunnuntaina](#kioskimyyjät) 99
 
 4.  [§ Työaika 10](#työaika-2)0
 
@@ -562,14 +559,13 @@ pituudesta*](#vuosivapaan-vaikutus-työaikaan-ja-vuosivapaan-pituudesta-toisin-s
 
 2.  [§ Työpalkat 1](#somistajat)02
 
-*[Palvelusaika 1](#somistajat)02*
+[Palvelusaika 1](#somistajat)02
 
-*[Vaativuustasot 1](#somistajat)02*
+[Vaativuustasot 1](#somistajat)02
 
-*[Erityisen vaativa somistus 1](#erityisen-vaativa-somistus)03*
+[Erityisen vaativa somistus 1](#erityisen-vaativa-somistus)03
 
-*[Työskentely vaativammassa tehtävässä
-1](#erityisen-vaativa-somistus)03*
+[Työskentely vaativammassa tehtävässä 1](#erityisen-vaativa-somistus)03
 
 3.  [§ Työasut 1](#erityisen-vaativa-somistus)03
 
@@ -579,7 +575,7 @@ pituudesta*](#vuosivapaan-vaikutus-työaikaan-ja-vuosivapaan-pituudesta-toisin-s
 
 2.  [§ Vaativuustasot 10](#tukkumyyjät-ja-ostajat)4
 
-3.  [§ Muut määräykset 10](#_bookmark79)5
+3.  [§ Muut määräykset 10](#3_§_Muut_määräykset)5
 
 LOGISTIIKKAT[YÖNTEKIJÄT 1](#logistiikkatyöntekijät-1)06
 
@@ -598,78 +594,79 @@ LOGISTIIKKAT[YÖNTEKIJÄT 1](#logistiikkatyöntekijät-1)06
 
 [ARKIPYHÄJÄRJESTELMÄ](#työaikapöytäkirjat-arkipyhäjärjestelmä) 108
 
-*[Arkipyhäjärjestelmän käyttöönotto
-10](#työaikapöytäkirjat-arkipyhäjärjestelmä)8*
+[Arkipyhäjärjestelmän käyttöönotto
+10](#työaikapöytäkirjat-arkipyhäjärjestelmä)8
 
-*[Arkipyhäviikon työajan lyhennys
-10](#työaikapöytäkirjat-arkipyhäjärjestelmä)8*
+[Arkipyhäviikon työajan lyhennys
+10](#työaikapöytäkirjat-arkipyhäjärjestelmä)8
 
-*[Lisä- ja ylityö](#lisä--ja-ylityö-1) 111*
+[Lisä- ja ylityö](#lisä--ja-ylityö-1) 111
 
-*[Korotettu palkka](#lisä--ja-ylityö-1) 111*
+[Korotettu palkka](#lisä--ja-ylityö-1) 111
 
 [VUOSITYÖAJAN LYHENNYS 11](#vuosityöajan-lyhennys)3
 
-*[Soveltamisala 1](#vuosityöajan-lyhennys)13*
+[Soveltamisala 1](#vuosityöajan-lyhennys)13
 
-*[Lyhennysmallit 1](#vuosityöajan-lyhennys)13*
+[Lyhennysmallit 1](#vuosityöajan-lyhennys)13
 
-*[Lyhennys paikallisesti sopien 1](#vuosityöajan-lyhennys)13*
+[Lyhennys paikallisesti sopien 1](#vuosityöajan-lyhennys)13
 
-*[Pekkaspäivien ansainta 1](#pekkaspäivien-ansainta)14*
+[Pekkaspäivien ansainta 1](#pekkaspäivien-ansainta)14
 
-*[Pekkaspäivien antaminen 1](#pekkaspäivien-ansainta)14*
+[Pekkaspäivien antaminen 1](#pekkaspäivien-ansainta)14
 
-*[Poissaolot ja vuosiloma 1](#pekkaspäivien-ansainta)14*
+[Poissaolot ja vuosiloma 1](#pekkaspäivien-ansainta)14
 
-*[Pekkaspäivät työsuhteen päättyessä
-1](#pekkaspäivät-työsuhteen-päättyessä)15*
+[Pekkaspäivät työsuhteen päättyessä
+1](#pekkaspäivät-työsuhteen-päättyessä)15
 
-*[Pekkaspäivät ja vuosivapaajärjestelmä
-1](#pekkaspäivät-työsuhteen-päättyessä)15*
+[Pekkaspäivät ja vuosivapaajärjestelmä
+1](#pekkaspäivät-työsuhteen-päättyessä)15
 
-*[Pekkaspäivät ja arkipyhäjärjestelmä 11](#_bookmark87)6*
+[Pekkaspäivät ja arkipyhäjärjestelmä 11](#_bookmark87)6
 
-*[Arkipyhäviikon työajan lyhennys 11](#_bookmark87)6*
+[Arkipyhäviikon työajan lyhennys 11](#_bookmark87)6
 
-*[Lisä- ja ylityö sekä korotettu palkka 1](#_bookmark88)17*
+[Lisä- ja ylityö sekä korotettu palkka
+1](#Lisä-_ja_ylityö_sekä_korotettu_palkka)17
 
 [JOUSTAVA KOKOAIKATYÖ](#joustava-kokoaikatyö) 119
 
-*[Joustavan kokoaikatyön tarkoitus 1](#joustava-kokoaikatyö)19*
+[Joustavan kokoaikatyön tarkoitus 1](#joustava-kokoaikatyö)19
 
-*[Järjestelmän käyttöönotto ja irtisanominen
-1](#joustava-kokoaikatyö)19*
+[Järjestelmän käyttöönotto ja irtisanominen 1](#joustava-kokoaikatyö)19
 
-*[Joustavasta kokoaikatyöstä sopiminen ja sopimuksen irtisanominen
-1](#joustava-kokoaikatyö)19*
+[Joustavasta kokoaikatyöstä sopiminen ja sopimuksen irtisanominen
+1](#joustava-kokoaikatyö)19
 
-[*Joustavaa kokoaikatyötä koskevassa paikallisessa
-sopimuksessa*](#_bookmark90)
+[Joustavaa kokoaikatyötä koskevassa paikallisessa
+sopimuksessa](#Joustavaa_kokoaikatyötä_koskevassa_paika)
 
-*[sovittavat asiat 12](#_bookmark90)0*
+[sovittavat asiat 12](#Joustavaa_kokoaikatyötä_koskevassa_paika)0
 
-*[Työntekijän kieltäytymisoikeus joustotunneista 12](#_bookmark90)0*
+[Työntekijän kieltäytymisoikeus joustotunneista
+12](#Joustavaa_kokoaikatyötä_koskevassa_paika)0
 
-*[Muut työehdot 12](#_bookmark91)1*
+[Muut työehdot 12](#Muut_työehdot)1
 
 [LISÄTYÖN TARJOAMINEN 12](#lisätyön-tarjoaminen)2
 
-*[Sopimus 12](#_bookmark93)3*
+[Sopimus 12](#Sopimus)3
 
 [KOKOAIKATYÖN TARJOAMINEN 1](#kokoaikatyön-tarjoaminen)24
 
 [TYÖAIKAPANKKI 127](#työaikapankki)
 
-[*Siirrettävät työtunnit 127*](#työaikapankki)
+[Siirrettävät työtunnit 127](#työaikapankki)
 
-[*Työaikapankkivapaan pitäminen 127*](#työaikapankki)
+[Työaikapankkivapaan pitäminen 127](#työaikapankki)
 
-[*Työkyvyttömyys ja vapaa 128*](#_bookmark96)
+[Työkyvyttömyys ja vapaa 128](#Työkyvyttömyys_ja_vapaa)
 
-[*Kirjanpito 128*](#_bookmark96)
+[Kirjanpito 128](#Työkyvyttömyys_ja_vapaa)
 
-[*Työsuhteen päättyminen 128*](#_bookmark96)
+[Työsuhteen päättyminen 128](#Työkyvyttömyys_ja_vapaa)
 
 [VÄKIVALLAN UHKA 129](#väkivallan-uhka)
 
@@ -689,57 +686,58 @@ sopimuksessa*](#_bookmark90)
 
 3.  [§ Luottamusmiehen valinta 133](#sopimuksen-soveltamisala)
 
-[*Yleistä 133*](#sopimuksen-soveltamisala)
+[Yleistä 133](#sopimuksen-soveltamisala)
 
-[*Luottamusmiehet 134*](#luottamusmiehet)
+[Luottamusmiehet 134](#luottamusmiehet)
 
-[*Ilmoitukset työnantajalle 136*](#_bookmark102)
+[Ilmoitukset työnantajalle 136](#Ilmoitukset_työnantajalle)
 
-[*Muutostilanteet 136*](#_bookmark102)
+[Muutostilanteet 136](#Ilmoitukset_työnantajalle)
 
 4.  [§ Luottamusmiehelle annettavat tiedot
     137](#luottamusmiehelle-annettavat-tiedot)
 
-5.  [§ Luottamusmiehen kanssa käsiteltävät asiat 138](#_bookmark104)
+5.  [§ Luottamusmiehen kanssa käsiteltävät asiat
+    138](#5_§_Luottamusmiehen_kanssa_käsiteltävät_)
 
 6.  [§ Työstävapautus ja työskentelypuitteet
     139](#työstävapautus-ja-työskentelypuitteet)
 
-[*Työstävapautus 139*](#työstävapautus-ja-työskentelypuitteet)
+[Työstävapautus 139](#työstävapautus-ja-työskentelypuitteet)
 
-[*Työstävapautusaika ja ajankäyttö
-139*](#työstävapautus-ja-työskentelypuitteet)
+[Työstävapautusaika ja ajankäyttö
+139](#työstävapautus-ja-työskentelypuitteet)
 
-[*Työskentelypuitteet 140*](#_bookmark106)
+[Työskentelypuitteet 140](#_bookmark106)
 
-7.  [§ Ansionmenetyksen korvaus 141](#_bookmark107)
+7.  [§ Ansionmenetyksen korvaus 141](#7_§_Ansionmenetyksen_korvaus)
 
-[*Ansionmenetys 141*](#_bookmark107)
+[Ansionmenetys 141](#7_§_Ansionmenetyksen_korvaus)
 
-[*Matkakustannukset 141*](#_bookmark107)
+[Matkakustannukset 141](#7_§_Ansionmenetyksen_korvaus)
 
-[*Luottamusmieskorvaus 141*](#_bookmark107)
+[Luottamusmieskorvaus 141](#7_§_Ansionmenetyksen_korvaus)
 
-[*Pääluottamusmiehen ansiokehitys 142*](#_bookmark108)
+[Pääluottamusmiehen ansiokehitys 142](#_bookmark108)
 
 8.  [§ Luottamusmiehen koulutus 142](#_bookmark108)
 
 9.  [§ Työsuhdeturva 14](#_bookmark108)3
 
-*[Syrjintäkielto 14](#_bookmark108)3*
+[Syrjintäkielto 14](#_bookmark108)3
 
-*[Taloudelliset ja tuotannolliset irtisanomisperusteet
-14](#työsuhdeturva)3*
+[Taloudelliset ja tuotannolliset irtisanomisperusteet
+14](#työsuhdeturva)3
 
-*[Yksilösuoja 14](#työsuhdeturva)4*
+[Yksilösuoja 14](#työsuhdeturva)4
 
-*[Ehdokassuoja 14](#työsuhdeturva)4*
+[Ehdokassuoja 14](#työsuhdeturva)4
 
-*[Jälkisuoja 14](#yksilösuoja)4*
+[Jälkisuoja 14](#yksilösuoja)4
 
-*[Pääluottamusmies ja liikeen luovutus 14](#yksilösuoja)4*
+[Pääluottamusmies ja liikeen luovutus 14](#yksilösuoja)4
 
-*[Korvaukset 14](#yksilösuoja)5*
+[Korvaukset 14](#yksilösuoja)5
 
 10. [§ Neuvottelujärjestys 14](#yksilösuoja)5
 
@@ -751,53 +749,52 @@ sopimuksessa*](#_bookmark90)
 
 2.  [§ Yhteistoiminta työsuojelussa 14](#korvaukset-1)6
 
-    1.  *[Työpaikkakäsite 14](#korvaukset-1)6*
+    1.  [Työpaikkakäsite 14](#korvaukset-1)6
 
-    2.  *[Työsuojeluyhteistoiminta 14](#korvaukset-1)6*
+    2.  [Työsuojeluyhteistoiminta 14](#korvaukset-1)6
 
-    3.  *[Yhteinen työpaikka 14](#korvaukset-1)6*
+    3.  [Yhteinen työpaikka 14](#korvaukset-1)6
 
-    4.  *[Työsuojelupäällikkö 1](#työsuojelun-yhteistoimintasopimus)47*
+    4.  [Työsuojelupäällikkö 1](#työsuojelun-yhteistoimintasopimus)47
 
-    5.  *[Työsuojeluvaltuutettu
-        1](#työsuojelun-yhteistoimintasopimus)47*
+    5.  [Työsuojeluvaltuutettu 1](#työsuojelun-yhteistoimintasopimus)47
 
-    6.  *[Päätyösuojeluvaltuutettu 14](#_bookmark113)8*
+    6.  [Päätyösuojeluvaltuutettu 14](#2.6_Päätyösuojeluvaltuutettu_)8
 
-    7.  *[Työsuojelun yhteistoiminta-alue 1](#_bookmark114)49*
+    7.  [Työsuojelun yhteistoiminta-alue 1](#2.7_Alueorganisaatio_)49
 
-    8.  *[Työsuojeluasiamies](#_bookmark115) 150*
+    8.  [Työsuojeluasiamies](#2.8_Työsuojeluasiamies) 150
 
-    9.  *[Työsuhdeturva 15](#työsuojeluasiamies)0*
+    9.  [Työsuhdeturva 15](#työsuojeluasiamies)0
 
-*Syrjintäkielto 151*
+Syrjintäkielto 151
 
-*Yksilösuoja 151*
+Yksilösuoja 151
 
-*Päätyösuojeluvaltuutetun suoja 151*
+Päätyösuojeluvaltuutetun suoja 151
 
-*Korvaukset 152*
+Korvaukset 152
 
-10. *[Työsuojelutoimikunta 15](#_bookmark117)2*
+10. [Työsuojelutoimikunta 15](#2.10_Työsuojelutoimikunta_)2
 
-*Työsuojelutoimikunnan kokoukset 153*
+Työsuojelutoimikunnan kokoukset 153
 
-11. *[Yksintyöskentely 15](#_bookmark118)3*
+11. [Yksintyöskentely 15](#2.11_Yksintyöskentely_)3
 
-12. *[Työsuojelu ja häirintä 15](#_bookmark118)4*
+12. [Työsuojelu ja häirintä 15](#2.11_Yksintyöskentely_)4
 
-13. *[Työsuojeluvaltuutetun työstävapautusaika 15](#_bookmark118)4*
+13. [Työsuojeluvaltuutetun työstävapautusaika
+    15](#2.11_Yksintyöskentely_)4
 
-14. *[Työsuojeluvaltuutetun korvaus 15](#työsuojelu-ja-häirintä)5*
+14. [Työsuojeluvaltuutetun korvaus 15](#työsuojelu-ja-häirintä)5
 
-```{=html}
 <!-- -->
-```
-3.  [§ Tietojen salassapitovelvollisuus 1](#_bookmark120)57
 
-4.  [§ Neuvottelujärjestys 1](#_bookmark120)57
+3.  [§ Tietojen salassapitovelvollisuus 1](#4_§_Neuvottelujärjestys)57
 
-5.  [§ Voimassaolo 1](#_bookmark120)57
+4.  [§ Neuvottelujärjestys 1](#4_§_Neuvottelujärjestys)57
+
+5.  [§ Voimassaolo 1](#4_§_Neuvottelujärjestys)57
 
 [KOULUTUSSOPIMUS 15](#tietojen-salassapitovelvollisuus)8
 
@@ -805,15 +802,15 @@ sopimuksessa*](#_bookmark90)
 
 2.  [§ Ammattiyhdistyskoulutus 15](#tietojen-salassapitovelvollisuus)8
 
-*[Kurssien hyväksyminen 15](#tietojen-salassapitovelvollisuus)8*
+[Kurssien hyväksyminen 15](#tietojen-salassapitovelvollisuus)8
 
-*[Osallistumisoikeus 15](#tietojen-salassapitovelvollisuus)8*
+[Osallistumisoikeus 15](#tietojen-salassapitovelvollisuus)8
 
-*[Ilmoitusvelvollisuus 1](#koulutussopimus)59*
+[Ilmoitusvelvollisuus 1](#koulutussopimus)59
 
-*[Korvaukset 1](#koulutussopimus)59*
+[Korvaukset 1](#koulutussopimus)59
 
-[*Muut edut 159*](#ilmoitusvelvollisuus)
+[Muut edut 159](#ilmoitusvelvollisuus)
 
 3.  [§ Yhteinen koulutus](#ilmoitusvelvollisuus) 160
 
@@ -835,9 +832,9 @@ ERIMIELISYYSMUISTIO 162
 164](#erimielisyysmuistion-täyttöohjeet)
 
 [Paikallisten osapuolten kannat yksityiskohtaisine perusteluineen
-165](#_bookmark126)
+165](#Muistion_lähettäminen_liitolle)
 
-[Muistion lähettäminen liitolle 165](#_bookmark126)
+[Muistion lähettäminen liitolle 165](#Muistion_lähettäminen_liitolle)
 
 TYÖSOPIMUSLOMAKE 166
 
@@ -865,7 +862,7 @@ TYÖSOPIMUSLOMAKE 166
 
 [Muutoksesta ilmoittaminen 169](#muut-ehdot)
 
-PALKKALIITE 1 6.2023--31.1.2025
+PALKKALIITE 1 6.2023–31.1.2025
 
 1.  VUOSIPORTAAT 171
 
@@ -906,17 +903,18 @@ Osaamisen ja suoriutumisen arviointimalli ja palkkakytkentä
 
 [Erimielisyyksien ratkaiseminen](#erimielisyyksien-ratkaiseminen) 188
 
-7.  [TAULUKKOPALKAT 1.6.2023--31.5.2024
+7.  [TAULUKKOPALKAT 1.6.2023–31.5.2024
     190](#taulukkopalkat-1.6.202331.5.2024-1)
 
-8.  [TAULUKKOPALKAT 1.6.2024--31.1.2025
+8.  [TAULUKKOPALKAT 1.6.2024–31.1.2025
     194](#taulukkopalkat-1.6.202431.1.2025-1)
 
 9.  LISÄT 1.5.2022 ALKAEN 198
 
 ## Kaupan työehtosopimus
 
-> []{#_bookmark0 .anchor}Kaupan liitto Palvelualojen ammattiliitto PAM
+> <span id="1 §__Sopimuksen_ulottuvuus" class="anchor"></span>Kaupan
+> liitto Palvelualojen ammattiliitto PAM
 
 # KAUPAN TYÖEHTOSOPIMUS
 
@@ -926,47 +924,47 @@ Osaamisen ja suoriutumisen arviointimalli ja palkkakytkentä
 
 1.  Sopimusta noudatetaan yrityksessä, jonka toimialana on
 
-    a.  vähittäiskauppa
+    1.  vähittäiskauppa
 
-    b.  tukkukauppa
+    2.  tukkukauppa
 
-    c.  kaupan logistiikka
+    3.  kaupan logistiikka
 
-    d.  agentuuritoiminta
+    4.  agentuuritoiminta
 
-    e.  kioskikauppa
+    5.  kioskikauppa
 
-    f.  huolto- ja liikenneasematoiminta
+    6.  huolto- ja liikenneasematoiminta
 
-    g.  kaupan palvelu- ja tukitoiminta
+    7.  kaupan palvelu- ja tukitoiminta
 
-    h.  konevuokraus.
+    8.  konevuokraus.
 
 2.  Sopimus koskee työaikalain alaisia työntekijöitä.
 
 # TYÖSUHDE
 
-2.  #### § Työnjohto
+#### § Työnjohto
 
-    1.  Työnantaja johtaa ja jakaa työtä.
+1.  Työnantaja johtaa ja jakaa työtä.
 
-    2.  Työnantaja ottaa ja erottaa työntekijät.
+2.  Työnantaja ottaa ja erottaa työntekijät.
 
-    3.  Määrätynlaiseen työhön otettu työntekijä on velvollinen tarpeen
-        vaatiessa tekemään muutakin ammattiinsa kuuluvaa tai siihen
-        rinnastettavaa työtä.
+3.  Määrätynlaiseen työhön otettu työntekijä on velvollinen tarpeen
+    vaatiessa tekemään muutakin ammattiinsa kuuluvaa tai siihen
+    rinnastettavaa työtä.
 
-    4.  Järjestäytymisoikeus on molemmin puolin loukkaamaton.
+4.  Järjestäytymisoikeus on molemmin puolin loukkaamaton.
 
-3.  #### § Työsopimus ja koeaika
+#### § Työsopimus ja koeaika
 
-    1.  Kirjallisessa työsopimuksessa tulee olla tässä
-        työehtosopimuksessa olevan mallilomakkeen ja sen täyttöohjeiden
-        mukaiset vähimmäistiedot.
+5.  Kirjallisessa työsopimuksessa tulee olla tässä työehtosopimuksessa
+    olevan mallilomakkeen ja sen täyttöohjeiden mukaiset
+    vähimmäistiedot.
 
-    2.  Koeajasta on sovittava työsopimuksessa.
+6.  Koeajasta on sovittava työsopimuksessa.
 
-    3.  Koeajan pituus on enintään 6 kuukautta.
+7.  Koeajan pituus on enintään 6 kuukautta.
 
 > Jos työntekijä on koeaikana ollut työkyvyttömyyden tai perhevapaan
 > vuoksi poissa työstä, työnantajalla on oikeus pidentää koeaikaa
@@ -980,27 +978,23 @@ Osaamisen ja suoriutumisen arviointimalli ja palkkakytkentä
 > taan puolet työsopimuksen kestosta, ei kuitenkaan enempää kuin kuusi
 > (6) kuukautta.
 
-4.  Koeaikana sopimus voidaan molemmin puolin purkaa irtisanomisaikaa
+8.  Koeaikana sopimus voidaan molemmin puolin purkaa irtisanomisaikaa
     noudattamatta.
 
-5.  Työntekijän palatessa kohtuullisessa ajassa aikaisemman
+9.  Työntekijän palatessa kohtuullisessa ajassa aikaisemman
     työnantajansa pal- velukseen ja entisen kaltaiseen työhön koeaikaa
     ei sovelleta, ellei siihen ole erityistä syytä.
 
-```{=html}
-<!-- -->
-```
-4.  #### § Määräaikainen sopimus
+#### § Määräaikainen sopimus
 
-    1.  Määräaikaisen työsopimuksen tekeminen määräytyy työsopimuslain
-        1:3 §:n mukaan.
+10. Määräaikaisen työsopimuksen tekeminen määräytyy työsopimuslain 1:3
+    §:n mukaan.
 
-    2.  Sopimuksen päättymisajankohdan on oltava työntekijän tiedossa
-        hyvissä ajoin, kuitenkin vähintään 1 viikkoa ennen, jos
-        mahdollista.
+11. Sopimuksen päättymisajankohdan on oltava työntekijän tiedossa
+    hyvissä ajoin, kuitenkin vähintään 1 viikkoa ennen, jos mahdollista.
 
-    3.  Päättäessään työsuhteen ennen määräaikaa työntekijä korvaa
-        työnantajalle aiheuttamansa vahingon.
+12. Päättäessään työsuhteen ennen määräaikaa työntekijä korvaa
+    työnantajalle aiheuttamansa vahingon.
 
 > Korvaus on 2 viikon palkka tai laiminlyödyn työkauden ollessa lyhyempi
 > sitä vastaava määrä.
@@ -1012,29 +1006,29 @@ Osaamisen ja suoriutumisen arviointimalli ja palkkakytkentä
 >
 > Korvauksen kuittaaminen määräytyy työsopimuslain 2:17 §:n mukaan.
 
-4.  Päättäessään työsuhteen ennen määräaikaa työnantaja korvaa
+13. Päättäessään työsuhteen ennen määräaikaa työnantaja korvaa
     työntekijälle aiheuttamansa vahingon työsopimuslain 12:2 §:n mukaan.
 
 #### § Työsuhteen päättyminen ja lomautus
 
-###### *Irtisanomisaika*
+###### Irtisanomisaika
 
-1.  Työnantajan noudattama irtisanomisaika on:
+14. Työnantajan noudattama irtisanomisaika on:
 
-> enintään vuoden 14 päivää yli vuoden -- enintään 4 vuotta 1 kuukausi
-> yli 4 -- enintään 8 vuotta 2 kuukautta
+> enintään vuoden 14 päivää yli vuoden – enintään 4 vuotta 1 kuukausi
+> yli 4 – enintään 8 vuotta 2 kuukautta
 >
-> yli 8 -- enintään 12 vuotta 4 kuukautta
+> yli 8 – enintään 12 vuotta 4 kuukautta
 >
 > yli 12 vuotta 6 kuukautta
 
-2.  Työntekijän noudattama irtisanomisaika on:
+15. Työntekijän noudattama irtisanomisaika on:
 
 > enintään 5 vuotta 14 päivää
 >
 > yli 5 vuotta 1 kuukausi
 
-3.  Toimihenkilöillä ja tukkumyyjillä ja -ostajilla voidaan 1. ja 2.
+16. Toimihenkilöillä ja tukkumyyjillä ja -ostajilla voidaan 1. ja 2.
     kohdista poiketen sopia molempien osapuolten irtisanomisajaksi 1
     kuukausi.
 
@@ -1042,18 +1036,18 @@ Osaamisen ja suoriutumisen arviointimalli ja palkkakytkentä
 > koh- dan nojalla sovittu 1 kuukauden irtisanomisaika, työnantajan on
 > noudatettava pidempää irtisanomisaikaa.
 
-4.  Irtisanomisaika alkaa kulua irtisanomista seuraavasta päivästä.
+17. Irtisanomisaika alkaa kulua irtisanomista seuraavasta päivästä.
 
 > Esimerkki 1
 
-a.  Irtisanomisaika 14 vrk
+1.  Irtisanomisaika 14 vrk
 
 > Työsuhde irtisanottiin maanantaina 13.1. Irtisanomisaika alkaa
 > tiistaina 14.1.
 >
 > Työsuhteen viimeinen päivä on maanantai 27.1.
 
-b.  Irtisanomisaika kuukausina
+2.  Irtisanomisaika kuukausina
 
 > Kun irtisanomisaika lasketaan kuukausina, työsuhde päättyy järjestys-
 > numeroltaan samana päivänä, kun irtisanominen on suoritettu.
@@ -1080,12 +1074,13 @@ b.  Irtisanomisaika kuukausina
 >
 > viimeinen päivä
 
-1.  []{#_bookmark3 .anchor}Työsopimus irtisanotaan todistettavasti.
+1.  <span id="_bookmark3" class="anchor"></span>Työsopimus irtisanotaan
+    todistettavasti.
 
 2.  Irtisanomisen syy ja työsuhteen päättymisaika on vaadittaessa
     ilmoitettava työntekijälle viivytyksettä kirjallisesti.
 
-###### *Korvaukset*
+###### Korvaukset
 
 3.  Työntekijän, joka ei noudata irtisanomisaikaa, on korvattava
     työnantajalle nou- dattamatta jätetyn irtisanomisajan palkka.
@@ -1105,14 +1100,14 @@ b.  Irtisanomisaika kuukausina
 > on yhteensä 930,72 euroa (1 939 : 25 x 12). Ennakonpidätyksen jälkeen
 > hänen nettolop-
 >
-> putilinsä on (1 015,63 euroa + 930,72 euroa) -- 525,51 euroa eli
+> putilinsä on (1 015,63 euroa + 930,72 euroa) – 525,51 euroa eli
 > yhteensä
 >
 > 1 420,84 euroa.
 >
 > Työntekijä on velvollinen maksamaan korvauksena työnantajalle
 > noudatta- matta jätetyn irtisanomisajan palkkaa vastaavan määrän eli
-> 923,37 euroa (1 939 euroa -- 1 015,63 euroa).
+> 923,37 euroa (1 939 euroa – 1 015,63 euroa).
 >
 > Suojaosuus 17 kalenteripäivältä on 17 x 30,75 euroa (suojaosuus
 > velallisen osalta v. 2023) eli 522,75 euroa. Työnantajan kuitattava
@@ -1125,13 +1120,13 @@ b.  Irtisanomisaika kuukausina
     työntekijälle noudattamatta jätetyltä irtisanomisajalta täysi
     palkka.
 
-###### *Työsuhteen purkaminen*
+###### Työsuhteen purkaminen
 
 5.  Työsuhteen purkaminen määräytyy työsopimuslain 8:1 §:n mukaan.
 
 > Purettaessa työsuhde se päättyy välittömästi.
 
-###### *Lomautus*
+###### Lomautus
 
 6.  Toistaiseksi voimassa olevaan työsuhteeseen otettu työntekijä
     voidaan lomauttaa 14 päivän ilmoitusajalla.
@@ -1153,9 +1148,9 @@ b.  Irtisanomisaika kuukausina
 
 #### § Työaika
 
-###### *Työajasta sopiminen*
+###### Työajasta sopiminen
 
-1.  Työsopimuksessa sovitaan keskimääräisestä vähimmäisviikkotyöajasta.
+9.  Työsopimuksessa sovitaan keskimääräisestä vähimmäisviikkotyöajasta.
 
 > Alle 37,5 tuntia tekevän viikkotyöajan ollessa ilman perusteltua syytä
 > työso- pimuksessa sovittua työaikaa pidempi se sovitaan todellista
@@ -1180,39 +1175,95 @@ b.  Irtisanomisaika kuukausina
 >
 > §:n mukaisesti) sopia toisin.
 
-###### *Säännöllisen työajan järjestäminen viikon jaksossa*
+###### Säännöllisen työajan järjestäminen viikon jaksossa
 
-2.  Säännöllinen työaika on enintään 9 tuntia vuorokaudessa ja enintään
+10. Säännöllinen työaika on enintään 9 tuntia vuorokaudessa ja enintään
     37,5 tun- tia viikossa.
 
-+-------------+-----+-----+-----+-----+-----+-----+-----+-----------+
-| > Esimerkki |     |     |     |     |     |     |     |           |
-| > 4         |     |     |     |     |     |     |     |           |
-+=============+=====+=====+=====+=====+=====+=====+=====+===========+
-| > Työvuorot | >   | >   | Ke  | >   | Pe  | >   | Su  | > Yht. t  |
-|             |  Ma |  Ti |     |  To |     |  La |     |           |
-+-------------+-----+-----+-----+-----+-----+-----+-----+-----------+
-|             | > 8 | >   | 6   | 7   | 9   | >   | --  | > 37,5 t  |
-|             |     | 7,5 |     |     |     |  -- |     |           |
-+-------------+-----+-----+-----+-----+-----+-----+-----+-----------+
+<table>
+<colgroup>
+<col style="width: 20%" />
+<col style="width: 8%" />
+<col style="width: 9%" />
+<col style="width: 8%" />
+<col style="width: 9%" />
+<col style="width: 9%" />
+<col style="width: 8%" />
+<col style="width: 9%" />
+<col style="width: 16%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><blockquote>
+<p>Esimerkki 4</p>
+</blockquote></th>
+<th colspan="8"></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><blockquote>
+<p>Työvuorot</p>
+</blockquote></td>
+<td><blockquote>
+<p>Ma</p>
+</blockquote></td>
+<td><blockquote>
+<p>Ti</p>
+</blockquote></td>
+<td>Ke</td>
+<td><blockquote>
+<p>To</p>
+</blockquote></td>
+<td>Pe</td>
+<td><blockquote>
+<p>La</p>
+</blockquote></td>
+<td>Su</td>
+<td><blockquote>
+<p>Yht. t</p>
+</blockquote></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><blockquote>
+<p>8</p>
+</blockquote></td>
+<td><blockquote>
+<p>7,5</p>
+</blockquote></td>
+<td>6</td>
+<td>7</td>
+<td>9</td>
+<td><blockquote>
+<p>–</p>
+</blockquote></td>
+<td>–</td>
+<td><blockquote>
+<p>37,5 t</p>
+</blockquote></td>
+</tr>
+</tbody>
+</table>
 
-> []{#_bookmark6 .anchor}Säännöllinen työaika voi työpaikkakohtaisesti
-> sopien (23 §:n mukaisesti) olla enintään 10 tuntia vuorokaudessa. Jos
-> työpaikalla on luottamusmies, asiasta sovitaan hänen kanssaan.
+> <span id="Tasoittumisjärjestelmä_" class="anchor"></span>Säännöllinen
+> työaika voi työpaikkakohtaisesti sopien (23 §:n mukaisesti) olla
+> enintään 10 tuntia vuorokaudessa. Jos työpaikalla on luottamusmies,
+> asiasta sovitaan hänen kanssaan.
 >
 > Logistiikkatyöntekijän säännöllinen työaika voi työpaikkakohtaisesti
 > sopien (23 §:n mukaisesti) olla enintään 12 tuntia vuorokaudessa. Jos
 > työpaikalla on luottamusmies, asiasta sovitaan hänen kanssaan.
 
-###### *Tasoittumisjärjestelmä*
+###### Tasoittumisjärjestelmä
 
-3.  Työnantajan laatimaan työajan tasoittumisjärjestelmään merkitään:
+11. Työnantajan laatimaan työajan tasoittumisjärjestelmään merkitään:
 
--   tasoittumisjakson pituus
+- tasoittumisjakson pituus
 
--   kokonaistyöaika sekä
+- kokonaistyöaika sekä
 
--   jakson alkamis- ja päättymispäivä.
+- jakson alkamis- ja päättymispäivä.
 
 > Valmistellessaan tai aikoessaan muuttaa työajan
 > tasoittumisjärjestelmää työnantajan on varattava luottamusmiehelle,
@@ -1229,7 +1280,7 @@ b.  Irtisanomisaika kuukausina
 > vähintään 9 viikkoa työajan tasoittumisjärjestelmä annetaan tiedoksi
 > viimeistään 3 viik- koa ennen tasoittumisjakson alkamista.
 
-###### *Säännöllisen työajan järjestäminen tasoittumisjaksossa*
+###### Säännöllisen työajan järjestäminen tasoittumisjaksossa
 
 1.  Työnantaja laatii etukäteen työajan tasoittumisjärjestelmän, jonka
     aikana viik- kotyöaika tasoittuu enintään 37,5 tuntiin.
@@ -1240,7 +1291,8 @@ b.  Irtisanomisaika kuukausina
 > Käytettäessä tasoittumisjärjestelmää voi 3 viikon jaksossa olla
 > enintään 9 kpl yli 8 tunnin työpäivää.
 >
-> []{#_bookmark7 .anchor}Säännöllinen työaika voi työpaikkakohtaisesti
+> <span id="2–26_viikon_tasoittumisjakso"
+> class="anchor"></span>Säännöllinen työaika voi työpaikkakohtaisesti
 > sopien (23 §:n mukaisesti) olla enintään 10 tuntia vuorokaudessa. Jos
 > työpaikalla on luottamusmies, asiasta sovitaan hänen kanssaan.
 >
@@ -1248,20 +1300,20 @@ b.  Irtisanomisaika kuukausina
 > sopien (23 §:n mukaisesti) olla enintään 12 tuntia vuorokaudessa. Jos
 > työpaikalla on luottamusmies, asiasta sovitaan hänen kanssaan.
 
-###### *2--26 viikon tasoittumisjakso*
+###### 2–26 viikon tasoittumisjakso
 
-2.  Työnantaja laatii etukäteen 2--26 viikon pituisen työajan
+2.  Työnantaja laatii etukäteen 2–26 viikon pituisen työajan
     tasoittumisjakson, jonka aikana viikkotyöaika tasoittuu enintään
     37,5 tuntiin (ks. myös logistiik- katyöntekijöitä koskeva
     pöytäkirja).
 
-###### *27--52 viikon tasoittumisjakso*
+###### 27–52 viikon tasoittumisjakso
 
-3.  Tämän kohdan määräykset eivät koske logistiikkatyöntekijöiden 27--52
+3.  Tämän kohdan määräykset eivät koske logistiikkatyöntekijöiden 27–52
     viikon tasoittumisjaksoa (ks. logistiikkatyöntekijöitä koskeva
     pöytäkirja).
 
-> 27--52 viikon tasoittumisjakson käyttämisestä tulee sopia
+> 27–52 viikon tasoittumisjakson käyttämisestä tulee sopia
 > työpaikkakohtaisesti (23 §:n mukaisesti). Sopimus voidaan solmia
 > enintään 52 viikon määräajaksi.
 >
@@ -1284,21 +1336,21 @@ b.  Irtisanomisaika kuukausina
 > on vähintään 30 tuntia vii- kossa. Alle 37,5 tuntia tekeville on
 > maksettava suhteutettua kuukausipalkkaa.
 >
-> Työnantaja laatii etukäteen 27--52 viikon pituisen työajan
+> Työnantaja laatii etukäteen 27–52 viikon pituisen työajan
 > tasoittumisjakson, jonka aikana viikkotyöaika tasoittuu enintään 37,5
 > tuntiin.
 
-###### *Työvuoroluettelo*
+###### Työvuoroluettelo
 
 4.  Työviikko alkaa maanantaina kello 00.00, ellei paikallisesti toisin
     sovita. Työnantajan laatimaan työvuoroluetteloon merkitään:
 
--   työntekijän säännöllisen työajan alkaminen ja päättyminen
+- työntekijän säännöllisen työajan alkaminen ja päättyminen
 
--   päivittäiset lepoajat sekä
+- päivittäiset lepoajat sekä
 
--   tasoittumisjakson jäljellä oleva viikkojen ja työtuntien määrä sekä
-    näistä laskettu keskimääräinen viikkotyöaika.
+- tasoittumisjakson jäljellä oleva viikkojen ja työtuntien määrä sekä
+  näistä laskettu keskimääräinen viikkotyöaika.
 
 > Työvuoroluetteloa laadittaessa työntekijälle on varattava tilaisuus
 > esittää mie- lipiteensä työvuorojen pituuden, työvuorojen sijoittelun,
@@ -1341,91 +1393,227 @@ b.  Irtisanomisaika kuukausina
 > Esimerkki 5
 >
 > 20 viikon mittainen työajan tasoittumisjärjestelmä ajalle
-> 15.5.--1.10.2023.
+> 15.5.–1.10.2023.
 >
 > Koska jakson pituus on vähintään 19 viikkoa, tasoittumisjärjestelmä on
 > oltava nähtävillä 3 viikkoa ennen jakson alkua eli viimeistään
 > 23.4.2023.
 
-+---------------+----------------------------+-------------------------+
-| > Työntekijät | > Työsopimustunnit /       | > Jakson                |
-|               | > viikko                   | > kokonaistyöaika       |
-+===============+============================+=========================+
-| > Työntekijä  | > 37,5 tuntia / viikko     | > 750 tuntia            |
-| > A           |                            |                         |
-+---------------+----------------------------+-------------------------+
-| > Työntekijä  | > 30 tuntia / viikko       | > 600 tuntia            |
-| > B           |                            |                         |
-+---------------+----------------------------+-------------------------+
-| > Työntekijä  | > 20 tuntia / viikko       | > 400 tuntia            |
-| > C           |                            |                         |
-+---------------+----------------------------+-------------------------+
+<table>
+<colgroup>
+<col style="width: 22%" />
+<col style="width: 40%" />
+<col style="width: 36%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><blockquote>
+<p>Työntekijät</p>
+</blockquote></th>
+<th><blockquote>
+<p>Työsopimustunnit / viikko</p>
+</blockquote></th>
+<th><blockquote>
+<p>Jakson kokonaistyöaika</p>
+</blockquote></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><blockquote>
+<p>Työntekijä A</p>
+</blockquote></td>
+<td><blockquote>
+<p>37,5 tuntia / viikko</p>
+</blockquote></td>
+<td><blockquote>
+<p>750 tuntia</p>
+</blockquote></td>
+</tr>
+<tr class="even">
+<td><blockquote>
+<p>Työntekijä B</p>
+</blockquote></td>
+<td><blockquote>
+<p>30 tuntia / viikko</p>
+</blockquote></td>
+<td><blockquote>
+<p>600 tuntia</p>
+</blockquote></td>
+</tr>
+<tr class="odd">
+<td><blockquote>
+<p>Työntekijä C</p>
+</blockquote></td>
+<td><blockquote>
+<p>20 tuntia / viikko</p>
+</blockquote></td>
+<td><blockquote>
+<p>400 tuntia</p>
+</blockquote></td>
+</tr>
+</tbody>
+</table>
 
 > Esimerkki 6
 >
 > Työvuorot esimerkki 5. olevan tasoittumisjärjestelmän ensimmäiselle
 > viikolle
 
--   työaika enintään 9 t / vrk ja 48 t / vko
+- työaika enintään 9 t / vrk ja 48 t / vko
 
--   enintään 9 yli 8 työtunnin päivää 3 viikossa
+- enintään 9 yli 8 työtunnin päivää 3 viikossa
 
--   paikallisesti sovittu 30 minuutin ruokatauoista (r)
+- paikallisesti sovittu 30 minuutin ruokatauoista (r)
 
-> Työvuoroluettelo ajalle 15.5.--21.5.2023, tiedoksi viimeistään
+> Työvuoroluettelo ajalle 15.5.–21.5.2023, tiedoksi viimeistään
 > 23.4.2023.
 
-+----+-----------+-----+----+-----+-----+-----+-----+--------------+
-| >  | > V 09 -- | >   | >  | >   | >   | >   | > 4 | > 328,5 t /  |
-| tt | >         |  12 | 12 |  12 |  09 |  10 | 6,5 | > 9 vkoa,    |
-| >  | > 17.30   | .30 | >  | >   | >   | .30 | > t | > keskim.    |
-|  A | >         | >   | -- |  -- |  -- | >   |     | >            |
-|    | > \(r\)   | >   | >  | >   | >   | >   |     | > 36,5 t /   |
-|    |           |  -- | >  | >   | >   |  -- |     | > vko        |
-|    |           | >   | 21 |  21 |  17 | >   |     |              |
-|    |           |  21 | >  | >   | .30 |  16 |     |              |
-|    |           | >   | >  | >   | >   |     |     |              |
-|    |           | >   |  \ |  \( | >   |     |     |              |
-|    |           |  \( | (r | r\) |  \( |     |     |              |
-|    |           | r\) | \) |     | r\) |     |     |              |
-+====+===========+=====+====+=====+=====+=====+=====+==============+
-| >  | > 13 --   | > V | >  | >   | >   | >   | >   | > 261 t / 9  |
-| tt | > 13 --   |     |  V |  09 |  10 |  08 |  39 | > vkoa,      |
-| >  | >         |     |    | >   | >   | >   | > t | > keskim.    |
-|  B | > 21 21   |     |    |  -- |  -- |  -- |     | >            |
-|    | >         |     |    | >   | >   | >   |     | > 29 t / vko |
-|    | > \(r\)   |     |    | >   | >   | >   |     |              |
-|    | > (r)     |     |    |  17 |  18 |  17 |     |              |
-|    |           |     |    | .30 | >   | >   |     |              |
-|    |           |     |    | >   | >   | >   |     |              |
-|    |           |     |    | >   |  \( |  \( |     |              |
-|    |           |     |    |  \( | r\) | r\) |     |              |
-|    |           |     |    | r\) |     |     |     |              |
-+----+-----------+-----+----+-----+-----+-----+-----+--------------+
-| >  | > 08 --   | >   | >  | > V | >   | > V | >   | > 162 t / 9  |
-| tt | > 10      |  09 | 08 |     |  08 |     |  38 | > vkoa,      |
-| >  | >         | >   | >  |     | >   |     | > t | > keskim.    |
-|  C | > 16 --18 |  -- | -- |     |  -- |     |     | >            |
-|    | >         | >   | >  |     | >   |     |     | > 18 t / vko |
-|    | > \(r\)   | >   | >  |     | >   |     |     |              |
-|    | > (r)     |  17 | 17 |     |  16 |     |     |              |
-|    |           | .30 | >  |     | >   |     |     |              |
-|    |           | >   | >  |     | >   |     |     |              |
-|    |           | >   |  \ |     |  \( |     |     |              |
-|    |           |  \( | (r |     | r\) |     |     |              |
-|    |           | r\) | \) |     |     |     |     |              |
-+----+-----------+-----+----+-----+-----+-----+-----+--------------+
+<table>
+<colgroup>
+<col style="width: 7%" />
+<col style="width: 17%" />
+<col style="width: 8%" />
+<col style="width: 8%" />
+<col style="width: 9%" />
+<col style="width: 8%" />
+<col style="width: 9%" />
+<col style="width: 9%" />
+<col style="width: 21%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><blockquote>
+<p>tt A</p>
+</blockquote></th>
+<th><blockquote>
+<p>V 09 –</p>
+<p>17.30</p>
+<p>(r)</p>
+</blockquote></th>
+<th><blockquote>
+<p>12.30</p>
+<p>– 21</p>
+<p>(r)</p>
+</blockquote></th>
+<th><blockquote>
+<p>12 –</p>
+<p>21</p>
+<p>(r)</p>
+</blockquote></th>
+<th><blockquote>
+<p>12 –</p>
+<p>21</p>
+<p>(r)</p>
+</blockquote></th>
+<th><blockquote>
+<p>09 –</p>
+<p>17.30</p>
+<p>(r)</p>
+</blockquote></th>
+<th><blockquote>
+<p>10.30</p>
+<p>– 16</p>
+</blockquote></th>
+<th><blockquote>
+<p>46,5 t</p>
+</blockquote></th>
+<th><blockquote>
+<p>328,5 t / 9 vkoa, keskim.</p>
+<p>36,5 t / vko</p>
+</blockquote></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><blockquote>
+<p>tt B</p>
+</blockquote></td>
+<td><blockquote>
+<p>13 – 13 –</p>
+<p>21 21</p>
+<p>(r) (r)</p>
+</blockquote></td>
+<td><blockquote>
+<p>V</p>
+</blockquote></td>
+<td><blockquote>
+<p>V</p>
+</blockquote></td>
+<td><blockquote>
+<p>09 –</p>
+<p>17.30</p>
+<p>(r)</p>
+</blockquote></td>
+<td><blockquote>
+<p>10 –</p>
+<p>18</p>
+<p>(r)</p>
+</blockquote></td>
+<td><blockquote>
+<p>08 –</p>
+<p>17</p>
+<p>(r)</p>
+</blockquote></td>
+<td><blockquote>
+<p>39 t</p>
+</blockquote></td>
+<td><blockquote>
+<p>261 t / 9 vkoa, keskim.</p>
+<p>29 t / vko</p>
+</blockquote></td>
+</tr>
+<tr class="even">
+<td><blockquote>
+<p>tt C</p>
+</blockquote></td>
+<td><blockquote>
+<p>08 – 10</p>
+<p>16 –18</p>
+<p>(r) (r)</p>
+</blockquote></td>
+<td><blockquote>
+<p>09 –</p>
+<p>17.30</p>
+<p>(r)</p>
+</blockquote></td>
+<td><blockquote>
+<p>08 –</p>
+<p>17</p>
+<p>(r)</p>
+</blockquote></td>
+<td><blockquote>
+<p>V</p>
+</blockquote></td>
+<td><blockquote>
+<p>08 –</p>
+<p>16</p>
+<p>(r)</p>
+</blockquote></td>
+<td><blockquote>
+<p>V</p>
+</blockquote></td>
+<td><blockquote>
+<p>38 t</p>
+</blockquote></td>
+<td><blockquote>
+<p>162 t / 9 vkoa, keskim.</p>
+<p>18 t / vko</p>
+</blockquote></td>
+</tr>
+</tbody>
+</table>
 
-###### *Työhönsidonnaisuusaika*
+###### Työhönsidonnaisuusaika
 
 1.  Työhönsidonnaisuusaika vuorokaudessa on, ellei paikallisesti toisin
     sovita
 
--   enintään 9 tuntia säännöllisen työajan ollessa 8 tuntia tai lyhyempi
+- enintään 9 tuntia säännöllisen työajan ollessa 8 tuntia tai lyhyempi
 
--   enintään 10 tuntia säännöllisen työajan ollessa yli 8 tuntia
+- enintään 10 tuntia säännöllisen työajan ollessa yli 8 tuntia
 
--   enintään 11 tuntia säännöllisen työajan ollessa yli 9 tuntia.
+- enintään 11 tuntia säännöllisen työajan ollessa yli 9 tuntia.
 
 > Määräys koskee myyjää ja myymälätyöntekijää, huolto- ja
 > liikenneasematyön- tekijää sekä kioskimyyjää.
@@ -1435,7 +1623,7 @@ b.  Irtisanomisaika kuukausina
 > määräämän, etäyhteyk- sin järjestämän kokouksen tai tilaisuuden
 > vuoksi.
 
-###### *Vuorokausilepo*
+###### Vuorokausilepo
 
 1.  Työntekijälle on annettava jokaisen työvuoron alkamista seuraavan 24
     tunnin aikana vähintään 11 tunnin keskeytymätön lepoaika.
@@ -1447,27 +1635,27 @@ b.  Irtisanomisaika kuukausina
 > kertaluontoi- sesti sopia, että vuorokausilevon pituus on vähintään 7
 > tuntia.
 
-###### *Viikkolepo*
+###### Viikkolepo
 
 2.  Viikkolepo saadaan sijoittaa työviikkojen vaihteeseen siten, että
     yli puolet lepo- ajasta on sijoitettava sen viikon puolelle, jonka
     lepoajasta on kysymys.
 
-###### *Yötyö*
+###### Yötyö
 
 3.  Yötyöstä on sovittava työntekijän kanssa (23 § mukaisesti). Mikäli
     työnan- taja ei saa muutoin työvuoroa täytettyä, työnantajalla on
     oikeus työvuoron määräämiseen.
 
 > Yötyönä pidetään työvuoroa, josta vähintään 1,5 tuntia tehdään klo
-> 23--06.
+> 23–06.
 >
-> Yövuoro ei saa alkaa eikä päättyä klo 01--05 välillä, ellei yrityksen
+> Yövuoro ei saa alkaa eikä päättyä klo 01–05 välillä, ellei yrityksen
 > tavanomai- seen toimintaan liittyvä painava syy tätä edellytä.
 >
-> []{#_bookmark10 .anchor}Yövuoroja saa teettää enintään 5 peräkkäin.
-> Sovittaessa yötyöstä työnantaja ja työntekijä voivat kuitenkin sopia
-> enintään 7 peräkkäisestä yövuorosta.
+> <span id="Varallaolo_ja_hätätyö" class="anchor"></span>Yövuoroja saa
+> teettää enintään 5 peräkkäin. Sovittaessa yötyöstä työnantaja ja
+> työntekijä voivat kuitenkin sopia enintään 7 peräkkäisestä yövuorosta.
 >
 > Vähintään 5 peräkkäisen yövuoron jälkeen tulee olla 2 vapaata.
 > Yksittäisiä yövuoroja tulee pyrkiä välttämään. Yövuorojen väliin ei
@@ -1484,12 +1672,12 @@ b.  Irtisanomisaika kuukausina
 > erityisesti toimintatavat, joilla voidaan tukea terveyttä,
 > työhyvinvointia ja työssä jaksamista.
 >
-> Jos työtä tehdään klo 23--06 ja työntekijän tavallisen työmatkan
+> Jos työtä tehdään klo 23–06 ja työntekijän tavallisen työmatkan
 > edellyttämää yleistä kulkuneuvoa tai mahdollisuutta työntekijän oman
 > kulkuneuvon käyt- töön ei ole työvuoron alkamis- ja
 > päättymisajankohtana, työnantajan on jär- jestettävä kuljetus.
 
-###### *Varallaolo ja hätätyö*
+###### Varallaolo ja hätätyö
 
 4.  Varallaolo ja hätätyö määräytyvät työaikalain mukaan.
 
@@ -1506,39 +1694,39 @@ b.  Irtisanomisaika kuukausina
 > Varallaolo ei saa kohtuuttomasti haitata työntekijän vapaa-ajan
 > käyttöä.
 
-###### *Liukuva työaika*
+###### Liukuva työaika
 
 5.  Liukuvasta työajasta sovitaan kulloinkin voimassa olevan työaikalain
     mukai- sesti. Keskimääräinen säännöllinen työaika viikossa määräytyy
     tämän työeh- tosopimuksen mukaan.
 
-> []{#_bookmark11 .anchor}Liukuvan työajan järjestelyn tarkoituksena on
-> antaa työntekijälle itsenäinen päätösvalta päivittäisen työn alkamis-
-> ja päättymisajankohdista.
+> <span id="7_§_Vapaat" class="anchor"></span>Liukuvan työajan
+> järjestelyn tarkoituksena on antaa työntekijälle itsenäinen
+> päätösvalta päivittäisen työn alkamis- ja päättymisajankohdista.
 >
 > Työnantajan on työntekijän pyynnöstä pyrittävä antamaan kertyneet
 > säännöl- lisen työajan ylittymät kokonaisina vapaapäivinä.
 
-###### *Muut työaikajärjestelyt*
+###### Muut työaikajärjestelyt
 
 6.  Työehtosopimuksen liitteinä olevissa pöytäkirjoissa on esitetty
     muita työaika- järjestelyitä:
 
--   Arkipyhäjärjestelmä (s. 108)
+- Arkipyhäjärjestelmä (s. 108)
 
--   Vuosityöajan lyhennys (s. 113)
+- Vuosityöajan lyhennys (s. 113)
 
--   Joustava kokoaikatyö (s. 119)
+- Joustava kokoaikatyö (s. 119)
 
--   Lisätyön tarjoaminen (s. 122)
+- Lisätyön tarjoaminen (s. 122)
 
--   Kokoaikatyön tarjoaminen (s. 124)
+- Kokoaikatyön tarjoaminen (s. 124)
 
--   Työaikapankki (s. 127)
+- Työaikapankki (s. 127)
 
 #### § Vapaat
 
-###### *Vapaapäivät*
+###### Vapaapäivät
 
 1.  Työntekijällä on työaikalain viikkolepoajan lisäksi 1 vapaapäivä.
 
@@ -1558,7 +1746,7 @@ b.  Irtisanomisaika kuukausina
 > tulee tästä eteenpäin noudattaa kiin- teää vapaapäivää koskevaa
 > määräystä.
 
-###### *Tasoittumisjakso ja vapaapäivä*
+###### Tasoittumisjakso ja vapaapäivä
 
 2.  Tasoittumisjakson aikana on oltava yhtä monta työehtosopimuksen
     mukaista vapaapäivää kuin jaksossa on viikkoja.
@@ -1574,7 +1762,7 @@ b.  Irtisanomisaika kuukausina
 > yhdenjaksoisesta antami- sesta voidaan sopia työpaikkakohtaisesti (23
 > §:n mukaisesti) toisin.
 
-###### *Työviikko*
+###### Työviikko
 
 3.  Työviikko on keskimäärin 5-päiväinen.
 
@@ -1593,24 +1781,88 @@ b.  Irtisanomisaika kuukausina
 >
 > Poissaolot eivät muuta työvuoroluettelon mukaisia vapaapäiviä.
 
-+------------+------+-------+------+---------+-------+-------+-----+
-| >          |      |       |      |         |       |       |     |
-|  Esimerkki |      |       |      |         |       |       |     |
-| > 7        |      |       |      |         |       |       |     |
-+============+======+=======+======+=========+=======+=======+=====+
-| >          | > Ma | > Ti  | > Ke | > To    | > Pe  | > La  | >   |
-|  Työvuoro- |      |       |      |         |       |       |  Su |
-+------------+------+-------+------+---------+-------+-------+-----+
-| >          | > T  | > V   | > T  | > T     | T     | > T   | > V |
-|  luettelo: |      |       |      |         |       |       |     |
-+------------+------+-------+------+---------+-------+-------+-----+
-| > S        |      |       |      |         |       |       |     |
-| airausloma |      |       |      |         |       |       |     |
-+------------+------+-------+------+---------+-------+-------+-----+
+<table style="width:100%;">
+<colgroup>
+<col style="width: 18%" />
+<col style="width: 10%" />
+<col style="width: 11%" />
+<col style="width: 10%" />
+<col style="width: 14%" />
+<col style="width: 12%" />
+<col style="width: 12%" />
+<col style="width: 9%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><blockquote>
+<p>Esimerkki 7</p>
+</blockquote></th>
+<th colspan="7"></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><blockquote>
+<p>Työvuoro-</p>
+</blockquote></td>
+<td><blockquote>
+<p>Ma</p>
+</blockquote></td>
+<td><blockquote>
+<p>Ti</p>
+</blockquote></td>
+<td><blockquote>
+<p>Ke</p>
+</blockquote></td>
+<td><blockquote>
+<p>To</p>
+</blockquote></td>
+<td><blockquote>
+<p>Pe</p>
+</blockquote></td>
+<td><blockquote>
+<p>La</p>
+</blockquote></td>
+<td><blockquote>
+<p>Su</p>
+</blockquote></td>
+</tr>
+<tr class="even">
+<td><blockquote>
+<p>luettelo:</p>
+</blockquote></td>
+<td><blockquote>
+<p>T</p>
+</blockquote></td>
+<td><blockquote>
+<p>V</p>
+</blockquote></td>
+<td><blockquote>
+<p>T</p>
+</blockquote></td>
+<td><blockquote>
+<p>T</p>
+</blockquote></td>
+<td>T</td>
+<td><blockquote>
+<p>T</p>
+</blockquote></td>
+<td><blockquote>
+<p>V</p>
+</blockquote></td>
+</tr>
+<tr class="odd">
+<td colspan="4"><blockquote>
+<p>Sairausloma</p>
+</blockquote></td>
+<td colspan="4"></td>
+</tr>
+</tbody>
+</table>
 
-###### *Vuosivapaajärjestelmä*
+###### Vuosivapaajärjestelmä
 
-###### *Vuosivapaan ansainta*
+###### Vuosivapaan ansainta
 
 4.  Vuosivapaajärjestelmässä työntekijä ansaitsee kalenterivuosittain
     vuosiva- paata. Vuosivapaiden ansainta alkaa vasta työsuhteen
@@ -1618,46 +1870,145 @@ b.  Irtisanomisaika kuukausina
 
 > Vuosivapaata kerryttävät kalenterivuosittain:
 
--   tosiasiallisesti tehdyt työtunnit,
+- tosiasiallisesti tehdyt työtunnit,
 
--   muu työaikalain 2 luvun 3 §:n tarkoittama työajaksi luettava aika,
+- muu työaikalain 2 luvun 3 §:n tarkoittama työajaksi luettava aika,
 
--   työnantajan määräämä koulutus siltä osin, kuin työnantaja maksaa
-    sään- nöllisen työajan ansion menetystä,
+- työnantajan määräämä koulutus siltä osin, kuin työnantaja maksaa sään-
+  nöllisen työajan ansion menetystä,
 
--   luottamusmiehellä ja työsuojeluvaltuutetulla työstävapautusaika sekä
+- luottamusmiehellä ja työsuojeluvaltuutetulla työstävapautusaika sekä
 
--   henkilöstön edustajalla koulutussopimuksen mukainen työnantajatuen
-    pii- riin kuuluva ammattiyhdistyskoulutus siltä osin kuin työnantaja
-    maksaa säännöllisen työajan ansion menetystä.
+- henkilöstön edustajalla koulutussopimuksen mukainen työnantajatuen
+  pii- riin kuuluva ammattiyhdistyskoulutus siltä osin kuin työnantaja
+  maksaa säännöllisen työajan ansion menetystä.
 
-> []{#_bookmark14 .anchor}Työntekijä ansaitsee vuosivapaita alla olevan
-> taulukon mukaisesti:
+> <span id="Vuosivapaan_antaminen" class="anchor"></span>Työntekijä
+> ansaitsee vuosivapaita alla olevan taulukon mukaisesti:
 
-+--------------------+-----------------------+-------------------------+
-| > Kertyneiden      | > Vuosivapaiden määrä | > Vuosivapaatuntien     |
-| > tuntien määrä    |                       | > määrä                 |
-+====================+=======================+=========================+
-| > 200              | > 1                   | > 7,5                   |
-+--------------------+-----------------------+-------------------------+
-| > 400              | > 2                   | > 15                    |
-+--------------------+-----------------------+-------------------------+
-| > 600              | > 3                   | > 22,5                  |
-+--------------------+-----------------------+-------------------------+
-| > 800              | > 4                   | > 30                    |
-+--------------------+-----------------------+-------------------------+
-| > 1 000            | > 5                   | > 37,5                  |
-+--------------------+-----------------------+-------------------------+
-| > 1150             | > 6                   | > 45                    |
-+--------------------+-----------------------+-------------------------+
-| > 1300             | > 7                   | > 52,5                  |
-+--------------------+-----------------------+-------------------------+
-| > 1430             | > 8                   | > 60                    |
-+--------------------+-----------------------+-------------------------+
-| > 1560             | > 9                   | > 67,5                  |
-+--------------------+-----------------------+-------------------------+
+<table>
+<colgroup>
+<col style="width: 29%" />
+<col style="width: 33%" />
+<col style="width: 36%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><blockquote>
+<p>Kertyneiden tuntien määrä</p>
+</blockquote></th>
+<th><blockquote>
+<p>Vuosivapaiden määrä</p>
+</blockquote></th>
+<th><blockquote>
+<p>Vuosivapaatuntien määrä</p>
+</blockquote></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><blockquote>
+<p>200</p>
+</blockquote></td>
+<td><blockquote>
+<p>1</p>
+</blockquote></td>
+<td><blockquote>
+<p>7,5</p>
+</blockquote></td>
+</tr>
+<tr class="even">
+<td><blockquote>
+<p>400</p>
+</blockquote></td>
+<td><blockquote>
+<p>2</p>
+</blockquote></td>
+<td><blockquote>
+<p>15</p>
+</blockquote></td>
+</tr>
+<tr class="odd">
+<td><blockquote>
+<p>600</p>
+</blockquote></td>
+<td><blockquote>
+<p>3</p>
+</blockquote></td>
+<td><blockquote>
+<p>22,5</p>
+</blockquote></td>
+</tr>
+<tr class="even">
+<td><blockquote>
+<p>800</p>
+</blockquote></td>
+<td><blockquote>
+<p>4</p>
+</blockquote></td>
+<td><blockquote>
+<p>30</p>
+</blockquote></td>
+</tr>
+<tr class="odd">
+<td><blockquote>
+<p>1 000</p>
+</blockquote></td>
+<td><blockquote>
+<p>5</p>
+</blockquote></td>
+<td><blockquote>
+<p>37,5</p>
+</blockquote></td>
+</tr>
+<tr class="even">
+<td><blockquote>
+<p>1150</p>
+</blockquote></td>
+<td><blockquote>
+<p>6</p>
+</blockquote></td>
+<td><blockquote>
+<p>45</p>
+</blockquote></td>
+</tr>
+<tr class="odd">
+<td><blockquote>
+<p>1300</p>
+</blockquote></td>
+<td><blockquote>
+<p>7</p>
+</blockquote></td>
+<td><blockquote>
+<p>52,5</p>
+</blockquote></td>
+</tr>
+<tr class="even">
+<td><blockquote>
+<p>1430</p>
+</blockquote></td>
+<td><blockquote>
+<p>8</p>
+</blockquote></td>
+<td><blockquote>
+<p>60</p>
+</blockquote></td>
+</tr>
+<tr class="odd">
+<td><blockquote>
+<p>1560</p>
+</blockquote></td>
+<td><blockquote>
+<p>9</p>
+</blockquote></td>
+<td><blockquote>
+<p>67,5</p>
+</blockquote></td>
+</tr>
+</tbody>
+</table>
 
-###### *Vuosivapaan antaminen*
+###### Vuosivapaan antaminen
 
 1.  Vuosivapaat annetaan ensisijaisesti ansaintavuoden aikana, kuitenkin
     viimeis- tään ansaintavuotta seuraavan vuoden huhtikuun loppuun
@@ -1764,7 +2115,7 @@ b.  Irtisanomisaika kuukausina
 > Poissaolot eivät muuta työvuoroluettelon mukaisia vuosivapaita.
 > Vuosivapaan ajalta työntekijä ansaitsee vuosilomaa.
 
-###### *Vuosivapaan vaikutus työaikaan ja vuosivapaan pituudesta toisin sopiminen*
+###### Vuosivapaan vaikutus työaikaan ja vuosivapaan pituudesta toisin sopiminen
 
 2.  Vuosivapaa annetaan 7,5 tunnin pituisena työpäivänä.
 
@@ -1809,22 +2160,23 @@ b.  Irtisanomisaika kuukausina
 > tunnin työvuorot. Vuosivapaan pituus sovitaan vastaamaan
 > säännönmukaisen työvuoron pituutta,
 >
-> []{#_bookmark16 .anchor}jolloin vuosivapaiden määrä voi myös kasvaa.
-> Työnantaja voi suunnitella sovi- tun pituisia vuosivapaita
-> työvuoroluetteloon jatkossa ilman erillistä sopimista.
+> <span id="Palkka_vuosivapaan_ajalta" class="anchor"></span>jolloin
+> vuosivapaiden määrä voi myös kasvaa. Työnantaja voi suunnitella sovi-
+> tun pituisia vuosivapaita työvuoroluetteloon jatkossa ilman erillistä
+> sopimista.
 >
 > Jos työntekijän vuositasolla saamat vuosivapaatunnit jäävät alle 67,5
 > tunnin, saamatta jäänyt työvuoroa lyhyempi vuosivapaan osa toteutetaan
 > esimerkiksi:
 
--   lyhentämällä työpäivää tai työpäiviä ko. tunneilla (palkka maksetaan
-    kui- tenkin koko suunnitellulta työvuorolta) tai
+- lyhentämällä työpäivää tai työpäiviä ko. tunneilla (palkka maksetaan
+  kui- tenkin koko suunnitellulta työvuorolta) tai
 
--   maksamalla ko. tunnit 8. kohdan mukaisesti rahakorvauksena tai
+- maksamalla ko. tunnit 8. kohdan mukaisesti rahakorvauksena tai
 
--   siirtämällä ko. tunnit työaikapankkiin.
+- siirtämällä ko. tunnit työaikapankkiin.
 
-###### *Palkka vuosivapaan ajalta*
+###### Palkka vuosivapaan ajalta
 
 1.  Vuosivapaan ajalta työntekijä saa palkkansa kiinteine lisineen ilman
     tuntikoh- taisia olosuhdelisiä ja työaikalisiä.
@@ -1838,7 +2190,7 @@ b.  Irtisanomisaika kuukausina
 > Provisiopalkkaiselle maksetaan vuosivapaan ajalta keskimääräinen
 > päivä- provisio.
 
-###### *Vuosivapaan maksaminen rahakorvauksena*
+###### Vuosivapaan maksaminen rahakorvauksena
 
 2.  Työntekijän työsuhteen kestettyä 6 kuukautta hänen kanssaan voidaan
     sopia (23 §:n mukaisesti) vuosivapaiden antamisen sijaan niiden
@@ -1867,7 +2219,7 @@ b.  Irtisanomisaika kuukausina
 > ansaintavuotta seuraavan kalen- terivuoden loppuun mennessä,
 > vuosivapaat tulee maksaa rahakorvauksena tammikuun palkkapäivänä.
 
-###### *Vuosivapaat työsuhteen päättyessä*
+###### Vuosivapaat työsuhteen päättyessä
 
 3.  Työsuhteen päättyessä pitämättömät vuosivapaat maksetaan
     rahakorvauksena.
@@ -1878,7 +2230,7 @@ b.  Irtisanomisaika kuukausina
 > palkka. Takaisinperintä on mah- dollista vain, jos työsuhde päättyy
 > työntekijästä johtuvasta syystä.
 
-###### *Vapaapäivien sijoittelu*
+###### Vapaapäivien sijoittelu
 
 4.  Vapaapäivät sijoitetaan seuraavasti:
 
@@ -1889,8 +2241,8 @@ b.  Irtisanomisaika kuukausina
 >
 > Edellä mainituista peräkkäisten vapaapäivien yhdistelmistä
 > työntekijälle anne- taan kalenterivuoden aikana vähintään 17
-> viikonloppuvapaata eli perjantai- lauantai, lauantai--sunnuntai tai
-> sunnuntai--maanantai-vapaapäiväyhdistelmää.
+> viikonloppuvapaata eli perjantai- lauantai, lauantai–sunnuntai tai
+> sunnuntai–maanantai-vapaapäiväyhdistelmää.
 >
 > Viikonloppuvapaista vähintään 9 annetaan
 > lauantai-sunnuntai-vapaapäivä- yhdistelmänä, ellei työntekijä
@@ -1927,13 +2279,13 @@ b.  Irtisanomisaika kuukausina
 > Seuraavista aattopäivistä tulee vakinaisella työntekijällä olla 2
 > vapaana:
 
--   pääsiäislauantai
+- pääsiäislauantai
 
--   juhannusaatto
+- juhannusaatto
 
--   jouluaatto
+- jouluaatto
 
--   uudenvuodenaatto.
+- uudenvuodenaatto.
 
 > Toimihenkilöllä vapaapäiviä ovat pääsiäislauantai, juhannusaatto ja
 > jouluaatto, ellei kyseessä ole 7 §:n 1. kohdassa määritelty yrityksen
@@ -1955,33 +2307,33 @@ b.  Irtisanomisaika kuukausina
 
 #### § Ruoka- ja kahvitauko
 
-###### *Ruokatauko*
+###### Ruokatauko
 
-1.  Säännöllisen työajan ollessa yhdenjaksoisesti yli 7 tuntia
+5.  Säännöllisen työajan ollessa yhdenjaksoisesti yli 7 tuntia
     työntekijällä on vähin- tään tunnin ruokatauko.
 
-2.  Paikallisesti sopimalla ruokatauko voidaan:
+6.  Paikallisesti sopimalla ruokatauko voidaan:
 
--   lyhentää enintään 30 minuutilla tai
+- lyhentää enintään 30 minuutilla tai
 
--   poistaa kokonaan, jolloin työntekijä voi ruokailla työaikana.
+- poistaa kokonaan, jolloin työntekijä voi ruokailla työaikana.
 
-    1.  Ruokatauko ei ole työaikaa työntekijän saadessa poistua
-        esteettömästi työpaikalta.
+  1.  Ruokatauko ei ole työaikaa työntekijän saadessa poistua
+      esteettömästi työpaikalta.
 
-    2.  Myymäläautotyöntekijän ruokatauko voidaan poistaa, jos hän voi
-        ruokailla työaikana.
+  2.  Myymäläautotyöntekijän ruokatauko voidaan poistaa, jos hän voi
+      ruokailla työaikana.
 
-    3.  Ruokataukoa ei saa sijoittaa välittömästi työpäivän alkuun tai
-        loppuun.
+  3.  Ruokataukoa ei saa sijoittaa välittömästi työpäivän alkuun tai
+      loppuun.
 
-###### *Kahvitauko*
+###### Kahvitauko
 
 4.  Työpäivän pituuden ollessa:
 
 > alle 4 tuntia ei kahvitaukoa
 >
-> 4 tuntia -- alle 6 tuntia 1 kahvitauko
+> 4 tuntia – alle 6 tuntia 1 kahvitauko
 >
 > vähintään 6 tuntia 2 kahvitaukoa
 
@@ -1996,39 +2348,39 @@ b.  Irtisanomisaika kuukausina
 
 #### § Lisä- ja ylityö
 
-###### *Lisätyö*
+###### Lisätyö
 
-1.  Lisätyö on sovitun työajan lisäksi tehty työ enintään 40 tuntiin
+7.  Lisätyö on sovitun työajan lisäksi tehty työ enintään 40 tuntiin
     saakka viikossa.
 
 > Tehtyä lisätyötä ei voida vähentää jäljellä olevan tasoittumisjakson
 > tunneista.
 
-###### *Ylityö*
+###### Ylityö
 
-2.  Ylityötä on 40 tuntia viikossa ylittävä työ.
+8.  Ylityötä on 40 tuntia viikossa ylittävä työ.
 
-3.  Tasoittumisjärjestelmässä ylityötä on keskimäärin 40 tuntia viikossa
+9.  Tasoittumisjärjestelmässä ylityötä on keskimäärin 40 tuntia viikossa
     ylittävä työ.
 
-###### *Lisä- ja ylityösuostumus*
+###### Lisä- ja ylityösuostumus
 
-4.  Työntekijän lisä- ja ylityösuostumus määräytyy työaikalain 17 §:n
+10. Työntekijän lisä- ja ylityösuostumus määräytyy työaikalain 17 §:n
     mukaan.
 
 > Vuorokaudessa yli 8 tuntia tai työvuoroluetteloon merkityn 8 tuntia
 > pidemmän työajan lisäksi tehtävään työhön edellytetään työntekijältä
 > työaikalain 17 §:n 1 momentin mukainen suostumus.
 
-###### *Lisätyön tarjoamisen periaatteiden käsittely*
+###### Lisätyön tarjoamisen periaatteiden käsittely
 
-5.  Työsopimuslain 2 luvun 5 §:n mukaisen lisätyön tarjoamisen
+11. Työsopimuslain 2 luvun 5 §:n mukaisen lisätyön tarjoamisen
     periaatteita käsitellään työpaikalla henkilöstöedustajien tai
     henkilöstön kanssa osana yhteistoimintaa.
 
-###### *Korotettu palkka*
+###### Korotettu palkka
 
-6.  Vuorokaudessa 10 tuntia tai viikossa 37,5 tuntia ylittävästä työstä
+12. Vuorokaudessa 10 tuntia tai viikossa 37,5 tuntia ylittävästä työstä
     maksetaan 50 %:lla korotettu palkka.
 
 > Korotettua palkkaa määritettäessä työaikaan lasketaan myös viikon
@@ -2065,10 +2417,10 @@ b.  Irtisanomisaika kuukausina
 > Vuosivapaita kerryttäviksi tunneiksi työntekijälle kirjataan tehdyt 15
 > työtuntia.
 >
-> Kyseisellä viikolla työntekijä voi tehdä 15 tuntia (37,5 -- 22,5)
+> Kyseisellä viikolla työntekijä voi tehdä 15 tuntia (37,5 – 22,5)
 > lisätyötä yksinkertaisella palkalla
 
-7.  Logistiikkatyöntekijälle maksetaan vuorokaudessa 10 tunnin jälkeen
+13. Logistiikkatyöntekijälle maksetaan vuorokaudessa 10 tunnin jälkeen
     50 %:lla korotettu palkka ja 12 tunnin jälkeen 100 %:lla korotettu
     palkka.
 
@@ -2083,36 +2435,36 @@ b.  Irtisanomisaika kuukausina
 >
 > Muuten korotettu palkka maksetaan 6. kohdan mukaan.
 
-8.  []{#_bookmark21 .anchor}Työaikalisiä ei oteta huomioon peruspalkassa
+14. <span id="Korotettu_palkka_tasoittumisjaksossa"
+    class="anchor"></span>Työaikalisiä ei oteta huomioon peruspalkassa
     laskettaessa lisä- ja ylityökorva- uksia. Työaikalisät maksetaan
     lisä- ja ylityön ajalta korottamattomina.
 
-###### *Korotettu palkka tasoittumisjaksossa*
+###### Korotettu palkka tasoittumisjaksossa
 
-9.  Tasoittumisjärjestelmässä tehdystä tuntimäärästä
+15. Tasoittumisjärjestelmässä tehdystä tuntimäärästä
 
-```{=html}
 <!-- -->
-```
-a.  vähennetään yli 10 tuntia vuorokaudessa tehty työ, josta
 
-    -   maksetaan erikseen 50 %:lla korotettu palkka ja
+1.  vähennetään yli 10 tuntia vuorokaudessa tehty työ, josta
 
-    -   varastossa 12 tunnin jälkeen 100 %:lla korotettu palkka.
+    - maksetaan erikseen 50 %:lla korotettu palkka ja
+
+    - varastossa 12 tunnin jälkeen 100 %:lla korotettu palkka.
 
 > Edellä esitetystä poiketen varastoissa ja logistiikkakeskuksissa,
 > joissa on työ- paikkakohtaisesti (työehtosopimuksen 23 §:n mukaisesti)
 > sovittu vuorokauti- nen säännöllinen työaika enintään 12 tunniksi,
 > vähennetään vain yli 12 tuntia vuorokaudessa tehty työ, josta
 
--   maksetaan erikseen 100 %:lla korotettu palkka.
+- maksetaan erikseen 100 %:lla korotettu palkka.
 
-b.  vähennetään tasoittumisjakson viikkojen enimmäistyöajat
+2.  vähennetään tasoittumisjakson viikkojen enimmäistyöajat
 
-    -   viikkojen lukumäärä x 37,5 tuntia. Tasoittumisjakson työaikaan
-        > lasketaan mukaan jakson aikana annetut vuosivapaat.
+    - viikkojen lukumäärä x 37,5 tuntia. Tasoittumisjakson työaikaan
+      lasketaan mukaan jakson aikana annetut vuosivapaat.
 
-c.  maksetaan erotuksesta 50 %:lla korotettu palkka.
+3.  maksetaan erotuksesta 50 %:lla korotettu palkka.
 
 > Työntekijä saa normaalin palkkansa lisäksi kyseiseltä jaksolta 50
 > %:lla korotetun palkan yhteensä 50 tunnilta (12 + 38).
@@ -2121,7 +2473,7 @@ c.  maksetaan erotuksesta 50 %:lla korotettu palkka.
 > työtuntia.
 >
 > Ylityökirjanpitoon kirjataan tasoittumisjaksossa keskimäärin 40 tuntia
-> viikossa ylittävä työ eli 5 tuntia (485 -- 12 x 40).
+> viikossa ylittävä työ eli 5 tuntia (485 – 12 x 40).
 >
 > Esimerkki 22
 >
@@ -2150,7 +2502,8 @@ c.  maksetaan erotuksesta 50 %:lla korotettu palkka.
 >
 > Ylityökirjanpitoon kirjattavia tunteja ei jaksolla ole tehty.
 >
-> []{#_bookmark22 .anchor}Esimerkki 23
+> <span id="Korotetun_palkan_maksaminen_tasoittumisj"
+> class="anchor"></span>Esimerkki 23
 >
 > *Alle 37,5 tuntia tekevä ja suhteutettua kuukausipalkkaa saava
 > työntekijä, yritys käyttää tasoittumisjärjestelmää*
@@ -2181,7 +2534,7 @@ c.  maksetaan erotuksesta 50 %:lla korotettu palkka.
     sellaiset tasoittumisjärjestelmässä ilmoitetut tunnit, joiden aikana
     työntekijä on ollut poissa työstä hyväksyttävästä syystä.
 
-###### *Korotetun palkan maksaminen tasoittumisjaksossa*
+###### Korotetun palkan maksaminen tasoittumisjaksossa
 
 2.  Kaikista tasoittumisjakson tunneista maksetaan korottamaton
     tuntipalkka tavanomaisena palkanmaksupäivänä.
@@ -2189,33 +2542,32 @@ c.  maksetaan erotuksesta 50 %:lla korotettu palkka.
 3.  Korotusosat maksetaan tasoittumisjakson päättymistä seuraavana
     palkan- maksupäivänä.
 
-###### *Lisä- ja ylityökorvaus vapaa-aikana*
+###### Lisä- ja ylityökorvaus vapaa-aikana
 
 4.  Lisä- ja ylityökorvaus voidaan vaihtaa vapaa-aikaan työaikalain 21
     §:n mukaan.
 
-###### *Työsopimuksen päättyminen kesken tasoittumisjakson*
+###### Työsopimuksen päättyminen kesken tasoittumisjakson
 
 5.  Työsopimuksen päättyessä kesken tasoittumisjakson ja työajan
     jäädessä tasoittumatta keskimääräiseen 37,5 viikkotuntiin maksetaan
     tämän tuntimää- rän ylittäviltä tunneilta
 
-```{=html}
 <!-- -->
-```
-a.  korottamaton säännöllisen työajan palkka jos:
 
--   työnantajalla on oikeus päättää työsopimus työntekijästä johtuvista
-    syistä tai
+1.  korottamaton säännöllisen työajan palkka jos:
 
--   työntekijä irtisanoo työsopimuksen.
+- työnantajalla on oikeus päättää työsopimus työntekijästä johtuvista
+  syistä tai
 
-b.  50 %:lla korotettu palkka jos:
+- työntekijä irtisanoo työsopimuksen.
 
--   työntekijällä on oikeus purkaa työsopimus tai
+2.  50 %:lla korotettu palkka jos:
 
--   työnantaja irtisanoo sopimuksen taloudellisista tai tuotannollisista
-    syistä.
+- työntekijällä on oikeus purkaa työsopimus tai
+
+- työnantaja irtisanoo sopimuksen taloudellisista tai tuotannollisista
+  syistä.
 
 > Vuorokaudessa yli 10 tuntia tehdystä työstä maksetaan kuitenkin a. ja
 > b. koh- dissa 50 %:lla korotettu palkka. Logistiikkatyöntekijälle
@@ -2235,13 +2587,13 @@ b.  50 %:lla korotettu palkka jos:
     asti korottamaton säännöllisen työajan palkka. Lisäksi
     noudatetaan 14. kohdan määräyksiä.
 
-3.  []{#_bookmark24 .anchor}Suhteutettua kuukausipalkkaa saavan
-    työntekijän työsopimuksen päättyessä kesken tasoittumisjakson ja
-    työajan jäädessä alle sovitun keskimääräisen viikkotyöajan,
-    vähennetään tekemättä jäänyttä tuntimäärää vastaava palkka
-    työntekijän lopputilistä.
+3.  <span id="10_§_Sunnuntaityö" class="anchor"></span>Suhteutettua
+    kuukausipalkkaa saavan työntekijän työsopimuksen päättyessä kesken
+    tasoittumisjakson ja työajan jäädessä alle sovitun keskimääräisen
+    viikkotyöajan, vähennetään tekemättä jäänyttä tuntimäärää vastaava
+    palkka työntekijän lopputilistä.
 
-###### *Työajan enimmäismäärä*
+###### Työajan enimmäismäärä
 
 4.  Työajan enimmäismäärä noudattaa työaikalaissa säädettyjä
     rajoituksia. Työajan enimmäismäärän tarkastelujaksona käytetään 6
@@ -2249,40 +2601,35 @@ b.  50 %:lla korotettu palkka jos:
     mukaisesti) pidentää enintään 12 kuu- kauteen. Jos työpaikalla on
     luottamusmies, asiasta sovitaan hänen kanssaan.
 
-###### *Tuntipalkkajakaja*
+###### Tuntipalkkajakaja
 
 5.  Tuntipalkka saadaan jakamalla kuukausipalkka 160:llä.
 
-###### *Lisä- ja ylityökorvausten vanhentuminen*
+###### Lisä- ja ylityökorvausten vanhentuminen
 
 6.  Lisä- ja ylityökorvaukset vanhentuvat työaikalain 40 §:n mukaan,
     ellei kan- netta nosteta:
 
-```{=html}
 <!-- -->
-```
-a.  työsuhteen jatkuessa 2 vuoden kuluessa sen kalenterivuoden päättymi-
+
+1.  työsuhteen jatkuessa 2 vuoden kuluessa sen kalenterivuoden päättymi-
     sestä, jonka aikana oikeus korvaukseen on syntynyt
 
-b.  työsuhteen päättyessä 2 vuoden kuluessa siitä, kun työsuhde on
+2.  työsuhteen päättyessä 2 vuoden kuluessa siitä, kun työsuhde on
     > päättynyt.
 
-```{=html}
-<!-- -->
-```
-10. #### § Sunnuntaityö
+#### § Sunnuntaityö
 
-    1.  Sunnuntaina tai kirkollisena juhlapäivänä saa teettää työtä
-        vain, jos siitä on työsopimuksella sovittu tai työntekijä antaa
-        siihen erikseen suostumuksensa.
+1.  Sunnuntaina tai kirkollisena juhlapäivänä saa teettää työtä vain,
+    jos siitä on työsopimuksella sovittu tai työntekijä antaa siihen
+    erikseen suostumuksensa.
 
-    2.  Sunnuntaityön teettämisessä noudatetaan tasapuolisuutta ottaen
-        erityisesti huomioon työntekijän ammattitaito, osaaminen ja
-        soveltuvuus tehtävään.
+2.  Sunnuntaityön teettämisessä noudatetaan tasapuolisuutta ottaen
+    erityisesti huomioon työntekijän ammattitaito, osaaminen ja
+    soveltuvuus tehtävään.
 
-    3.  Sunnuntaina tai kirkollisena juhla-, itsenäisyys- ja
-        vapunpäivänä tehdystä säännöllisestä työstä maksetaan
-        kaksinkertainen palkka.
+3.  Sunnuntaina tai kirkollisena juhla-, itsenäisyys- ja vapunpäivänä
+    tehdystä säännöllisestä työstä maksetaan kaksinkertainen palkka.
 
 > Sunnuntaityökorvausta laskettaessa työaikalisiä ei oteta huomioon
 > peruspal- kassa. Sunnuntaityökorvaus vanhenee työaikalain 40 §:n
@@ -2292,41 +2639,41 @@ b.  työsuhteen päättyessä 2 vuoden kuluessa siitä, kun työsuhde on
 
 #### § Työpalkat
 
-###### *Palkan suuruus*
+###### Palkan suuruus
 
-1.  Palkan suuruuteen vaikuttavat:
+4.  Palkan suuruuteen vaikuttavat:
 
--   työtehtävät
+- työtehtävät
 
--   koulutus
+- koulutus
 
--   palvelusvuodet
+- palvelusvuodet
 
--   lisät
+- lisät
 
--   työntekemispaikkakunta.
+- työntekemispaikkakunta.
 
-###### *Palvelusaika*
+###### Palvelusaika
 
 1.  Palvelusaikaan lasketaan:
 
--   samassa tämän työehtosopimuksen tarkoittamassa ammatissa työsken-
-    > nelty aika kokonaisuudessaan.
+- samassa tämän työehtosopimuksen tarkoittamassa ammatissa työsken-
+  nelty aika kokonaisuudessaan.
 
--   vuosilomalain 7 §:n mukainen työhön rinnastettava aika esimerkiksi
-    > ras- kaus- ja vanhempainvapaasta (hoitovapaata ja
-    > asevelvollisuusaikaa ei las- keta palvelusaikaan).
+- vuosilomalain 7 §:n mukainen työhön rinnastettava aika esimerkiksi
+  ras- kaus- ja vanhempainvapaasta (hoitovapaata ja asevelvollisuusaikaa
+  ei las- keta palvelusaikaan).
 
-    1.  Kokemus muussa ammatissa otetaan huomioon kohtuullisessa määrin,
-        jos se osittain vastaa työssä vaadittavaa ammattikokemusta. Tämä
-        pyritään totea- maan työsopimusta tehtäessä.
+  1.  Kokemus muussa ammatissa otetaan huomioon kohtuullisessa määrin,
+      jos se osittain vastaa työssä vaadittavaa ammattikokemusta. Tämä
+      pyritään totea- maan työsopimusta tehtäessä.
 
-###### *Koulutus*
+###### Koulutus
 
 2.  Työtehtävään liittyvän ammatillisen tutkinnon suorittanut on heti
     palkkataulu- kon 3. vuoden työntekijä.
 
-###### *Työskentely vaativammassa tehtävässä*
+###### Työskentely vaativammassa tehtävässä
 
 3.  Työntekijän tehdessä korkeamman vaativuusluokan työtä vähäistä
     suurem- massa määrin tulee tämän vaikutus palkkaukseen todeta tai
@@ -2336,7 +2683,7 @@ b.  työsuhteen päättyessä 2 vuoden kuluessa siitä, kun työsuhde on
 > tehtäväkohtaisesti tai jol- lain muulla vastaavalla tavalla
 > suhteutettuna, kuten kiinteänä lisänä.
 
-###### *Tilapäinen siirto*
+###### Tilapäinen siirto
 
 4.  Siirrettäessä työntekijä korkeammin palkattuun työhön
     yhdenjaksoisesti yli 2 viikoksi maksetaan yli menevältä ajalta
@@ -2344,7 +2691,7 @@ b.  työsuhteen päättyessä 2 vuoden kuluessa siitä, kun työsuhde on
 
 > Ennen siirtoa työnantaja toteaa sen vaikutuksen palkkaukseen.
 
-###### *Siirto vaativuustasossa*
+###### Siirto vaativuustasossa
 
 5.  Työntekijän siirtyessä erityisammattitehtävään uusi taulukkopalkka
     määräytyy sen vuosiportaan mukaan, joka on entistä taulukkopalkkaa
@@ -2353,7 +2700,7 @@ b.  työsuhteen päättyessä 2 vuoden kuluessa siitä, kun työsuhde on
     määräytyy taulukkopalkka sen vuosiportaan mukaan, johon hän kuului
     ennen siirtoa.
 
-###### *Vaativuustasojen ylittävä palkka*
+###### Vaativuustasojen ylittävä palkka
 
 6.  Erityisammattitehtäviä vaativimmissa tehtävissä palkka määräytyy
     sopimuk- sen mukaan.
@@ -2361,21 +2708,21 @@ b.  työsuhteen päättyessä 2 vuoden kuluessa siitä, kun työsuhde on
 > Palkan tulee kuitenkin olla erityisammattitehtävän vähimmäispalkkaa
 > korkeampi.
 
-###### *Osakuukauden palkka*
+###### Osakuukauden palkka
 
 7.  Osakuukauden palkka lasketaan:
 
--   kertomalla päiväpalkka palkkaan oikeuttavilla päivillä, jos niitä on
-    alle 13
+- kertomalla päiväpalkka palkkaan oikeuttavilla päivillä, jos niitä on
+  alle 13
 
--   vähentämällä kuukausipalkasta poissa oltujen työpäivien palkka, jos
-    palk- kaan oikeuttavia päiviä on vähintään 13.
+- vähentämällä kuukausipalkasta poissa oltujen työpäivien palkka, jos
+  palk- kaan oikeuttavia päiviä on vähintään 13.
 
 > Päiväpalkka saadaan jakamalla kuukausipalkka 21:llä, ellei yrityksen
 > käyttä- mästä tietojärjestelmästä johtuen käytetä kuukauden
 > todellisten työpäivien lukumäärää.
 
-###### *Koululaispalkka*
+###### Koululaispalkka
 
 1.  Peruskoulun, lukion tai ammatillisen oppilaitoksen oppilaalle
     voidaan maksaa koululaispalkkaa yhteensä enintään 2 kuukaudelta.
@@ -2385,11 +2732,11 @@ b.  työsuhteen päättyessä 2 vuoden kuluessa siitä, kun työsuhde on
 > Koululaisen työskenneltyä tämän työehtosopimuksen tarkoittamassa amma-
 > tissa 2 kuukautta palkka määräytyy harjoittelijan mukaan.
 
-###### *Taulukkopalkat*
+###### Taulukkopalkat
 
 2.  Taulukkopalkat ovat palkkaliitteessä.
 
-###### *Alle 37,5 tuntia tekevät*
+###### Alle 37,5 tuntia tekevät
 
 3.  Työntekijälle maksetaan tuntipalkka tai suhteutettu kuukausipalkka.
 
@@ -2399,8 +2746,7 @@ b.  työsuhteen päättyessä 2 vuoden kuluessa siitä, kun työsuhde on
 5.  Työntekijälle voidaan maksaa kuukausipalkka sovitun viikkotyöajan ja
     37,5 tunnin suhteessa seuraavan kaavan mukaan:
 
-> [kokoaikatyöntekijän taulukkopalkka x sovittu
-> viikkotyöaika]{.underline}
+> <u>kokoaikatyöntekijän taulukkopalkka x sovittu viikkotyöaika</u>
 >
 > 37,5
 >
@@ -2412,24 +2758,25 @@ b.  työsuhteen päättyessä 2 vuoden kuluessa siitä, kun työsuhde on
 
 #### § Myyjät ja myymälätyöntekijät
 
-###### *Harjoitteluaika*
+###### Harjoitteluaika
 
-1.  Harjoitteluaika on 1 vuosi.
+7.  Harjoitteluaika on 1 vuosi.
 
 > Harjoittelijan palkka on 85 % palkkaryhmä B1:n (1.6.2024 alkaen
 > palkkaryhmä B:n) 1. vuoden palkasta.
 >
 > Harjoitteluajan jälkeen maksetaan ao. palkkaryhmän 1. vuoden palkkaa.
 
-###### *Vaativuustasot*
+###### Vaativuustasot
 
-2.  Vaativuustasot ovat Myyjä I ja Myyjä II.
+8.  Vaativuustasot ovat Myyjä I ja Myyjä II.
 
 > Työntekijä kuuluu siihen vaativuustasoon, jonka mukaista työtä hän
 > tekee pää- osan työajastaan.
 >
-> []{#_bookmark30 .anchor}Työntekijä kuuluu Myyjä I:een, elleivät
-> työtehtävät edellytä hänen kuulumis- taan Myyjä II:een.
+> <span id="_bookmark30" class="anchor"></span>Työntekijä kuuluu Myyjä
+> I:een, elleivät työtehtävät edellytä hänen kuulumis- taan Myyjä
+> II:een.
 >
 > Työntekijä kuuluu Myyjä II:een työn ollessa erityisen vaativaa ja
 > edellyttä- essä erityistä koulutusta tai pitkäaikaisella kokemuksella
@@ -2437,71 +2784,70 @@ b.  työsuhteen päättyessä 2 vuoden kuluessa siitä, kun työsuhde on
 >
 > Työntekijän kuuluminen Myyjä II:een edellyttää lisäksi:
 
--   myyntiartikkeleiden tavanomaista parempaa erikoistuntemusta
+- myyntiartikkeleiden tavanomaista parempaa erikoistuntemusta
 
--   taitoa antaa asiakasohjausta ja -neuvontaa tuotteiden
-    > toimintaperiaatteista.
+- taitoa antaa asiakasohjausta ja -neuvontaa tuotteiden
+  > toimintaperiaatteista.
 
 > Myyjä II:n mukaisia työtehtäviä ovat muun muassa:
 
--   lihamestarin työt lajitelmiltaan ja myynnin määrältään suurehkoissa
-    > elin- tarvikemyymälöissä ja -osastoissa
+- lihamestarin työt lajitelmiltaan ja myynnin määrältään suurehkoissa
+  elin- tarvikemyymälöissä ja -osastoissa
 
--   sekä vastaavaa vaativuustasoa edellyttävät myyntitehtävät muissa
-    > myy- mälöissä, kuten esimerkiksi:
+- sekä vastaavaa vaativuustasoa edellyttävät myyntitehtävät muissa myy-
+  mälöissä, kuten esimerkiksi:
 
-    -   rakennus- ja LVI-tarvikkeiden myyntitehtävät myyjän tehdessä
-        > asiakkaan esittämien piirustusten tai ohjeiden perusteella
-        > kustannuslaskelmiin perus- tuvia myyntitarjouksia
+  - rakennus- ja LVI-tarvikkeiden myyntitehtävät myyjän tehdessä
+    asiakkaan esittämien piirustusten tai ohjeiden perusteella
+    kustannuslaskelmiin perus- tuvia myyntitarjouksia
 
-    -   myyntitehtävät, jotka edellyttävät tuotekokonaisuuksien
-        > tarjontaa asiak- kaan esittämien valmiiden työsuunnitelmien
-        > perusteella.
+  - myyntitehtävät, jotka edellyttävät tuotekokonaisuuksien tarjontaa
+    asiak- kaan esittämien valmiiden työsuunnitelmien perusteella.
 
-###### *Iltalisä*
+###### Iltalisä
 
-1.  Kello 18.00--24.00 tehdystä työstä maksetaan palkkaliitteen mukainen
+1.  Kello 18.00–24.00 tehdystä työstä maksetaan palkkaliitteen mukainen
     ilta- lisä myymälän aukiolosta riippumatta. Lisää ei makseta
     arkilauantai-iltana tehdystä työstä.
 
 > Iltalisä maksetaan sunnuntaina, kirkollisena juhla-, vapun- ja
-> itsenäisyyspäi- vänä (kello 18.00--24.00) yksinkertaisena. Myymälän
+> itsenäisyyspäi- vänä (kello 18.00–24.00) yksinkertaisena. Myymälän
 > ollessa auki sunnuntai- sin marras- ja joulukuussa kello 18.00 jälkeen
-> maksetaan sunnuntaisin kello 18.00--24.00 tehdystä työstä iltalisä
+> maksetaan sunnuntaisin kello 18.00–24.00 tehdystä työstä iltalisä
 > kaksinkertaisena.
 >
 > Lisä maksetaan myös muulle työntekijälle (esim. logistiikkatyöntekijä
 > ja toimihenkilö):
 
--   hänen työskennellessä säännöllisesti myymälässä tai sen välittömässä
-    > läheisyydessä ja
+- hänen työskennellessä säännöllisesti myymälässä tai sen välittömässä
+  läheisyydessä ja
 
--   töiden liittyessä aukiolon johdosta tehtävään myyntityöhön.
+- töiden liittyessä aukiolon johdosta tehtävään myyntityöhön.
 
 > Lisä voidaan sopia kiinteäksi kuukausikorvaukseksi työn ollessa
 > myymälän sul- kemisen jälkeen tapahtuvaa tavanomaista lopettamistyötä.
 
-###### *Aattoiltalisä*
+###### Aattoiltalisä
 
 1.  Myymälän oltua auki kirkollisen juhlapäivän aattona kello 18.00
-    jälkeen mak- setaan kello 18.00--24.00 tehdystä työstä lauantailisän
+    jälkeen mak- setaan kello 18.00–24.00 tehdystä työstä lauantailisän
     suuruinen aattoiltalisä.
 
 > Kirkollisen juhlapäivän aatot ovat:
 
--   loppiaisen aatto
+- loppiaisen aatto
 
--   kiirastorstai
+- kiirastorstai
 
--   helatorstain aatto
+- helatorstain aatto
 
--   juhannusaatto
+- juhannusaatto
 
--   pyhäinpäivän aatto
+- pyhäinpäivän aatto
 
--   jouluaatto
+- jouluaatto
 
--   uudenvuoden aatto.
+- uudenvuoden aatto.
 
 > Aaton ollessa lauantaina lisä määräytyy 6. kohdan mukaan.
 >
@@ -2509,9 +2855,9 @@ b.  työsuhteen päättyessä 2 vuoden kuluessa siitä, kun työsuhde on
 > mukaan. Vappu- ja itsenäisyyspäiväaaton lisä määräytyy 3. kohdan
 > mukaan.
 
-###### *Yölisä*
+###### Yölisä
 
-1.  Kello 00.00--06.00 tehdystä työstä maksetaan palkkaliitteen mukainen
+1.  Kello 00.00–06.00 tehdystä työstä maksetaan palkkaliitteen mukainen
     yölisä myymälän aukiolosta riippumatta. Lisää ei makseta
     sunnuntaiyönä eikä kirkol- lisen juhla-, vapun- ja itsenäisyyspäivän
     yönä tehdystä työstä.
@@ -2522,62 +2868,63 @@ b.  työsuhteen päättyessä 2 vuoden kuluessa siitä, kun työsuhde on
 > Lisä voidaan sopia kiinteäksi kuukausikorvaukseksi työn ollessa
 > myymälän sul- kemisen jälkeen tapahtuvaa tavanomaista lopettamistyötä.
 
-###### *Lauantailisä*
+###### Lauantailisä
 
-2.  Arkilauantaina kello 13.00--24.00 tehdystä työstä maksetaan
+2.  Arkilauantaina kello 13.00–24.00 tehdystä työstä maksetaan
     palkkaliitteen mukainen lauantailisä myymälän aukiolosta
     riippumatta.
 
 > Lisä maksetaan myös muulle työntekijälle 3. kohdan 3. kappaleen
 > mukaan.
 
-###### *Inventaarilisä lauantaina*
+###### Inventaarilisä lauantaina
 
-3.  Arkilauantaina kello 13.00--24.00 tehdystä inventaarityöstä
-    maksetaan lauan- tailisän suuruinen inventaarilisä.
+3.  Arkilauantaina kello 13.00–24.00 tehdystä inventaarityöstä maksetaan
+    lauan- tailisän suuruinen inventaarilisä.
 
-###### *Vastuulisä*
+###### Vastuulisä
 
 4.  Työntekijälle maksetaan vastuulisä hänen vastatessaan ja
     huolehtiessaan:
 
--   osastosta tai tuoteryhmästä
+- osastosta tai tuoteryhmästä
 
--   toisten työntekijöiden ohjauksesta, valvonnasta ja
-    > työaikasuunnitelmien tekemisestä
+- toisten työntekijöiden ohjauksesta, valvonnasta ja
+  työaikasuunnitelmien tekemisestä
 
--   myynti- ja mainossuunnittelusta ja raportoinnista. Vastuulisä on
-    vähintään 5 % taulukkopalkasta.
+- myynti- ja mainossuunnittelusta ja raportoinnista. Vastuulisä on
+  vähintään 5 % taulukkopalkasta.
 
 > Tehtävien ja vastuiden ollessa lähellä esihenkilöiden tehtäviä lisä
 > maksetaan 5 % suurempana.
 
-###### *Myymälänhoitajan sijaisuuslisä*
+###### Myymälänhoitajan sijaisuuslisä
 
 1.  Sijaisuuslisä maksetaan myymälänhoitajan sijaiselle.
 
 > Lisän suuruuteen vaikuttavat:
 
--   työntekijän alallaoloaika
+- työntekijän alallaoloaika
 
--   sijaisuuden kesto
+- sijaisuuden kesto
 
--   myymälän koko.
+- myymälän koko.
 
-> []{#_bookmark33 .anchor}Lisän suuruus on vähintään:
+> <span id="13_§_Varastotyöntekijät" class="anchor"></span>Lisän suuruus
+> on vähintään:
 >
-> 4--5 5
+> 4–5 5
 >
-> 6--10 10
+> 6–10 10
 >
-> 11--20 15
+> 11–20 15
 >
-> 21-- 20
+> 21– 20
 >
 > Maksettaessa 11 §:n 6. kohdan mukaista lisää (tilapäinen siirto)
 > myymälänhoi- tajan sijaisuuslisää ei makseta.
 
-###### *Kylmä- ja pakkashuonelisä*
+###### Kylmä- ja pakkashuonelisä
 
 1.  Kylmähuonelisä maksetaan työntekijän työskennellessä pääasiallisesti
     myymälän kylmähuoneessa.
@@ -2587,7 +2934,7 @@ b.  työsuhteen päättyessä 2 vuoden kuluessa siitä, kun työsuhde on
 2.  Pakkashuoneessa työskennellyiltä tunneilta maksetaan 20 %:lla
     korotettu palkka.
 
-###### *Hälytysraha*
+###### Hälytysraha
 
 3.  Hälytysraha maksetaan työntekijän poistuttua työpaikalta ja hänen
     tullessa hälytyskutsusta työhön saman vuorokauden aikana
@@ -2598,64 +2945,65 @@ b.  työsuhteen päättyessä 2 vuoden kuluessa siitä, kun työsuhde on
 
 #### § Logistiikkatyöntekijät
 
-###### *Harjoitteluaika*
+###### Harjoitteluaika
 
-1.  Harjoitteluaika on 1 vuosi.
+4.  Harjoitteluaika on 1 vuosi.
 
 > Harjoittelijan palkka on 85 % ko. vaativuusluokan 1. vuoden palkasta.
 
-###### *Iltalisä*
+###### Iltalisä
 
-2.  Kello 18.00--22.00 tehdystä työstä maksetaan palkkaliitteen mukainen
+5.  Kello 18.00–22.00 tehdystä työstä maksetaan palkkaliitteen mukainen
     iltalisä. Iltalisä maksetaan kaksinkertaisena sunnuntaina,
     kirkollisena juhla-, vapun- ja itsenäisyyspäivänä.
 
-3.  Logistiikkatyön liittyessä myyntityöhön lisä maksetaan 12 §:n 3.
+6.  Logistiikkatyön liittyessä myyntityöhön lisä maksetaan 12 §:n 3.
     ja 4. kohtien mukaan.
 
-###### *Yölisä*
+###### Yölisä
 
-4.  Kello 22.00--06.00 tehdystä työstä maksetaan palkkaliitteen mukainen
+7.  Kello 22.00–06.00 tehdystä työstä maksetaan palkkaliitteen mukainen
     yölisä. Yölisä maksetaan kaksinkertaisena sunnuntaina, kirkollisena
     juhla-, vapun- ja itsenäisyyspäivänä.
 
-5.  Logistiikkatyön liittyessä myyntityöhön lisä maksetaan 12 §:n 5.
+8.  Logistiikkatyön liittyessä myyntityöhön lisä maksetaan 12 §:n 5.
     kohdan mukaan.
 
-###### *Lauantailisä*
+###### Lauantailisä
 
-6.  Arkilauantaina kello 13.00--22.00 tehdystä työstä maksetaan
+9.  Arkilauantaina kello 13.00–22.00 tehdystä työstä maksetaan
     palkkaliitteen mukainen lauantailisä.
 
-7.  Logistiikkatyön liittyessä myyntityöhön lisä maksetaan 12 §:n 6.
+10. Logistiikkatyön liittyessä myyntityöhön lisä maksetaan 12 §:n 6.
     kohdan mukaan.
 
-###### *Olosuhdelisät*
+###### Olosuhdelisät
 
-8.  Lisiä maksetaan seuraavasti:
+11. Lisiä maksetaan seuraavasti:
 
 > *Raskaat tai likaiset olosuhteet*
 >
 > Lisä maksetaan poikkeuksellisen raskaissa tai likaisissa olosuhteissa
 > tehtä- viltä tunneilta.
 >
-> Lisä on 7--11 % taulukkopalkasta tunnilta.
+> Lisä on 7–11 % taulukkopalkasta tunnilta.
 >
-> []{#_bookmark35 .anchor}*Muuten vaikeat olosuhteet*
+> <span id="Pakastevarastolisä" class="anchor"></span>*Muuten vaikeat
+> olosuhteet*
 >
 > Lisä maksetaan myös muuten vaikeissa olosuhteissa tehtäviltä
 > tunneilta.
 >
 > Tällaista työtä voi olla esimerkiksi:
 
--   työ ulko- tai lämmittämättömässä varastossa talviaikana
+- työ ulko- tai lämmittämättömässä varastossa talviaikana
 
--   työ tuoretavaravarastossa
+- työ tuoretavaravarastossa
 
--   vaarallisten aineiden käsittely
+- vaarallisten aineiden käsittely
 
--   tai käsin suoritettavien suurten tavaramäärien siirtely. Lisä on
-    7--11 % taulukkopalkasta tunnilta.
+- tai käsin suoritettavien suurten tavaramäärien siirtely. Lisä on 7–11
+  % taulukkopalkasta tunnilta.
 
 > Lisiä määrättäessä selvitetään, miten suuri osa logistiikkatyöntekijän
 > työstä poikkeaa logistiikkatyön keskimääräisistä olosuhteista sekä
@@ -2665,7 +3013,7 @@ b.  työsuhteen päättyessä 2 vuoden kuluessa siitä, kun työsuhde on
 >
 > Jos työpaikalla on luottamusmies, asiasta sovitaan hänen kanssaan.
 
-###### *Pakastevarastolisä*
+###### Pakastevarastolisä
 
 1.  Pakastevarastossa tehdyiltä tunneilta maksetaan 20 %:lla korotettu
     palkka.
@@ -2673,14 +3021,14 @@ b.  työsuhteen päättyessä 2 vuoden kuluessa siitä, kun työsuhde on
 > Pääasiallisesti pakastevarastossa työskentelevälle työntekijälle lisä
 > maksetaan kaikilta tunneilta.
 
-###### *Työryhmän vanhin (nokkamies)*
+###### Työryhmän vanhin (nokkamies)
 
 2.  Työryhmän vanhin on erikseen nimetty logistiikkatyöntekijä, joka:
 
--   työskentelee pysyvästi kaupan logistiikan esihenkilön apuna
-    työnjohto- tehtävissä ja
+- työskentelee pysyvästi kaupan logistiikan esihenkilön apuna työnjohto-
+  tehtävissä ja
 
--   tekee myös tavanomaista logistiikkatyötä.
+- tekee myös tavanomaista logistiikkatyötä.
 
 > Taulukkopalkka on palkkaryhmä B2:n 8. vuoden taulukkopalkka
 > korotettuna vähintään 10 %:lla.
@@ -2688,7 +3036,7 @@ b.  työsuhteen päättyessä 2 vuoden kuluessa siitä, kun työsuhde on
 > Työryhmän vanhinta (nokkamies) koskeva määräys on voimassa 31.12.2023
 > asti.
 
-###### *Hälytysraha* {#hälytysraha-2}
+###### Hälytysraha
 
 1.  Hälytysraha maksetaan työntekijän poistuttua työpaikalta ja hänen
     tullessa hälytyskutsusta työhön saman vuorokauden aikana
@@ -2697,15 +3045,15 @@ b.  työsuhteen päättyessä 2 vuoden kuluessa siitä, kun työsuhde on
 > Hälytysraha on 2 tunnin palkka muun hälytystyöstä maksettavan palkan
 > lisäksi.
 
-###### *Vaativuusluokitus (1.1.2024 alkaen)*
+###### Vaativuusluokitus (1.1.2024 alkaen)
 
 2.  Logistiikkatehtävien vaativuusluokitukset ovat palkkaliitteessä.
 
 #### § Toimihenkilöt
 
-###### *Harjoitteluaika*
+###### Harjoitteluaika
 
-1.  Harjoitteluaika on kullekin toimihenkilöalalle tulevalle 1 vuosi.
+3.  Harjoitteluaika on kullekin toimihenkilöalalle tulevalle 1 vuosi.
 
 > Harjoitteluaika edellytetään toimihenkilöalalle tultaessa
 > suoritettavaksi ainoas- taan kerran.
@@ -2713,87 +3061,83 @@ b.  työsuhteen päättyessä 2 vuoden kuluessa siitä, kun työsuhde on
 > Harjoittelijan palkka on 85 % toimihenkilön ko. vaativuustason 1.
 > vuoden palkasta.
 
-###### *Työaikalisät*
+###### Työaikalisät
 
-2.  Kello 18.00--06.00 tehdystä työstä maksetaan palkkaliitteen mukainen
+4.  Kello 18.00–06.00 tehdystä työstä maksetaan palkkaliitteen mukainen
     ilta- lisä. Iltalisä maksetaan sunnuntaina, kirkollisena juhla-,
-    vapun- ja itsenäisyys- päivänä (kello 18.00--24.00)
-    kaksinkertaisena.
+    vapun- ja itsenäisyys- päivänä (kello 18.00–24.00) kaksinkertaisena.
 
 > Lisää ei makseta:
 
--   käytettäessä liukuvaa työaikaa tai
+- käytettäessä liukuvaa työaikaa tai
 
--   työntekijän päättäessä itse säännöllisen työaikansa ajankohdasta.
+- työntekijän päättäessä itse säännöllisen työaikansa ajankohdasta.
 
-> Toimihenkilötyön liittyessä myyntityöhön lisä maksetaan 12 §:n 3.--6.
+> Toimihenkilötyön liittyessä myyntityöhön lisä maksetaan 12 §:n 3.–6.
 > kohtien mukaan.
 
-###### *Vaativuusluokitus (1.1.2024 alkaen)*
+###### Vaativuusluokitus (1.1.2024 alkaen)
 
 1.  Toimihenkilöiden vaativuusluokitukset ovat palkkaliitteessä.
 
-```{=html}
-<!-- -->
-```
-15. #### § Muut ammattiryhmät
+#### § Muut ammattiryhmät
 
-    1.  Tämän pykälän ammattiryhmiin noudatetaan työehtosopimuksen
-        määräyksiä alla esitetyin poikkeuksin.
+2.  Tämän pykälän ammattiryhmiin noudatetaan työehtosopimuksen
+    määräyksiä alla esitetyin poikkeuksin.
 
-###### *Pika- ja noutotukkutyöntekijät*
+###### Pika- ja noutotukkutyöntekijät
 
-2.  Pika- ja noutotukkutyöntekijän palkka määräytyy 13 §:n mukaan lukuun
+3.  Pika- ja noutotukkutyöntekijän palkka määräytyy 13 §:n mukaan lukuun
     otta- matta 13 §:n 3., 5. ja 7. kohtia.
 
-###### *Vahtimestarit*
+###### Vahtimestarit
 
-3.  Vahtimestarin palkka määräytyy työsopimuksen mukaan.
+4.  Vahtimestarin palkka määräytyy työsopimuksen mukaan.
 
 > Työajan määräytyessä myymälässä työskentelevän työntekijän työajan
 > perus- teella maksetaan ilta-, aattoilta-, yö- ja lauantailisä 12 §:n
-> 3.--6. kohtien mukaan.
+> 3.–6. kohtien mukaan.
 >
 > Työajan määräytyessä muulla perusteella maksetaan ilta-, yö- ja
 > lauantailisä 13 §:n 2., 4. ja 6. kohtien mukaan.
 >
 > Lisät voidaan sopia osaksi kokonaispalkkaa.
 
-###### *Lähetit*
+###### Lähetit
 
-4.  Harjoitteluaika on 1 vuosi.
+5.  Harjoitteluaika on 1 vuosi.
 
 > Harjoittelijan palkka on 85 % palkkaryhmä A:n 1. vuoden palkasta.
 
-###### *Korjausompelijat*
+###### Korjausompelijat
 
-5.  Korjausompelijan palkkaryhmä on B1 (1.6.2024 alkaen B).
+6.  Korjausompelijan palkkaryhmä on B1 (1.6.2024 alkaen B).
 
-###### *Siivoojat*
+###### Siivoojat
 
-6.  Kello 18.00--22.00 tehdystä työstä maksetaan palkkaliitteen mukainen
-    ilta- lisä. Kello 22.00--06.00 tehdystä työstä maksetaan
+7.  Kello 18.00–22.00 tehdystä työstä maksetaan palkkaliitteen mukainen
+    ilta- lisä. Kello 22.00–06.00 tehdystä työstä maksetaan
     palkkaliitteen mukainen yölisä. Ilta- ja yölisä maksetaan
     kaksinkertaisena sunnuntaina, kirkollisena juhla-, vapun- ja
     itsenäisyyspäivänä.
 
-7.  Viikkotyöpäivien määrä voidaan sopia työsopimuksessa.
+8.  Viikkotyöpäivien määrä voidaan sopia työsopimuksessa.
 
 # POISSAOLOT
 
 #### § Sairastuminen
 
-###### *Palkanmaksun edellytykset*
+###### Palkanmaksun edellytykset
 
-1.  Palkka maksetaan, jos:
+9.  Palkka maksetaan, jos:
 
--   työntekijä on sairastumisen tai tapaturman johdosta estynyt
-    > tekemästä työsopimuksensa mukaista työtä ja
+- työntekijä on sairastumisen tai tapaturman johdosta estynyt tekemästä
+  työsopimuksensa mukaista työtä ja
 
--   työntekijä ei ole aiheuttanut työkyvyttömyyttä tahallisesti tai
-    > törkeällä huolimattomuudella.
+- työntekijä ei ole aiheuttanut työkyvyttömyyttä tahallisesti tai
+  törkeällä huolimattomuudella.
 
-###### *Ilmoitusvelvollisuus ja lääkärintodistus*
+###### Ilmoitusvelvollisuus ja lääkärintodistus
 
 1.  Työntekijän on viipymättä ilmoitettava poissaolosta ja jos
     mahdollista sen kes- tosta. Työntekijän laiminlyödessä välittömän
@@ -2809,26 +3153,27 @@ b.  työsuhteen päättyessä 2 vuoden kuluessa siitä, kun työsuhde on
 > hyväksyttäväksi todistukseksi enintään 3 kalenteripäivää kestävän
 > sairaustapauksen osalta jos:
 
--   työnantaja ei ole järjestänyt lakisääteistä laajempaa ja
-    > lääkäripalvelut kat- tavaa työterveyshuoltoa,
+- työnantaja ei ole järjestänyt lakisääteistä laajempaa ja
+  lääkäripalvelut kat- tavaa työterveyshuoltoa,
 
--   työntekijä ei ole pyynnöstä huolimatta saanut vastaanottoaikaa
-    > julkisen terveydenhuollon piiriin kuuluvalta lääkäriltä ja
-    > työntekijä on toimittanut tästä selvityksen työnantajalle ja
+- työntekijä ei ole pyynnöstä huolimatta saanut vastaanottoaikaa
+  julkisen terveydenhuollon piiriin kuuluvalta lääkäriltä ja työntekijä
+  on toimittanut tästä selvityksen työnantajalle ja
 
--   kyseessä on tavanomainen infektiosairaus (esim. flunssa tai
-    > vatsatauti).
+- kyseessä on tavanomainen infektiosairaus (esim. flunssa tai
+  > vatsatauti).
 
--   Jos kyseessä on epidemiaksi todettu sairaus (esim. influenssa), sama
-    > ter- veydenhoitaja tai sairaanhoitaja voi tutkimuksensa
-    > perusteella antaa tarvit- taessa uuden todistuksen enintään 3
-    > kalenteripäiväksi kerrallaan.
+- Jos kyseessä on epidemiaksi todettu sairaus (esim. influenssa), sama
+  ter- veydenhoitaja tai sairaanhoitaja voi tutkimuksensa perusteella
+  antaa tarvit- taessa uuden todistuksen enintään 3 kalenteripäiväksi
+  kerrallaan.
 
 > Jos sairaudesta tai tapaturmasta johtuva työkyvyttömyys alkaa
 > vuosiloman tai sen osan aikana, työnantajalla on oikeus vaatia
 > lääkärintodistus työkyvyt- tömyydestä edellisen kappaleen estämättä.
 >
-> []{#_bookmark39 .anchor}Jos työnantajalla on perusteltu syy epäillä
+> <span id="Menettely_terveyspalveluiden_puuttuessa"
+> class="anchor"></span>Jos työnantajalla on perusteltu syy epäillä
 > työntekijän työkyvyttömyyttä, työn- antaja voi pyytää työntekijää
 > hankkimaan palkanmaksuvelvollisuuden edelly- tyksenä uuden
 > lääkärinlausunnon nimeämältään lääkäriltä.
@@ -2836,7 +3181,7 @@ b.  työsuhteen päättyessä 2 vuoden kuluessa siitä, kun työsuhde on
 > Työnantajan nimetessä lääkärin työnantaja maksaa lääkärintodistuksen
 > hankkimiskustannukset.
 
-###### *Menettely terveyspalveluiden puuttuessa*
+###### Menettely terveyspalveluiden puuttuessa
 
 1.  Jos työntekijällä ei ole mahdollisuutta saada lääkärin, terveyden-
     tai sairaan- hoitajan todistusta terveyspalveluiden puuttuessa (tämä
@@ -2856,7 +3201,7 @@ b.  työsuhteen päättyessä 2 vuoden kuluessa siitä, kun työsuhde on
 > Työntekijän lai- minlyödessä välittömän ilmoittamisen tahallaan tai
 > huolimattomuudesta pal- kanmaksuvelvollisuus alkaa ilmoittamisesta.
 
-###### *Omailmoitusmenettely*
+###### Omailmoitusmenettely
 
 2.  Alla oleva menettely ei koske yrityksissä ennen 1.2.2017 käyttöön
     otettuja omailmoitusjärjestelyjä.
@@ -2873,17 +3218,18 @@ b.  työsuhteen päättyessä 2 vuoden kuluessa siitä, kun työsuhde on
 > Omailmoitusmenettely koskee vain lyhytkestoisia sairauksia, jotka
 > eivät vaadi lääkärinhoitoa (esim. flunssa, vatsatauti).
 >
-> []{#_bookmark40 .anchor}Työkyvyttömyydestä tulee ilmoittaa
-> työnantajalle viipymättä. Työntekijän lai- minlyödessä välittömän
-> ilmoittamisen tahallaan tai huolimattomuudesta pal-
-> kan-maksuvelvollisuus alkaa ilmoittamisesta.
+> <span id="Työskentely_osittaisella_työkyvyllä_"
+> class="anchor"></span>Työkyvyttömyydestä tulee ilmoittaa työnantajalle
+> viipymättä. Työntekijän lai- minlyödessä välittömän ilmoittamisen
+> tahallaan tai huolimattomuudesta pal- kan-maksuvelvollisuus alkaa
+> ilmoittamisesta.
 >
 > Työnantaja voi velvoittaa palkanmaksuvelvollisuuden edellytyksenä
 > työnteki- jää toimittamaan lääkärintodistuksen jo ensimmäisestä
 > päivästä lukien, mikäli katsoo sen perustellusta syystä
 > tarpeelliseksi.
 
-###### *Työskentely osittaisella työkyvyllä*
+###### Työskentely osittaisella työkyvyllä
 
 3.  Jos työntekijä ei ole sairauden tai tapaturman vuoksi täysin
     työkyvytön, voi- daan hänen omaa tavanomaista työtään muokata tai
@@ -2911,11 +3257,11 @@ b.  työsuhteen päättyessä 2 vuoden kuluessa siitä, kun työsuhde on
 > työpai- kalla työsuojeluyhteistoiminnassa työntekijän turvallisuutta
 > ja terveyttä koske- vana aiheena. Käsiteltäviä aiheita ovat mm.:
 
--   ns. tavanomaiset sairaudet (tyypillisesti esim. kuume, flunssa tai
-    > vatsatau- dit), joiden aikana työskentely ei ole mahdollista
+- ns. tavanomaiset sairaudet (tyypillisesti esim. kuume, flunssa tai
+  vatsatau- dit), joiden aikana työskentely ei ole mahdollista
 
--   esimerkkitehtävät tai tehtävien muokkaukset, jotka mahdollistavat
-    > työs- kentelyn erityyppisistä terveysrajoituksista huolimatta.
+- esimerkkitehtävät tai tehtävien muokkaukset, jotka mahdollistavat
+  työs- kentelyn erityyppisistä terveysrajoituksista huolimatta.
 
 > Suunniteltaessa kevennettyä tai korvaavaa työtä työntekijällä on
 > mahdollisuus käyttää avustajanaan työsuojeluvaltuutettua tai
@@ -2924,7 +3270,7 @@ b.  työsuhteen päättyessä 2 vuoden kuluessa siitä, kun työsuhde on
 > Työsuojeluvaltuutetulla on oikeus pyynnöstä saada tiedot kevennetyn ja
 > kor- vaavan työn käytöstä yrityksessä.
 
-###### *Palkanmaksu*
+###### Palkanmaksu
 
 1.  Palkka maksetaan kunkin työkyvyttömyystapauksen yhteydessä
     seuraavasti:
@@ -2935,9 +3281,9 @@ b.  työsuhteen päättyessä 2 vuoden kuluessa siitä, kun työsuhde on
 >
 > vähintään 3 kk mutta alle 3 vuotta 4 viikkoa
 >
-> 3 vuotta -- alle 5 vuotta 5 viikkoa
+> 3 vuotta – alle 5 vuotta 5 viikkoa
 >
-> 5 vuotta -- alle 10 vuotta 6 viikkoa
+> 5 vuotta – alle 10 vuotta 6 viikkoa
 >
 > vähintään 10 vuotta 8 viikkoa
 >
@@ -2967,17 +3313,18 @@ b.  työsuhteen päättyessä 2 vuoden kuluessa siitä, kun työsuhde on
 > Logistiikan lauantailisää (13 §:n 6. kohta) ei oteta huomioon
 > sairausajan palkassa.
 >
-> []{#_bookmark42 .anchor}Työnantaja maksaa sairausajan palkan suoraan
-> työntekijälle ja hakee itselleen sairausvakuutuskorvauksen.
+> <span id="Sairauden_uusiutuminen" class="anchor"></span>Työnantaja
+> maksaa sairausajan palkan suoraan työntekijälle ja hakee itselleen
+> sairausvakuutuskorvauksen.
 >
 > Paikallisesti voidaan sopia sairausajan palkan maksamisesta seuraavaa:
 
--   Sairausvakuutuslain karenssiaikaan sisältyviltä työpäiviltä
-    > maksetaan täysi palkka.
+- Sairausvakuutuslain karenssiaikaan sisältyviltä työpäiviltä maksetaan
+  täysi palkka.
 
--   Karenssin jälkeisiltä työpäiviltä maksetaan päiväpalkan ja
-    > sairausvakuu- tuskorvauksen erotus. Maksaminen edellyttää
-    > selvitystä päivärahan suuruudesta.
+- Karenssin jälkeisiltä työpäiviltä maksetaan päiväpalkan ja
+  sairausvakuu- tuskorvauksen erotus. Maksaminen edellyttää selvitystä
+  päivärahan suuruudesta.
 
 > Työtapaturmasta johtuva sairausajan palkka maksetaan palkalliselta
 > jaksolta suoraan työntekijälle.
@@ -2991,52 +3338,94 @@ b.  työsuhteen päättyessä 2 vuoden kuluessa siitä, kun työsuhde on
 > ajanjaksolta saatu päiväraha tai siihen rinnastettava korvaus, joka
 > maksetaan:
 
--   lain perusteella
+- lain perusteella
 
--   työnantajan kokonaan tai osaksi kustantaman muun vakuutuksen
-    > perusteella
+- työnantajan kokonaan tai osaksi kustantaman muun vakuutuksen
+  perusteella
 
--   tai työnantajan kannatusmaksua saavasta sairausavustuskassasta.
+- tai työnantajan kannatusmaksua saavasta sairausavustuskassasta.
 
 > Palkan tultua jo maksetuksi työnantaja voi nostaa korvaukset itselleen
 > tai periä ne työntekijältä, kuitenkin enintään maksamansa määrän.
 
-###### *Sairauden uusiutuminen*
+###### Sairauden uusiutuminen
 
 1.  Työntekijän sairastuessa samaan sairauteen 30 päivän kuluessa työhön
     paluusta maksetaan sairausajan palkka seuraavasti:
 
--   poissaolojaksot lasketaan yhteen ja niiltä maksetaan palkka kuin
-    > kyseessä olisi 1 sairastumisjakso
+- poissaolojaksot lasketaan yhteen ja niiltä maksetaan palkka kuin
+  kyseessä olisi 1 sairastumisjakso
 
--   palkka maksetaan kuitenkin sairausvakuutuslain karenssiajalta eli
-    > sairastu- mispäivältä sen ollessa työpäivä.
+- palkka maksetaan kuitenkin sairausvakuutuslain karenssiajalta eli
+  sairastu- mispäivältä sen ollessa työpäivä.
 
-> []{#_bookmark43 .anchor}Esimerkki 31
+> <span id="Karanteeni" class="anchor"></span>Esimerkki 31
 >
 > Työntekijän työsuhde on kestänyt 1 vuoden. Työntekijä saa
 > sairastuessaan työsuhteen keston perusteella palkkaa enintään 4
 > viikolta eli 28 kalente- ripäivältä. Jaksoon sisältyviltä työpäiviltä
 > maksetaan sairausajan palkka.
 
-+----------+------+----+-----------+-----+------------+--------------+
-| >        |      |    | >         |     |            | > Sairaus-   |
-| Sairaus- |      |    |  Sairaus- |     |            | > poissaolo  |
-| > p      |      |    | >         |     |            |              |
-| oissaolo |      |    | poissaolo |     |            |              |
-+==========+======+====+===========+=====+============+==============+
-| > 1.4.   | > 1  |    | > 21.4.   | > 5 | > 16.5.    | > 30.5.      |
-|          | 3.4. |    |           | .5. |            |              |
-+----------+------+----+-----------+-----+------------+--------------+
+<table>
+<colgroup>
+<col style="width: 15%" />
+<col style="width: 9%" />
+<col style="width: 8%" />
+<col style="width: 17%" />
+<col style="width: 8%" />
+<col style="width: 18%" />
+<col style="width: 21%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><blockquote>
+<p>Sairaus- poissaolo</p>
+</blockquote></th>
+<th></th>
+<th></th>
+<th><blockquote>
+<p>Sairaus- poissaolo</p>
+</blockquote></th>
+<th></th>
+<th></th>
+<th><blockquote>
+<p>Sairaus- poissaolo</p>
+</blockquote></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><blockquote>
+<p>1.4.</p>
+</blockquote></td>
+<td><blockquote>
+<p>13.4.</p>
+</blockquote></td>
+<td></td>
+<td><blockquote>
+<p>21.4.</p>
+</blockquote></td>
+<td><blockquote>
+<p>5.5.</p>
+</blockquote></td>
+<td><blockquote>
+<p>16.5.</p>
+</blockquote></td>
+<td><blockquote>
+<p>30.5.</p>
+</blockquote></td>
+</tr>
+</tbody>
+</table>
 
 > 13 pv + 15 pv 1 pv
 >
-> Ensimmäinen sairausjakso 1.4.--13.4. = 13 kalenteripäivää. Palkka
+> Ensimmäinen sairausjakso 1.4.–13.4. = 13 kalenteripäivää. Palkka
 > maksetaan 13 kalenteripäivään sisältyviltä työpäiviltä.
 >
-> Toinen sairausjakso samasta sairaudesta 21.4.--16.5. = 26
-> kalenteripäivää. Palkka maksetaan jäljellä oleviin (28 -- 13) 15
-> kalenteripäivään 21.4.--5.5. sisältyviltä työpäiviltä.
+> Toinen sairausjakso samasta sairaudesta 21.4.–16.5. = 26
+> kalenteripäivää. Palkka maksetaan jäljellä oleviin (28 – 13) 15
+> kalenteripäivään 21.4.–5.5. sisältyviltä työpäiviltä.
 >
 > Saman sairauden takia työntekijä jää vielä 30.5. sairauslomalle.
 > Palkka maksetaan tältä jaksolta ainoastaan sairausvakuutuslain
@@ -3046,12 +3435,12 @@ b.  työsuhteen päättyessä 2 vuoden kuluessa siitä, kun työsuhde on
 > Saman sairauden uusiutuessa yli 30 päivän kuluttua töihin palaamisesta
 > sairausajan palkka maksetaan niin kuin kyseessä olisi uusi sairaus.
 
-###### *Karanteeni*
+###### Karanteeni
 
 1.  Työntekijän ollessa poissa työstä tartuntatautilain perusteella
     hänelle makse- taan palkka tämän pykälän mukaan.
 
-###### *Alle 37,5 tuntia tekevät*
+###### Alle 37,5 tuntia tekevät
 
 2.  Palkka maksetaan työvuoroluetteloon merkityiltä tunneilta.
 
@@ -3060,34 +3449,34 @@ b.  työsuhteen päättyessä 2 vuoden kuluessa siitä, kun työsuhde on
 
 #### § Tilapäinen poissaolo
 
-###### *Äkillinen sairaus perheessä*
+###### Äkillinen sairaus perheessä
 
-1.  Työntekijälle pyritään antamaan mahdollisuus lyhyeen palkattomaan
+3.  Työntekijälle pyritään antamaan mahdollisuus lyhyeen palkattomaan
     poissa- oloon perheessä sattuneen äkillisen sairauden johdosta.
 
-2.  Alle 10-vuotiaan lapsen sairastuessa äkillisesti lapsen huoltajalle,
+4.  Alle 10-vuotiaan lapsen sairastuessa äkillisesti lapsen huoltajalle,
     huoltajan avio- tai avopuolisolle tai huoltajalle, joka ei asu
-    lapsen kanssa samassa talo- udessa, maksetaan palkka 1--3
+    lapsen kanssa samassa talo- udessa, maksetaan palkka 1–3
     kalenteripäivään sisältyviltä työpäiviltä 16 §:n mukaan.
 
 > Palkanmaksun edellytyksenä on, että
 
--   lyhyt poissaolo on välttämätön lapsen hoidon järjestämiseksi tai
-    > lapsen hoitamiseksi ja
+- lyhyt poissaolo on välttämätön lapsen hoidon järjestämiseksi tai
+  lapsen hoitamiseksi ja
 
--   työntekijä on viipymättä ilmoittanut poissaolosta ja jos mahdollista
-    > sen kestosta ja
+- työntekijä on viipymättä ilmoittanut poissaolosta ja jos mahdollista
+  sen kestosta ja
 
--   lapsen sairaudesta on toimitettu lääkärintodistus tai muu
-    > työnantajan hyväksymä selvitys.
+- lapsen sairaudesta on toimitettu lääkärintodistus tai muu työnantajan
+  hyväksymä selvitys.
 
 > Muulle kuin yksinhuoltajalle palkka maksetaan, jos
 
--   toisella huoltajalla
+- toisella huoltajalla
 
--   huoltajan avio- tai avopuolisolla tai
+- huoltajan avio- tai avopuolisolla tai
 
--   lapsen huoltajalla, joka ei asu lapsen kanssa samassa taloudessa,
+- lapsen huoltajalla, joka ei asu lapsen kanssa samassa taloudessa,
 
 > ei ole ansiotyön työajan, välimatkan (asuinpaikka), asevelvollisuuden
 > tai sivii- lipalvelun suorittamisen tai kertausharjoitusten takia
@@ -3097,32 +3486,75 @@ b.  työsuhteen päättyessä 2 vuoden kuluessa siitä, kun työsuhde on
 > Tarvittaessa työntekijälle pyritään antamaan 3 kalenteripäivää pidempi
 > pal- katon poissaolo.
 
-+----------------+---------+-------+--------+--------+---------+----+
-| > [            |         |       |        |        |         |    |
-| ]{#_bookmark45 |         |       |        |        |         |    |
-| > .an          |         |       |        |        |         |    |
-| chor}Esimerkki |         |       |        |        |         |    |
-| > 33           |         |       |        |        |         |    |
-+================+=========+=======+========+========+=========+====+
-| > Työvuoro-    | > To    | > Pe  | > La   | > Su   | > Ma    | Ti |
-+----------------+---------+-------+--------+--------+---------+----+
-| > luettelo:    | > T     | T     | > V    | > V    | T       | T  |
-+----------------+---------+-------+--------+--------+---------+----+
-|                |         | >     |        |        |         |    |
-|                |         | lapsi |        |        |         |    |
-|                |         | > sai |        |        |         |    |
-|                |         | raana |        |        |         |    |
-|                |         | > ja  |        |        |         |    |
-|                |         | >     |        |        |         |    |
-|                |         | työnt |        |        |         |    |
-|                |         | ekijä |        |        |         |    |
-|                |         | >     |        |        |         |    |
-|                |         |  pois |        |        |         |    |
-|                |         | > t   |        |        |         |    |
-|                |         | öistä |        |        |         |    |
-+----------------+---------+-------+--------+--------+---------+----+
+<table>
+<colgroup>
+<col style="width: 24%" />
+<col style="width: 14%" />
+<col style="width: 12%" />
+<col style="width: 13%" />
+<col style="width: 13%" />
+<col style="width: 14%" />
+<col style="width: 8%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><blockquote>
+<p><span id="Vihkiminen_ja_merkkipäivä" class="anchor"></span>Esimerkki
+33</p>
+</blockquote></th>
+<th colspan="6"></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><blockquote>
+<p>Työvuoro-</p>
+</blockquote></td>
+<td><blockquote>
+<p>To</p>
+</blockquote></td>
+<td><blockquote>
+<p>Pe</p>
+</blockquote></td>
+<td><blockquote>
+<p>La</p>
+</blockquote></td>
+<td><blockquote>
+<p>Su</p>
+</blockquote></td>
+<td><blockquote>
+<p>Ma</p>
+</blockquote></td>
+<td>Ti</td>
+</tr>
+<tr class="even">
+<td><blockquote>
+<p>luettelo:</p>
+</blockquote></td>
+<td><blockquote>
+<p>T</p>
+</blockquote></td>
+<td>T</td>
+<td><blockquote>
+<p>V</p>
+</blockquote></td>
+<td><blockquote>
+<p>V</p>
+</blockquote></td>
+<td>T</td>
+<td>T</td>
+</tr>
+<tr class="odd">
+<td colspan="2"></td>
+<td colspan="3"><blockquote>
+<p>lapsi sairaana ja työntekijä pois töistä</p>
+</blockquote></td>
+<td colspan="2"></td>
+</tr>
+</tbody>
+</table>
 
-###### *Vihkiminen ja merkkipäivä*
+###### Vihkiminen ja merkkipäivä
 
 1.  Työntekijän vihkimispäivä on palkallinen vapaapäivä sen ollessa
     työpäivä.
@@ -3130,7 +3562,7 @@ b.  työsuhteen päättyessä 2 vuoden kuluessa siitä, kun työsuhde on
 2.  Työntekijän 50- ja 60-vuotispäivä on palkallinen vapaapäivä sen
     ollessa työ- päivä.
 
-###### *Kuolema ja hautajaiset*
+###### Kuolema ja hautajaiset
 
 3.  Työntekijälle pyritään järjestämään mahdollisuus lyhyeen poissaoloon
     lähio- maisen kuoleman ja hautajaisten johdosta.
@@ -3138,7 +3570,8 @@ b.  työsuhteen päättyessä 2 vuoden kuluessa siitä, kun työsuhde on
 > Lyhyellä poissaololla tarkoitetaan kuolemasta ja hautajaisista
 > johtuviin järjes- telyihin tarvittavaa aikaa.
 >
-> []{#_bookmark46 .anchor}Poissaolon kestäessä lähiomaisen kuoleman
+> <span id="Kutsunta_ja_kertausharjoitukset"
+> class="anchor"></span>Poissaolon kestäessä lähiomaisen kuoleman
 > johdosta yli päivän työnteki- jän on annettava työnantajan pyynnöstä
 > etukäteen selvitys ajan tarpeesta. Lähiomaisen hautajaisista
 > johtuvasta, yli päivän kestävästä ajan tarpeesta on annettava
@@ -3149,7 +3582,7 @@ b.  työsuhteen päättyessä 2 vuoden kuluessa siitä, kun työsuhde on
 >
 > Poissaolo ei vähennä ansioita.
 
-###### *Kutsunta ja kertausharjoitukset*
+###### Kutsunta ja kertausharjoitukset
 
 4.  Työntekijä voi osallistua ansion alentumatta asevelvollisten
     kutsuntaan ja sii- hen liittyvään lääkärintarkastukseen.
@@ -3160,100 +3593,101 @@ b.  työsuhteen päättyessä 2 vuoden kuluessa siitä, kun työsuhde on
     jotka siviilipalveluslain nojalla määrätään kertausharjoituksia
     korvaavaan täydennyspalveluun.
 
-###### *Yhteiskunnallinen toiminta*
+###### Yhteiskunnallinen toiminta
 
 6.  Työntekijälle maksetaan palkan ja ansionmenetyskorvauksen erotus
     hänen osallistuessa työaikana:
 
--   kunnanvaltuuston
+- kunnanvaltuuston
 
--   kunnanhallituksen
+- kunnanhallituksen
 
--   valtiollisten tai kunnallisten vaalien vaalilautakunnan tai
-    > -toimikunnan työskentelyyn.
+- valtiollisten tai kunnallisten vaalien vaalilautakunnan tai
+  -toimikunnan työskentelyyn.
 
 > Erotus maksetaan työntekijän annettua selvityksen
 > ansionmenetyskorvauksesta.
 
-###### *Vaikeasti sairas lapsi*
+###### Vaikeasti sairas lapsi
 
 1.  Lapsen ollessa vaikeasti sairas työntekijä on sovittaessa oikeutettu
     palkatto- maan poissaoloon (Vnp/85).
 
-###### *Vuosilomaedut*
+###### Vuosilomaedut
 
 2.  Tämän pykälän mukaiset poissaolot eivät vähennä vuosilomaetuja
     lukuun otta- matta vaikeasti sairaan lapsen hoitoa.
 
 #### § Lääkärintarkastukset
 
-###### *Palkanmaksun edellytykset*
+###### Palkanmaksun edellytykset
 
 > Säännöllisen työajan palkkaa ei vähennetä seuraavissa tapauksissa
-> (a.--e.) edel- lyttäen, että tarkastukset ja tutkimukset on
-> järjestetty tarpeetonta työajan mene- tystä välttäen:
+> (a.–e.) edel- lyttäen, että tarkastukset ja tutkimukset on järjestetty
+> tarpeetonta työajan mene- tystä välttäen:
 
-a.  *Sairauden toteaminen*
+1.  *Sairauden toteaminen*
 
 > Sairauden toteamiseksi välttämätön lääkärintarkastus ja siihen
 > liittyvä lääkä- rin määräämä laboratorio- tai röntgentutkimus, jos
 > aikaa ei ole saatu työajan ulkopuolella.
 
-b.  *Välttämätön hammaslääkärikäynti*
+2.  *Välttämätön hammaslääkärikäynti*
 
 > Välttämättömän hammaslääkärikäynnin ajalta jos:
 
--   hampaasta aiheutuu työkyvyttömyys ennen hammaslääkärikäyntiä ja
+- hampaasta aiheutuu työkyvyttömyys ennen hammaslääkärikäyntiä ja
 
--   hammaslääkärikäynti on kiireellinen, eli vaatii käynnin samana
-    päivänä tai saman työvuoron aikana eikä aikaa ole saatu työajan
-    ulkopuolella ja
+- hammaslääkärikäynti on kiireellinen, eli vaatii käynnin samana päivänä
+  tai saman työvuoron aikana eikä aikaa ole saatu työajan ulkopuolella
+  ja
 
--   hammaslääkärin antama todistus osoittaa hammaslääkärikäynnin
-    kiireel- lisyyden.
+- hammaslääkärin antama todistus osoittaa hammaslääkärikäynnin kiireel-
+  lisyyden.
 
-c.  *Raskaus*
+3.  *Raskaus*
 
 > Raskaana olevan työntekijän käydessä synnytystä edeltävissä
 > lääketieteelli- sissä tutkimuksissa, jos aikaa ei ole saatu työajan
 > ulkopuolella.
 
-d.  *Lakisääteiset tarkastukset ja tutkimukset*
+4.  *Lakisääteiset tarkastukset ja tutkimukset*
 
 > Työntekijän käydessä:
 
--   työterveyshuoltolain tarkoittamissa ja työterveyshuollon
-    toimintasuunni- telmaan hyväksytyissä tarkastuksissa
+- työterveyshuoltolain tarkoittamissa ja työterveyshuollon
+  toimintasuunni- telmaan hyväksytyissä tarkastuksissa
 
-> -- arvioitaessa työntekijän työkykyä työterveyshuoltolain perusteella
+> – arvioitaessa työntekijän työkykyä työterveyshuoltolain perusteella
 > kolmikantakeskustelussa työntekijällä on mahdollisuus käyttää avus-
 > tajanaan työsuojeluvaltuutettua
 
--   nuorista työntekijöistä annettuun lakiin liittyvissä tutkimuksissa
+- nuorista työntekijöistä annettuun lakiin liittyvissä tutkimuksissa
 
--   []{#_bookmark48 .anchor}tartuntatautilakiin liittyvissä ja
-    > työnantajan edellyttämissä tutkimuksissa
+- <span id="19_§_Lapsen_syntymä"
+  > class="anchor"></span>tartuntatautilakiin liittyvissä ja työnantajan
+  > edellyttämissä tutkimuksissa
 
--   tartuntatautilain edellyttämissä tutkimuksissa, jotka johtuvat
-    > työntekijän siirtymisestä yrityksessä toisiin tehtäviin.
+- tartuntatautilain edellyttämissä tutkimuksissa, jotka johtuvat
+  > työntekijän siirtymisestä yrityksessä toisiin tehtäviin.
 
 > Työnantaja maksaa työntekijälle välttämättömät matkakustannukset
 > kysei- siin tutkimuksiin tai jälkitarkastuksiin sekä päivärahan, jos
 > ne tehdään muulla paikkakunnalla.
 
-e.  *Poissaolo muista syistä*
+5.  *Poissaolo muista syistä*
 
 > Kunnan järjestämät seulontatutkimukset (Vna 1339/2006: mammografia ja
 > papakoe), mikäli käynnit eivät ole mahdollisia työajan ulkopuolella.
 
 #### § Lapsen syntymä
 
-###### *Perhevapaat*
+###### Perhevapaat
 
 1.  Erityisraskaus-, raskaus- ja vanhempainvapaa sekä hoitovapaa
     määräytyvät työsopimus- ja sairausvakuutuslain mukaan.
 
-###### *Palkanmaksu perhevapaiden ajalta*
+###### Palkanmaksu perhevapaiden ajalta
 
 2.  Raskausvapaan palkka
 
@@ -3263,29 +3697,29 @@ e.  *Poissaolo muista syistä*
 
 3.  Vanhempainvapaan palkka
 
-> Työntekijälle, jolla on oikeus sairausvakuutuslain 9 luvun 5 §:n 1--3
+> Työntekijälle, jolla on oikeus sairausvakuutuslain 9 luvun 5 §:n 1–3
 > momentin mukaiseen vanhempainrahaan, maksetaan palkka vanhempainvapaan
 > alusta lukien 36 ensimmäisen vanhempainrahapäivän ajalta.
 
 4.  Palkkana maksetaan
 
-```{=html}
 <!-- -->
-```
-a.  palkan ja sairausvakuutuslain raskaus- tai vanhempainrahan erotus
+
+1.  palkan ja sairausvakuutuslain raskaus- tai vanhempainrahan erotus
     > tai
 
-b.  palkka, jolloin työnantaja hakee itselleen sairausvakuutuslain
-    > raskaus- tai vanhempainrahan.
+2.  palkka, jolloin työnantaja hakee itselleen sairausvakuutuslain
+    raskaus- tai vanhempainrahan.
 
 > Maksamisen edellytyksenä ovat:
 
--   työsuhde on kestänyt vähintään 9 kuukautta ennen vapaan alkua ja
+- työsuhde on kestänyt vähintään 9 kuukautta ennen vapaan alkua ja
 
--   työntekijä palaa perhevapaalta työhön.
+- työntekijä palaa perhevapaalta työhön.
 
-> []{#_bookmark49 .anchor}Erotuksen maksaminen edellyttää työntekijän
-> selvitystä raskaus- ja vanhem- painrahan suuruudesta.
+> <span id="Ilmoitusajat" class="anchor"></span>Erotuksen maksaminen
+> edellyttää työntekijän selvitystä raskaus- ja vanhem- painrahan
+> suuruudesta.
 >
 > Jos työntekijä ei ole toimittanut Kelan pyytämiä selvityksiä, eikä
 > raskaus- ja vanhempainrahaa tästä syystä makseta tai se maksetaan
@@ -3300,7 +3734,7 @@ b.  palkka, jolloin työnantaja hakee itselleen sairausvakuutuslain
 >
 > Muut perhevapaat ovat palkattomia.
 
-###### *Ilmoitusajat*
+###### Ilmoitusajat
 
 1.  Työntekijän on ilmoitettava työnantajalle raskaus-, vanhempain- ja
     hoitova- paasta viimeistään 2 kuukautta ennen vapaan alkamista.
@@ -3311,7 +3745,7 @@ b.  palkka, jolloin työnantaja hakee itselleen sairausvakuutuslain
 > Työntekijän tulisi antaa työnantajalle hyvissä ajoin
 > kokonaissuunnitelma vapai- den käytöstä kummankin vanhemman osalta.
 
-###### *Vapaan ajankohdan muuttaminen*
+###### Vapaan ajankohdan muuttaminen
 
 2.  Työntekijä voi työsopimuslain mukaisesta perustellusta syystä
     muuttaa aikai- semmin ilmoittamansa raskaus-, vanhempain- tai
@@ -3331,39 +3765,39 @@ b.  palkka, jolloin työnantaja hakee itselleen sairausvakuutuslain
 
 # VUOSILOMA
 
-20. #### § Vuosiloma
+#### § Vuosiloma
 
-    1.  Vuosilomaetuudet määräytyvät vuosilomalain ja työehtosopimuksen
-        mukaan.
+3.  Vuosilomaetuudet määräytyvät vuosilomalain ja työehtosopimuksen
+    mukaan.
 
-###### *Loman pituus*
+###### Loman pituus
 
-2.  Lomaa ansaitaan täydeltä lomanmääräytymiskuukaudelta työsuhteen
-    kestet- tyä lomanmääräytymisvuoden (1.4.--31.3.) loppuun mennessä:
+4.  Lomaa ansaitaan täydeltä lomanmääräytymiskuukaudelta työsuhteen
+    kestet- tyä lomanmääräytymisvuoden (1.4.–31.3.) loppuun mennessä:
 
--   alle vuoden: 2 arkipäivää
+- alle vuoden: 2 arkipäivää
 
--   vähintään vuoden: 2,5 arkipäivää.
+- vähintään vuoden: 2,5 arkipäivää.
 
 > Täysi lomanmääräytymiskuukausi on kalenterikuukausi, jonka aikana
 > työnte- kijä on työskennellyt:
 
--   vähintään 14 päivää
+- vähintään 14 päivää
 
--   vähintään 35 tuntia.
+- vähintään 35 tuntia.
 
 > Lomaa ansaitaan joko 14 päivän tai 35 tunnin säännön perusteella.
 >
 > Lomaa ansaitaan 35 tunnin säännön perusteella työntekijän
 > työskennellessä työsopimuksen mukaan alle 14 päivää kuukaudessa.
 >
-> []{#_bookmark51 .anchor}Esimerkki 35
+> <span id="Loman_antaminen" class="anchor"></span>Esimerkki 35
 >
 > 37,5 tuntia tekevän määräaikainen työsopimus päättyi sopimuksen mukaan
 > 10 työpäivän (= 75 työtunnin) jälkeen. Työsopimuksensa mukaan
 > työnteki- jällä ei olisi ollut mahdollisuutta työskennellä 14
-> työpäivänä kuukaudessa työsuhteensa aikana. Lomaoikeus lasketaan "35
-> työtunnin"-ansaintasään- nön perusteella.
+> työpäivänä kuukaudessa työsuhteensa aikana. Lomaoikeus lasketaan ”35
+> työtunnin”-ansaintasään- nön perusteella.
 >
 > Työntekijä ansaitsi työsuhteensa ajalta 2 lomapäivää, jonka
 > perusteella hänelle maksetaan lomakorvaus.
@@ -3372,13 +3806,13 @@ b.  palkka, jolloin työnantaja hakee itselleen sairausvakuutuslain
 >
 > Työntekijä työskentelee 8 tuntia päivässä. Työpäiviä on viikossa 3.
 > Työsopimuksensa mukaan työntekijällä ei ole mahdollisuutta
-> työskennellä 14 työpäivänä kuukaudessa. Lomaoikeus lasketaan "35
-> työtunnin" -ansain- tasäännön perusteella.
+> työskennellä 14 työpäivänä kuukaudessa. Lomaoikeus lasketaan ”35
+> työtunnin” -ansain- tasäännön perusteella.
 >
 > Työntekijä ansaitsee vuosilomaa jokaiselta kuukaudelta, jossa on
 > vähintään 35 työtuntia.
 
-###### *Loman antaminen*
+###### Loman antaminen
 
 1.  Työnantaja määrää loman alkamisajankohdan vuosilomalain mukaisesti.
 
@@ -3391,7 +3825,7 @@ b.  palkka, jolloin työnantaja hakee itselleen sairausvakuutuslain
 > Lomapäiviksi ei lasketa pyhäpäiviä, pääsiäislauantaita, vapunpäivää,
 > juhannus- aattoa, itsenäisyyspäivää ja jouluaattoa.
 
-###### *Loma ja vapaapäivä*
+###### Loma ja vapaapäivä
 
 2.  Loman alkamiseen vapaapäivänä tarvitaan työntekijän suostumus.
     Vähintään 6 päivän loma voi alkaa ilman työntekijän suostumusta
@@ -3400,27 +3834,26 @@ b.  palkka, jolloin työnantaja hakee itselleen sairausvakuutuslain
 > Enintään 3 päivän lomaan ei voi sisältyä vapaapäivää ilman työntekijän
 > suostumusta.
 >
-> []{#_bookmark52 .anchor}Vähintään 6 päivän loman päättyessä muuna
+> <span id="Lomapalkan_ja_lomakorvauksen_maksaminen"
+> class="anchor"></span>Vähintään 6 päivän loman päättyessä muuna
 > arkipäivänä kuin lauantaina työn- tekijällä on tällä viikolla
 > lomapäivien lisäksi vapaapäivä.
 >
 > Vähintään 6 päivän pituisen lakisääteisen vuosiloman
 
--   alkaessa maanantaina on loman alkamista edeltävä sunnuntai
-    > vapaapäivä, ellei työntekijän aloitteesta kertaluonteisesti toisin
-    > sovita.
+- alkaessa maanantaina on loman alkamista edeltävä sunnuntai vapaapäivä,
+  ellei työntekijän aloitteesta kertaluonteisesti toisin sovita.
 
--   päättyessä lauantaina on loman päättymistä seuraava sunnuntai vapaa-
-    > päivä, ellei työntekijän aloitteesta kertaluonteisesti toisin
-    > sovita.
+- päättyessä lauantaina on loman päättymistä seuraava sunnuntai vapaa-
+  päivä, ellei työntekijän aloitteesta kertaluonteisesti toisin sovita.
 
-###### *Lomapalkan ja lomakorvauksen maksaminen*
+###### Lomapalkan ja lomakorvauksen maksaminen
 
 1.  Lomapalkka voidaan maksaa yrityksen normaalina palkanmaksupäivänä.
 
 > Lomakorvaus työsuhteen päättyessä maksetaan vuosilomalain mukaan.
 
-###### *Lomapalkan laskeminen*
+###### Lomapalkan laskeminen
 
 2.  Vuosilomapäivän palkka saadaan kuukausipalkasta jakajalla 25.
 
@@ -3429,9 +3862,9 @@ b.  palkka, jolloin työnantaja hakee itselleen sairausvakuutuslain
 > Jos työntekijän työaika ja vastaavasti palkka on muuttunut
 > lomanmääräyty- misvuoden aikana ja hän on kuukausipalkkainen
 > lomanmääräytymisvuoden lopussa (31.3.), hänen lomapalkkansa lasketaan
-> tämän pykälän 8.--11. kohdan mukaan.
+> tämän pykälän 8.–11. kohdan mukaan.
 
-###### *Lomapalkan laskeminen lisien osalta*
+###### Lomapalkan laskeminen lisien osalta
 
 3.  Lomapalkkaan ja -korvaukseen lisätään suuruudeltaan vaihtelevat
     työehto- sopimukseen perustuvat lisät.
@@ -3441,26 +3874,27 @@ b.  palkka, jolloin työnantaja hakee itselleen sairausvakuutuslain
 > suostumuksen sun- nuntaityöhön tai hänen työskennellessä
 > työsopimuksensa perusteella kaik- kina viikonpäivinä.
 >
-> []{#_bookmark53 .anchor}Lomapalkkaan ja -korvaukseen lisätään
-> lomanmääräytymisvuoden aikana maksetuista lisistä:
+> <span id="_bookmark53" class="anchor"></span>Lomapalkkaan ja
+> -korvaukseen lisätään lomanmääräytymisvuoden aikana maksetuista
+> lisistä:
 
--   10 % työsuhteen kestettyä lomanmääräytymisvuoden loppuun (31.3.)
-    mennessä alle 1 vuoden
+- 10 % työsuhteen kestettyä lomanmääräytymisvuoden loppuun (31.3.)
+  mennessä alle 1 vuoden
 
--   12,5 % työsuhteen kestettyä lomanmääräytymisvuoden loppuun (31.3.)
-    mennessä vähintään 1 vuoden.
+- 12,5 % työsuhteen kestettyä lomanmääräytymisvuoden loppuun (31.3.)
+  mennessä vähintään 1 vuoden.
 
-###### *Alle 37,5 tuntia tekevät* {#alle-375-tuntia-tekevät-3}
+###### Alle 37,5 tuntia tekevät
 
 1.  Lomapalkka tai -korvaus on sekä tuntipalkkaisella että suhteutettua
     kuukau- sipalkkaa saavalla jäljempänä esitetystä
     lomanmääräytymisvuoden ansiosta:
 
--   10 % työsuhteen kestettyä lomanmääräytymisvuoden loppuun (31.3.)
-    mennessä alle vuoden
+- 10 % työsuhteen kestettyä lomanmääräytymisvuoden loppuun (31.3.)
+  mennessä alle vuoden
 
--   12,5 % työsuhteen kestettyä lomanmääräytymisvuoden loppuun (31.3.)
-    mennessä vähintään vuoden.
+- 12,5 % työsuhteen kestettyä lomanmääräytymisvuoden loppuun (31.3.)
+  mennessä vähintään vuoden.
 
 > Esimerkki 38
 >
@@ -3468,7 +3902,7 @@ b.  palkka, jolloin työnantaja hakee itselleen sairausvakuutuslain
 > (31.3.) mennessä yli vuoden. Hän on työskennellyt joka kuukausi
 > vähintään 35 tuntia.
 >
-> Lomanmääräytymisvuoden 1.4.--31.3. koko työssäoloajan ansio ilta- ja
+> Lomanmääräytymisvuoden 1.4.–31.3. koko työssäoloajan ansio ilta- ja
 > lauantailisineen on 16 320 euroa. Ansiossa on huomioitu myös pidetty-
 > jen vuosivapaiden ajalta maksettu palkka. Työssäoloajan palkkaan lisä-
 > tään laskennallista palkkaa 9. kohdan mukaisten poissaolojen ajalta,
@@ -3490,27 +3924,26 @@ b.  palkka, jolloin työnantaja hakee itselleen sairausvakuutuslain
 > on 24 × 68 = 1 632 euroa. Talvilomapalkka on 6 × 68 euroa = 408 euroa.
 > Lomaraha on 50 % kesäloma- ja talvilomapalkasta.
 
-1.  Lomanmääräytymisvuoden (1.4.--31.3.) ansio muodostuu:
+1.  Lomanmääräytymisvuoden (1.4.–31.3.) ansio muodostuu:
 
--   työssäoloajan palkasta lukuun ottamatta hätä- ja ylityön ajalta
-    > makset- tua palkkaa
+- työssäoloajan palkasta lukuun ottamatta hätä- ja ylityön ajalta
+  makset- tua palkkaa
 
--   poissaoloajalta maksetusta palkasta (7 § 5. kohta ja 17--18 §) ja
+- poissaoloajalta maksetusta palkasta (7 § 5. kohta ja 17–18 §) ja
 
--   laskennallisesta palkasta.
+- laskennallisesta palkasta.
 
-    1.  Maksettuun palkkaan lisätään laskennallista palkkaa:
+  1.  Maksettuun palkkaan lisätään laskennallista palkkaa:
 
-```{=html}
 <!-- -->
-```
--   sairauspoissaolojen ajalta yhteensä enintään 75 työpäivältä lomamää-
-    > räytymisvuoden aikana (75 työpäivän jaksoon sisältyvät palkalliset
-    > sairauspoissaolot).
+
+- sairauspoissaolojen ajalta yhteensä enintään 75 työpäivältä lomamää-
+  räytymisvuoden aikana (75 työpäivän jaksoon sisältyvät palkalliset
+  sairauspoissaolot).
 
 > Esimerkki 39
 
-a.  Työntekijän työsuhde on kestänyt 4 vuotta ja hän työskentelee 5 päi-
+1.  Työntekijän työsuhde on kestänyt 4 vuotta ja hän työskentelee 5 päi-
     vänä viikossa. Hänellä on ollut lomanmääräytymisvuoden aikana
     yksittäi- siä palkallisia sairauspoissaoloja yhteensä 40 työpäivää
     ja lisäksi yhden- jaksoinen 9 viikon sairauspoissaolo, jonka ajalta
@@ -3522,7 +3955,7 @@ a.  Työntekijän työsuhde on kestänyt 4 vuotta ja hän työskentelee 5 päi-
 > maksettu palkka 65 (40 + 25) työpäivältä sekä lisäksi laskennallista
 > palkkaa 10 päivältä eli palkkaa yhteensä 75 työpäivältä.
 
-b.  Työntekijän työsuhde on kestänyt 11 vuotta ja hän työskentelee 5
+2.  Työntekijän työsuhde on kestänyt 11 vuotta ja hän työskentelee 5
     päi- vänä viikossa. Hänellä on ollut lomanmääräytymisvuoden aikana
     yksittäi- siä palkallisia sairauspoissaoloja yhteensä 40 työpäivää
     ja lisäksi yhden- jaksoinen 9 viikon sairauspoissaolo, jonka ajalta
@@ -3533,35 +3966,36 @@ b.  Työntekijän työsuhde on kestänyt 11 vuotta ja hän työskentelee 5
 > Lomanmääräytymisvuoden ansioon lasketaan sairauspoissaolojen ajalta
 > maksettu palkka 75 (40 + 35) työpäivältä.
 
--   sairauspoissaolojen ajalta yhteensä enintään 105 kalenteripäivältä
-    ansait- taessa lomaa 35 tunnin säännön mukaan (105 kalenteripäivän
-    jaksoon sisältyvät palkalliset sairauspoissaolot)
+- sairauspoissaolojen ajalta yhteensä enintään 105 kalenteripäivältä
+  ansait- taessa lomaa 35 tunnin säännön mukaan (105 kalenteripäivän
+  jaksoon sisältyvät palkalliset sairauspoissaolot)
 
--   raskaus- ja vanhempainvapaan vuosilomaa kerryttävältä ajalta
+- raskaus- ja vanhempainvapaan vuosilomaa kerryttävältä ajalta
 
--   lomautuksen ajalta enintään 30 työpäivältä lomautusta kohden
+- lomautuksen ajalta enintään 30 työpäivältä lomautusta kohden
 
--   lomautuksen ajalta yhteensä enintään 42 kalenteripäivältä
-    ansaittaessa lomaa 35 tunnin säännön mukaan
+- lomautuksen ajalta yhteensä enintään 42 kalenteripäivältä ansaittaessa
+  lomaa 35 tunnin säännön mukaan
 
--   tilapäisen hoitovapaan ajalta (työsopimuslain 4:6 §)
+- tilapäisen hoitovapaan ajalta (työsopimuslain 4:6 §)
 
--   pakottavien perhesyiden ajalta (työsopimuslain 4:7 §)
+- pakottavien perhesyiden ajalta (työsopimuslain 4:7 §)
 
--   ammattitaudin tai tapaturman johdosta annettavan lääkinnällisen
-    kuntou- tuksen ajalta yhteensä enintään 75 työpäivältä
+- ammattitaudin tai tapaturman johdosta annettavan lääkinnällisen
+  kuntou- tuksen ajalta yhteensä enintään 75 työpäivältä
 
--   ammattitaudin tai tapaturman johdosta annettavan lääkinnällisen
-    kuntou- tuksen ajalta yhteensä enintään 105 kalenteripäivältä
-    ansaittaessa lomaa 35 tunnin säännön mukaan
+- ammattitaudin tai tapaturman johdosta annettavan lääkinnällisen
+  kuntou- tuksen ajalta yhteensä enintään 105 kalenteripäivältä
+  ansaittaessa lomaa 35 tunnin säännön mukaan
 
--   sairauden leviämisen estämiseksi annetun viranomaisen määräyksen
-    vuoksi.
+- sairauden leviämisen estämiseksi annetun viranomaisen määräyksen
+  vuoksi.
 
-    1.  []{#_bookmark54 .anchor}Laskennallinen palkka määräytyy
-        poissaolon alkamishetken tuntipalkan ja sovitun keskimääräisen
-        viikkotyöajan mukaan tai kuukausipalkkaisella pois- saolon
-        alkamishetken kuukausipalkan mukaan.
+  1.  <span id="20_a_§_Vuosilomalain_mukaisen_lisävapaap"
+      class="anchor"></span>Laskennallinen palkka määräytyy poissaolon
+      alkamishetken tuntipalkan ja sovitun keskimääräisen viikkotyöajan
+      mukaan tai kuukausipalkkaisella pois- saolon alkamishetken
+      kuukausipalkan mukaan.
 
 > Jos tuntipalkkaisella ei ole sovittu keskimääräistä viikkotyöaikaa,
 > laskennalli- nen palkka määräytyy poissaoloa edeltävän 12 viikon
@@ -3573,13 +4007,13 @@ b.  Työntekijän työsuhde on kestänyt 11 vuotta ja hän työskentelee 5
 
 #### a § Vuosilomalain mukaisen lisävapaapäivän korvaus
 
-###### *Lisävapaapäivän korvauksen laskenta kokoaikaisella* kuukausipalkkaisella työntekijällä
+###### Lisävapaapäivän korvauksen laskenta kokoaikaisella kuukausipalkkaisella työntekijällä
 
 1.  Yhden lisävapaapäivän palkka saadaan kuukausipalkasta jakajalla 25.
     Tähän lisätään todellinen tai keskimääräinen työaikalisien kertymä
     samalla tavalla kuin sairausajan palkan laskennassa (16 § 6. kohta).
 
-###### *Lisävapaapäivän korvauksen laskenta alle 37,5 tuntia tekevällä*
+###### Lisävapaapäivän korvauksen laskenta alle 37,5 tuntia tekevällä
 
 2.  Lisävapaapäivien korvaus alle 37,5 tuntia tekevällä työntekijällä
     annettaessa lisävapaapäivät työsuhteen aikana
@@ -3602,56 +4036,56 @@ b.  Työntekijän työsuhde on kestänyt 11 vuotta ja hän työskentelee 5
 
 #### § Lomaraha
 
-###### *Suuruus*
+###### Suuruus
 
-1.  Lomaraha on 50 % vuosilomalain mukaan ansaittua lomaa vastaavasta
+5.  Lomaraha on 50 % vuosilomalain mukaan ansaittua lomaa vastaavasta
     loma- palkasta.
 
-###### *Maksamisedellytykset*
+###### Maksamisedellytykset
 
-2.  Lomaraha maksetaan työntekijän:
+6.  Lomaraha maksetaan työntekijän:
 
-    -   aloittaessa loman ilmoitettuna tai sovittuna aikana ja
+    - aloittaessa loman ilmoitettuna tai sovittuna aikana ja
 
-    -   palatessa työhön heti loman päätyttyä.
+    - palatessa työhön heti loman päätyttyä.
 
 > Lomaraha maksetaan myös työntekijän:
 
--   oltua poissa työstä työnantajan suostumuksella välittömästi ennen
-    loman alkamista tai sen päätyttyä
+- oltua poissa työstä työnantajan suostumuksella välittömästi ennen
+  loman alkamista tai sen päätyttyä
 
--   ollessa estynyt palaamasta työhön vuosilomalain 7 §:n 2 momentissa
-    mainitusta syystä.
+- ollessa estynyt palaamasta työhön vuosilomalain 7 §:n 2 momentissa
+  mainitusta syystä.
 
 > Edellytysten jäädessä toteutumatta lomaraha voidaan periä takaisin.
 
-###### *Hoitovapaa*
+###### Hoitovapaa
 
-3.  Hoitovapaalla pidettävän tai hoitovapaaseen päättyvän vuosiloman
+7.  Hoitovapaalla pidettävän tai hoitovapaaseen päättyvän vuosiloman
     osalta lomaraha maksetaan työntekijän palattua työhön hoitovapaalta
     ennakkoil- moituksen tai siihen tehdyn muutoksen mukaisesti.
 
-###### *Varusmiespalvelus*
+###### Varusmiespalvelus
 
-4.  Lomaraha maksetaan asevelvollisuutta suorittavalle hänen palattua
+8.  Lomaraha maksetaan asevelvollisuutta suorittavalle hänen palattua
     asianmu- kaisesti työhön.
 
 > Lomaraha on 50 % ennen palvelukseen astumista maksetusta lomapalkasta
 > tai lomakorvauksesta.
 
-###### *Työsuhteen päättyminen loman aikana*
+###### Työsuhteen päättyminen loman aikana
 
-5.  Työsuhteen päättyessä taloudellisista tai tuotannollisista syistä
+9.  Työsuhteen päättyessä taloudellisista tai tuotannollisista syistä
     loman aikana tai loman viimeisenä päivänä maksetaan lomaraha.
 
-###### *Eläkkeelle siirtyminen*
+###### Eläkkeelle siirtyminen
 
-6.  Lomaraha maksetaan vuosilomapalkasta ja -korvauksesta työntekijän
+10. Lomaraha maksetaan vuosilomapalkasta ja -korvauksesta työntekijän
     siirty- essä vanhuus- tai työkyvyttömyyseläkkeelle.
 
-###### *Maksamisaika*
+###### Maksamisaika
 
-7.  Lomaraha maksetaan loman alkaessa, ellei työpaikkakohtaisesti (23
+11. Lomaraha maksetaan loman alkaessa, ellei työpaikkakohtaisesti (23
     §:n mukaisesti) sovita sen maksamisajasta toisin. Jos yrityksessä on
     luottamus- mies, asiasta sovitaan hänen kanssaan.
 
@@ -3662,9 +4096,9 @@ b.  Työntekijän työsuhde on kestänyt 11 vuotta ja hän työskentelee 5
 > Enintään 6 lomapäivän lomaraha voidaan maksaa yrityksen normaalina
 > palkanmaksupäivänä.
 
-###### *Lomarahan vaihtaminen vapaaksi*
+###### Lomarahan vaihtaminen vapaaksi
 
-8.  Työnantaja ja työntekijä voivat sopia kirjallisesti lomarahan
+12. Työnantaja ja työntekijä voivat sopia kirjallisesti lomarahan
     pitämisestä vas- taavana palkallisena vapaana.
 
 > Lomarahavapaan ajalta työntekijä ansaitsee vuosilomaa.
@@ -3672,7 +4106,7 @@ b.  Työntekijän työsuhde on kestänyt 11 vuotta ja hän työskentelee 5
 > Työntekijän sairastuessa lomarahavapaaseen noudatetaan vuosilomalain
 > säännöksiä.
 >
-> []{#_bookmark58 .anchor}Esimerkki 43
+> <span id="Alle_37,5_tuntia_tekevät" class="anchor"></span>Esimerkki 43
 >
 > Työntekijän lomaraha on 600 euroa ja tuntipalkka 10 euroa. Työntekijä
 > ja työnantaja ovat sopineet koko lomarahan vaihtamisesta vapaaksi.
@@ -3696,138 +4130,135 @@ b.  Työntekijän työsuhde on kestänyt 11 vuotta ja hän työskentelee 5
 > (30 t/viikko) ja tämän lisäksi hänelle maksetaan lomarahaa 54,59
 > euroa.
 
-###### *Alle 37,5 tuntia tekevät* {#alle-375-tuntia-tekevät-2}
+###### Alle 37,5 tuntia tekevät
 
-9.  Lomarahan maksaminen edellyttää, että työntekijä on ansainnut
+13. Lomarahan maksaminen edellyttää, että työntekijä on ansainnut
     vuosilomapäiviä.
 
 # MATKAT
 
 #### § Matkakustannukset
 
-###### *Matkakustannukset*
+###### Matkakustannukset
 
-1.  Matkakustannukset korvataan vaihtoehtoisesti:
+14. Matkakustannukset korvataan vaihtoehtoisesti:
 
-    -   valtion matkustussäännön mukaan
+    - valtion matkustussäännön mukaan
 
-    -   verohallituksen päätöksen mukaan
+    - verohallituksen päätöksen mukaan
 
-    -   yrityksen matkustussäännön mukaan.
+    - yrityksen matkustussäännön mukaan.
 
-###### *Yrityksen matkustussääntö*
+###### Yrityksen matkustussääntö
 
-2.  Yrityksen matkustussäännössä korvaukset määräytyvät valtion
+15. Yrityksen matkustussäännössä korvaukset määräytyvät valtion
     matkustus- säännön mukaan ja maksuperusteet (aikarajat)
     verohallituksen päätöksen mukaan.
 
-###### *Päiväraha*
+###### Päiväraha
 
-3.  Noudatettaessa verohallituksen päätöstä tai yrityksen
+16. Noudatettaessa verohallituksen päätöstä tai yrityksen
     matkustussääntöä päivärahaa ei makseta:
 
-    -   työntekijän tehdessä työmatkan alueellisesti rajatussa ja usean
-        kunnan alueella toimivassa yrityksessä
+    - työntekijän tehdessä työmatkan alueellisesti rajatussa ja usean
+      kunnan alueella toimivassa yrityksessä
 
-    -   työntekijän osallistuessa yrityksen tai kaupparyhmittymän
-        sisäiseen koulutukseen työnantajan maksaessa kustannukset.
+    - työntekijän osallistuessa yrityksen tai kaupparyhmittymän
+      sisäiseen koulutukseen työnantajan maksaessa kustannukset.
 
-###### *Ateriakorvaus*
+###### Ateriakorvaus
 
-4.  Ateriakorvaus maksetaan:
+17. Ateriakorvaus maksetaan:
 
-    -   työmatkan kestäessä vähintään 6 tuntia ja
+    - työmatkan kestäessä vähintään 6 tuntia ja
 
-    -   työntekijällä ei ole mahdollisuutta tavanomaiseen tai sitä
-        vastaavaan työpaikkaruokailuun tai kotiruokailuun.
+    - työntekijällä ei ole mahdollisuutta tavanomaiseen tai sitä
+      vastaavaan työpaikkaruokailuun tai kotiruokailuun.
 
 > Ateriakorvausta ei makseta:
 
--   työntekijän saadessa koko- tai osapäivärahan tai
+- työntekijän saadessa koko- tai osapäivärahan tai
 
--   työntekijän työskennellessä yrityksen saman paikkakunnan toisessa
-    toimipaikassa.
+- työntekijän työskennellessä yrityksen saman paikkakunnan toisessa
+  toimipaikassa.
 
 > Ateriakorvauksen suuruus määräytyy valtion matkustussäännön mukaan.
 
 # SOPIMINEN TYÖPAIKALLA
 
-23. #### § Työpaikkakohtainen sopiminen
+#### § Työpaikkakohtainen sopiminen
 
-    1.  Työpaikkakohtaisessa sopimisessa sopijaosapuolia ovat:
+18. Työpaikkakohtaisessa sopimisessa sopijaosapuolia ovat:
 
-        -   työnantaja ja luottamusmies
+    - työnantaja ja luottamusmies
 
-        -   työnantaja ja kaikki sopimuksen piiriin kuuluvat työntekijät
-            > yhdessä tai
+    - työnantaja ja kaikki sopimuksen piiriin kuuluvat työntekijät
+      > yhdessä tai
 
-        -   työnantaja ja työntekijä,
+    - työnantaja ja työntekijä,
 
 > ellei työehtosopimusmääräyksessä ole toisin sovittu.
 >
 > Työpaikkakohtainen sopimus:
 
--   on tehtävä kirjallisesti
+- on tehtävä kirjallisesti
 
--   voidaan tehdä toistaiseksi tai määräajaksi
+- voidaan tehdä toistaiseksi tai määräajaksi
 
--   toistaiseksi voimassa oleva sopimus voidaan irtisanoa 3 kuukauden
-    > irtisanomisajalla
+- toistaiseksi voimassa oleva sopimus voidaan irtisanoa 3 kuukauden
+  > irtisanomisajalla
 
--   yli 9 kuukautta kestänyt määräaikainen sopimus voidaan irtisanoa 3
-    > kuukauden irtisanomisajalla
+- yli 9 kuukautta kestänyt määräaikainen sopimus voidaan irtisanoa 3
+  > kuukauden irtisanomisajalla
 
--   sopimuksen päätyttyä noudatetaan työehtosopimuksen määräyksiä.
+- sopimuksen päätyttyä noudatetaan työehtosopimuksen määräyksiä.
 
-2.  Sovitun järjestelyn ollessa sidottu tiettyyn ajanjaksoon se jatkuu
+19. Sovitun järjestelyn ollessa sidottu tiettyyn ajanjaksoon se jatkuu
     irtisanomi- sesta huolimatta jakson loppuun.
 
-3.  Työpaikkakohtainen sopimus tehdään erillisenä asiakirjana, ei osana
+20. Työpaikkakohtainen sopimus tehdään erillisenä asiakirjana, ei osana
     työsopi- musta. Työpaikkakohtaisen sopimuksen irtisanominen ei johda
     työsopimuk- sen irtisanomiseen, vaan se on irtisanottavissa
     itsenäisenä sopimuksena.
 
-```{=html}
-<!-- -->
-```
-24. #### § Paikallinen sopiminen
+#### § Paikallinen sopiminen
 
-    1.  Tämän työehtosopimuksen nojalla tehdyt toistaiseksi voimassa
-        olevat paikal- liset sopimukset voidaan irtisanoa 3 kuukauden
-        irtisanomisaikaa noudattaen, ellei irtisanomisajasta ole toisin
-        sovittu.
+21. Tämän työehtosopimuksen nojalla tehdyt toistaiseksi voimassa olevat
+    paikal- liset sopimukset voidaan irtisanoa 3 kuukauden
+    irtisanomisaikaa noudattaen, ellei irtisanomisajasta ole toisin
+    sovittu.
 
 # ERINÄISET MÄÄRÄYKSET
 
 #### § Erinäiset määräykset
 
-###### *Noudatettavat sopimukset*
+###### Noudatettavat sopimukset
 
-1.  Kaupan työehtosopimuksen osana noudatetaan seuraavia sopimuksia:
+22. Kaupan työehtosopimuksen osana noudatetaan seuraavia sopimuksia:
 
-    -   Koulutussopimus (s. 157--160)
+    - Koulutussopimus (s. 157–160)
 
-    -   Luottamusmiessopimus (s. 132--144)
+    - Luottamusmiessopimus (s. 132–144)
 
-    -   Työsuojelun yhteistoimintasopimus (s. 145--156)
+    - Työsuojelun yhteistoimintasopimus (s. 145–156)
 
-    -   Sopimus ammattiyhdistysjäsenmaksujen perinnästä
+    - Sopimus ammattiyhdistysjäsenmaksujen perinnästä
 
-    -   Tutustu ja tienaa -kesäharjoitteluohjelma
+    - Tutustu ja tienaa -kesäharjoitteluohjelma
 
-    -   Työpaikkaruokailua koskeva sopimus
+    - Työpaikkaruokailua koskeva sopimus
 
-    -   Yhteistoimintasopimus
+    - Yhteistoimintasopimus
 
-    -   Yleissopimus.
+    - Yleissopimus.
 
 > Tämän lisäksi työehtosopimuksen liitteenä on:
 
--   keskusjärjestöjen Suositus päihdeongelmien ennaltaehkäisystä,
-    päihdeasi- oiden käsittelystä ja hoitoonohjauksesta työpaikoilla; ja
+- keskusjärjestöjen Suositus päihdeongelmien ennaltaehkäisystä,
+  päihdeasi- oiden käsittelystä ja hoitoonohjauksesta työpaikoilla; ja
 
--   liittojen laatima Suositus työpaikalla tapahtuvan oppimisen
-    pelisäännöistä.
+- liittojen laatima Suositus työpaikalla tapahtuvan oppimisen
+  pelisäännöistä.
 
 > Koulutussopimus, Luottamusmiessopimus ja Työsuojelun
 > yhteistoimintasopi- mus ovat tämän työehtosopimuksen osiossa D
@@ -3835,32 +4266,32 @@ b.  Työntekijän työsuhde on kestänyt 11 vuotta ja hän työskentelee 5
 > liitteessä. Liite on sekä Kaupan liiton että Palvelualojen
 > ammattiliiton kotisivuilla.
 
-###### *Jäsenmaksuperintä*
+###### Jäsenmaksuperintä
 
-2.  Työntekijän pyynnöstä työnantaja pidättää Palvelualojen
+23. Työntekijän pyynnöstä työnantaja pidättää Palvelualojen
     ammattiliitto PAM ry:n jäsenmaksut ja tilittää ne liiton
     pankkitilille.
 
-> []{#_bookmark62 .anchor}Perinnässä noudatetaan Sopimusta
-> ammattiyhdistysjäsenmaksujen perinnästä.
+> <span id="Kokoontuminen_työpaikalla" class="anchor"></span>Perinnässä
+> noudatetaan Sopimusta ammattiyhdistysjäsenmaksujen perinnästä.
 
-###### *Kokoontuminen työpaikalla*
+###### Kokoontuminen työpaikalla
 
-3.  Palvelualojen ammattiliiton yhdistykset, ammattiosastot,
+24. Palvelualojen ammattiliiton yhdistykset, ammattiosastot,
     työhuonekunnat tai vastaavat voivat pitää työajan ulkopuolella
     kokouksia työsuhdekysymyksistä jos:
 
-    -   kokouksen pitämisestä sovitaan työnantajan kanssa 3 päivää
-        > etukäteen, jos mahdollista
+    - kokouksen pitämisestä sovitaan työnantajan kanssa 3 päivää
+      > etukäteen, jos mahdollista
 
-    -   työnantaja osoittaa tarkoituksenmukaisen kokouspaikan
+    - työnantaja osoittaa tarkoituksenmukaisen kokouspaikan
 
-    -   järjestäjä vastaa järjestyksestä ja kokoustilojen siisteydestä.
-        Järjestäjällä on oikeus kutsua kokoukseen liiton edustajia.
+    - järjestäjä vastaa järjestyksestä ja kokoustilojen siisteydestä.
+      Järjestäjällä on oikeus kutsua kokoukseen liiton edustajia.
 
-###### *Luottamusmies*
+###### Luottamusmies
 
-4.  Työnantaja selvittää uusille työntekijöille yrityksen neuvottelu- ja
+25. Työnantaja selvittää uusille työntekijöille yrityksen neuvottelu- ja
     luottamus- miesjärjestelmän.
 
 > Työnantaja ja yrityksen luottamusmies sopivat luottamusmiesasioiden
@@ -3868,15 +4299,15 @@ b.  Työntekijän työsuhde on kestänyt 11 vuotta ja hän työskentelee 5
 >
 > Luottamusmiessopimus on tämän työehtosopimuksen osiossa D Sopimukset.
 
-###### *PAMin valtuuston ja hallituksen jäsen*
+###### PAMin valtuuston ja hallituksen jäsen
 
-5.  Palvelualojen ammattiliitto PAMin valtuuston jäsenelle järjestetään
+26. Palvelualojen ammattiliitto PAMin valtuuston jäsenelle järjestetään
     mahdolli- suus osallistua valtuuston kokouksiin sekä
     liittokokouksiin ja hallituksen jäse- nelle hallituksen kokouksiin.
 
-###### *Perehdyttäminen*
+###### Perehdyttäminen
 
-6.  Henkilön, jonka tehtävänä on perehdyttää uusia työntekijöitä,
+27. Henkilön, jonka tehtävänä on perehdyttää uusia työntekijöitä,
     harjoittelijoita tai ammatillisen tutkinnon suorittajia on oltava
     ennalta määrätty ja ammattitaitoi- nen. Tällaiselle henkilölle on
     varattava riittävästi aikaa tehtävän hoitamiseksi.
@@ -3886,30 +4317,30 @@ b.  Työntekijän työsuhde on kestänyt 11 vuotta ja hän työskentelee 5
 > hänelle makse- taan edellä tarkoitettu palkan osa keskimääräisenä
 > siltä ajalta, jolloin hän toimii työpaikkaohjaajana tai ohjaajana.
 
-###### *Ryhmähenkivakuutus*
+###### Ryhmähenkivakuutus
 
-7.  Työnantaja kustantaa työntekijän ryhmähenkivakuutuksen.
+28. Työnantaja kustantaa työntekijän ryhmähenkivakuutuksen.
 
-###### *Työasut -- myyjät*
+###### Työasut – myyjät
 
-8.  Työnantaja hankkii vakinaiselle myyjälle käyttökelpoisen työasun,
+29. Työnantaja hankkii vakinaiselle myyjälle käyttökelpoisen työasun,
     ellei työ- paikkakohtaisesti (23 §: n mukaisesti) sovita toisin
     korvaavasta järjestelystä.
 
 > Työnantaja huoltaa työasun, ellei työntekijän kanssa korvausta vastaan
 > toi- sin sovita.
 
-###### *Työasut -- logistiikkatyöntekijät*
+###### Työasut – logistiikkatyöntekijät
 
-9.  Työnantaja hankkii vakinaiselle logistiikkatyöntekijälle suoja- tai
+30. Työnantaja hankkii vakinaiselle logistiikkatyöntekijälle suoja- tai
     työpuvun ja työkäsineet.
 
 > Työnantaja huoltaa työasun, ellei työntekijän kanssa korvausta vastaan
 > toi- sin sovita.
 
-###### *Kassavaje*
+###### Kassavaje
 
-10. Työnantaja ja työntekijä selvittävät kassavajeen syntymiseen
+31. Työnantaja ja työntekijä selvittävät kassavajeen syntymiseen
     liittyvät tekijät ennen mahdollisen vahingonkorvauksen perimistä.
 
 > Asian jäädessä erimieliseksi noudatetaan työehtosopimuksen neuvottelu-
@@ -3919,181 +4350,171 @@ b.  Työntekijän työsuhde on kestänyt 11 vuotta ja hän työskentelee 5
 
 #### § Erimielisyydet
 
-###### *Paikalliset neuvottelut*
+###### Paikalliset neuvottelut
 
-1.  Työehtosopimukseen liittyvistä erimielisyyksistä neuvotellaan ensin
+32. Työehtosopimukseen liittyvistä erimielisyyksistä neuvotellaan ensin
     työnanta- jan ja työntekijän tai työnantajan ja luottamusmiehen
     kanssa.
 
 > Asian jäädessä erimieliseksi laaditaan 2 kappaleena
 > erimielisyysmuistio.
 
-###### *Liittoneuvottelut*
+###### Liittoneuvottelut
 
-2.  Paikalliset osapuolet voivat jättää asian liittojen ratkaistavaksi.
+33. Paikalliset osapuolet voivat jättää asian liittojen ratkaistavaksi.
 
-###### *Neuvottelujen toteutus*
+###### Neuvottelujen toteutus
 
-3.  Paikalliset- ja liittoneuvottelut aloitetaan ja käydään
+34. Paikalliset- ja liittoneuvottelut aloitetaan ja käydään
     viivytyksettä.
 
-###### *Työtuomioistuin*
+###### Työtuomioistuin
 
-4.  Asian jäädessä liittoneuvotteluissa erimieliseksi se voidaan jättää
+35. Asian jäädessä liittoneuvotteluissa erimieliseksi se voidaan jättää
     työtuomio- istuimen ratkaistavaksi.
 
-```{=html}
-<!-- -->
-```
-27. #### § Työrauha ja sopimusrikkomukset
+#### § Työrauha ja sopimusrikkomukset
 
-    1.  Kaikki sopimukseen kohdistuvat työtaistelutoimenpiteet on
-        kielletty.
+36. Kaikki sopimukseen kohdistuvat työtaistelutoimenpiteet on kielletty.
 
-    2.  Tämän sopimuksen rikkomisen seuraamukset määräytyvät
-        allekirjoituspäi- vänä voimassa olevan työehtosopimuslain
-        mukaan.
+37. Tämän sopimuksen rikkomisen seuraamukset määräytyvät
+    allekirjoituspäi- vänä voimassa olevan työehtosopimuslain mukaan.
 
 # VOIMASSAOLO
 
-28. #### § Sopimuksen voimassaolo
+#### § Sopimuksen voimassaolo
 
-    1.  Sopimus on voimassa 31.1.2025 asti.
+38. Sopimus on voimassa 31.1.2025 asti.
 
-    2.  Sopimus jatkuu 31.1.2025 jälkeen vuoden kerrallaan, ellei sitä
-        irtisanota kirjal- lisesti viimeistään kuukautta ennen sen
-        päättymistä.
+39. Sopimus jatkuu 31.1.2025 jälkeen vuoden kerrallaan, ellei sitä
+    irtisanota kirjal- lisesti viimeistään kuukautta ennen sen
+    päättymistä.
 
-    3.  Irtisanomisen yhteydessä on jätettävä kirjallisesti yksilöidyt
-        muutosesitykset, muutoin irtisanominen on mitätön.
+40. Irtisanomisen yhteydessä on jätettävä kirjallisesti yksilöidyt
+    muutosesitykset, muutoin irtisanominen on mitätön.
 
 > Pöytäkirjat
 
 # AMMATTIRYHMÄPÖYTÄKIRJAT ASENTAJAT JA HUOLTOMIEHET
 
-1.  #### § Ulottuvuus
+#### § Ulottuvuus
 
-    1.  Pöytäkirja koskee asentajia ja huoltomiehiä.
+1.  Pöytäkirja koskee asentajia ja huoltomiehiä.
 
-    2.  Pöytäkirja ei koske huolto- ja liikenneasemien huoltoasentajia
-        eikä kiinteistö- huoltomiehiä.
+2.  Pöytäkirja ei koske huolto- ja liikenneasemien huoltoasentajia eikä
+    kiinteistö- huoltomiehiä.
 
-    3.  Asentajiin ja huoltomiehiin noudatetaan soveltuvin osin
-        työehtosopimuksen määräyksiä jäljempänä esitetyin poikkeuksin.
+3.  Asentajiin ja huoltomiehiin noudatetaan soveltuvin osin
+    työehtosopimuksen määräyksiä jäljempänä esitetyin poikkeuksin.
 
-    4.  Työehtosopimuksen 7 §:n määräyksiä noudatetaan siten kuin on
-        sovittu myy- jien ja logistiikkatyöntekijöiden osalta.
+4.  Työehtosopimuksen 7 §:n määräyksiä noudatetaan siten kuin on sovittu
+    myy- jien ja logistiikkatyöntekijöiden osalta.
 
-    5.  Työehtosopimuksen 4 luvun määräyksiä ei noudateta lukuun
-        ottamatta osa- kuukauden palkkaa (11 § 10. kohta).
+5.  Työehtosopimuksen 4 luvun määräyksiä ei noudateta lukuun ottamatta
+    osa- kuukauden palkkaa (11 § 10. kohta).
 
-2.  #### § Ohjeelliset ansioluvut ja vähimmäispalkka
+#### § Ohjeelliset ansioluvut ja vähimmäispalkka
 
-    1.  Ohjeelliset ansioluvut sisältävät kuukausipalkan mukaan lukien
-        bonukset, lisät ja luontoisedut.
+6.  Ohjeelliset ansioluvut sisältävät kuukausipalkan mukaan lukien
+    bonukset, lisät ja luontoisedut.
 
-> 1\. 1 750--2 050 euroa
+> 1\. 1 750–2 050 euroa
 >
-> 2\. 1 900--2 350 euroa
+> 2\. 1 900–2 350 euroa
 >
-> 3\. 2 150--2 600 euroa
+> 3\. 2 150–2 600 euroa
 >
 > Ohjeelliset ansioluvut eivät ole sitovia vähimmäispalkkoja.
 
-###### *Vaativuustasot*
+###### Vaativuustasot
 
-2.  Vaativuustasot ovat:
+7.  Vaativuustasot ovat:
 
     1.  taso
 
-        -   pääosin rutiininomaiset asennus-, kokoonpano- ja
-            kaapelointityöt
+        - pääosin rutiininomaiset asennus-, kokoonpano- ja
+          kaapelointityöt
 
-        -   helpohkot laitteiden ja koneiden huolto- ja korjaustyöt
+        - helpohkot laitteiden ja koneiden huolto- ja korjaustyöt
 
-        -   määräaikaishuolto-, puhdistus-, testaus- ja säätötyöt
+        - määräaikaishuolto-, puhdistus-, testaus- ja säätötyöt
 
     2.  taso
 
-        -   rutiininomaista vaativammat, itsenäisesti hoidettavat
-            asennus- ja kokoonpanotyöt
+        - rutiininomaista vaativammat, itsenäisesti hoidettavat asennus-
+          ja kokoonpanotyöt
 
-        -   ohjauksen alaisena hoidettavat vaativat asennus- ja
-            kokoonpanotyöt
+        - ohjauksen alaisena hoidettavat vaativat asennus- ja
+          kokoonpanotyöt
 
-        -   itsenäisesti hoidettavat laitteiden ja koneiden huolto- ja
-            korjaustyöt
+        - itsenäisesti hoidettavat laitteiden ja koneiden huolto- ja
+          korjaustyöt
 
     3.  taso
 
-        -   itsenäisesti hoidettavat vaativat asennus- ja kokoonpanotyöt
+        - itsenäisesti hoidettavat vaativat asennus- ja kokoonpanotyöt
 
-        -   itsenäisesti hoidettavat vaativat laitteiden, koneiden ja
-            järjestelmien asia- kaspalvelu-, käyttöönotto- ja
-            ylläpitotyöt.
+        - itsenäisesti hoidettavat vaativat laitteiden, koneiden ja
+          järjestelmien asia- kaspalvelu-, käyttöönotto- ja
+          ylläpitotyöt.
 
 > Kunkin vaativuustason sisällä työsuorituksen, ammattitaidon ja
 > henkilökoh- taisten ominaisuuksien tulisi vaikuttaa palkkauksen
 > suuruuteen, esimerkiksi:
 
--   työsuoritus
+- työsuoritus
 
 > määrä, nopeus, laatu ja tulos
 
--   ammattitaito
+- ammattitaito
 
 > koulutuksella ja kokemuksella hankitut taidot ja tiedot suhteessa työn
 > vaatimiin taitoihin ja tietoihin, ammattitaidon käytettävyys ja
 > monipuoli- suus, ammattitaidon kehittäminen ja ylläpitäminen
 
--   henkilökohtaiset ominaisuudet
+- henkilökohtaiset ominaisuudet
 
 > luotettavuus, täsmällisyys, aloitteellisuus ja työtehtäviin liittyvä
 > kielitaito.
 
-###### *Vähimmäispalkka*
+###### Vähimmäispalkka
 
-3.  Asentajan ja huoltomiehen vähimmäispalkat ovat palkkaliitteessä.
+8.  Asentajan ja huoltomiehen vähimmäispalkat ovat palkkaliitteessä.
 
-```{=html}
-<!-- -->
-```
-3.  #### § Matkakustannukset
+#### § Matkakustannukset
 
-    1.  Kilometri- tai vastaavia korvauksia maksetaan asunnon ja
-        työkohteen väliseltä matkalta tämän ollessa olennaisesti pitempi
-        kuin asunnon ja varsinaisen työ- paikan välinen matka.
+9.  Kilometri- tai vastaavia korvauksia maksetaan asunnon ja työkohteen
+    väliseltä matkalta tämän ollessa olennaisesti pitempi kuin asunnon
+    ja varsinaisen työ- paikan välinen matka.
 
-    2.  Sen lisäksi mitä ateriakorvauksesta on sovittu
-        työehtosopimuksessa, ateria- korvausta ei makseta henkilölle,
-        jos hänellä on oikeus saada ruokailulipuke joko luontoisetuna
-        tai maksamalla siitä verotusarvo.
+10. Sen lisäksi mitä ateriakorvauksesta on sovittu työehtosopimuksessa,
+    ateria- korvausta ei makseta henkilölle, jos hänellä on oikeus saada
+    ruokailulipuke joko luontoisetuna tai maksamalla siitä verotusarvo.
 
-    3.  Muutoin noudatetaan työehtosopimuksen 22 §:n määräyksiä.
+11. Muutoin noudatetaan työehtosopimuksen 22 §:n määräyksiä.
 
-4.  #### § Lomaraha
+#### § Lomaraha
 
-    1.  Lomaraha voidaan vaihtaa vastaavaan vapaa-aikaan paikallisesti
-        sopimalla.
+12. Lomaraha voidaan vaihtaa vastaavaan vapaa-aikaan paikallisesti
+    sopimalla.
 
-    2.  Muutoin noudatetaan työehtosopimuksen 21 §:n määräyksiä lukuun
-        ottamatta
+13. Muutoin noudatetaan työehtosopimuksen 21 §:n määräyksiä lukuun
+    ottamatta
 
 > 8\. kohtaa.
 
 # HUOLTO- JA LIIKENNEASEMATYÖNTEKIJÄT
 
-1.  #### § Ulottuvuus
+#### § Ulottuvuus
 
-    1.  Pöytäkirja koskee kaikkia huolto- ja liikenneasemien
-        työntekijöitä.
+1.  Pöytäkirja koskee kaikkia huolto- ja liikenneasemien työntekijöitä.
 
-    2.  Työntekijöihin noudatetaan työehtosopimuksen määräyksiä alla
-        esitetyin poikkeuksin.
+2.  Työntekijöihin noudatetaan työehtosopimuksen määräyksiä alla
+    esitetyin poikkeuksin.
 
-2.  #### § Sunnuntaityö
+#### § Sunnuntaityö
 
-    1.  Sunnuntaityö määräytyy työaikalain 17 §:n mukaan.
+3.  Sunnuntaityö määräytyy työaikalain 17 §:n mukaan.
 
 > Sunnuntaina tai kirkollisena juhla-, itsenäisyys- ja vapunpäivänä
 > tehdystä säännöllisestä työstä maksetaan kaksinkertainen palkka.
@@ -4105,9 +4526,9 @@ b.  Työntekijän työsuhde on kestänyt 11 vuotta ja hän työskentelee 5
 
 #### § Palkat
 
-###### *Harjoitteluaika*
+###### Harjoitteluaika
 
-1.  Harjoitteluaika on 1 vuosi.
+4.  Harjoitteluaika on 1 vuosi.
 
 > Autonpesijä sekä huolto- ja liikenneaseman siivooja ovat heti 1.
 > vuoden työntekijöitä.
@@ -4115,27 +4536,83 @@ b.  Työntekijän työsuhde on kestänyt 11 vuotta ja hän työskentelee 5
 > Harjoittelijan palkka on 85 % kunkin ammatin alimman palkkaryhmän 1.
 > vuo- den palkasta.
 
-###### *Palkkaryhmät*
+###### Palkkaryhmät
 
-2.  Palkkaryhmät:
+5.  Palkkaryhmät:
 
-+-----------------------------------+----------------+----------------+
-| > TES-nimike                      | > Palkkaryhmä  | > Palkkaryhmä  |
-|                                   | > 31.5.2024    | > 1.6.2024     |
-|                                   | > asti         | > alk.         |
-+===================================+================+================+
-| Huolto- ja                        | > A            | > A            |
-| liikenneasematyöntekijä I         |                |                |
-+-----------------------------------+----------------+----------------+
-| Huolto- ja                        | > B1           | > B            |
-| liikenneasematyöntekijä II        |                |                |
-+-----------------------------------+----------------+----------------+
-| > Huoltoasentaja I                | > B2           | > B            |
-+-----------------------------------+----------------+----------------+
-| > Huoltoasentaja II               | > C1           | > C            |
-+-----------------------------------+----------------+----------------+
-| > Huoltoasentaja III              | > C2           | > C            |
-+-----------------------------------+----------------+----------------+
+<table>
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 24%" />
+<col style="width: 24%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><blockquote>
+<p>TES-nimike</p>
+</blockquote></th>
+<th><blockquote>
+<p>Palkkaryhmä 31.5.2024 asti</p>
+</blockquote></th>
+<th><blockquote>
+<p>Palkkaryhmä 1.6.2024 alk.</p>
+</blockquote></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Huolto- ja liikenneasematyöntekijä I</td>
+<td><blockquote>
+<p>A</p>
+</blockquote></td>
+<td><blockquote>
+<p>A</p>
+</blockquote></td>
+</tr>
+<tr class="even">
+<td>Huolto- ja liikenneasematyöntekijä II</td>
+<td><blockquote>
+<p>B1</p>
+</blockquote></td>
+<td><blockquote>
+<p>B</p>
+</blockquote></td>
+</tr>
+<tr class="odd">
+<td><blockquote>
+<p>Huoltoasentaja I</p>
+</blockquote></td>
+<td><blockquote>
+<p>B2</p>
+</blockquote></td>
+<td><blockquote>
+<p>B</p>
+</blockquote></td>
+</tr>
+<tr class="even">
+<td><blockquote>
+<p>Huoltoasentaja II</p>
+</blockquote></td>
+<td><blockquote>
+<p>C1</p>
+</blockquote></td>
+<td><blockquote>
+<p>C</p>
+</blockquote></td>
+</tr>
+<tr class="odd">
+<td><blockquote>
+<p>Huoltoasentaja III</p>
+</blockquote></td>
+<td><blockquote>
+<p>C2</p>
+</blockquote></td>
+<td><blockquote>
+<p>C</p>
+</blockquote></td>
+</tr>
+</tbody>
+</table>
 
 > Palkkaryhmä määräytyy sen mukaan, mitä työtä työntekijä tekee pääosan
 > työajastaan.
@@ -4144,30 +4621,31 @@ b.  Työntekijän työsuhde on kestänyt 11 vuotta ja hän työskentelee 5
 > al- kaen palkkaryhmään B) hänen työskennellessä sellaisella huolto-
 > tai liikenne- asemalla, jossa on:
 
--   vähintään 2 000 artikkelin päivittäistavarakauppa tai
+- vähintään 2 000 artikkelin päivittäistavarakauppa tai
 
--   sellainen kahvila/ravintola, jossa omassa keittiössä valmistetaan
-    > lounas- tai vastaavia ruoka-annoksia ja anniskellaan enintään 5,5
-    > tilavuusprosent- tia etyylialkoholia sisältäviä alkoholijuomia.
+- sellainen kahvila/ravintola, jossa omassa keittiössä valmistetaan
+  lounas- tai vastaavia ruoka-annoksia ja anniskellaan enintään 5,5
+  tilavuusprosent- tia etyylialkoholia sisältäviä alkoholijuomia.
 
 > Muuten työntekijä kuuluu palkkaryhmään A.
 >
 > Työntekijän tehdessä pääosan työajastaan avustavaa työtä hän kuuluu
 > palkka- ryhmään A.
 
-###### *Huolto- ja liikenneaseman ravintolatyöntekijä*
+###### Huolto- ja liikenneaseman ravintolatyöntekijä
 
-3.  Huolto- ja liikenneaseman ravintolatyöntekijällä tarkoitetaan
+6.  Huolto- ja liikenneaseman ravintolatyöntekijällä tarkoitetaan
     työntekijää, joka työskentelee pääasiallisesti huolto- ja
     liikenneasemalla toimivassa ravinto- lassa, jossa anniskellaan yli
     5,5 tilavuusprosenttia etyylialkoholia sisältäviä alkoholijuomia.
 
-> []{#_bookmark71 .anchor}Ravintolatyöntekijän palkka määräytyy
+> <span id="Luvanhaltijan_edustajan_sijainen"
+> class="anchor"></span>Ravintolatyöntekijän palkka määräytyy
 > palkkaliitteen mukaan.
 
-###### *Luvanhaltijan edustajan sijainen*
+###### Luvanhaltijan edustajan sijainen
 
-4.  Huolto- ja liikenneaseman ravintolatyöntekijälle, joka työskentelee
+7.  Huolto- ja liikenneaseman ravintolatyöntekijälle, joka työskentelee
     työnantajan määräämänä luvanhaltijan edustajan sijaisena yli 5,5
     tilavuusprosenttia etyy- lialkoholia sisältäviä alkoholijuomia
     anniskelevassa ravintolassa, maksetaan sijaisuustunneilta
@@ -4177,15 +4655,15 @@ b.  Työntekijän työsuhde on kestänyt 11 vuotta ja hän työskentelee 5
 > palkkaliitteen mukai- nen tuntipalkka, hänen palkkauksessaan ei
 > tapahdu muutoksia.
 
-###### *Huolto- ja liikenneaseman ravintolaesihenkilö*
+###### Huolto- ja liikenneaseman ravintolaesihenkilö
 
-5.  Huolto- ja liikenneasemalla työskentelevän ravintolaesihenkilön sekä
+8.  Huolto- ja liikenneasemalla työskentelevän ravintolaesihenkilön sekä
     alkoho- lilain edellyttämän ja työnantajan määräämän luvanhoitajan
     edustajan palkka määräytyy palkkaliitteen mukaan.
 
-###### *Huoltoasentajien vaativuustasot*
+###### Huoltoasentajien vaativuustasot
 
-6.  Huoltoasentajien vaativuustasot ovat töiden pääasiallisuuden
+9.  Huoltoasentajien vaativuustasot ovat töiden pääasiallisuuden
     perusteella seuraavat:
 
 > Huoltoasentaja I: Voitelu-, öljynvaihto- ja alustatyöt, pakoputkiston
@@ -4203,71 +4681,67 @@ b.  Työntekijän työsuhde on kestänyt 11 vuotta ja hän työskentelee 5
 >
 > Huoltoasentaja III:n palkkaryhmä on C2 (1.6.2024 alkaen C).
 
-4.  #### § Lisät
+#### § Lisät
 
-    1.  Huolto- ja liikenneasema, jossa alle 2 000 artikkelin
-        päivittäistavarakauppa tai jossa ei päivittäistavarakauppaa
+10. Huolto- ja liikenneasema, jossa alle 2 000 artikkelin
+    päivittäistavarakauppa tai jossa ei päivittäistavarakauppaa
 
-        -   []{#_bookmark72 .anchor}Kello 18.00--24.00 tehdystä työstä
-            > maksetaan palkkaliitteen mukainen *iltalisä*. Lisä
-            > maksetaan kaksinkertaisena sunnuntaina sekä kirkollisena
-            > juhla-, vapun- ja itsenäisyyspäivänä.
+    - <span id="4_§_Lisät" class="anchor"></span>Kello 18.00–24.00
+      tehdystä työstä maksetaan palkkaliitteen mukainen *iltalisä*. Lisä
+      maksetaan kaksinkertaisena sunnuntaina sekä kirkollisena juhla-,
+      vapun- ja itsenäisyyspäivänä.
 
-        -   Kello 00.00--06.00 tehdystä työstä maksetaan palkkaliitteen
-            > mukainen *yölisä*. Lisä maksetaan yksinkertaisena
-            > sunnuntaina sekä kirkollisena juhla-, vapun- ja
-            > itsenäisyyspäivänä.
+    - Kello 00.00–06.00 tehdystä työstä maksetaan palkkaliitteen
+      mukainen *yölisä*. Lisä maksetaan yksinkertaisena sunnuntaina sekä
+      kirkollisena juhla-, vapun- ja itsenäisyyspäivänä.
 
-    2.  Huolto- ja liikenneasema, jossa vähintään 2000 artikkelin
-        päivittäistavara- kauppa ja jonka päivittäistavarakaupan
-        myyntipinta-ala enintään 400 m²
+11. Huolto- ja liikenneasema, jossa vähintään 2000 artikkelin
+    päivittäistavara- kauppa ja jonka päivittäistavarakaupan
+    myyntipinta-ala enintään 400 m²
 
-        -   Kello 18.00--24.00 tehdystä työstä maksetaan palkkaliitteen
-            > mukainen *iltalisä*. Lisä maksetaan kaksinkertaisena
-            > sunnuntaina sekä kirkollisena juhla-, vapun- ja
-            > itsenäisyyspäivänä.
+    - Kello 18.00–24.00 tehdystä työstä maksetaan palkkaliitteen
+      mukainen *iltalisä*. Lisä maksetaan kaksinkertaisena sunnuntaina
+      sekä kirkollisena juhla-, vapun- ja itsenäisyyspäivänä.
 
-        -   Kello 00.00--06.00 tehdystä työstä maksetaan palkkaliitteen
-            > mukainen *yölisä*. Lisä maksetaan yksinkertaisena
-            > sunnuntaina sekä kirkollisena juhla-, vapun- ja
-            > itsenäisyyspäivänä.
+    - Kello 00.00–06.00 tehdystä työstä maksetaan palkkaliitteen
+      mukainen *yölisä*. Lisä maksetaan yksinkertaisena sunnuntaina sekä
+      kirkollisena juhla-, vapun- ja itsenäisyyspäivänä.
 
-    3.  Huolto- ja liikenneasema, jossa yli 400 m²
-        päivittäistavarakauppa.
+12. Huolto- ja liikenneasema, jossa yli 400 m² päivittäistavarakauppa.
 
-        -   Päivittäistavarakaupassa tehdystä työstä lisät maksetaan
-            > työehto- sopimuksen 12 §:n mukaan.
+    - Päivittäistavarakaupassa tehdystä työstä lisät maksetaan työehto-
+      sopimuksen 12 §:n mukaan.
 
-        -   Muusta kuin päivittäistavarakaupassa tehdystä työstä lisät
-            > maksetaan
+    - Muusta kuin päivittäistavarakaupassa tehdystä työstä lisät
+      maksetaan
 
-            1.  kohdan mukaan.
+      1.  kohdan mukaan.
 
-###### *Hälytysraha* {#hälytysraha-3}
+###### Hälytysraha
 
-4.  Hälytysraha maksetaan työntekijän poistuttua työpaikalta ja hänen
+13. Hälytysraha maksetaan työntekijän poistuttua työpaikalta ja hänen
     tullessa hälytyskutsusta työhön saman vuorokauden aikana
     säännöllisen työajan ulkopuolella.
 
 > Hälytysraha on 2 tunnin palkka muun hälytystyöstä maksettavan palkan
 > lisäksi.
 
-5.  #### § Työasut
+#### § Työasut
 
-    1.  Työnantaja hankkii työntekijälle työasun.
+14. Työnantaja hankkii työntekijälle työasun.
 
-    2.  Työnantaja huoltaa työasun, ellei työntekijän kanssa korvausta
-        vastaan toi- sin sovita.
+15. Työnantaja huoltaa työasun, ellei työntekijän kanssa korvausta
+    vastaan toi- sin sovita.
 
-    3.  Työnantaja hankkii huoltoasentajalle, autonpesijälle ja
-        alustasuojaajalle suoja- vaatteet ja -jalkineet.
+16. Työnantaja hankkii huoltoasentajalle, autonpesijälle ja
+    alustasuojaajalle suoja- vaatteet ja -jalkineet.
 
 # KIOSKIMYYJÄT
 
-1.  #### § Ulottuvuus
+#### § Ulottuvuus
 
-    1.  Pöytäkirja koskee kiinteissä tai niihin rinnastettavissa
-        kioskeissa työskenteleviä kioskimyyjiä.
+1.  Pöytäkirja koskee kiinteissä tai niihin rinnastettavissa kioskeissa
+    työskenteleviä kioskimyyjiä.
 
 > Kioski- ja siihen verrattavalla kaupalla tarkoitetaan kauppaa, jota
 > harjoitetaan liikehuoneistosta, jossa kioskikaupan vakinainen
@@ -4280,28 +4754,25 @@ b.  Työntekijän työsuhde on kestänyt 11 vuotta ja hän työskentelee 5
     soveltuvin osin työehtosopimuksen määräyksiä alla esitetyin
     poikkeuksin.
 
-```{=html}
-<!-- -->
-```
-2.  #### § Palkat
+#### § Palkat
 
-    1.  Kioskimyyjän palkkaryhmä on B1 (1.6.2024 alkaen B).
+4.  Kioskimyyjän palkkaryhmä on B1 (1.6.2024 alkaen B).
 
-3.  #### § Ilta- ja yölisä
+#### § Ilta- ja yölisä
 
-###### *Iltalisä*
+###### Iltalisä
 
-1.  Kello 18.00--23.00 tehdystä työstä maksetaan palkkaliitteen mukainen
-    iltalisä.
+5.  Kello 18.00–23.00 tehdystä työstä maksetaan palkkaliitteen mukainen
+    > iltalisä.
 
-###### *Yölisä*
+###### Yölisä
 
-2.  Kello 23.00--06.00 tehdystä työstä maksetaan palkkaliitteen mukainen
+6.  Kello 23.00–06.00 tehdystä työstä maksetaan palkkaliitteen mukainen
     yölisä.
 
-###### *Ilta- ja yölisät sunnuntaina*
+###### Ilta- ja yölisät sunnuntaina
 
-3.  Ilta- ja yölisät maksetaan yksinkertaisena sunnuntaina sekä
+7.  Ilta- ja yölisät maksetaan yksinkertaisena sunnuntaina sekä
     kirkollisena juhla-, vapun- ja itsenäisyyspäivänä tehdystä työstä.
 
 #### § Työaika
@@ -4327,18 +4798,17 @@ b.  Työntekijän työsuhde on kestänyt 11 vuotta ja hän työskentelee 5
 
 > Provision osalta noudatetaan seuraavaa:
 
--   Provisio maksetaan täysimääräisenä huolimatta kaupan jälkeen tava-
-    rassa ilmenneestä virheestä, jos virhe on syntynyt tavaran
-    valmistuksen tai
+- Provisio maksetaan täysimääräisenä huolimatta kaupan jälkeen tava-
+  rassa ilmenneestä virheestä, jos virhe on syntynyt tavaran
+  valmistuksen tai
 
 > kuljetuksen aikana eikä se ole ollut tiedossa kauppaa tehtäessä.
 
--   Myyjällä on oikeus työsuhteen päättymisen jälkeen erääntyviin
-    provisioihin samojen periaatteiden mukaan kuin työsuhteen jatkuessa.
+- Myyjällä on oikeus työsuhteen päättymisen jälkeen erääntyviin
+  provisioihin samojen periaatteiden mukaan kuin työsuhteen jatkuessa.
 
--   Siirrettäessä myyjä työsopimuksen mukaisesta työstä olennaisesti
-    poikke- avaan työhön siirron vaikutus provision kertymään
-    selvitetään.
+- Siirrettäessä myyjä työsopimuksen mukaisesta työstä olennaisesti
+  poikke- avaan työhön siirron vaikutus provision kertymään selvitetään.
 
 #### § Keskimääräinen päiväpalkka
 
@@ -4352,7 +4822,7 @@ b.  Työntekijän työsuhde on kestänyt 11 vuotta ja hän työskentelee 5
 > Tuntipalkka lasketaan jakamalla päiväpalkka työpäivän keskimääräisillä
 > tunneilla.
 
-2.  Liitot suosittelevat laskenta-ajoiksi 1.4.--31.3. ja 1.10.--30.9.
+2.  Liitot suosittelevat laskenta-ajoiksi 1.4.–31.3. ja 1.10.–30.9.
     välisiä aikoja.
 
 3.  Työsuhteen alkaessa kesken kalenterivuotta käytetään
@@ -4363,29 +4833,29 @@ b.  Työntekijän työsuhde on kestänyt 11 vuotta ja hän työskentelee 5
 
 # SOMISTAJAT
 
-1.  #### § Ulottuvuus
+#### § Ulottuvuus
 
-    1.  Pöytäkirja koskee somistajia ja somistajaharjoittelijoita.
+1.  Pöytäkirja koskee somistajia ja somistajaharjoittelijoita.
 
-    2.  Somistajiin ja somistajaharjoittelijoihin noudatetaan
-        työehtosopimuksen mää- räyksiä alla esitetyin poikkeuksin.
+2.  Somistajiin ja somistajaharjoittelijoihin noudatetaan
+    työehtosopimuksen mää- räyksiä alla esitetyin poikkeuksin.
 
-2.  #### § Työpalkat
+#### § Työpalkat
 
-###### *Palvelusaika*
+###### Palvelusaika
 
-1.  Palvelusaikaan lasketaan tämän pöytäkirjan tarkoittamassa ammatissa
+3.  Palvelusaikaan lasketaan tämän pöytäkirjan tarkoittamassa ammatissa
     työs- kennelty aika.
 
 > Palvelusaika tarkoittaa kyseisessä vaativuustasossa työskenneltyä
 > aikaa.
 
-2.  Siirto vaativuustasossa määräytyy työehtosopimuksen 11 §:n 7. kohdan
+4.  Siirto vaativuustasossa määräytyy työehtosopimuksen 11 §:n 7. kohdan
     mukaan.
 
-###### *Vaativuustasot*
+###### Vaativuustasot
 
-3.  Vaativuustasot ovat Somistaja I ja Somistaja II.
+5.  Vaativuustasot ovat Somistaja I ja Somistaja II.
 
 > Somistaja kuuluu Somistaja I:een, elleivät työtehtävät edellytä hänen
 > kuulu- mistaan Somistaja II:een.
@@ -4394,116 +4864,115 @@ b.  Työntekijän työsuhde on kestänyt 11 vuotta ja hän työskentelee 5
 > mukaan suunnittelee ja tekee ikkunoiden, myyntipisteiden tai shoppien
 > somistuksia tai hoitaa lehti-ilmoituksia.
 
-###### *Erityisen vaativa somistus*
+###### Erityisen vaativa somistus
 
-4.  Somistajan tehdessä erityisen vaativaa somistusta hänelle maksetaan
+6.  Somistajan tehdessä erityisen vaativaa somistusta hänelle maksetaan
     vähin- tään Somistaja II:n palkkaa 20 %:lla korotettuna.
 
 > Erityisen vaativaa somistusta on esimerkiksi:
 
--   sarjamainosteiden suunnittelu
+- sarjamainosteiden suunnittelu
 
--   myymälöiden ja tavaratalojen vaativat mainonnalliset
-    sisustusratkaisut
+- myymälöiden ja tavaratalojen vaativat mainonnalliset sisustusratkaisut
 
--   messu- tai näyttelyosastojen suunnittelu
+- messu- tai näyttelyosastojen suunnittelu
 
--   näytöksien showtekniikan järjestely.
+- näytöksien showtekniikan järjestely.
 
-###### *Työskentely vaativammassa tehtävässä*
+###### Työskentely vaativammassa tehtävässä
 
-5.  Lisä määräytyy työehtosopimuksen 11 §:n 5. kohdan mukaan.
+7.  Lisä määräytyy työehtosopimuksen 11 §:n 5. kohdan mukaan.
     Työskentely vaativammassa tehtävässä huomioidaan työehtosopimuksen
     11 §:n 5. koh- dan mukaan.
 
 > Vaativammaksi voidaan katsoa myös tehtävä, jossa
 
--   toimitaan työnantajan nimeämänä työryhmän vanhimpana
+- toimitaan työnantajan nimeämänä työryhmän vanhimpana
 
--   työskennellään toistuvasti likaisissa, raskaissa tai muuten
-    poikkeukselli- sissa olosuhteissa.
+- työskennellään toistuvasti likaisissa, raskaissa tai muuten
+  poikkeukselli- sissa olosuhteissa.
 
 #### § Työasut
 
 1.  Työnantaja hankkii vakinaiselle somistajalle käyttökelpoisen
-    työasun.
+    > työasun.
 
 2.  Työnantaja omistaa ja huoltaa työasun, ellei työntekijän kanssa
     korvausta vas- taan toisin sovita.
 
 # TUKKUMYYJÄT JA OSTAJAT
 
-1.  #### § Ulottuvuus
+#### § Ulottuvuus
 
-    1.  Pöytäkirja koskee tukkukaupan tukkumyyjiä ja myyntityöhön
-        liittyvässä asia- kasneuvonnassa työskenteleviä.
+1.  Pöytäkirja koskee tukkukaupan tukkumyyjiä ja myyntityöhön
+    liittyvässä asia- kasneuvonnassa työskenteleviä.
 
-    2.  Pöytäkirja ei koske tukkumyyjää, joka saa osan tai koko palkan
-        provisiona.
+2.  Pöytäkirja ei koske tukkumyyjää, joka saa osan tai koko palkan
+    provisiona.
 
-2.  #### § Vaativuustasot
+#### § Vaativuustasot
 
-    1.  Vaativuustasoihin sijoittelussa otetaan huomioon mm. seuraavia
-        vaativuus- tekijöitä:
+3.  Vaativuustasoihin sijoittelussa otetaan huomioon mm. seuraavia
+    vaativuus- tekijöitä:
 
-        -   tehtävän edellyttämä aktiivisuus ja itsenäisyys
+    - tehtävän edellyttämä aktiivisuus ja itsenäisyys
 
-        -   vastuu ja itsenäisen päätöksenteon laajuus
+    - vastuu ja itsenäisen päätöksenteon laajuus
 
-        -   tehtävän edellyttämä erityisasiantuntemus
+    - tehtävän edellyttämä erityisasiantuntemus
 
-        -   liiketaloudellisten tekijöiden hallinta
+    - liiketaloudellisten tekijöiden hallinta
 
-        -   suunnittelutehtävät
+    - suunnittelutehtävät
 
-        -   uusien asiakkaiden hankinta
+    - uusien asiakkaiden hankinta
 
-        -   ohjaus- ja esihenkilötehtävät.
+    - ohjaus- ja esihenkilötehtävät.
 
-    2.  Tukkumyyjien vaativuustasot ovat seuraavat:
+4.  Tukkumyyjien vaativuustasot ovat seuraavat:
 
 > Tukkumyyjä I
 >
 > Normaali myyntityö, jolle on tyypillistä:
 
--   myynti ja tarjonta ohjeiden mukaan
+- myynti ja tarjonta ohjeiden mukaan
 
--   tilausten vastaanotto
+- tilausten vastaanotto
 
--   myyntimatkat ohjeiden mukaan
+- myyntimatkat ohjeiden mukaan
 
--   täydennystilaukset
+- täydennystilaukset
 
--   vastaavan tasoinen ostotyö ohjeiden mukaan. Tukkumyyjä I:n
-    palkkaryhmä on D.
+- vastaavan tasoinen ostotyö ohjeiden mukaan. Tukkumyyjä I:n palkkaryhmä
+  on D.
 
-> []{#_bookmark79 .anchor}Tukkumyyjä II
+> <span id="3_§_Muut_määräykset" class="anchor"></span>Tukkumyyjä II
 >
 > Vaativa myyntityö, jolle on tyypillistä:
 
--   vastuu tavararyhmän kaikkien artikkeleiden tarjonnasta ja myynnistä
+- vastuu tavararyhmän kaikkien artikkeleiden tarjonnasta ja myynnistä
 
--   osallistuminen myös ostotoimintaan
+- osallistuminen myös ostotoimintaan
 
--   asiakkaiden ohjaus ja neuvonta
+- asiakkaiden ohjaus ja neuvonta
 
--   myynnin edistäminen
+- myynnin edistäminen
 
--   myyntimatkat ohjeiden mukaan
+- myyntimatkat ohjeiden mukaan
 
--   vastaavan tasoinen ostotyö.
+- vastaavan tasoinen ostotyö.
 
 > Tukkumyyjä III
 >
 > Erittäin vaativa myyntityö, jolle on tyypillistä:
 
--   tehtävien itsenäisyys, esimerkiksi vuosisopimusten, asiakkaiden ja
-    tarjo- usten suhteen
+- tehtävien itsenäisyys, esimerkiksi vuosisopimusten, asiakkaiden ja
+  tarjo- usten suhteen
 
--   vaativien markkinointitehtävien itsenäinen suunnittelu, toteutus ja
-    seuranta
+- vaativien markkinointitehtävien itsenäinen suunnittelu, toteutus ja
+  seuranta
 
--   vastaavan tasoinen ostotyö.
+- vastaavan tasoinen ostotyö.
 
 > Tukkumyyjä II:n ja III:n taulukkopalkat ovat palkkaliitteessä.
 
@@ -4514,33 +4983,33 @@ b.  Työntekijän työsuhde on kestänyt 11 vuotta ja hän työskentelee 5
 
 # LOGISTIIKKATYÖNTEKIJÄT
 
-1.  #### § Suorituspalkkaus
+#### § Suorituspalkkaus
 
-    1.  Suorituspalkka muodostuu kiinteästä ja muuttuvasta palkanosasta.
-        Muuttuva palkanosa perustuu pääasiallisesti työsuorituksen
-        määrän ja laadun mittaami- seen, joko yksilöllisesti tai
-        ryhmäkohtaisesti. Suorituspalkalla ei tarkoiteta palk-
-        kiopalkkaa eikä tulos- ja voittopalkkioita.
+1.  Suorituspalkka muodostuu kiinteästä ja muuttuvasta palkanosasta.
+    Muuttuva palkanosa perustuu pääasiallisesti työsuorituksen määrän ja
+    laadun mittaami- seen, joko yksilöllisesti tai ryhmäkohtaisesti.
+    Suorituspalkalla ei tarkoiteta palk- kiopalkkaa eikä tulos- ja
+    voittopalkkioita.
 
-    2.  Suorituspalkkatyön tarkoituksena on työntekijän ansion nousu
-        työehtosopi- muksen mukaista palkkaa korkeammaksi tavanomaista
-        tehokkaamman ja laa- dukkaamman työskentelyn johdosta.
+2.  Suorituspalkkatyön tarkoituksena on työntekijän ansion nousu
+    työehtosopi- muksen mukaista palkkaa korkeammaksi tavanomaista
+    tehokkaamman ja laa- dukkaamman työskentelyn johdosta.
 
-    3.  Työntekijällä on oikeus ennen työn aloittamista saada tiedot
-        suorituspalkka- työn palkkaperusteista. Olennaiset muutokset
-        työsuoritukseen vaikuttavissa tekijöissä tulee viipymättä ottaa
-        huomioon palkkaperusteissa, muutoin ne pysyvät ennallaan.
+3.  Työntekijällä on oikeus ennen työn aloittamista saada tiedot
+    suorituspalkka- työn palkkaperusteista. Olennaiset muutokset
+    työsuoritukseen vaikuttavissa tekijöissä tulee viipymättä ottaa
+    huomioon palkkaperusteissa, muutoin ne pysyvät ennallaan.
 
-    4.  Työn keskeytyessä työntekijästä riippumattomasta syystä pyritään
-        hänelle järjestämään muuta suorituspalkkatyötä. Tämän ollessa
-        mahdotonta työnte- kijälle maksetaan työehtosopimuksen mukainen
-        palkka ilman suoritetta ottaen huomioon työsopimuslain 2:12 §:n
-        säännökset.
+4.  Työn keskeytyessä työntekijästä riippumattomasta syystä pyritään
+    hänelle järjestämään muuta suorituspalkkatyötä. Tämän ollessa
+    mahdotonta työnte- kijälle maksetaan työehtosopimuksen mukainen
+    palkka ilman suoritetta ottaen huomioon työsopimuslain 2:12 §:n
+    säännökset.
 
-    5.  Suorite otetaan huomioon sairausajan ja vuosiloma-ajan
-        palkoissa, jos sitä ei muutoin makseta näiltä ajoilta.
-        Maksettaessa lisä- ja ylityöltä suoritetta se ote- taan huomioon
-        lisä- ja ylityökorvauksissa.
+5.  Suorite otetaan huomioon sairausajan ja vuosiloma-ajan palkoissa,
+    jos sitä ei muutoin makseta näiltä ajoilta. Maksettaessa lisä- ja
+    ylityöltä suoritetta se ote- taan huomioon lisä- ja
+    ylityökorvauksissa.
 
 > Edellä esitetystä voidaan työpaikkakohtaisesti (työehtosopimuksen 23
 > §:n mukaisesti) sopia toisin. Jos työpaikalla on luottamusmies,
@@ -4575,60 +5044,57 @@ b.  Työntekijän työsuhde on kestänyt 11 vuotta ja hän työskentelee 5
 > korvaa- misesta voidaan työpaikkakohtaisesti (työehtosopimuksen 23 §:n
 > mukaisesti) sopia toisin.
 
-A.  Työntekijän keskimääräisestä suorituspalkasta lasketaan
+1.  Työntekijän keskimääräisestä suorituspalkasta lasketaan
     yleiskorotuspro- sentin mukainen osuus. Näin saadulla euromäärällä
     korotetaan työntekijän henkilökohtaista kuukausipalkkaa tai
     tuntipalkkaa seuraavana palkkapäivänä.
 
-B.  Yleiskorotuksella korotetaan suoritteen yksikköhintoja,
+2.  Yleiskorotuksella korotetaan suoritteen yksikköhintoja,
     suoritekertoimia tai niihin verrattavia suorite-elementtejä siten,
     että vastaava työsuoritus tuot- taa aiempaan verrattuna
     yleiskorotuksen verran suuremman suorituspalkan.
 
-```{=html}
-<!-- -->
-```
-3.  #### § Eräistä määräyksistä toisin sopiminen
+#### § Eräistä määräyksistä toisin sopiminen
 
-    1.  Suorituspalkan ja työaikalisien vaihtamisesta vastaavaksi
-        vapaaksi voivat työn- antaja ja logistiikkatyöntekijä sopia
-        työpaikkakohtaisesti (työehtosopimuksen 23 §:n mukaisesti).
-        Vapaan vaihtamiseen ja pitämiseen sovelletaan lomaraha- vapaata
-        ja työaikapankkivapaata koskevia määräyksiä.
+1.  Suorituspalkan ja työaikalisien vaihtamisesta vastaavaksi vapaaksi
+    voivat työn- antaja ja logistiikkatyöntekijä sopia
+    työpaikkakohtaisesti (työehtosopimuksen 23 §:n mukaisesti). Vapaan
+    vaihtamiseen ja pitämiseen sovelletaan lomaraha- vapaata ja
+    työaikapankkivapaata koskevia määräyksiä.
 
-    2.  Työehtosopimuksen 7 §:n 3. kohdan 3. kappaleen määräyksestä,
-        jonka mukaan työvuoroluetteloa laadittaessa vapaapäivien välissä
-        voi olla enintään 8 työpäivää, voidaan työpaikkakohtaisesti
-        (työehtosopimuksen 23 §:n mukaisesti) sopia toisin.
+2.  Työehtosopimuksen 7 §:n 3. kohdan 3. kappaleen määräyksestä, jonka
+    mukaan työvuoroluetteloa laadittaessa vapaapäivien välissä voi olla
+    enintään 8 työpäivää, voidaan työpaikkakohtaisesti
+    (työehtosopimuksen 23 §:n mukaisesti) sopia toisin.
 
-    3.  Työehtosopimuksen 6 §:n 5. kohdan määräyksestä, jonka mukaan
-        tasoittumis- jakso voi olla enintään 26 viikkoa, voidaan
-        työpaikkakohtaisesti (työehtosopi- muksen 23 §:n mukaisesti)
-        sopia toisin. Tasoittumisjakso voi olla toisin sopi- malla
-        kuitenkin enintään 52 viikkoa.
+3.  Työehtosopimuksen 6 §:n 5. kohdan määräyksestä, jonka mukaan
+    tasoittumis- jakso voi olla enintään 26 viikkoa, voidaan
+    työpaikkakohtaisesti (työehtosopi- muksen 23 §:n mukaisesti) sopia
+    toisin. Tasoittumisjakso voi olla toisin sopi- malla kuitenkin
+    enintään 52 viikkoa.
 
 > Työehtosopimuksen 6 §:n 6. kohdan määräykset eivät koske logistiikka-
 > työntekijöitä.
 
-4.  #### § Sairauspoissaolojen määrän tarkastelu ja vähentäminen
+#### § Sairauspoissaolojen määrän tarkastelu ja vähentäminen
 
-    1.  Työnantaja ja logistiikkatyöntekijät sitoutuvat säännöllisesti
-        tarkastelemaan sairauspoissaoloja sekä kehittämään ja
-        toteuttamaan keinoja niiden määrän vähentämiseksi.
+4.  Työnantaja ja logistiikkatyöntekijät sitoutuvat säännöllisesti
+    tarkastelemaan sairauspoissaoloja sekä kehittämään ja toteuttamaan
+    keinoja niiden määrän vähentämiseksi.
 
 # TYÖAIKAPÖYTÄKIRJAT ARKIPYHÄJÄRJESTELMÄ
 
-###### *Arkipyhäjärjestelmän käyttöönotto*
+###### Arkipyhäjärjestelmän käyttöönotto
 
 1.  Vuosivapaajärjestelmän sijaan voidaan yrityksessä tai sen osassa
     ottaa käyttöön arkipyhäjärjestelmä. Valittua järjestelmää ei voida
     vaihtaa kesken kalenterivuoden.
 
-2.  Tämän pöytäkirjan arkipyhälyhennyksiä koskevat kohdat 3.--7.
+2.  Tämän pöytäkirjan arkipyhälyhennyksiä koskevat kohdat 3.–7.
     korvaavat työ- ehtosopimuksen 7 §:n vuosivapaita koskevat kohdat
-    4.--9.
+    4.–9.
 
-###### *Arkipyhäviikon työajan lyhennys*
+###### Arkipyhäviikon työajan lyhennys
 
 3.  Työaikaa lyhentävä arkipyhä vähentää kyseisen viikon tai
     tasoittumisjärjes- telmän työpäivien määrää 1:llä ja työtuntien
@@ -4636,13 +5102,13 @@ B.  Yleiskorotuksella korotetaan suoritteen yksikköhintoja,
 
 4.  Työajan lyhennys toteutetaan antamalla vapaapäivä:
 
-    -   arkipyhäviikolla
+    - arkipyhäviikolla
 
-    -   2 edeltävänä viikkona
+    - 2 edeltävänä viikkona
 
-    -   2 seuraavana viikkona tai
+    - 2 seuraavana viikkona tai
 
-    -   tasoittumisjärjestelmässä.
+    - tasoittumisjärjestelmässä.
 
 > Toimihenkilön työajan lyhennys tasoittumisjärjestelmässä edellyttää
 > työpaik- kakohtaista sopimista (työehtosopimuksen 23 §:n mukaisesti),
@@ -4659,11 +5125,11 @@ B.  Yleiskorotuksella korotetaan suoritteen yksikköhintoja,
 > Myyjän keskimääräinen viikkotyöaika on 37,5 tuntia. Arkipyhäviikko on
 > 6 viikon tasoittumisjärjestelmän 3. viikolla.
 
-6.  viikon tasoittumisjärjestelmä:
+1.  viikon tasoittumisjärjestelmä:
 
 Viikko 1 2 3 4 5 6 Työtuntien määrä
 
-225 -- 7,5 = 217,5t
+225 – 7,5 = 217,5t
 
 > Arkipyhäviikko (217 tuntia 30 minuuttia)
 >
@@ -4676,27 +5142,27 @@ Viikko 1 2 3 4 5 6 Työtuntien määrä
 
 1.  Työaikaa lyhentävät:
 
-    -   pitkäperjantai
+    - pitkäperjantai
 
-    -   pääsiäismaanantai
+    - pääsiäismaanantai
 
-    -   helatorstai
+    - helatorstai
 
-    -   juhannuspäivä.
+    - juhannuspäivä.
 
 > Työaikaa lyhentävät myös maanantaista perjantaihin sijoittuvat:
 
--   uudenvuodenpäivä
+- uudenvuodenpäivä
 
--   loppiainen
+- loppiainen
 
--   vapunpäivä
+- vapunpäivä
 
--   itsenäisyyspäivä
+- itsenäisyyspäivä
 
--   jouluaatto
+- jouluaatto
 
--   tapaninpäivä.
+- tapaninpäivä.
 
 2.  Työntekijä on oikeutettu arkipyhälyhennykseen edellyttäen, että
     työsuhde ennen arkipyhää on kestänyt vähintään kuukauden. Työsuhteen
@@ -4705,20 +5171,20 @@ Viikko 1 2 3 4 5 6 Työtuntien määrä
 
 3.  Alle 37,5 tuntia tekevälle annetaan arkipyhäviikon työajan lyhennys:
 
-    -   rahakorvauksena tehtyjen työtuntien lisäksi lyhennysjakson
-        > tilissä tai
+    - rahakorvauksena tehtyjen työtuntien lisäksi lyhennysjakson tilissä
+      > tai
 
-    -   palkallisena vapaana lyhennysjakson aikana.
+    - palkallisena vapaana lyhennysjakson aikana.
 
 > Rahakorvaus tai työajan lyhennys lasketaan jakamalla työsopimuksessa
 > sovittu viikkotyöaika 5:llä.
 
-###### *Lisä- ja ylityö*
+###### Lisä- ja ylityö
 
 4.  Lisä- ja ylityön osalta noudatetaan työehtosopimuksen 9 §:n
     määräyksiä.
 
-###### *Korotettu palkka*
+###### Korotettu palkka
 
 5.  Korotetun palkan laskennan osalta noudatetaan työehtosopimuksen 9
     §:n määräyksiä.
@@ -4746,10 +5212,10 @@ Viikko 1 2 3 4 5 6 Työtuntien määrä
 > Työntekijä on tehnyt jakson aikana 500 tuntia, joista 10 tuntia
 > vuorokau- dessa ylittäviä tunteja on 15. Tehdyistä tunneista
 > vähennetään erikseen 50 %:lla korvattavat 10 tuntia ylittävät tunnit
-> (500 -- 15), jolloin tunteja jää
+> (500 – 15), jolloin tunteja jää
 >
 > 485\. Tästä tuntimäärästä vähennetään kyseisen jakson viikkojen
-> enimmäis- työaika 12 x 37,5 -- 7,5 = 442,5 tuntia (442 tuntia 30
+> enimmäis- työaika 12 x 37,5 – 7,5 = 442,5 tuntia (442 tuntia 30
 > minuuttia), jolloin
 >
 > 50 %:lla korvataan 42,5 tuntia (42 tuntia 30 minuuttia).
@@ -4758,7 +5224,7 @@ Viikko 1 2 3 4 5 6 Työtuntien määrä
 > palkka yhteensä (15 + 42,5) 57,5 tunnilta (57 tunnilta 30 minuutilta).
 >
 > Ylityökirjanpitoon kirjataan tasoittumisjaksossa keskimäärin 40 tuntia
-> vii- kossa ylittävä työ eli 20 tuntia (500 tuntia -- 12 x 40 tuntia).
+> vii- kossa ylittävä työ eli 20 tuntia (500 tuntia – 12 x 40 tuntia).
 >
 > Esimerkki 50
 >
@@ -4773,25 +5239,25 @@ Viikko 1 2 3 4 5 6 Työtuntien määrä
 > Työntekijä on tehnyt jakson aikana 500 tuntia, joista 10 tuntia
 > vuorokau- dessa ylittäviä tunteja on 15. Tehdyistä tunneista
 > vähennetään erikseen 50 %:lla korvattavat 10 tuntia ylittävät tunnit
-> (500 -- 15), jolloin tunteja jää
+> (500 – 15), jolloin tunteja jää
 >
 > 485\. Tästä tuntimäärästä vähennetään jakson viikkojen enimmäistyöaika
 > 450 tuntia (12 x 37,5), jolloin 50 %:lla korvattavia tunteja jää 35.
 >
 > Kyseiseltä tasoittumisjaksolta työntekijälle maksetaan yksinkertainen
 > tun- tipalkka suunnitelluista 360 tunnista ja jakson viikkojen
-> enimmäistyöajan ja suunnitellun työajan erotuksesta (450 -- 360) 90
+> enimmäistyöajan ja suunnitellun työajan erotuksesta (450 – 360) 90
 > tunnista. Yksinkertainen tuntipalkka maksetaan yhteensä 450 tunnista
 > (360 + 90). Työntekijä saa jaksolta 50 %:lla korotetun palkan 50
 > tunnilta (15 + 35). Lisäksi hänelle mak- setaan arkipyhäviikon
 > lyhennyskorvauksena 6 tunnin palkka.
 >
 > Ylityökirjanpitoon kirjataan tasoittumisjaksossa keskimäärin 40 tuntia
-> vii- kossa ylittävä työ eli 20 tuntia (500 tuntia -- 12 x 40 tuntia).
+> vii- kossa ylittävä työ eli 20 tuntia (500 tuntia – 12 x 40 tuntia).
 
 # VUOSITYÖAJAN LYHENNYS
 
-###### *Soveltamisala*
+###### Soveltamisala
 
 1.  Vuosityöajan lyhentäminen 116 tunnilla koskee työaikamuotoja, joissa
     sään- nöllinen viikkotyöaika on keskimäärin 40 tuntia.
@@ -4799,137 +5265,236 @@ Viikko 1 2 3 4 5 6 Työtuntien määrä
 2.  Lyhennystä vähentävät paikalliseen sopimukseen tai käytäntöön
     perustuvat työaikaa lyhentävät:
 
-    -   vuosittain säännöllisesti toistuvat vapaat
+    - vuosittain säännöllisesti toistuvat vapaat
 
-    -   lomat jotka perustuvat yli 2,5 päivän ansaintaan
-        lomanmääräytymis- kuukaudessa.
+    - lomat jotka perustuvat yli 2,5 päivän ansaintaan lomanmääräytymis-
+      kuukaudessa.
 
-###### *Lyhennysmallit*
+###### Lyhennysmallit
 
 3.  Työajan lyhennys voidaan toteuttaa kalenterivuosittain:
 
-    -   lyhentämällä keskimääräinen viikkotyöaika työehtosopimuksen 6
-        §:n mukaisesti 37,5 tuntiin
+    - lyhentämällä keskimääräinen viikkotyöaika työehtosopimuksen 6 §:n
+      mukaisesti 37,5 tuntiin
 
-    -   antamalla lyhennys vapaapäivinä (= Pekkaspäivinä)
+    - antamalla lyhennys vapaapäivinä (= Pekkaspäivinä)
 
-    -   tai sopimalla paikallisesti muusta lyhennystavasta.
+    - tai sopimalla paikallisesti muusta lyhennystavasta.
 
-###### *Lyhennys paikallisesti sopien*
+###### Lyhennys paikallisesti sopien
 
 4.  Paikallisessa sopimisessa:
 
-    -   sopimus on tehtävä kirjallisesti
+    - sopimus on tehtävä kirjallisesti
 
-    -   jos työpaikalla on luottamusmies, asiasta sovitaan hänen
-        kanssaan
+    - jos työpaikalla on luottamusmies, asiasta sovitaan hänen kanssaan
 
-    -   sopimus voi koskea koko yritystä, yrityksen toimipaikkaa,
-        osastoa tai muuta yksikköä
+    - sopimus voi koskea koko yritystä, yrityksen toimipaikkaa, osastoa
+      tai muuta yksikköä
 
-    -   sopimus on voimassa kalenterivuoden, ellei toisin sovita.
+    - sopimus on voimassa kalenterivuoden, ellei toisin sovita.
 
-###### *Pekkaspäivien ansainta*
+###### Pekkaspäivien ansainta
 
 > Kokoaikatyöntekijä ansaitsee Pekkaspäiviä kalenterivuotta kohti
 > seuraavasti:
 >
-> 2--4 kuukautta 3 päivää
+> 2–4 kuukautta 3 päivää
 >
-> 5--7 kuukautta 7 päivää
+> 5–7 kuukautta 7 päivää
 >
-> 8--10 kuukautta 11 päivää
+> 8–10 kuukautta 11 päivää
 >
-> 11--12 kuukautta 14 päivää
+> 11–12 kuukautta 14 päivää
 >
 > Edellä oleviin kuukausiin lasketaan vähintään 14 työpäivää sisältävät
 > kuukaudet.
 
 5.  Työpäivien veroisiksi päiviksi lasketaan:
 
-    -   vuosilomalain 7 §:n mukaiset päivät lukuun ottamatta ko. lain 7
-        > §:n
+    - vuosilomalain 7 §:n mukaiset päivät lukuun ottamatta ko. lain 7
+      > §:n
 
 > 2\. momentin 1, 7. ja 8. kohdan mukaisia päiviä.
 
--   työehtosopimuksen 17 §:n mukaiset päivät lukuun ottamatta vaikeasti
-    > sai- raan lapsen hoitopäiviä.
+- työehtosopimuksen 17 §:n mukaiset päivät lukuun ottamatta vaikeasti
+  > sai- raan lapsen hoitopäiviä.
 
-###### *Pekkaspäivien antaminen*
+###### Pekkaspäivien antaminen
 
 6.  Pekkaspäivät annetaan viimeistään ansaintavuotta seuraavan huhtikuun
     lop- puun mennessä.
 
 > Pekkaspäivät annetaan:
 
--   erikseen tai yhdistämällä yhdeksi tai useammaksi yhdenjaksoiseksi
-    > vapaaksi
+- erikseen tai yhdistämällä yhdeksi tai useammaksi yhdenjaksoiseksi
+  > vapaaksi
 
--   yhdistämällä työehtosopimuksen mukaiseen vapaapäivään.
-    Pekkaspäivistä ilmoitetaan työehtosopimuksen 6 §:n 7. kohdan mukaan.
+- yhdistämällä työehtosopimuksen mukaiseen vapaapäivään. Pekkaspäivistä
+  ilmoitetaan työehtosopimuksen 6 §:n 7. kohdan mukaan.
 
-###### *Poissaolot ja vuosiloma*
+###### Poissaolot ja vuosiloma
 
 7.  Poissaolot eivät aiheuta muutoksia työvuoroluetteloon merkittyihin
     Pekkas- päiviin.
 
 > Pekkaspäivät kerryttävät vuosilomaa.
 
-###### *Pekkaspäivät työsuhteen päättyessä*
+###### Pekkaspäivät työsuhteen päättyessä
 
 8.  Työsuhteen päättyessä:
 
-    -   pitämättömät Pekkaspäivät korvataan peruspalkalla
+    - pitämättömät Pekkaspäivät korvataan peruspalkalla
 
-    -   liikaa annettuja Pekkaspäiviä vastaava palkka vähennetään
-        palkkaennak- kona lopputilistä ilman työsopimuslain 2:17 §:n
-        mukaista kuittausrajoitusta.
+    - liikaa annettuja Pekkaspäiviä vastaava palkka vähennetään
+      palkkaennak- kona lopputilistä ilman työsopimuslain 2:17 §:n
+      mukaista kuittausrajoitusta.
 
-###### *Pekkaspäivät ja vuosivapaajärjestelmä*
+###### Pekkaspäivät ja vuosivapaajärjestelmä
 
-9.  Vuosivapaajärjestelmä määräytyy työehtosopimuksen 7 §:n 4.--9.
+9.  Vuosivapaajärjestelmä määräytyy työehtosopimuksen 7 §:n 4.–9.
     kohtien mukaan seuraavin poikkeuksin:
 
 > Työntekijä ansaitsee vuosivapaita alla olevan taulukon mukaisesti:
 
-+--------------------+-----------------------+-------------------------+
-| > Kertyneiden      | > Vuosivapaiden määrä | > Vuosivapaatuntien     |
-| > tuntien määrä    |                       | > määrä                 |
-+====================+=======================+=========================+
-| > 200              | > 1                   | > 8                     |
-+--------------------+-----------------------+-------------------------+
-| > 400              | > 2                   | > 16                    |
-+--------------------+-----------------------+-------------------------+
-| > 600              | > 3                   | > 24                    |
-+--------------------+-----------------------+-------------------------+
-| > 800              | > 4                   | > 32                    |
-+--------------------+-----------------------+-------------------------+
-| > 1 000            | > 5                   | > 40                    |
-+--------------------+-----------------------+-------------------------+
-| > 1 150            | > 6                   | > 48                    |
-+--------------------+-----------------------+-------------------------+
-| > 1 300            | > 7                   | > 56                    |
-+--------------------+-----------------------+-------------------------+
-| > 1 430            | > 8                   | > 64                    |
-+--------------------+-----------------------+-------------------------+
-| > 1 560            | > 9                   | > 72                    |
-+--------------------+-----------------------+-------------------------+
+<table>
+<colgroup>
+<col style="width: 29%" />
+<col style="width: 33%" />
+<col style="width: 36%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><blockquote>
+<p>Kertyneiden tuntien määrä</p>
+</blockquote></th>
+<th><blockquote>
+<p>Vuosivapaiden määrä</p>
+</blockquote></th>
+<th><blockquote>
+<p>Vuosivapaatuntien määrä</p>
+</blockquote></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><blockquote>
+<p>200</p>
+</blockquote></td>
+<td><blockquote>
+<p>1</p>
+</blockquote></td>
+<td><blockquote>
+<p>8</p>
+</blockquote></td>
+</tr>
+<tr class="even">
+<td><blockquote>
+<p>400</p>
+</blockquote></td>
+<td><blockquote>
+<p>2</p>
+</blockquote></td>
+<td><blockquote>
+<p>16</p>
+</blockquote></td>
+</tr>
+<tr class="odd">
+<td><blockquote>
+<p>600</p>
+</blockquote></td>
+<td><blockquote>
+<p>3</p>
+</blockquote></td>
+<td><blockquote>
+<p>24</p>
+</blockquote></td>
+</tr>
+<tr class="even">
+<td><blockquote>
+<p>800</p>
+</blockquote></td>
+<td><blockquote>
+<p>4</p>
+</blockquote></td>
+<td><blockquote>
+<p>32</p>
+</blockquote></td>
+</tr>
+<tr class="odd">
+<td><blockquote>
+<p>1 000</p>
+</blockquote></td>
+<td><blockquote>
+<p>5</p>
+</blockquote></td>
+<td><blockquote>
+<p>40</p>
+</blockquote></td>
+</tr>
+<tr class="even">
+<td><blockquote>
+<p>1 150</p>
+</blockquote></td>
+<td><blockquote>
+<p>6</p>
+</blockquote></td>
+<td><blockquote>
+<p>48</p>
+</blockquote></td>
+</tr>
+<tr class="odd">
+<td><blockquote>
+<p>1 300</p>
+</blockquote></td>
+<td><blockquote>
+<p>7</p>
+</blockquote></td>
+<td><blockquote>
+<p>56</p>
+</blockquote></td>
+</tr>
+<tr class="even">
+<td><blockquote>
+<p>1 430</p>
+</blockquote></td>
+<td><blockquote>
+<p>8</p>
+</blockquote></td>
+<td><blockquote>
+<p>64</p>
+</blockquote></td>
+</tr>
+<tr class="odd">
+<td><blockquote>
+<p>1 560</p>
+</blockquote></td>
+<td><blockquote>
+<p>9</p>
+</blockquote></td>
+<td><blockquote>
+<p>72</p>
+</blockquote></td>
+</tr>
+</tbody>
+</table>
 
 > Vuosivapaa annetaan 8 tunnin pituisena työpäivänä 7,5 tunnin sijasta.
 
-###### *Pekkaspäivät ja arkipyhäjärjestelmä*
+###### Pekkaspäivät ja arkipyhäjärjestelmä
 
 10. Arkipyhäjärjestelmä määräytyy työehtosopimuksen osana olevan
-    pöytäkirjan "Arkipyhäjärjestelmä" (s. 108) mukaan seuraavin
+    pöytäkirjan ”Arkipyhäjärjestelmä” (s. 108) mukaan seuraavin
     poikkeuksin.
 
-###### *Arkipyhäviikon työajan lyhennys*
+###### Arkipyhäviikon työajan lyhennys
 
 11. Työaikaa lyhentävä arkipyhä vähentää kyseisen viikon tai
     tasoittumisjärjestel- män työpäivien määrää 1:llä ja työtuntien
     määrää 8:lla tunnilla.
 
-> []{#_bookmark88 .anchor}Esimerkki 54
+> <span id="Lisä-_ja_ylityö_sekä_korotettu_palkka"
+> class="anchor"></span>Esimerkki 54
 >
 > *Yritys käyttää työajan tasoittumisjärjestelmää*
 >
@@ -4940,7 +5505,7 @@ Viikko 1 2 3 4 5 6 Työtuntien määrä
 >
 > Viikko 1 2 3 4 5 6 Työtuntien määrä
 >
-> 240 -- 8 = 232 tuntia
+> 240 – 8 = 232 tuntia
 >
 > Lyhennys toteutetaan vähentämällä minkä tahansa viikon työpäivien mää-
 > rää 1:llä ja jakson työtuntien määrää 8 tunnilla. Jakson normaali
@@ -4950,10 +5515,10 @@ Viikko 1 2 3 4 5 6 Työtuntien määrä
 >
 > ja 232 tuntia.
 
-###### *Lisä- ja ylityö sekä korotettu palkka*
+###### Lisä- ja ylityö sekä korotettu palkka
 
 12. Lisä- ja ylityön osalta noudatetaan työehtosopimuksen 9 §:n
-    määräyksiä. Työehtosopimuksen 9 §:n kohdissa 6, 7, 9 sekä 14.--16.
+    määräyksiä. Työehtosopimuksen 9 §:n kohdissa 6, 7, 9 sekä 14.–16.
     käytetään 37,5 tunnin
 
 > sijasta 40 tuntia.
@@ -4983,21 +5548,21 @@ Viikko 1 2 3 4 5 6 Työtuntien määrä
 > Työntekijä on tehnyt jakson aikana 500 tuntia, joista 10 tuntia
 > vuorokau- dessa ylittäviä tunteja on 10. Tehdyistä tunneista
 > vähennetään erikseen 50 %:lla korvattavat 10 tuntia ylittävät tunnit
-> (500 -- 10), jolloin tunteja jää
+> (500 – 10), jolloin tunteja jää
 >
 > 490\. Tästä tuntimäärästä vähennetään kyseisen jakson viikkojen
-> enimmäis- työaika 12 x 40 -- 8 = 472 tuntia, jolloin 50 %:lla
-> korvataan 18 tuntia.
+> enimmäis- työaika 12 x 40 – 8 = 472 tuntia, jolloin 50 %:lla korvataan
+> 18 tuntia.
 >
 > Työntekijälle maksetaan normaalin palkan lisäksi 50 %:lla korotettu
 > palkka yhteensä (10 + 18) 28 tunnilta.
 >
 > Ylityökirjanpitoon kirjataan tasoittumisjaksossa keskimäärin 40 tuntia
-> viikossa ylittävä työ eli 20 tuntia (500 tuntia -- 12 x 40).
+> viikossa ylittävä työ eli 20 tuntia (500 tuntia – 12 x 40).
 
 # JOUSTAVA KOKOAIKATYÖ
 
-###### *Joustavan kokoaikatyön tarkoitus*
+###### Joustavan kokoaikatyön tarkoitus
 
 1.  Joustavalla kokoaikatyöllä tarkoitetaan menettelyä, jossa alle 37,5
     tunnin sopi- muksella työskentelevälle työntekijälle maksetaan
@@ -5013,7 +5578,7 @@ Viikko 1 2 3 4 5 6 Työtuntien määrä
 > tekevällä työntekijällä on kuitenkin saman- lainen oikeus toistaiseksi
 > voimassa oleviin työsopimustuntien nostoihin kuin muutenkin.
 
-###### *Järjestelmän käyttöönotto ja irtisanominen*
+###### Järjestelmän käyttöönotto ja irtisanominen
 
 2.  Joustava kokoaikatyö voidaan ottaa käyttöön työpaikkakohtaisesti
     sopien (23 §:n mukaisesti). Jos työpaikalla on luottamusmies,
@@ -5023,7 +5588,7 @@ Viikko 1 2 3 4 5 6 Työtuntien määrä
     noudat- taen. Tällöin sopimus päättyy sen tasoittumisjakson lopussa,
     jonka kuluessa irtisanomisaika päättyy.
 
-###### *Joustavasta kokoaikatyöstä sopiminen ja sopimuksen irtisanominen*
+###### Joustavasta kokoaikatyöstä sopiminen ja sopimuksen irtisanominen
 
 4.  Tämän lisäksi työnantaja ja työntekijä sopivat joustavasta
     kokoaikatyöstä työ- paikkakohtaisesti (23 §:n mukaisesti). Sopimus
@@ -5041,34 +5606,35 @@ Viikko 1 2 3 4 5 6 Työtuntien määrä
 > olosuhteitaan muuttava syy, jota ei ole voitu ottaa huomioon sopimusta
 > tehdessä.
 >
-> []{#_bookmark90 .anchor}Sopimuksen päättymisen jälkeen työntekijä
-> palaa työsopimuksensa mukai- seen tuntimäärään.
+> <span id="Joustavaa_kokoaikatyötä_koskevassa_paika"
+> class="anchor"></span>Sopimuksen päättymisen jälkeen työntekijä palaa
+> työsopimuksensa mukai- seen tuntimäärään.
 
-###### *Joustavaa kokoaikatyötä koskevassa paikallisessa sopimuksessa* sovittavat asiat
+###### Joustavaa kokoaikatyötä koskevassa paikallisessa sopimuksessa sovittavat asiat
 
 6.  Työnantaja ja työntekijä sopivat seuraavista asioista:
 
     1.  työvuorolistaan etukäteen suunniteltavien työtuntien määrä.
-        > Etukäteen julkaistavaan työvuoroluetteloon tulee kuitenkin
-        > merkitä vähintään 22,5 tuntia viikkoa kohti (ns. listatunnit).
-        > Työnantaja ja työntekijä voivat tapaus- kohtaisesti sopien
-        > poiketa vähimmäismäärästä.
+        Etukäteen julkaistavaan työvuoroluetteloon tulee kuitenkin
+        merkitä vähintään 22,5 tuntia viikkoa kohti (ns. listatunnit).
+        Työnantaja ja työntekijä voivat tapaus- kohtaisesti sopien
+        poiketa vähimmäismäärästä.
 
     2.  menettelyt, joilla joustotunteja tarjotaan. Työvuorolistan
-        > täydentäminen joustotunneilla tulee ilmoittaa viimeistään 24
-        > tuntia ennen kyseisen työ- vuoron alkamista.
+        täydentäminen joustotunneilla tulee ilmoittaa viimeistään 24
+        tuntia ennen kyseisen työ- vuoron alkamista.
 
     3.  ajankohdat, joina työntekijä on halukas tekemään joustotunteja.
-        > Työnantajan on pyrittävä tarjoamaan joustotunteja
-        > ensisijaisesti näinä ajankohtina.
+        Työnantajan on pyrittävä tarjoamaan joustotunteja ensisijaisesti
+        näinä ajankohtina.
 
-###### *Työntekijän kieltäytymisoikeus joustotunneista*
+###### Työntekijän kieltäytymisoikeus joustotunneista
 
 7.  Työntekijällä on velvollisuus tehdä joustotunnit, mikäli ne on
     tarjottu aikaisem- min kuin 24 tuntia ennen työskentelyn
     aloittamista, ellei sopimuksessa ole sovittu pitemmästä ajanjaksosta
-    (\'aikaraja\'). Tarjousta ei kuitenkaan tule lähet- tää klo 22 ja
-    klo 06 välillä (\'rauhoitusaika\'), ellei työntekijän kanssa sovita
+    ('aikaraja'). Tarjousta ei kuitenkaan tule lähet- tää klo 22 ja klo
+    06 välillä ('rauhoitusaika'), ellei työntekijän kanssa sovita
     toisin.
 
 > Mikäli työntekijä kieltäytyy näistä tunneista ilman 9. kohdassa
@@ -5085,22 +5651,21 @@ Viikko 1 2 3 4 5 6 Työtuntien määrä
     kuukausipalkkaa vähentämättä seuraavissa tilanteissa, vaikka ne
     tarjotaan aikarajaa noudattaen ennen työvuoron alkua:
 
--   sovellettavat lepoaika- ja vapaapäivämääräykset eivät toteudu
+- sovellettavat lepoaika- ja vapaapäivämääräykset eivät toteudu
 
--   työntekijän kanssa on sovittu vapaasta
+- työntekijän kanssa on sovittu vapaasta
 
--   []{#_bookmark91 .anchor}työntekijällä on oikeus työehtosopimuksen 17
-    §:n mukaiseen tilapäiseen poissaoloon
+- <span id="Muut_työehdot" class="anchor"></span>työntekijällä on oikeus
+  työehtosopimuksen 17 §:n mukaiseen tilapäiseen poissaoloon
 
--   työntekijä on poissa vuosiloman, sairauden taikka perhevapaan
-    vuoksi.
+- työntekijä on poissa vuosiloman, sairauden taikka perhevapaan vuoksi.
 
 10. Tarjoamatta jääneitä tunteja ei voida vähentää palkasta.
 
 11. Muutoin joustavassa kokoaikatyössä noudatetaan työvuorosuunnittelua
     kos- kevia säännöksiä ja määräyksiä.
 
-###### *Muut työehdot*
+###### Muut työehdot
 
 12. Lomapalkka lasketaan työehtosopimuksen 20 § 8.-11. kohtien
     mukaisesti eli prosentuaalisena lomanmääräytymisvuoden ansiosta.
@@ -5164,19 +5729,19 @@ Viikko 1 2 3 4 5 6 Työtuntien määrä
 > muille työntekijöille ja vii- meisenä yrityksen ulkopuolisille
 > työntekijöille.
 >
-> []{#_bookmark93 .anchor}Lisätyötuntien kohdentuminen oman yrityksen ja
-> työpaikan työntekijöille par- haimmillaan varmistaa työnantajalle
-> ammattitaitoisen ja osaavan henkilökun- nan. Samalla se on viesti
-> henkilökunnalle, että heidän työtään ja ammattitai- toaan arvostetaan,
-> joka edelleen edistää työntekijöiden motivoituneisuutta ja
-> sitoutumista työhönsä.
+> <span id="Sopimus" class="anchor"></span>Lisätyötuntien kohdentuminen
+> oman yrityksen ja työpaikan työntekijöille par- haimmillaan varmistaa
+> työnantajalle ammattitaitoisen ja osaavan henkilökun- nan. Samalla se
+> on viesti henkilökunnalle, että heidän työtään ja ammattitai- toaan
+> arvostetaan, joka edelleen edistää työntekijöiden motivoituneisuutta
+> ja sitoutumista työhönsä.
 
 7.  Työnantajalla on oikeus poistaa työntekijä lisätyöilmoituksen
     saajien piiristä uuden tasoittumisjakson alkamiseen asti, jos hänen
     tasoittumisjakson työtun- tien määrä on ylittämässä keskimäärin 37,5
     viikkotyötuntia.
 
-###### *Sopimus*
+###### Sopimus
 
 8.  Yrityskohtaisen järjestelyn käyttöönotosta ja toteuttamisesta
     sovitaan työ- paikkakohtaisesti (työehtosopimuksen 23 §:n
@@ -5186,28 +5751,28 @@ Viikko 1 2 3 4 5 6 Työtuntien määrä
 9.  Sopimuksessa yrityskohtaisesta järjestelystä on sovittava ainakin
     seuraavista asioista:
 
-    -   miten työntekijä ilmoittaa halustaan tulla tietyn toimipaikan
-        lisätyöilmoi- tuksen piiriin tai jäädä siitä pois
+    - miten työntekijä ilmoittaa halustaan tulla tietyn toimipaikan
+      lisätyöilmoi- tuksen piiriin tai jäädä siitä pois
 
-    -   miten työnantaja ilmoittaa lisätyötunneista ja mitä tietoja
-        lisätyöstä ilmoi- tuksessa tulee olla
+    - miten työnantaja ilmoittaa lisätyötunneista ja mitä tietoja
+      lisätyöstä ilmoi- tuksessa tulee olla
 
-    -   miten työntekijä ilmoittaa halukkuudestaan ottaa vastaan
-        tarjotut lisätyö- tunnit
+    - miten työntekijä ilmoittaa halukkuudestaan ottaa vastaan tarjotut
+      lisätyö- tunnit
 
-    -   minkä ajan kuluessa työntekijä ilmoittaa halukkuutensa ottaa
-        vastaan tar- jotut lisätyötunnit eri tilanteissa
+    - minkä ajan kuluessa työntekijä ilmoittaa halukkuutensa ottaa
+      vastaan tar- jotut lisätyötunnit eri tilanteissa
 
-    -   miten työnantaja ilmoittaa, kenelle tarjotut lisätyötunnit
-        annetaan.
+    - miten työnantaja ilmoittaa, kenelle tarjotut lisätyötunnit
+      annetaan.
 
 10. Yrityskohtaisesta järjestelystä sopineella luottamusmiehellä on
     oikeus pyyn- nöstä saada tiedot:
 
-    -   järjestelyyn ilmoittautuneiden määrästä
+    - järjestelyyn ilmoittautuneiden määrästä
 
-    -   lisätyötuntien jakautumisesta järjestelyyn ilmoittautuneiden ja
-        yrityksen ulkopuolisten työntekijöiden kesken.
+    - lisätyötuntien jakautumisesta järjestelyyn ilmoittautuneiden ja
+      yrityksen ulkopuolisten työntekijöiden kesken.
 
 # KOKOAIKATYÖN TARJOAMINEN
 
@@ -5224,48 +5789,47 @@ Viikko 1 2 3 4 5 6 Työtuntien määrä
     työsuhde on kestänyt vähintään 12 kuukautta, ei sopimuksen
     voimassaoloaikana tarvitse noudattaa seuraavia velvollisuuksia.
 
-    -   Kaupan työehtosopimuksen 6 §:n määräys alle 37,5 tuntia tekevän
-        > työn- tekijän työajan tarkastelusta
+    - Kaupan työehtosopimuksen 6 §:n määräys alle 37,5 tuntia tekevän
+      työn- tekijän työajan tarkastelusta
 
-    -   Työsopimuslain 2 luvun 5 §.
+    - Työsopimuslain 2 luvun 5 §.
 
 3.  Sopimuksessa on sovittava seuraavista asioista:
 
-    -   Menettelyt, joiden avulla huolehditaan työntekijöiden
-        > asianmukaisesti tie- dottamisesta tämän mallin mukaisesta
-        > oikeudesta saada kokoaikatyötä
+    - Menettelyt, joiden avulla huolehditaan työntekijöiden
+      asianmukaisesti tie- dottamisesta tämän mallin mukaisesta
+      oikeudesta saada kokoaikatyötä
 
-    -   Menettely kokoaikaisen työn pyytämiseksi
+    - Menettely kokoaikaisen työn pyytämiseksi
 
-    -   Kohtuullinen aika, jonka kuluessa työnantajan on käsiteltävä ja
-        > hyväksyt- tävä työntekijöiden kokoaikatyötä koskevat pyynnöt.
-        > Jos muuta ei sovita, kohtuullinen aika on 2 viikkoa
+    - Kohtuullinen aika, jonka kuluessa työnantajan on käsiteltävä ja
+      hyväksyt- tävä työntekijöiden kokoaikatyötä koskevat pyynnöt. Jos
+      muuta ei sovita, kohtuullinen aika on 2 viikkoa
 
-    -   Työntekopaikat, joista kokoaikatyötä on otettava vastaan. Jos
-        > muuta ei sovita, noudatetaan työsopimuksen mukaista
-        > työssäkäyntialuetta
+    - Työntekopaikat, joista kokoaikatyötä on otettava vastaan. Jos
+      muuta ei sovita, noudatetaan työsopimuksen mukaista
+      työssäkäyntialuetta
 
-    -   Sopimuksen soveltamisalue. Sopimus voi koskea yrityksen koko
-        > Kaupan työehtosopimuksen alaista henkilöstöä, tai sitä voidaan
-        > rajoittaa ammat- tiryhmäkohtaisesti, alueellisesti ja/tai
-        > toimipaikkakohtaisesti. Jos muuta ei sovita, sopimuksen
-        > soveltamisalaan kuuluvat ne työntekijät, jotka työs-
-        > kentelevät vähintään 50 % työajastaan sopimuksen piiriin
-        > kuuluvalla toi- mipaikalla / alueella
+    - Sopimuksen soveltamisalue. Sopimus voi koskea yrityksen koko
+      Kaupan työehtosopimuksen alaista henkilöstöä, tai sitä voidaan
+      rajoittaa ammat- tiryhmäkohtaisesti, alueellisesti ja/tai
+      toimipaikkakohtaisesti. Jos muuta ei sovita, sopimuksen
+      soveltamisalaan kuuluvat ne työntekijät, jotka työs- kentelevät
+      vähintään 50 % työajastaan sopimuksen piiriin kuuluvalla toi-
+      mipaikalla / alueella
 
-    -   Yksittäisten lisätyövuorojen tarjoamismenettely työntekijöille
+    - Yksittäisten lisätyövuorojen tarjoamismenettely työntekijöille
 
-    -   Sopimuksen irtisanomisaika. Ellei toisin sovita, työnantajan
-        > noudattama irtisanomisaika on 3 kuukautta ja
-        > työntekijäosapuolen 12 kuukautta
+    - Sopimuksen irtisanomisaika. Ellei toisin sovita, työnantajan
+      noudattama irtisanomisaika on 3 kuukautta ja työntekijäosapuolen
+      12 kuukautta
 
-    -   Menettely ja toimenpiteet sopimuksen päättyessä.
-        Työehtosopimuksen 6 §:n määräyksen mukainen tarkastelujakso alle
-        37,5 tuntia tekevän työn- tekijän työtunneista alkaa sopimuksen
-        päättymishetkestä. Tarkastelu on kuitenkin tehtävä
-        taannehtivasti, mikäli sopimus päättyy työnantajan te- kemien
-        ratkaisujen johdosta alle kuudessa kuukaudessa sen voimaantu-
-        losta, ellei toisin sovita.
+    - Menettely ja toimenpiteet sopimuksen päättyessä. Työehtosopimuksen
+      6 §:n määräyksen mukainen tarkastelujakso alle 37,5 tuntia tekevän
+      työn- tekijän työtunneista alkaa sopimuksen päättymishetkestä.
+      Tarkastelu on kuitenkin tehtävä taannehtivasti, mikäli sopimus
+      päättyy työnantajan te- kemien ratkaisujen johdosta alle kuudessa
+      kuukaudessa sen voimaantu- losta, ellei toisin sovita.
 
 > Sopimuksessa voidaan myös sopia kaiken lisätyön tarjoamis- ja
 > vastaanotto- velvollisuuden poistamisesta yhdessä.
@@ -5363,25 +5927,25 @@ Viikko 1 2 3 4 5 6 Työtuntien määrä
 > Työnantaja ja työntekijä sopivat erikseen työaikapankkiin
 > siirrettävistä tunneista.
 
-###### *Siirrettävät työtunnit*
+###### Siirrettävät työtunnit
 
 2.  Työaikapankkiin voidaan siirtää seuraavia tunteja:
 
-    -   lisä- ja ylityötunteja
+    - lisä- ja ylityötunteja
 
-    -   sunnuntaityön korotustunteja
+    - sunnuntaityön korotustunteja
 
-    -   tes-vapaapäivänä tehtyjä työtunteja
+    - tes-vapaapäivänä tehtyjä työtunteja
 
-    -   arkipyhälyhennyspäivänä tehtyjä työtunteja
+    - arkipyhälyhennyspäivänä tehtyjä työtunteja
 
-    -   työaikalain mukaisena vapaapäivänä tehtyjä työtunteja
+    - työaikalain mukaisena vapaapäivänä tehtyjä työtunteja
 
-    -   Pekkaspäivänä tehtyjä työtunteja
+    - Pekkaspäivänä tehtyjä työtunteja
 
-    -   liukuvan työajan plussaldotunteja työntekijän pyynnöstä
+    - liukuvan työajan plussaldotunteja työntekijän pyynnöstä
 
-    -   vuosivapaatunteja.
+    - vuosivapaatunteja.
 
 3.  Työnantajan aloitteesta tehtävät ja korotetulla palkalla maksettavat
     työtunnit siirretään työaikapankkiin vastaavasti korotettuina.
@@ -5395,7 +5959,7 @@ Viikko 1 2 3 4 5 6 Työtuntien määrä
 > alle 37,5 tuntia tekevällä enintään 2 kertaa työsopimuksessa sovittu
 > viikkotyöaika.
 
-###### *Työaikapankkivapaan pitäminen*
+###### Työaikapankkivapaan pitäminen
 
 5.  Työnantaja ja työntekijä pyrkivät sopimaan työaikapankkiin kertyneen
     vapaan antamisajankohdan. Muussa tapauksessa työnantaja määrää
@@ -5404,7 +5968,8 @@ Viikko 1 2 3 4 5 6 Työtuntien määrä
 > Työaikapankkivapaan antamisajankohdasta on ilmoitettava työntekijälle
 > hyvissä ajoin, kuitenkin vähintään 2 viikkoa etukäteen.
 
-6.  []{#_bookmark96 .anchor}Työaikapankkivapaa annetaan kokonaisina
+6.  <span id="Työkyvyttömyys_ja_vapaa"
+    class="anchor"></span>Työaikapankkivapaa annetaan kokonaisina
     vapaapäivinä, ellei toisin sovita. Työaikapankkivapaa pyritään
     antamaan muiden vapaapäivien tai vuosiloman yhteydessä.
 
@@ -5416,7 +5981,7 @@ Viikko 1 2 3 4 5 6 Työtuntien määrä
     pidetään työaikapankkiin siirretyt työtunnit vapaana kuten
     kohdissa 5. ja 6. on todettu.
 
-###### *Työkyvyttömyys ja vapaa*
+###### Työkyvyttömyys ja vapaa
 
 8.  Työntekijän ollessa työkyvytön ennen työaikapankkivapaan alkamista
     tai työ- kyvyttömyyden alkaessa työaikapankkivapaan aikana
@@ -5424,82 +5989,79 @@ Viikko 1 2 3 4 5 6 Työtuntien määrä
 
 > Työaikapankkivapaat kerryttävät vuosilomaa.
 
-###### *Kirjanpito*
+###### Kirjanpito
 
 9.  Työaikapankista on kirjattava:
 
-    -   milloin työ on tehty
+    - milloin työ on tehty
 
-    -   kumman aloitteesta
+    - kumman aloitteesta
 
-    -   montako tuntia tehty ja montako siirretty pankkiin
+    - montako tuntia tehty ja montako siirretty pankkiin
 
-    -   työaikapankkivapaan ajankohta ja montako tuntia pankista
-        > otetaan.
+    - työaikapankkivapaan ajankohta ja montako tuntia pankista otetaan.
 
-###### *Työsuhteen päättyminen*
+###### Työsuhteen päättyminen
 
 10. Työsuhteen päättyessä pitämätön työaikapankkivapaa korvataan
     peruspalkalla.
 
 # VÄKIVALLAN UHKA
 
-1.  #### § Arviointi
+#### § Arviointi
 
-    1.  Työnantajan työturvallisuuslain mukainen vaaran arviointi tulee
-        palvelutyöteh- tävissä sisältää myös työpaikkaan kohdistuvan
-        väkivallan uhan arvioinnin, joka päivitetään vähintään kerran
-        kalenterivuodessa.
+1.  Työnantajan työturvallisuuslain mukainen vaaran arviointi tulee
+    palvelutyöteh- tävissä sisältää myös työpaikkaan kohdistuvan
+    väkivallan uhan arvioinnin, joka päivitetään vähintään kerran
+    kalenterivuodessa.
 
 > Arvioinnissa otetaan huomioon mm.:
 
--   työskentely yksin, varsinkin ilta- ja yöaikaan
+- työskentely yksin, varsinkin ilta- ja yöaikaan
 
--   työpaikkaan kohdistuneet ja työpaikan lähiympäristössä sattuneet
-    väkivalta- tapaukset
+- työpaikkaan kohdistuneet ja työpaikan lähiympäristössä sattuneet
+  väkivalta- tapaukset
 
--   rahan tai arvokkaan omaisuuden käsittely.
+- rahan tai arvokkaan omaisuuden käsittely.
 
 > Arvioidun vaaran perusteella työnantajan tulee järjestää työ ja
 > työolosuhteet siten, että väkivallan uhkaa voidaan torjua tai
 > vähentää.
 
-2.  #### § Torjunta ja jälkihoito
+#### § Torjunta ja jälkihoito
 
-    1.  Työsopimusta tehtäessä työntekijälle selvitetään työhön
-        sisältyvä mahdol- linen yksintyöskentely ja sen
-        työturvallisuusriskit.
+1.  Työsopimusta tehtäessä työntekijälle selvitetään työhön sisältyvä
+    mahdol- linen yksintyöskentely ja sen työturvallisuusriskit.
 
-```{=html}
 <!-- -->
-```
+
 2.  Väkivallan uhkaa tulee torjua mm.:
 
-    -   laatimalla menettelytapaohjeet väkivaltatilanteen varalle
+    - laatimalla menettelytapaohjeet väkivaltatilanteen varalle
 
-    -   antamalla työntekijälle riittävä opastus tai koulutus käytössä
-        oleviin turva- ja hälytysjärjestelmiin
+    - antamalla työntekijälle riittävä opastus tai koulutus käytössä
+      oleviin turva- ja hälytysjärjestelmiin
 
-    -   suunnittelemalla työpisteet rakenteellisesti turvallisiksi
+    - suunnittelemalla työpisteet rakenteellisesti turvallisiksi
 
-    -   arvioinnissa todetun väkivallan uhan huomioiminen työvoiman
-        mitoituk- sessa sekä työvuoro- ja työaikasuunnittelussa
+    - arvioinnissa todetun väkivallan uhan huomioiminen työvoiman
+      mitoituk- sessa sekä työvuoro- ja työaikasuunnittelussa
 
-    -   varmistamalla yhteydensaanti poliisiin tai
-        vartiointiliikkeeseen, esimerkiksi puhelimella.
+    - varmistamalla yhteydensaanti poliisiin tai vartiointiliikkeeseen,
+      esimerkiksi puhelimella.
 
 3.  Työnantaja selvittää jälkihoitoon liittyvät mahdollisuudet ja
-    järjestelyt.
+    > järjestelyt.
 
 #### § Yksintyöskentely
 
 > Yksintyöskentely on asiakaspalvelutyötä:
 
--   jota myyjä tekee yksin myymälässä, kioskissa, myymälän tai
-    > tavaratalon yhdessä kerroksessa tai huolto- ja liikenneasemalla ja
+- jota myyjä tekee yksin myymälässä, kioskissa, myymälän tai tavaratalon
+  yhdessä kerroksessa tai huolto- ja liikenneasemalla ja
 
--   joissa toiminta on järjestetty siten, että aukioloaikana
-    > työskentelee tavalli- sesti 1 työntekijä kerrallaan.
+- joissa toiminta on järjestetty siten, että aukioloaikana työskentelee
+  tavalli- sesti 1 työntekijä kerrallaan.
 
 > Työ ja työolosuhteet tulee järjestää siten, että väkivallan uhkaa myös
 > yksintyös- kentelyssä voidaan torjua tai vähentää.
@@ -5539,15 +6101,14 @@ Viikko 1 2 3 4 5 6 Työtuntien määrä
 > pääluottamusmies selvittävät käytännön tarpeet ja sopivat
 > järjestelyistä koskien:
 
--   yrityksen sisäisten viestintäjärjestelmien käyttämistä
-    > luottamusmiehen tiedottamisessa,
+- yrityksen sisäisten viestintäjärjestelmien käyttämistä luottamusmiehen
+  tiedottamisessa,
 
--   yrityksen luottamusmiesten keskinäistä yhteydenpitoa ja
-    > kokoontumisia,
+- yrityksen luottamusmiesten keskinäistä yhteydenpitoa ja kokoontumisia,
 
--   luottamusmiesten verkko-opetusmahdollisuuksia sekä
+- luottamusmiesten verkko-opetusmahdollisuuksia sekä
 
--   luottamusmiesten liiketoimintaosaamisen kehittämistä.
+- luottamusmiesten liiketoimintaosaamisen kehittämistä.
 
 #### § Sopimuksen soveltamisala
 
@@ -5557,34 +6118,34 @@ Viikko 1 2 3 4 5 6 Työtuntien määrä
 
 > Luottamusmiehen tehtävänä on:
 
--   kehittää työnantajan ja työntekijöiden välistä yhteistyötä
+- kehittää työnantajan ja työntekijöiden välistä yhteistyötä
 
--   osallistua paikallisten sopimusten tekemiseen
+- osallistua paikallisten sopimusten tekemiseen
 
--   olla aktiivi kumppani yhteisissä tuottavuus- ja kehittämishankkeissa
+- olla aktiivi kumppani yhteisissä tuottavuus- ja kehittämishankkeissa
 
--   osallistua henkilöstön ammatillisen koulutuksen kehittämiseen
+- osallistua henkilöstön ammatillisen koulutuksen kehittämiseen
 
--   edustaa toimialueensa järjestäytyneitä työntekijöitä
+- edustaa toimialueensa järjestäytyneitä työntekijöitä
 
--   edustaa yrityksessä työskenteleviä vuokratyöntekijöitä
-    erimielisyyksien selvittämisessä siten kuin tilaajavastuulaissa
-    säädetään
+- edustaa yrityksessä työskenteleviä vuokratyöntekijöitä
+  erimielisyyksien selvittämisessä siten kuin tilaajavastuulaissa
+  säädetään
 
--   antaa palautetta työntekijöiltä työnantajalle
+- antaa palautetta työntekijöiltä työnantajalle
 
--   valvoa työehtosopimusten ja työlainsäädännön noudattamista
+- valvoa työehtosopimusten ja työlainsäädännön noudattamista
 
--   osallistua paikallisten erimielisyyksien selvittämiseen
+- osallistua paikallisten erimielisyyksien selvittämiseen
 
--   pyrkiä edistämään työnantajan ja työntekijöiden välisiä suhteita ja
-    työ- rauhan säilymistä työpaikalla aktiivisesti ja oikea-aikaisesti
-    sekä puuttu- maan uhkaaviin työtaistelutoimenpiteisiin
-    ennaltaehkäisevästi.
+- pyrkiä edistämään työnantajan ja työntekijöiden välisiä suhteita ja
+  työ- rauhan säilymistä työpaikalla aktiivisesti ja oikea-aikaisesti
+  sekä puuttu- maan uhkaaviin työtaistelutoimenpiteisiin
+  ennaltaehkäisevästi.
 
 #### § Luottamusmiehen valinta
 
-###### *Yleistä*
+###### Yleistä
 
 1.  Palvelualojen ammattiliittoon järjestäytyneet yrityksen työntekijät
     valitsevat luottamusmiehen.
@@ -5598,7 +6159,7 @@ Viikko 1 2 3 4 5 6 Työtuntien määrä
 4.  Luottamusmiesvalinnan järjestämisestä työpaikalla on ilmoitettava
     työnanta- jalle 7 päivää ennen valinnan toimittamista.
 
-###### *Luottamusmiehet*
+###### Luottamusmiehet
 
 5.  Luottamusmiehiä voidaan valita seuraavasti:
 
@@ -5617,30 +6178,29 @@ Viikko 1 2 3 4 5 6 Työtuntien määrä
 >
 > Neuvotteluissa on käsiteltävä muun muassa seuraavat asiat:
 
--   yrityksen toiminnan luonne sekä organisaatio- ja
-    > päätöksentekorakenne
+- yrityksen toiminnan luonne sekä organisaatio- ja päätöksentekorakenne
 
--   hallinnollinen itsenäisyys ja erillisyys
+- hallinnollinen itsenäisyys ja erillisyys
 
--   alueellinen kattavuus sekä toimipaikkojen lukumäärä ja etäisyydet
+- alueellinen kattavuus sekä toimipaikkojen lukumäärä ja etäisyydet
 
--   henkilöstömäärä ja -jakauma
+- henkilöstömäärä ja -jakauma
 
--   työmenetelmien ja -välineiden hyödyntäminen toiminnassa, luottamus-
-    > henkilöiden yhteydenpidossa ja viestinnässä
+- työmenetelmien ja -välineiden hyödyntäminen toiminnassa, luottamus-
+  henkilöiden yhteydenpidossa ja viestinnässä
 
--   yhteistyön, paikallisen sopimisen ja neuvottelujärjestelmän
-    > kehittämistarpeet
+- yhteistyön, paikallisen sopimisen ja neuvottelujärjestelmän
+  kehittämistarpeet
 
--   luottamusmiesten toimivalta ja sopimisoikeudet
+- luottamusmiesten toimivalta ja sopimisoikeudet
 
--   paikallisen sopimisen laatu ja laajuus
+- paikallisen sopimisen laatu ja laajuus
 
--   henkilöstön ja työntekomuotojen moninaisuus
+- henkilöstön ja työntekomuotojen moninaisuus
 
--   vapautusajat ja korvaukset
+- vapautusajat ja korvaukset
 
--   tiedonsaantioikeudet ja -vastuut.
+- tiedonsaantioikeudet ja -vastuut.
 
 > Luottamusmiesorganisaatiosta sovittaessa on sopimus tehtävä
 > kirjallisesti.
@@ -5670,14 +6230,14 @@ Viikko 1 2 3 4 5 6 Työtuntien määrä
 > Työnantajan ja pääluottamusmiehen sopiessa yrityksen toimipaikan tai
 > alue- luottamusmiehen valitsemisesta on otettava huomioon seuraavaa:
 
--   yrityksen organisaatio- ja päätöksentekorakenne
+- yrityksen organisaatio- ja päätöksentekorakenne
 
--   hallinnollinen itsenäisyys ja erillisyys
+- hallinnollinen itsenäisyys ja erillisyys
 
--   henkilöstömäärä ja -jakauma
+- henkilöstömäärä ja -jakauma
 
--   yhteistyön, paikallisen sopimisen ja neuvottelujärjestelmän
-    kehittämis tarpeet.
+- yhteistyön, paikallisen sopimisen ja neuvottelujärjestelmän kehittämis
+  tarpeet.
 
 > Toimipaikan luottamusmies voidaan valita yrityksen itsenäiseen
 > toimintayk- sikköön, jossa työnantajan edustajalla on itsenäinen
@@ -5697,10 +6257,11 @@ Viikko 1 2 3 4 5 6 Työtuntien määrä
 > esihenkilöiden työeh- tosopimusta voivat valita keskuudestaan
 > luottamusmiehen.
 >
-> []{#_bookmark102 .anchor}Jos esihenkilöt eivät ole valinneet itselleen
-> luottamusmiestä, heitä edustaa työntekijöiden keskuudestaan valitsema
-> luottamusmies. Tällöin myös esihen- kilöillä on oikeus äänestää
-> työntekijöiden luottamusmiesvaaleissa.
+> <span id="Ilmoitukset_työnantajalle" class="anchor"></span>Jos
+> esihenkilöt eivät ole valinneet itselleen luottamusmiestä, heitä
+> edustaa työntekijöiden keskuudestaan valitsema luottamusmies. Tällöin
+> myös esihen- kilöillä on oikeus äänestää työntekijöiden
+> luottamusmiesvaaleissa.
 >
 > *Varaluottamusmies*
 >
@@ -5717,7 +6278,7 @@ Viikko 1 2 3 4 5 6 Työtuntien määrä
 > viikon ajan. Korvaus sijaistamisen ajalta lasketaan käyttäen
 > osakuukauden palkanlaskentasääntöä.
 
-###### *Ilmoitukset työnantajalle*
+###### Ilmoitukset työnantajalle
 
 6.  Valituista luottamusmiehistä varamiehineen sekä
     luottamusmiestehtävien päättymisistä on ilmoitettava välittömästi ja
@@ -5737,7 +6298,7 @@ Viikko 1 2 3 4 5 6 Työtuntien määrä
 > kanssa. Luottamusmiehet osallistuvat perehdytykseen ilman
 > ansionmenetystä.
 
-###### *Muutostilanteet*
+###### Muutostilanteet
 
 7.  Yrityksen tai sen osan toiminnan olennaisesti supistuessa tai
     laajentuessa tai liikkeen luovutuksen, sulautumisen tai niihin
@@ -5761,44 +6322,44 @@ Viikko 1 2 3 4 5 6 Työtuntien määrä
 
 > *Kerran vuodessa*
 
--   suku- ja etunimet
+- suku- ja etunimet
 
--   alle 37,5 tuntia työskentelevien sekä määräaikaisten työntekijöiden
-    määrät alueellisesti, toimipaikkakohtaisesti tai muutoin työnantajan
-    kannalta tar- koituksenmukainen kokonaisuus huomioiden. Tietoja,
-    jotka koskevat alle 6 henkilöä pienempiä työntekijäryhmiä, ei
-    anneta.
+- alle 37,5 tuntia työskentelevien sekä määräaikaisten työntekijöiden
+  määrät alueellisesti, toimipaikkakohtaisesti tai muutoin työnantajan
+  kannalta tar- koituksenmukainen kokonaisuus huomioiden. Tietoja, jotka
+  koskevat alle 6 henkilöä pienempiä työntekijäryhmiä, ei anneta.
 
--   palkkaryhmä tai vastaava, johon työntekijä tai hänen suorittamansa
-    työ kuuluu
+- palkkaryhmä tai vastaava, johon työntekijä tai hänen suorittamansa työ
+  kuuluu
 
--   työntekijöiden lukumäärä sekä vuoden aikana työssä olleiden erikseen
-    työ- hön kutsuttavien tai muun tilapäisen henkilöstön lukumäärä
+- työntekijöiden lukumäärä sekä vuoden aikana työssä olleiden erikseen
+  työ- hön kutsuttavien tai muun tilapäisen henkilöstön lukumäärä
 
--   työpaikkakohtaisesti työehtosopimuksen (23 §:n mukaisesti) toisin
-    sovitut asiakokonaisuudet ilman yksilöitäviä henkilötietoja.
+- työpaikkakohtaisesti työehtosopimuksen (23 §:n mukaisesti) toisin
+  sovitut asiakokonaisuudet ilman yksilöitäviä henkilötietoja.
 
 > *Kuukauden kuluessa työsuhteiden alkamisesta*
 
--   uusien työntekijöiden suku- ja etunimet sekä palvelukseen tuloaika.
+- uusien työntekijöiden suku- ja etunimet sekä palvelukseen tuloaika.
 
 3.  Pääluottamusmiehellä on oikeus pyynnöstä saada lisäksi seuraavat
     ryhmäkoh- taiset tiedot toimialueensa työntekijöistä edellyttäen,
     että tiedot perustuvat yrityksen muun toiminnan yhteydessä syntyvään
     tietoaineistoon:
 
-    -   keskimääräinen kuukausi- tai tuntipalkka ilman lisiä
+    - keskimääräinen kuukausi- tai tuntipalkka ilman lisiä
 
-    -   keskimääräinen kuukausi- tai tuntipalkka lisineen
+    - keskimääräinen kuukausi- tai tuntipalkka lisineen
 
-    -   työtuntien määrä ja ylityötuntien osuus tehdyistä työtunneista.
+    - työtuntien määrä ja ylityötuntien osuus tehdyistä työtunneista.
 
 > Pääluottamusmiehellä on oikeus saada edellä mainitut tiedot kerran
 > vuodessa noudattaen työehtosopimusten ammattiryhmittelyä. Tietoja,
 > jotka koskevat 6 henkilöä pienempiä työntekijäryhmiä, ei anneta.
 
-4.  []{#_bookmark104 .anchor}Luottamusmiehelle annetaan pyynnöstä
-    selvitys siitä, millaisia tietoja työ- hönoton yhteydessä kerätään.
+4.  <span id="5_§_Luottamusmiehen_kanssa_käsiteltävät_"
+    class="anchor"></span>Luottamusmiehelle annetaan pyynnöstä selvitys
+    siitä, millaisia tietoja työ- hönoton yhteydessä kerätään.
 
 5.  Luottamusmiehellä on oikeus perehtyä hätä- ja ylityöstä ja niistä
     maksetusta korotetusta palkasta laadittuun luetteloon.
@@ -5819,33 +6380,33 @@ Viikko 1 2 3 4 5 6 Työtuntien määrä
 
 1.  Työnantaja ja luottamusmies käsittelevät vuosittain seuraavat asiat:
 
-    -   Yrityksen koko henkilöstön rakenne ja määrä sekä arvion niiden
-        > kehittymisestä.
+    - Yrityksen koko henkilöstön rakenne ja määrä sekä arvion niiden
+      kehittymisestä.
 
-    -   Työajan suunnittelussa ja lisätyön tarjoamisessa käytettävät
-        > periaatteet ja niiden toimivuus.
+    - Työajan suunnittelussa ja lisätyön tarjoamisessa käytettävät
+      periaatteet ja niiden toimivuus.
 
-    -   Alueellisesti, toimipaikkakohtaisesti tai muutoin työnantajan
-        > kannalta tar- koituksenmukainen kokonaisuus huomioiden alle
-        > 37,5 tuntia työskente- levän henkilöstön rakenne ja sen
-        > kehitys sekä arvion sen kehittymisestä.
+    - Alueellisesti, toimipaikkakohtaisesti tai muutoin työnantajan
+      kannalta tar- koituksenmukainen kokonaisuus huomioiden alle 37,5
+      tuntia työskente- levän henkilöstön rakenne ja sen kehitys sekä
+      arvion sen kehittymisestä.
 
-    -   Alueellisesti, toimipaikkakohtaisesti tai muutoin työnantajan
-        > kannalta tarkoituksenmukainen kokonaisuus huomioiden
-        > työsopimustuntien ja tehtyjen työtuntien määrä ja suhde sekä
-        > niiden kehitys ja arvio niiden kehittymisestä.
+    - Alueellisesti, toimipaikkakohtaisesti tai muutoin työnantajan
+      kannalta tarkoituksenmukainen kokonaisuus huomioiden
+      työsopimustuntien ja tehtyjen työtuntien määrä ja suhde sekä
+      niiden kehitys ja arvio niiden kehittymisestä.
 
-    -   Mahdollisuudet käyttää joustavan kokoaikatyön järjestelyä
+    - Mahdollisuudet käyttää joustavan kokoaikatyön järjestelyä
 
-    -   Muut mahdolliset toimenpiteet, joilla on pyritty lisäämään työn
-        > teettämistä kokoaikaisin tai lähes kokoaikaisin työtunnein.
+    - Muut mahdolliset toimenpiteet, joilla on pyritty lisäämään työn
+      teettämistä kokoaikaisin tai lähes kokoaikaisin työtunnein.
 
 > Käsittelyn tarkoituksena on edesauttaa lisätyöntarjoamisvelvollisuuden
 > sekä työehtosopimuksen 6 § toteutumista.
 
 #### § Työstävapautus ja työskentelypuitteet
 
-###### *Työstävapautus*
+###### Työstävapautus
 
 1.  Luottamusmiehellä on oikeus riittävään työstävapautukseen
     luottamusmies- tehtävien hoitamista varten.
@@ -5854,7 +6415,7 @@ Viikko 1 2 3 4 5 6 Työtuntien määrä
 > toimi- paikkojen lukumäärä, toimipaikan sijainti ja yrityksen
 > toiminnan luonne.
 
-###### *Työstävapautusaika ja ajankäyttö*
+###### Työstävapautusaika ja ajankäyttö
 
 2.  Alla esitetyn taulukon mukainen työstävapautusaika annetaan
     ainoastaan yri- tyksen luottamusmiehelle, ellei yrityskohtaisesti
@@ -5864,17 +6425,17 @@ Viikko 1 2 3 4 5 6 Työtuntien määrä
 > toimialu- eeseen kuuluvien työntekijöiden lukumäärän perusteella
 > (riippumatta järjes- täytyneisyydestä) seuraavasti:
 >
-> 20--49 3
+> 20–49 3
 >
-> 50--99 5
+> 50–99 5
 >
-> 100--149 7,5
+> 100–149 7,5
 >
-> 150--299 15
+> 150–299 15
 >
-> 300--499 22,5
+> 300–499 22,5
 >
-> 500--699 30
+> 500–699 30
 >
 > vähintään 700 kokonaan työstä vapaa
 >
@@ -5907,7 +6468,7 @@ Viikko 1 2 3 4 5 6 Työtuntien määrä
 > Ellei paikallisesti toisin sovita, todetaan työntekijämäärä
 > puolivuosittain.
 
-###### *Työskentelypuitteet*
+###### Työskentelypuitteet
 
 > Luottamusmiehelle annetaan työpaikan olosuhteet huomioon ottaen riit-
 > tävästi säilytystilaa hänen tarvitsemilleen asiakirjoille ja
@@ -5915,7 +6476,8 @@ Viikko 1 2 3 4 5 6 Työtuntien määrä
 > tarkoituksenmukaista toimistotilaa ja tavanomaisia toimistovälineitä.
 > Luottamusmies voi toimittaa ammattiliittonsa aineistoa työntekijöille.
 >
-> []{#_bookmark107 .anchor}Tavanomaisten toimistovälineiden käsitteen
+> <span id="7_§_Ansionmenetyksen_korvaus"
+> class="anchor"></span>Tavanomaisten toimistovälineiden käsitteen
 > piiriin kuuluvat myös yrityksessä yleisesti käytössä olevat
 > atk-laitteet ja niihin liittyvät ohjelmat sekä interne- tyhteys
 > (sähköposti). Arvioinnissa voidaan ottaa huomioon mm. yrityksen koko,
@@ -5928,7 +6490,7 @@ Viikko 1 2 3 4 5 6 Työtuntien määrä
 
 #### § Ansionmenetyksen korvaus
 
-###### *Ansionmenetys*
+###### Ansionmenetys
 
 1.  Työnantaja maksaa luottamusmiehelle luottamusmiestehtävän
     hoitamisesta aiheutuneen säännöllisen työajan ansiomenetyksen.
@@ -5941,7 +6503,7 @@ Viikko 1 2 3 4 5 6 Työtuntien määrä
 > säännölli- sen työajan ulkopuolella maksetaan lisä- tai
 > ylityökorvaukset, ellei toisin sovita.
 
-###### *Matkakustannukset*
+###### Matkakustannukset
 
 2.  Luottamusmiehen matkustaessa työnantajan kanssa sovittujen
     luottamus- miestehtävien takia maksetaan matkakorvaukset yrityksessä
@@ -5950,7 +6512,7 @@ Viikko 1 2 3 4 5 6 Työtuntien määrä
 > Luottamusmiehen käyttäessä matkustamiseen työnantajan suostumuksella
 > omaa autoa maksetaan kilometrikorvaus..
 
-###### *Luottamusmieskorvaus*
+###### Luottamusmieskorvaus
 
 3.  Luottamusmiestehtävien hoitamisesta maksetaan luottamusmieskorvausta
     ainoastaan yrityksen luottamusmiehelle, ellei yrityskohtaisesti
@@ -5960,22 +6522,22 @@ Viikko 1 2 3 4 5 6 Työtuntien määrä
 > toi- mialueeseensa kuuluvien työntekijöiden lukumäärän perusteella
 > (riippumatta järjestäytyneisyydestä) seuraavasti:
 >
-> 20--49 47
+> 20–49 47
 >
-> 50--149 83
+> 50–149 83
 >
-> 150--299 117
+> 150–299 117
 >
-> 300--499 177
+> 300–499 177
 >
-> 500--799 225
+> 500–799 225
 >
 > vähintään 800 sovitaan paikallisesti
 >
 > Ellei paikallisesti toisin sovita, todetaan työntekijämäärä
 > puolivuosittain.
 
-###### *Pääluottamusmiehen ansiokehitys*
+###### Pääluottamusmiehen ansiokehitys
 
 4.  Pääluottamusmiehen ansiokehityksen tulee vastata vähintään yrityksen
     asianomaisen ammattiryhmän vastaavien työntekijöiden keskimääräistä
@@ -6006,7 +6568,7 @@ Viikko 1 2 3 4 5 6 Työtuntien määrä
 
 #### § Työsuhdeturva
 
-###### *Syrjintäkielto*
+###### Syrjintäkielto
 
 1.  Luottamusmiestä ei saa luottamusmiestehtävän takia erottaa työstä
     eikä muutoinkaan syrjiä.
@@ -6020,7 +6582,7 @@ Viikko 1 2 3 4 5 6 Työtuntien määrä
     yrityksen tai sen osan olosuhteet sekä hänen ammattitaitonsa.
     Tällainen järjestely ei saa aiheuttaa ansioiden alentumista.
 
-###### *Taloudelliset ja tuotannolliset irtisanomisperusteet*
+###### Taloudelliset ja tuotannolliset irtisanomisperusteet
 
 4.  Irtisanottaessa tai lomautettaessa yrityksen henkilöstöä
     taloudellisilla tai tuo- tannollisilla perusteilla ei tällaista
@@ -6039,27 +6601,27 @@ Viikko 1 2 3 4 5 6 Työtuntien määrä
 5.  Luottamusmies voidaan irtisanoa tai lomauttaa hänen työnsä
     päättyessä kokonaan, jos:
 
-    -   työnantaja ei voi järjestää hänelle ammattitaitoa vastaavaa tai
-        muutoin sopivaa työtä tai
+    - työnantaja ei voi järjestää hänelle ammattitaitoa vastaavaa tai
+      muutoin sopivaa työtä tai
 
-    -   työnantaja ei voi kouluttaa häntä muuhun työhön työsopimuslain
-        7:4 §:ssä tarkoitetulla tavalla.
+    - työnantaja ei voi kouluttaa häntä muuhun työhön työsopimuslain 7:4
+      §:ssä tarkoitetulla tavalla.
 
-###### *Yksilösuoja*
+###### Yksilösuoja
 
 6.  Luottamusmiestä ei saa irtisanoa hänestä johtuvasta syystä ilman
     edustami- ensa työntekijöiden suostumusta (työsopimuslain 7:10 § 1
     momentti).
 
 7.  Luottamusmiehen työsopimusta ei saa purkaa tai käsitellä
-    purkautuneena vastoin työsopimuslain 8:1--3 §:n säännöksiä.
+    purkautuneena vastoin työsopimuslain 8:1–3 §:n säännöksiä.
 
 > Luottamusmiehen työsopimus voidaan purkaa järjestysmääräyksien
 > rikkomi- sen takia vain, jos luottamusmies on toistuvasti ja
 > olennaisesti sekä varoituk- sesta huolimatta jättänyt työvelvoitteensa
 > täyttämättä.
 
-###### *Ehdokassuoja*
+###### Ehdokassuoja
 
 8.  Työsuhdeturvamääräyksiä noudatetaan pääluottamusmiesehdokkaaseen,
     jonka asettamisesta on ilmoitettu työnantajalle kirjallisesti.
@@ -6068,12 +6630,12 @@ Viikko 1 2 3 4 5 6 Työtuntien määrä
 > toi- mikauden alkua. Ehdokassuoja päättyy muiden kuin valituksi
 > tulleen osalta vaalin järjestäjän todettua vaalituloksen.
 
-###### *Jälkisuoja*
+###### Jälkisuoja
 
 9.  Työsuhdeturvamääräyksiä noudatetaan 6 kuukautta pääluottamusmies-
     tehtävän päättymisestä.
 
-###### *Pääluottamusmies ja liikeen luovutus*
+###### Pääluottamusmies ja liikeen luovutus
 
 10. Luovutetun liikkeen tai sen osan säilyttäessä itsenäisyytensä
     pääluottamus- miehen asema jatkuu sellaisenaan.
@@ -6082,7 +6644,7 @@ Viikko 1 2 3 4 5 6 Työtuntien määrä
 > pääluottamus- miehellä on 9. kohdan mukainen jälkisuoja liikkeen
 > luovutuksesta johtuneen toimikauden päättymisestä alkaen.
 
-###### *Korvaukset*
+###### Korvaukset
 
 11. Päätettäessä luottamusmiehen työsopimus tämän sopimuksen vastaisesti
     työnantajan on maksettava korvauksena vähintään 10 kuukauden ja
@@ -6105,7 +6667,7 @@ Viikko 1 2 3 4 5 6 Työtuntien määrä
     toimenpiteisiin.
 
 3.  Paikalliset- ja liittoneuvottelut aloitetaan ja käydään
-    viivytyksettä.
+    > viivytyksettä.
 
 #### § Sopimuksen voimassaolo
 
@@ -6120,15 +6682,15 @@ Viikko 1 2 3 4 5 6 Työtuntien määrä
 > Kaupan liiton ja Palvelualojen ammattiliiton välistä työsuojelun
 > yhteistoimintaso- pimusta noudatetaan Kaupan liiton jäsenyrityksissä.
 
-2.  #### § Yhteistoiminta työsuojelussa
+#### § Yhteistoiminta työsuojelussa
 
-    1.  ###### *Työpaikkakäsite*
+###### Työpaikkakäsite
 
 > Työpaikalla tarkoitetaan Kaupan liiton jäsenyritystä tai sen osaa,
 > joka muodos- taa alueellisen ja/tai toiminnallisen kokonaisuuden.
 > Työpaikkakäsite määritellään paikallisesti.
 
-###### *Työsuojeluyhteistoiminta*
+###### Työsuojeluyhteistoiminta
 
 > Työsuojelumääräyksiä noudatetaan toimialoittain. Jos
 > monitoimialayrityksessä toimialat eivät ole selvästi eroteltavissa,
@@ -6143,7 +6705,7 @@ Viikko 1 2 3 4 5 6 Työtuntien määrä
 >
 > Työsuojeluvaltuutetun tulee olla mukana yhteistyössä.
 
-###### *Yhteinen työpaikka*
+###### Yhteinen työpaikka
 
 > Yhteiseksi työpaikaksi on määritelty työturvallisuuslain 49 §:n
 > mukaisesti sellai- nen työpaikka, jolla yksi työnantaja käyttää
@@ -6152,10 +6714,11 @@ Viikko 1 2 3 4 5 6 Työtuntien määrä
 > itsenäinen työnsuorittaja siten, että työ voi vaikuttaa toisten
 > työntekijöiden turvallisuuteen tai terveyteen.
 >
-> []{#_bookmark113 .anchor}Työsuojelun yhteistoiminnan osapuolet
-> yhteisellä työpaikalla ovat pääasiallista määräysvaltaa käyttävä
-> työnantaja sekä tämän palveluksessa olevat työsuojeluval- tuutetut.
-> Nämä työsuojeluvaltuutetut edustavat myös työpaikalla työskentelevien
+> <span id="2.6_Päätyösuojeluvaltuutettu_"
+> class="anchor"></span>Työsuojelun yhteistoiminnan osapuolet yhteisellä
+> työpaikalla ovat pääasiallista määräysvaltaa käyttävä työnantaja sekä
+> tämän palveluksessa olevat työsuojeluval- tuutetut. Nämä
+> työsuojeluvaltuutetut edustavat myös työpaikalla työskentelevien
 > ulkopuolisten työnantajien työntekijöitä asioissa, jotka liittyvät
 > työolosuhteisiin.
 >
@@ -6167,7 +6730,7 @@ Viikko 1 2 3 4 5 6 Työtuntien määrä
 > hänen edustamillaan työntekijöillä ottaen huomioon työpaikan yleiset
 > kulku- ja turvallisuusmääräykset.
 
-###### *Työsuojelupäällikkö*
+###### Työsuojelupäällikkö
 
 > Työnantajan on nimettävä työsuojeluyhteistoimintaa varten
 > työsuojelupäällikkö, ellei hän itse toimi työsuojelupäällikkönä.
@@ -6183,7 +6746,7 @@ Viikko 1 2 3 4 5 6 Työtuntien määrä
 > Hänellä tulee olla tehtäviensä hoitamista varten riittävät tiedot ja
 > toimintaedellytykset.
 
-###### *Työsuojeluvaltuutettu*
+###### Työsuojeluvaltuutettu
 
 > Työsuojeluvaltuutetun ja hänelle 2 varavaltuutettua valitsee
 > henkilöstö sel- laiselle työpaikalle, jonka henkilöstön määrä on
@@ -6199,8 +6762,9 @@ Viikko 1 2 3 4 5 6 Työtuntien määrä
 > työsuojeluyhteistoimintaelimessä käsiteltävien suunni- telmien sekä
 > muiden työsuojelua koskevien asioiden valmisteluun.
 >
-> []{#_bookmark114 .anchor}Työsuojeluvaltuutetun ollessa estynyt
-> hoitamasta työsuojeluvaltuutetun tehtä- viä toimii hänen sijallaan I
+> <span id="2.7_Alueorganisaatio_"
+> class="anchor"></span>Työsuojeluvaltuutetun ollessa estynyt hoitamasta
+> työsuojeluvaltuutetun tehtä- viä toimii hänen sijallaan I
 > varavaltuutettu ja tämänkin ollessa estyneenä II vara- valtuutettu.
 > Varavaltuutetun sijaan tulo ei kuitenkaan ole tarkoituksenmukaista,
 > jos työsuojeluvaltuutetun este kestää vain lyhyehkön ajan.
@@ -6233,7 +6797,7 @@ Viikko 1 2 3 4 5 6 Työtuntien määrä
 > työsuojeluvaltuutettu. Tällöin myös esi- henkilöillä on oikeus
 > äänestää työsuojeluvaltuutetun vaaleissa.
 
-###### *Päätyösuojeluvaltuutettu*
+###### Päätyösuojeluvaltuutettu
 
 > Vähintään 30 työntekijän yritykseen valittu työsuojeluvaltuutettu on
 > asemaltaan tässä sopimuksessa tarkoitettu päätyösuojeluvaltuutettu.
@@ -6247,7 +6811,8 @@ Viikko 1 2 3 4 5 6 Työtuntien määrä
 >
 > Päätyösuojeluvaltuutettu ja pääluottamusmies voivat olla sama henkilö.
 >
-> []{#_bookmark115 .anchor}Päätyösuojeluvaltuutettuun noudatetaan
+> <span id="2.8_Työsuojeluasiamies"
+> class="anchor"></span>Päätyösuojeluvaltuutettuun noudatetaan
 > työsuojeluvaltuutetun tehtäviä ja työs- kentelytiloja koskevia
 > määräyksiä.
 >
@@ -6258,7 +6823,7 @@ Viikko 1 2 3 4 5 6 Työtuntien määrä
 > työnohjaukseen tai muihin työpaikalla käytössä oleviin työn
 > kuormituksen ehkäisemiseen tarkoitet- tuihin keinoihin.
 
-###### *Työsuojelun yhteistoiminta-alue*
+###### Työsuojelun yhteistoiminta-alue
 
 > Yritys, jossa on valtakunnallisesti laaja alueorganisaatio tai jonka
 > palveluksessa on yli 700 työntekijää, tulee työnantajan ja
@@ -6267,90 +6832,86 @@ Viikko 1 2 3 4 5 6 Työtuntien määrä
 >
 > Neuvotteluissa on keskusteltava muun muassa seuraavat asiat:
 
--   yrityksen toiminnan luonne sekä organisaatio- ja
-    päätöksentekorakenne
+- yrityksen toiminnan luonne sekä organisaatio- ja päätöksentekorakenne
 
--   hallinnollinen itsenäisyys ja erillisyys
+- hallinnollinen itsenäisyys ja erillisyys
 
--   alueellinen kattavuus sekä toimipaikkojen lukumäärä ja etäisyydet
+- alueellinen kattavuus sekä toimipaikkojen lukumäärä ja etäisyydet
 
--   tarvittaessa työsuojeluasiamiesten valinta
+- tarvittaessa työsuojeluasiamiesten valinta
 
--   henkilöstömäärä ja --jakauma
+- henkilöstömäärä ja –jakauma
 
--   työmenetelmien ja -välineiden hyödyntäminen toiminnassa, työsuojelu-
-    henkilöiden yhteydenpidossa ja viestinnässä
+- työmenetelmien ja -välineiden hyödyntäminen toiminnassa, työsuojelu-
+  henkilöiden yhteydenpidossa ja viestinnässä
 
--   yhteistyön ja työsuojelujärjestelmän kehittämistarpeet
+- yhteistyön ja työsuojelujärjestelmän kehittämistarpeet
 
--   työsuojeluvaltuutettujen toimivalta ja sopimisoikeudet
+- työsuojeluvaltuutettujen toimivalta ja sopimisoikeudet
 
--   vapautusajat ja korvaukset
+- vapautusajat ja korvaukset
 
--   paikallisen sopimisen laatu ja laajuus
+- paikallisen sopimisen laatu ja laajuus
 
--   henkilöstön ja työntekomuotojen moninaisuus
+- henkilöstön ja työntekomuotojen moninaisuus
 
--   tiedonsaantioikeudet ja -vastuut.
+- tiedonsaantioikeudet ja -vastuut.
 
 > Työsuojeluvaltuutettuorganisaatiosta sovittaessa on sopimus tehtävä
 > kirjallisesti. Mikäli työsuojeluvaltuutettuorganisaatiosta ei päästä
 > yhteisymmärrykseen, voi- daan asia jommankumman osapuolen pyynnöstä
 > siirtää työmarkkinaosapuolten käsiteltäväksi.
 
-###### *Työsuojeluasiamies*
+###### Työsuojeluasiamies
 
 1.  Jos paikallisesti on sovittu työsuojeluasiamiesten valitsemisesta,
     noudatetaan seuraavaa:
 
-    -   työsuojeluasiamiehen toimialueena voi olla yrityksen toimipaikka
-        > tai tietty osa, esimerkiksi myymälä, varasto tai konttori
+    - työsuojeluasiamiehen toimialueena voi olla yrityksen toimipaikka
+      tai tietty osa, esimerkiksi myymälä, varasto tai konttori
 
-    -   työsuojeluasiamiehen toimialueena voi olla myös tietty
-        > ammattiryhmä, esi- merkiksi myyjät, logistiikkatyöntekijät tai
-        > toimihenkilöt
+    - työsuojeluasiamiehen toimialueena voi olla myös tietty
+      ammattiryhmä, esi- merkiksi myyjät, logistiikkatyöntekijät tai
+      toimihenkilöt
 
-    -   työsuojeluasiamiehen ja työsuojeluvaltuutetun toimikausi on sama
+    - työsuojeluasiamiehen ja työsuojeluvaltuutetun toimikausi on sama
 
-    -   työsuojeluasiamiehen tehtävän hoitamiseen tarvitsemasta
-        > työstävapau- tusajasta sovitaan paikallisesti
+    - työsuojeluasiamiehen tehtävän hoitamiseen tarvitsemasta
+      työstävapau- tusajasta sovitaan paikallisesti
 
-    -   työnantaja huolehtii siitä, että työsuojeluasiamiehellä on
-        > tarvittaessa käy- tettävissä tämän tehtävän hoitamista varten
-        > välttämättömät lait, asetuk- set, työsuojelumääräykset ja
-        > -ohjeet.
+    - työnantaja huolehtii siitä, että työsuojeluasiamiehellä on
+      tarvittaessa käy- tettävissä tämän tehtävän hoitamista varten
+      välttämättömät lait, asetuk- set, työsuojelumääräykset ja -ohjeet.
 
 2.  Työsuojeluasiamiehen tehtävänä on toimialueellaan mm.
 
-    -   osallistua työsuojelua koskevaan tarkastukseen
+    - osallistua työsuojelua koskevaan tarkastukseen
 
-    -   osallistua tutkimukseen, jonka toimeenpano johtuu tapaturman tai
-        > ammat- titaudin vaarasta tai sattuneen tapaturman laadusta
-        > taikka sen mahdolli- sesta vaikutuksesta työsuojelutyön
-        > suunnitteluun ja toteuttamiseen
+    - osallistua tutkimukseen, jonka toimeenpano johtuu tapaturman tai
+      ammat- titaudin vaarasta tai sattuneen tapaturman laadusta taikka
+      sen mahdolli- sesta vaikutuksesta työsuojelutyön suunnitteluun ja
+      toteuttamiseen
 
-    -   tarkkailla työsuojelumääräysten noudattamista ja huomauttaa
-        > niiden rikkomisesta
+    - tarkkailla työsuojelumääräysten noudattamista ja huomauttaa niiden
+      rikkomisesta
 
-    -   ilmoittaa havaitsemistaan epäkohdista ensi sijassa
-        > asianomaiselle esihen- kilölle ja milloin se on asian laatuun
-        > nähden tarpeellista, työsuojeluvaltuu- tetulle, sekä
-        > huomauttaa työsuojelumääräysten noudattamisesta ja havai-
-        > tuista vaaratekijöistä työntekijöille
+    - ilmoittaa havaitsemistaan epäkohdista ensi sijassa asianomaiselle
+      esihen- kilölle ja milloin se on asian laatuun nähden
+      tarpeellista, työsuojeluvaltuu- tetulle, sekä huomauttaa
+      työsuojelumääräysten noudattamisesta ja havai- tuista
+      vaaratekijöistä työntekijöille
 
-    -   tehdä aloitteita työsuojeluvaltuutetulle toimialueensa
-        > työsuojelun kehittä- misestä ja olla yhteydessä toimialueensa
-        > asioista työsuojeluvaltuutettuun.
+    - tehdä aloitteita työsuojeluvaltuutetulle toimialueensa työsuojelun
+      kehittä- misestä ja olla yhteydessä toimialueensa asioista
+      työsuojeluvaltuutettuun.
 
-    1.  ###### *Työsuhdeturva*
+###### Työsuhdeturva
 
-```{=html}
-<!-- -->
-```
 1.  Työsuojeluvaltuutetulla on työsopimuslain 7:10 §:n mukainen
     irtisanomissuoja ja vastaava irtisanomisperusteinen lomautussuoja.
 
-> []{#_bookmark117 .anchor}*Syrjintäkielto*
+> <span id="2.10_Työsuojelutoimikunta_"
+> class="anchor"></span>*Syrjintäkielto*
 
 2.  Työsuojeluvaltuutettua tai työsuojeluasiamiestä ei saa valtuutetun
     tai asiamie- hen tehtävien hoitamisen takia erottaa työstä.
@@ -6373,7 +6934,7 @@ Viikko 1 2 3 4 5 6 Työtuntien määrä
 
 > *Yksilösuoja*
 
-5.  Työsopimusta ei saa purkaa vastoin työsopimuslain 8:1--3 §:n
+5.  Työsopimusta ei saa purkaa vastoin työsopimuslain 8:1–3 §:n
     säännöksiä.
 
 > Työsopimuksen purkaminen järjestysmääräyksien rikkomisen takia on mah-
@@ -6416,13 +6977,13 @@ Viikko 1 2 3 4 5 6 Työtuntien määrä
 > Liitot voivat sopia yksittäistapauksissa 10 kuukauden palkkaa
 > pienemmästä korvauksesta.
 
-###### *Työsuojelutoimikunta*
+###### Työsuojelutoimikunta
 
 1.  Työsuojelutoimikunnan jäsenten lukumäärä on:
 
 > enintään 150 4
 >
-> 151--500 8
+> 151–500 8
 >
 > yli 500 12
 
@@ -6434,25 +6995,25 @@ Viikko 1 2 3 4 5 6 Työtuntien määrä
 
 > mm\. seuraavat tehtävät:
 
--   laatia itselleen toiminnassaan noudatettavaksi vuosittainen
-    > toimintasuun- nitelma, jossa otetaan huomioon myös työnantajan
-    > ehdotus työsuojelun kehittämistavoitteiksi kustannusarvioineen
+- laatia itselleen toiminnassaan noudatettavaksi vuosittainen
+  > toimintasuun- nitelma, jossa otetaan huomioon myös työnantajan
+  > ehdotus työsuojelun kehittämistavoitteiksi kustannusarvioineen
 
--   käsitellä turvallisuuteen ja terveyteen sekä työntekijöiden työkyvyn
-    > ylläpi- tämiseen liittyviä toimia, sekä työympäristön tilaa ja
-    > tasoa, työtapaturmia ja henkilöstöön kohdistuvia mahdollisia
-    > väkivaltatapauksia
+- käsitellä turvallisuuteen ja terveyteen sekä työntekijöiden työkyvyn
+  > ylläpi- tämiseen liittyviä toimia, sekä työympäristön tilaa ja
+  > tasoa, työtapaturmia ja henkilöstöön kohdistuvia mahdollisia
+  > väkivaltatapauksia
 
--   käsitellä yhteistyössä työterveyshenkilöstön kanssa
-    > päihdekuntoutusta
+- käsitellä yhteistyössä työterveyshenkilöstön kanssa päihdekuntoutusta
 
--   []{#_bookmark118 .anchor}käsitellä vuosittain työsuojelua koskevan
-    yhteistyökoulutuksen tarve ja laatia tämän perusteella ehdotus
-    yrityksen koulutussuunnitelman ja talousarvion valmistamista varten
+- <span id="2.11_Yksintyöskentely_" class="anchor"></span>käsitellä
+  vuosittain työsuojelua koskevan yhteistyökoulutuksen tarve ja laatia
+  tämän perusteella ehdotus yrityksen koulutussuunnitelman ja
+  talousarvion valmistamista varten
 
--   käsitellä työterveyshuollon toimintasuunnitelma ja työterveyshuollon
-    kor- vaushakemus. Jos työsuojelutoimikuntaa ei ole valittu,
-    korvaushakemus käsitellään työsuojeluvaltuutetun kanssa.
+- käsitellä työterveyshuollon toimintasuunnitelma ja työterveyshuollon
+  kor- vaushakemus. Jos työsuojelutoimikuntaa ei ole valittu,
+  korvaushakemus käsitellään työsuojeluvaltuutetun kanssa.
 
 > *Työsuojelutoimikunnan kokoukset*
 >
@@ -6487,12 +7048,12 @@ Viikko 1 2 3 4 5 6 Työtuntien määrä
     myös muiden työsuojeluelimien käyt- töön siten kuin
     työsuojeluyhteistoimintaorganisaatiossa on yhteisesti todettu.
 
-    1.  ###### *Yksintyöskentely*
+###### Yksintyöskentely
 
 > Työsuojeluosapuolten tulee lisäksi ottaa toiminnassaan huomioon
 > liittojen välisen Väkivallan uhka -pöytäkirjan 3 §:n määräykset.
 
-###### *Työsuojelu ja häirintä*
+###### Työsuojelu ja häirintä
 
 > Työnantajan laatiessa työturvallisuuslain mukainen työsuojelun
 > toimintaohjelma on lisäksi huomioitava menettelytapaohjeet häirinnän
@@ -6500,7 +7061,7 @@ Viikko 1 2 3 4 5 6 Työtuntien määrä
 > työyhteisön sisäisen toiminnan lisäksi ohjeet asiakkaiden taholta
 > tapahtuvan häirinnän käsittelyyn.
 
-###### *Työsuojeluvaltuutetun työstävapautusaika*
+###### Työsuojeluvaltuutetun työstävapautusaika
 
 1.  Työsuojeluvaltuutetun työstävapautusaikaa määrättäessä otetaan
     huomioon tämän edustamien työntekijöiden lukumäärä, työpaikan
@@ -6515,19 +7076,19 @@ Viikko 1 2 3 4 5 6 Työtuntien määrä
     työntekijöi- den lukumäärän perusteella (riippumatta
     järjestäytyneisyydestä) seuraavasti:
 
-> 10--19 2
+> 10–19 2
 >
-> 20--49 3
+> 20–49 3
 >
-> 50--99 5
+> 50–99 5
 >
 > 100-149 7,5
 >
-> 150--299 15
+> 150–299 15
 >
-> 300--499 22,5
+> 300–499 22,5
 >
-> 500--699 30
+> 500–699 30
 >
 > Vähintään 700 Kokonaan työstä vapaa
 >
@@ -6557,7 +7118,7 @@ Viikko 1 2 3 4 5 6 Työtuntien määrä
 > Työsuojeluvaltuutetun tulee ilmoittaa säännöllisistä
 > vastaanottoajoistaan.
 
-###### *Työsuojeluvaltuutetun korvaus*
+###### Työsuojeluvaltuutetun korvaus
 
 1.  Työnantaja korvaa päätyösuojeluvaltuutetulle,
     työsuojeluvaltuutetulle, työsuo- jeluasiamiehelle sekä
@@ -6575,20 +7136,20 @@ Viikko 1 2 3 4 5 6 Työtuntien määrä
     ja työsuojelutoi- mikunnan kokoukseen osallistumisesta, ellei muusta
     korvauksesta erikseen sovita.
 
-3.  []{#_bookmark120 .anchor}Yrityksen työsuojeluvaltuutetulle maksetaan
-    työsuojelutehtävien hoitami- sesta korvausta hänen toimialueeseensa
-    kuuluvien työntekijöiden lukumää- rän perusteella (riippumatta
-    järjestäytyneisyydestä) seuraavasti:
+3.  <span id="4_§_Neuvottelujärjestys" class="anchor"></span>Yrityksen
+    työsuojeluvaltuutetulle maksetaan työsuojelutehtävien hoitami- sesta
+    korvausta hänen toimialueeseensa kuuluvien työntekijöiden lukumää-
+    rän perusteella (riippumatta järjestäytyneisyydestä) seuraavasti:
 
-> 20--49 47
+> 20–49 47
 >
-> 50--149 83
+> 50–149 83
 >
-> 150--299 117
+> 150–299 117
 >
-> 300--499 177
+> 300–499 177
 >
-> 500--699 225
+> 500–699 225
 >
 > vähintään 700 sovitaan paikallisesti
 >
@@ -6651,30 +7212,30 @@ Viikko 1 2 3 4 5 6 Työtuntien määrä
 
 #### § Ammattiyhdistyskoulutus
 
-###### *Kurssien hyväksyminen*
+###### Kurssien hyväksyminen
 
 1.  Koulutustyöryhmä hyväksyy työnantajan tuen piiriin kuuluvat kurssit
     seuraa- vasti:
 
-    -   hyväksymisen edellytyksenä on yhteisesti todettu koulutustarve
+    - hyväksymisen edellytyksenä on yhteisesti todettu koulutustarve
 
-    -   kurssit hyväksytään kalenterivuodeksi kerrallaan
+    - kurssit hyväksytään kalenterivuodeksi kerrallaan
 
-    -   tarvittaessa kursseja voidaan hyväksyä kalenterivuoden aikana
+    - tarvittaessa kursseja voidaan hyväksyä kalenterivuoden aikana
 
-    -   ennen hyväksymistä työryhmälle annetaan selvitys kurssin
+    - ennen hyväksymistä työryhmälle annetaan selvitys kurssin
 
-    -   tavoitteista, opetusohjelmasta, ajankohdasta,
-        > järjestämispaikasta ja kohderyhmästä
+    - tavoitteista, opetusohjelmasta, ajankohdasta, järjestämispaikasta
+      ja kohderyhmästä
 
-    -   hyväksyttyjen kurssien joukossa tulee olla myös viikkoa
-        > lyhyempiä ja pai- kallisia kursseja.
+    - hyväksyttyjen kurssien joukossa tulee olla myös viikkoa lyhyempiä
+      ja pai- kallisia kursseja.
 
 > Liitot tiedottavat kursseista viimeistään 2 kuukautta ennen
 > ensimmäisen kurs- sin alkua. Koulutustyöryhmä voi seurata kurssien
 > opetusta.
 
-###### *Osallistumisoikeus*
+###### Osallistumisoikeus
 
 2.  Luottamusmies ja työsuojeluvaltuutettu voivat osallistua työsuhteen
     katkea- matta koulutustyöryhmän hyväksymille kursseille enintään 2
@@ -6682,7 +7243,7 @@ Viikko 1 2 3 4 5 6 Työtuntien määrä
     varatyösuojeluvaltuutettu enin- tään 1 viikon ajan kalenterivuoden
     aikana, jos se ei aiheuta yritykselle tuntu- vaa haittaa.
 
-###### *Ilmoitusvelvollisuus*
+###### Ilmoitusvelvollisuus
 
 3.  Työntekijän on ilmoitettava osallistumisestaan kurssille
     mahdollisimman aikaisin.
@@ -6696,16 +7257,16 @@ Viikko 1 2 3 4 5 6 Työtuntien määrä
 > miksi kurssille osal- listuminen aiheuttaisi yritykselle tuntuvaa
 > haittaa.
 
-###### *Korvaukset*
+###### Korvaukset
 
 4.  Henkilöstön edustajat voivat osallistua koulutustyöryhmän
     hyväksymille kursseille ilman ansiomenetystä seuraavasti:
 
-    -   luottamusmiehen ja työsuojeluvaltuutetun ansionmenetys korvataan
-        enin- tään 2 viikon ajalta
+    - luottamusmiehen ja työsuojeluvaltuutetun ansionmenetys korvataan
+      enin- tään 2 viikon ajalta
 
-    -   1\. varatyösuojeluvaltuutetun ja varaluottamusmiehen
-        ansionmenetys kor- vataan enintään 1 viikon ajalta.
+    - 1\. varatyösuojeluvaltuutetun ja varaluottamusmiehen ansionmenetys
+      kor- vataan enintään 1 viikon ajalta.
 
 > edellyttäen että kurssi liittyy osanottajan yhteistyötehtävään
 > yrityksessä. Ansiomenetys korvataan työntekijän peruspalkan mukaan.
@@ -6713,51 +7274,47 @@ Viikko 1 2 3 4 5 6 Työtuntien määrä
 > Ilta- ja yölisiä sekä muita mahdollisia tuntikohtaisia lisiä ei
 > korvata. Kuukausikohtaiset lisät korvataan.
 
-###### *Muut edut*
+###### Muut edut
 
 5.  Osallistuminen tämän pykälän mukaiseen koulutukseen ei vähennä
     vuosi- loma-, eläke- tai näihin verrattavia etuuksia.
 
-```{=html}
-<!-- -->
-```
-3.  #### § Yhteinen koulutus
+#### § Yhteinen koulutus
 
-    1.  Yhteistä koulutusta annetaan pääsääntöisesti
-        työpaikkakohtaisesti.
+6.  Yhteistä koulutusta annetaan pääsääntöisesti työpaikkakohtaisesti.
 
-    2.  Koulutukseen osallistumisesta sovitaan työnantajan ja
-        työntekijän tai luotta- musmiehen kanssa tai muulla
-        paikallisesti sovittavalla tavalla.
+7.  Koulutukseen osallistumisesta sovitaan työnantajan ja työntekijän
+    tai luotta- musmiehen kanssa tai muulla paikallisesti sovittavalla
+    tavalla.
 
-    3.  Yhteistä koulutusta ovat esimerkiksi:
+8.  Yhteistä koulutusta ovat esimerkiksi:
 
-        -   yhteistoimintasopimukseen
+    - yhteistoimintasopimukseen
 
-        -   osallistumisjärjestelmiin ja
+    - osallistumisjärjestelmiin ja
 
-        -   työsuojeluyhteistyöhön liittyvä koulutus.
+    - työsuojeluyhteistyöhön liittyvä koulutus.
 
-    4.  Korvaukset määräytyvät 4 §:n mukaan.
+9.  Korvaukset määräytyvät 4 §:n mukaan.
 
-4.  #### § Ammatillinen jatko-, täydennys- ja uudelleenkoulutus
+#### § Ammatillinen jatko-, täydennys- ja uudelleenkoulutus
 
-    1.  Työnantajan antaessa työntekijälle ammatillista koulutusta tai
-        työnantajan lähettäessä hänet ammatilliseen koulutukseen
-        työnantaja korvaa koulutus- kustannukset ja ansiomenetyksen.
+10. Työnantajan antaessa työntekijälle ammatillista koulutusta tai
+    työnantajan lähettäessä hänet ammatilliseen koulutukseen työnantaja
+    korvaa koulutus- kustannukset ja ansiomenetyksen.
 
-    2.  Säännöllisen työajan ansiomenetys korvataan työntekijän
-        peruspalkan mukaan.
+11. Säännöllisen työajan ansiomenetys korvataan työntekijän peruspalkan
+    mukaan.
 
 > Ilta- ja yölisiä sekä muita tuntikohtaisia lisiä ei korvata.
 > Kuukausikohtaiset lisät korvataan.
 >
 > Matkakustannukset korvataan halvimman kulkuneuvon mukaan.
 
-3.  Koulutuksen tapahtuessa työajan ulkopuolella työntekijälle korvataan
+12. Koulutuksen tapahtuessa työajan ulkopuolella työntekijälle korvataan
     siitä joh- tuvat suoranaiset kustannukset.
 
-4.  Ennen koulutukseen ilmoittautumista todetaan, onko kysymyksessä
+13. Ennen koulutukseen ilmoittautumista todetaan, onko kysymyksessä
     tämän pykälän mukainen koulutus.
 
 #### § Voimassaolo
@@ -6766,105 +7323,103 @@ Viikko 1 2 3 4 5 6 Työtuntien määrä
 
 ## Lomakkeet
 
-> ![](vertopal_8f97f4f4cc344ecdbe0e6ccf00fee4ad/media/image2.png){width="0.2949420384951881in"
-> height="0.2601629483814523in"}![](vertopal_8f97f4f4cc344ecdbe0e6ccf00fee4ad/media/image3.png){width="0.20214129483814522in"
-> height="0.11284011373578302in"}**ERIMIELISYYSMUISTIO**
+> <img src="media/image2.png" style="width:0.29494in;height:0.26016in" /><img src="media/image3.png" style="width:0.20214in;height:0.11284in" />**ERIMIELISYYSMUISTIO**
 >
 > Yritys
 >
-> \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\....
+> ......................................................................................................................................................................................................................................................................
 >
 > Toimipaikka
 >
-> \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\....
+> ......................................................................................................................................................................................................................................................................
 >
 > Työnantaja tai työnantajan edustaja, joka on hoitanut työpaikalla
 > erimielisyyttä
 >
-> \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...
+> .....................................................................................................................................................................................................................................................................
 >
 > Työnantajan edustajan asema yrityksessä
 >
-> \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...
+> .....................................................................................................................................................................................................................................................................
 >
 > Puhelin
 >
-> \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...
+> .....................................................................................................................................................................................................................................................................
 >
 > Sähköpostiosoite
 >
-> \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...
+> .....................................................................................................................................................................................................................................................................
 >
 > Työntekijä, jota erimielisyys koskee
 >
-> \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...
+> .....................................................................................................................................................................................................................................................................
 >
 > Työntekijän tehtävä yrityksessä
 >
-> \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\....
+> ......................................................................................................................................................................................................................................................................
 >
 > Puhelin
 >
-> \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...
+> .....................................................................................................................................................................................................................................................................
 >
 > Sähköpostiosoite
 >
-> \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...
+> .....................................................................................................................................................................................................................................................................
 >
 > Työntekijää on edustanut neuvotteluissa luottamusmies
 > /pääluottamusmies
 >
-> \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\....
+> ......................................................................................................................................................................................................................................................................
 >
 > Puhelin
 >
-> \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...
+> .....................................................................................................................................................................................................................................................................
 >
 > Sähköpostiosoite
 >
-> \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...
+> .....................................................................................................................................................................................................................................................................
 >
 > Erimielisyyden aihe
 >
-> \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\....
+> ......................................................................................................................................................................................................................................................................
 >
-> \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\....
+> ......................................................................................................................................................................................................................................................................
 >
-> \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\....
+> ......................................................................................................................................................................................................................................................................
 >
-> \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\....
+> ......................................................................................................................................................................................................................................................................
 >
-> \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\....
+> ......................................................................................................................................................................................................................................................................
 >
-> \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\....
+> ......................................................................................................................................................................................................................................................................
 >
-> \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\....
+> ......................................................................................................................................................................................................................................................................
 >
-> \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\....
+> ......................................................................................................................................................................................................................................................................
 >
-> \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\....
+> ......................................................................................................................................................................................................................................................................
 >
-> \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\....
+> ......................................................................................................................................................................................................................................................................
 >
-> \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\....
+> ......................................................................................................................................................................................................................................................................
 >
-> \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\....
+> ......................................................................................................................................................................................................................................................................
 >
-> \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\....
+> ......................................................................................................................................................................................................................................................................
 >
-> \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\....
+> ......................................................................................................................................................................................................................................................................
 >
-> Paikalliset neuvottelut erimielisyydestä käyty [.]{.underline} .20
+> Paikalliset neuvottelut erimielisyydestä käyty <u>.</u> .20
 >
 > Neuvottelijat
 >
-> \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\....
+> ......................................................................................................................................................................................................................................................................
 >
-> \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\....
+> ......................................................................................................................................................................................................................................................................
 >
-> \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\....
+> ......................................................................................................................................................................................................................................................................
 >
-> \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\....
+> ......................................................................................................................................................................................................................................................................
 >
 > Erimielisyydestä on oltu yhteydessä Kaupan liittoon
 >
@@ -6877,96 +7432,96 @@ Viikko 1 2 3 4 5 6 Työtuntien määrä
 > Yhteisesti todettu tapahtumien kulku. Siihen liittyvät dokumentit ovat
 > muistion liitteinä.
 >
-> \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\....
+> ......................................................................................................................................................................................................................................................................
 >
-> \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\....
+> ......................................................................................................................................................................................................................................................................
 >
-> \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\....
+> ......................................................................................................................................................................................................................................................................
 >
-> \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\....
+> ......................................................................................................................................................................................................................................................................
 >
-> \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\....
+> ......................................................................................................................................................................................................................................................................
 >
-> \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\....
+> ......................................................................................................................................................................................................................................................................
 >
-> \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\....
+> ......................................................................................................................................................................................................................................................................
 >
-> \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\....
+> ......................................................................................................................................................................................................................................................................
 >
-> \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\....
+> ......................................................................................................................................................................................................................................................................
 >
-> \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\....
+> ......................................................................................................................................................................................................................................................................
 >
-> \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\....
+> ......................................................................................................................................................................................................................................................................
 >
-> \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\....
+> ......................................................................................................................................................................................................................................................................
 >
 > Työntekijän vaatimus (tarvittaessa voidaan käyttää erillistä
 > liitettä).
 >
-> \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\....
+> ......................................................................................................................................................................................................................................................................
 >
-> \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\....
+> ......................................................................................................................................................................................................................................................................
 >
-> \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\....
+> ......................................................................................................................................................................................................................................................................
 >
-> \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\....
+> ......................................................................................................................................................................................................................................................................
 >
-> \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\....
+> ......................................................................................................................................................................................................................................................................
 >
-> \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\....
+> ......................................................................................................................................................................................................................................................................
 >
-> \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\....
+> ......................................................................................................................................................................................................................................................................
 >
-> \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\....
+> ......................................................................................................................................................................................................................................................................
 >
 > Työntekijän perustelut vaatimukselle (työehtosopimuksen / lain
 > kohdat).
 >
-> \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\....
+> ......................................................................................................................................................................................................................................................................
 >
-> \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\....
+> ......................................................................................................................................................................................................................................................................
 >
-> \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\....
+> ......................................................................................................................................................................................................................................................................
 >
-> \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\....
+> ......................................................................................................................................................................................................................................................................
 >
-> \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\....
+> ......................................................................................................................................................................................................................................................................
 >
 > Työnantajan vastaus ja perustelut (työehtosopimuksen / lain kohdat).
 > Tarvittaessa voidaan käyttää erillistä liitettä).
 >
-> \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\....
+> ......................................................................................................................................................................................................................................................................
 >
-> \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\....
+> ......................................................................................................................................................................................................................................................................
 >
-> \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\....
+> ......................................................................................................................................................................................................................................................................
 >
-> \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\....
+> ......................................................................................................................................................................................................................................................................
 >
-> \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\....
+> ......................................................................................................................................................................................................................................................................
 >
-> \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\....
+> ......................................................................................................................................................................................................................................................................
 >
-> \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\....
+> ......................................................................................................................................................................................................................................................................
 >
-> \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\....
+> ......................................................................................................................................................................................................................................................................
 >
 > Paikka Aika
 >
-> \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...
-> \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...
+> ...........................................................................................................................
+> ...........................................................................................................................
 >
 > Työnantajan / työnantajan edustajan allekirjoitus ja nimen selvennys
 > Työntekijän / työntekijän edustajan allekirjoitus ja nimen selvennys
 >
-> \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...
-> \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...
+> ...........................................................................................................................
+> ...........................................................................................................................
 >
 > Nimen selvennys Nimen selvennys
 >
-> \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...
-> \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...
+> ...........................................................................................................................
+> ...........................................................................................................................
 >
 > Tätä muistiota on tehty kaksi samansisältöistä kappaletta. Työnantaja
 > toimittaa toisen Kaupan liittoon ja työntekijä toisen Palvelualojen
@@ -6976,17 +7531,17 @@ Viikko 1 2 3 4 5 6 Työtuntien määrä
 >
 > Luettelo liitteistä
 >
-> \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\....
+> ......................................................................................................................................................................................................................................................................
 >
-> \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\....
+> ......................................................................................................................................................................................................................................................................
 >
-> \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\....
+> ......................................................................................................................................................................................................................................................................
 >
-> \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\....
+> ......................................................................................................................................................................................................................................................................
 >
-> \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\....
+> ......................................................................................................................................................................................................................................................................
 >
-> \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\....
+> ......................................................................................................................................................................................................................................................................
 
 # ERIMIELISYYSMUISTION TÄYTTÖOHJEET
 
@@ -7030,7 +7585,8 @@ Viikko 1 2 3 4 5 6 Työtuntien määrä
 > vuoksi. Työntekijä toimitti poissaolosta neuvolan tervey- denhoitajan
 > antaman todistuksen. Todistus erimielisyysmuistion liitteenä nro 1.
 >
-> []{#_bookmark126 .anchor}Yrityksen ohjeistuksessa on todettu, että
+> <span id="Muistion_lähettäminen_liitolle"
+> class="anchor"></span>Yrityksen ohjeistuksessa on todettu, että
 > poissaolon palkanmaksun edellytyksenä on aina lääkärintodistus.
 > Työntekijän kanssa on perehdyttämisvaiheessa käyty läpi ko.
 > pelisääntö. Yrityksen ohjeistus muistion liitteenä nro 2. Työntekijän
@@ -7069,183 +7625,150 @@ Viikko 1 2 3 4 5 6 Työtuntien määrä
 >
 > **KAUPAN ALAN TYÖSOPIMUS**
 
-+-----------+-----------------------+--------------+-------------------+
-| > 1\.     | > Työnantaja          |              | > Liike- tai      |
-| > T       |                       |              | > kotipaikka      |
-| YÖSUHTEEN |                       |              |                   |
-| >         |                       |              |                   |
-| OSAPUOLET |                       |              |                   |
-+===========+=======================+==============+===================+
-|           | > Työntekijä          |              | > Henkilötunnus   |
-+-----------+-----------------------+--------------+-------------------+
-|           | > Yllä mainittu       |              |                   |
-|           | > työntekijä sitoutuu |              |                   |
-|           | > korvausta vastaan   |              |                   |
-|           | > tekemään yllä       |              |                   |
-|           | > mainitun            |              |                   |
-|           | > työnantajan hänelle |              |                   |
-|           | > osoittamaa työtä    |              |                   |
-|           | > tämän johdon ja     |              |                   |
-|           | > valvonnan alaisena  |              |                   |
-|           | > sekä seuraavin      |              |                   |
-|           | > ehdoin:             |              |                   |
-+-----------+-----------------------+--------------+-------------------+
-| > 2\.     | > Työsuhteen alussa   |              |                   |
-| > TYÖS    | > on kuukauden        |              |                   |
-| OPIMUKSEN | > koeaika.            |              |                   |
-| > VO      | >                     |              |                   |
-| IMASSAOLO | > Koeaika kaksitoista |              |                   |
-|           | > kuukautta           |              |                   |
-|           | > lyhyemmässä         |              |                   |
-|           | > työsuhteessa on     |              |                   |
-|           | > enintään puolet     |              |                   |
-|           | > työsopimuksen       |              |                   |
-|           | > kestoajasta,        |              |                   |
-|           | > jolloin koeajan     |              |                   |
-|           | > viimeinen päivä on  |              |                   |
-|           | > .                   |              |                   |
-+-----------+-----------------------+--------------+-------------------+
-|           | > toistaiseksi        | > m          |                   |
-|           | > voimassa oleva      | ääräaikainen |                   |
-|           | > työsuhde Työsuhde   | > työsuhde   |                   |
-|           | > kestää toistaiseksi | >            |                   |
-|           | > ja sen alkamis-     | > M          |                   |
-|           | > päivämäärä on       | ääräaikaisen |                   |
-|           |                       | > työsuhteen |                   |
-|           |                       | > alkam      |                   |
-|           |                       | ispäivämäärä |                   |
-|           |                       | > on         |                   |
-|           |                       | >            |                   |
-|           |                       | > ja kesto   |                   |
-|           |                       | > saakka.    |                   |
-|           |                       | >            |                   |
-|           |                       | > M          |                   |
-|           |                       | ääräaikaisen |                   |
-|           |                       | > työsuhteen |                   |
-|           |                       | > peruste:   |                   |
-|           |                       | >            |                   |
-|           |                       | > tai kunnes |                   |
-|           |                       | > seuraava   |                   |
-|           |                       | > yksilöity  |                   |
-|           |                       | > työtehtävä |                   |
-|           |                       | > on         |                   |
-|           |                       | > suoritettu |                   |
-|           |                       | >            |                   |
-|           |                       | > ja sen     |                   |
-|           |                       | > arvioitu   |                   |
-|           |                       | > kesto on   |                   |
-|           |                       | > saakka.    |                   |
-+-----------+-----------------------+--------------+-------------------+
-| > 3\.     | > Työaika on          |              |                   |
-| > TYÖAIKA | > keskimäärin 37,5    |              |                   |
-|           | > tuntia viikossa.    |              |                   |
-|           | >                     |              |                   |
-|           | > alle 37,5 tuntia    |              |                   |
-|           | > viikossa, jolloin   |              |                   |
-|           | > keskimääräinen      |              |                   |
-|           | > viikkotyöaika on    |              |                   |
-|           | > tuntia.             |              |                   |
-|           | >                     |              |                   |
-|           | > Työntekijä suostuu  |              |                   |
-|           | > tekemään lisätyötä  |              |                   |
-|           | > laissa säädetyin    |              |                   |
-|           | > edellytyksin,       |              |                   |
-|           | > jolloin siitä       |              |                   |
-|           | > maksetaan           |              |                   |
-|           | > työehtosopimuksen   |              |                   |
-|           | > mukainen korvaus.   |              |                   |
-|           | >                     |              |                   |
-|           | > Työntekijä suostuu  |              |                   |
-|           | > tekemään            |              |                   |
-|           | > tarvittaessa        |              |                   |
-|           | > sunnuntaityötä ei   |              |                   |
-|           | > suostu tekemään     |              |                   |
-|           | > sunnuntaityötä      |              |                   |
-|           | >                     |              |                   |
-|           | > Sunnuntaityöstä     |              |                   |
-|           | > maksetaan           |              |                   |
-|           | > työehtosopimuksen   |              |                   |
-|           | > mukainen korvaus.   |              |                   |
-+-----------+-----------------------+--------------+-------------------+
-| > 4\.     | > Työntekijän         |              |                   |
-| > TY      | > työtehtävät (esim.  |              |                   |
-| ÖTEHTÄVÄT | > myyjä,              |              |                   |
-|           | > l                   |              |                   |
-|           | ogistiikkatyöntekijä, |              |                   |
-|           | > toimihenkilö):      |              |                   |
-+-----------+-----------------------+--------------+-------------------+
-| > 5\.     | > Työsuhteen alussa   |              |                   |
-| >         | > työntekijän palkka  |              |                   |
-|  PALKKAUS | > määräytyy           |              |                   |
-|           | > seuraavasti:        |              |                   |
-|           | >                     |              |                   |
-|           | > Palkkaryhmä ja      |              |                   |
-|           | > alallaolovuodet:    |              |                   |
-|           | >                     |              |                   |
-|           | > Palkan määrä        |              |                   |
-|           | > kuukaudessa tai     |              |                   |
-|           | > tunnissa:           |              |                   |
-+-----------+-----------------------+--------------+-------------------+
-| > 6\.     | > Vuosiloma määräytyy |              |                   |
-| >         | > vuosilomalain ja    |              |                   |
-| VUOSILOMA | > noudatettavan       |              |                   |
-|           | > työehtosopimuksen   |              |                   |
-|           | > mukaan.             |              |                   |
-+-----------+-----------------------+--------------+-------------------+
-| > 7\.     | > Irtisanomisaika     |              |                   |
-| > IRTISA  | > määräytyy           |              |                   |
-| NOMISAIKA | > noudatettavan       |              |                   |
-|           | > työehtosopimuksen   |              |                   |
-|           | > mukaan.             |              |                   |
-+-----------+-----------------------+--------------+-------------------+
-| > 8\.     | > Työsuhteessa        |              |                   |
-| > TYÖEH   | > noudatetaan         |              |                   |
-| TOSOPIMUS | > työnantajaa sitovaa |              |                   |
-|           | > työehtosopimusta,   |              |                   |
-|           | > voimassa olevia     |              |                   |
-|           | > lakeja ja asetuksia |              |                   |
-|           | > sekä yrityksen      |              |                   |
-|           | > sisäisiä ohjeita ja |              |                   |
-|           | > sääntöjä.           |              |                   |
-|           | > Sairausajan         |              |                   |
-|           | > palkkaa, vuosilomaa |              |                   |
-|           | > ja työaikaa         |              |                   |
-|           | > koskevien           |              |                   |
-|           | > määräysten osalta   |              |                   |
-|           | > noudatetaan         |              |                   |
-|           | > työehtosopimuksen   |              |                   |
-|           | > voimassaoloajan     |              |                   |
-|           | >                     |              |                   |
-|           | > päätyttyä ja ennen  |              |                   |
-|           | > uuden               |              |                   |
-|           | > työehtosopimuksen   |              |                   |
-|           | > voimaanastumista    |              |                   |
-|           | > päättyneen          |              |                   |
-|           | > sopimuksen          |              |                   |
-|           | > määräyksiä.         |              |                   |
-+-----------+-----------------------+--------------+-------------------+
-| > 9\.     |                       |              |                   |
-| > MUUT    |                       |              |                   |
-| > EHDOT   |                       |              |                   |
-+-----------+-----------------------+--------------+-------------------+
-| > 10\.    | > Tätä sopimusta on   |              |                   |
-| > PÄIVÄYS | > tehty kaksi         |              |                   |
-| > JA      | > yhtäpitävää         |              |                   |
-| > ALLE    | > kappaletta, joista  |              |                   |
-| KIRJOITUS | > yksi annetaan       |              |                   |
-|           | > työntekijälle ja    |              |                   |
-|           | > yksi jää            |              |                   |
-|           | > työnantajalle.      |              |                   |
-|           | > Paikka Aika         |              |                   |
-|           | >                     |              |                   |
-|           | > Työnantajan         |              |                   |
-|           | > allekirjoitus       |              |                   |
-|           | > Työntekijän         |              |                   |
-|           | > allekirjoitus       |              |                   |
-|           | >                     |              |                   |
-|           | > Nimen selvennys     |              |                   |
-|           | > Nimen selvennys     |              |                   |
-+-----------+-----------------------+--------------+-------------------+
+<table>
+<colgroup>
+<col style="width: 17%" />
+<col style="width: 33%" />
+<col style="width: 20%" />
+<col style="width: 27%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th rowspan="3"><blockquote>
+<p>1. TYÖSUHTEEN OSAPUOLET</p>
+</blockquote></th>
+<th colspan="2"><blockquote>
+<p>Työnantaja</p>
+</blockquote></th>
+<th><blockquote>
+<p>Liike- tai kotipaikka</p>
+</blockquote></th>
+</tr>
+<tr class="odd">
+<th colspan="2"><blockquote>
+<p>Työntekijä</p>
+</blockquote></th>
+<th><blockquote>
+<p>Henkilötunnus</p>
+</blockquote></th>
+</tr>
+<tr class="header">
+<th colspan="3"><blockquote>
+<p>Yllä mainittu työntekijä sitoutuu korvausta vastaan tekemään yllä
+mainitun työnantajan hänelle osoittamaa työtä tämän johdon ja valvonnan
+alaisena sekä seuraavin ehdoin:</p>
+</blockquote></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td rowspan="2"><blockquote>
+<p>2. TYÖSOPIMUKSEN VOIMASSAOLO</p>
+</blockquote></td>
+<td colspan="3"><blockquote>
+<p>Työsuhteen alussa on kuukauden koeaika.</p>
+<p>Koeaika kaksitoista kuukautta lyhyemmässä työsuhteessa on enintään
+puolet työsopimuksen kestoajasta, jolloin koeajan viimeinen päivä on
+.</p>
+</blockquote></td>
+</tr>
+<tr class="even">
+<td><blockquote>
+<p>toistaiseksi voimassa oleva työsuhde Työsuhde kestää toistaiseksi ja
+sen alkamis- päivämäärä on</p>
+</blockquote></td>
+<td colspan="2"><blockquote>
+<p>määräaikainen työsuhde</p>
+<p>Määräaikaisen työsuhteen alkamispäivämäärä on</p>
+<p>ja kesto saakka.</p>
+<p>Määräaikaisen työsuhteen peruste:</p>
+<p>tai kunnes seuraava yksilöity työtehtävä on suoritettu</p>
+<p>ja sen arvioitu kesto on saakka.</p>
+</blockquote></td>
+</tr>
+<tr class="odd">
+<td><blockquote>
+<p>3. TYÖAIKA</p>
+</blockquote></td>
+<td colspan="3"><blockquote>
+<p>Työaika on keskimäärin 37,5 tuntia viikossa.</p>
+<p>alle 37,5 tuntia viikossa, jolloin keskimääräinen viikkotyöaika on
+tuntia.</p>
+<p>Työntekijä suostuu tekemään lisätyötä laissa säädetyin edellytyksin,
+jolloin siitä maksetaan työehtosopimuksen mukainen korvaus.</p>
+<p>Työntekijä suostuu tekemään tarvittaessa sunnuntaityötä ei suostu
+tekemään sunnuntaityötä</p>
+<p>Sunnuntaityöstä maksetaan työehtosopimuksen mukainen korvaus.</p>
+</blockquote></td>
+</tr>
+<tr class="even">
+<td><blockquote>
+<p>4. TYÖTEHTÄVÄT</p>
+</blockquote></td>
+<td colspan="3"><blockquote>
+<p>Työntekijän työtehtävät (esim. myyjä, logistiikkatyöntekijä,
+toimihenkilö):</p>
+</blockquote></td>
+</tr>
+<tr class="odd">
+<td><blockquote>
+<p>5. PALKKAUS</p>
+</blockquote></td>
+<td colspan="3"><blockquote>
+<p>Työsuhteen alussa työntekijän palkka määräytyy seuraavasti:</p>
+<p>Palkkaryhmä ja alallaolovuodet:</p>
+<p>Palkan määrä kuukaudessa tai tunnissa:</p>
+</blockquote></td>
+</tr>
+<tr class="even">
+<td><blockquote>
+<p>6. VUOSILOMA</p>
+</blockquote></td>
+<td colspan="3"><blockquote>
+<p>Vuosiloma määräytyy vuosilomalain ja noudatettavan työehtosopimuksen
+mukaan.</p>
+</blockquote></td>
+</tr>
+<tr class="odd">
+<td><blockquote>
+<p>7. IRTISANOMISAIKA</p>
+</blockquote></td>
+<td colspan="3"><blockquote>
+<p>Irtisanomisaika määräytyy noudatettavan työehtosopimuksen mukaan.</p>
+</blockquote></td>
+</tr>
+<tr class="even">
+<td><blockquote>
+<p>8. TYÖEHTOSOPIMUS</p>
+</blockquote></td>
+<td colspan="3"><blockquote>
+<p>Työsuhteessa noudatetaan työnantajaa sitovaa työehtosopimusta,
+voimassa olevia lakeja ja asetuksia sekä yrityksen sisäisiä ohjeita ja
+sääntöjä. Sairausajan palkkaa, vuosilomaa ja työaikaa koskevien
+määräysten osalta noudatetaan työehtosopimuksen voimassaoloajan</p>
+<p>päätyttyä ja ennen uuden työehtosopimuksen voimaanastumista
+päättyneen sopimuksen määräyksiä.</p>
+</blockquote></td>
+</tr>
+<tr class="odd">
+<td><blockquote>
+<p>9. MUUT EHDOT</p>
+</blockquote></td>
+<td colspan="3"></td>
+</tr>
+<tr class="even">
+<td><blockquote>
+<p>10. PÄIVÄYS JA ALLEKIRJOITUS</p>
+</blockquote></td>
+<td colspan="3"><blockquote>
+<p>Tätä sopimusta on tehty kaksi yhtäpitävää kappaletta, joista yksi
+annetaan työntekijälle ja yksi jää työnantajalle. Paikka Aika</p>
+<p>Työnantajan allekirjoitus Työntekijän allekirjoitus</p>
+<p>Nimen selvennys Nimen selvennys</p>
+</blockquote></td>
+</tr>
+</tbody>
+</table>
 
 > SELVITYS:
 >
@@ -7278,7 +7801,7 @@ Viikko 1 2 3 4 5 6 Työtuntien määrä
 > sisältyvää 30 kalenteripäivää kohden. Työnantajan on ilmoitettava
 > työntekijälle koeajan pidentämisestä ennen koeajan päättymistä.
 
-12. kuukautta lyhyemmässä määräaikaisessa työsuhteessa koeaika saa
+1.  kuukautta lyhyemmässä määräaikaisessa työsuhteessa koeaika saa
     pidennyksi- neen olla enintään puolet työsopimuksen kestoajasta.
 
 #### Toistaiseksi voimassa oleva työsopimus
@@ -7334,8 +7857,8 @@ Viikko 1 2 3 4 5 6 Työtuntien määrä
 > Palkkaus määräytyy noudatettavan työehtosopimuksen mukaisesti. Tästä
 > syystä tulee todeta palkan määräytymisperuste ja palkan määrä
 > työsuhteen alkaessa, esim. myyjän osalta B1 (1.1.2024 alkaen B) 3.
-> vuotena, tai toimihenkilön osalta C1 (1.1.2024 alkaen "vaativa
-> ammattitehtävä") 5. vuotena.
+> vuotena, tai toimihenkilön osalta C1 (1.1.2024 alkaen “vaativa
+> ammattitehtävä”) 5. vuotena.
 >
 > Mikäli yrityksessä on käytössä työehtosopimuksesta poikkeava
 > palkkausjärjes- telmä, käytetään palkkauksen määrittelyn osalta
@@ -7371,9 +7894,9 @@ Viikko 1 2 3 4 5 6 Työtuntien määrä
 > mitenkään niihin edellytyksiin, joilla työnantaja voi yksipuolisesti
 > muuttaa työsopimuksen ehtoja..
 >
-> Palkkaliite 1.6.2023--31.1.2025
+> Palkkaliite 1.6.2023–31.1.2025
 
-# PALKKALIITE 1.6.2023--31.1.2025
+# PALKKALIITE 1.6.2023–31.1.2025
 
 ### Vuosiportaat
 
@@ -7597,14 +8120,33 @@ Viikko 1 2 3 4 5 6 Työtuntien määrä
 >
 > A B
 
-+----------------------------+--------------------+--------------------+
-| > VAATIVA AMMATTITEHTÄVÄ   | > ERITYISAMMATTI-  | > ASIANTUNTIJA-    |
-|                            | > TEHTÄVÄ          | > TEHTÄVÄ          |
-+============================+====================+====================+
-| > Toimihenkilö C           |                    |                    |
-| > Toimihenkilö D           |                    |                    |
-| > Toimihenkilö E           |                    |                    |
-+----------------------------+--------------------+--------------------+
+<table>
+<colgroup>
+<col style="width: 41%" />
+<col style="width: 29%" />
+<col style="width: 29%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><blockquote>
+<p>VAATIVA AMMATTITEHTÄVÄ</p>
+</blockquote></th>
+<th><blockquote>
+<p>ERITYISAMMATTI- TEHTÄVÄ</p>
+</blockquote></th>
+<th><blockquote>
+<p>ASIANTUNTIJA- TEHTÄVÄ</p>
+</blockquote></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td colspan="3"><blockquote>
+<p>Toimihenkilö C Toimihenkilö D Toimihenkilö E</p>
+</blockquote></td>
+</tr>
+</tbody>
+</table>
 
 > Tehtävässä edellytetään ammatillista erityis- osaamista, joka voidaan
 > hankkia tyypillisesti ammatillisen koulutuksen tai vastaavan
@@ -7697,15 +8239,32 @@ Viikko 1 2 3 4 5 6 Työtuntien määrä
 >
 > Somistaja II C1
 
-##### Palkkaryhmät 1.1.2024--31.5.2024 (A, B1, B2, C1, C2 ja D)
+##### Palkkaryhmät 1.1.2024–31.5.2024 (A, B1, B2, C1, C2 ja D)
 
 > ja 1.6.2024 alkaen (A, B, C ja D)
 
-+-----------------------------------+----------------+----------------+
-| > TES-nimike                      | > Palkkaryhmä  | > Palkkaryhmä  |
-|                                   | > 1.1.2024     | > 1.6.2024     |
-+===================================+================+================+
-+-----------------------------------+----------------+----------------+
+<table style="width:100%;">
+<colgroup>
+<col style="width: 51%" />
+<col style="width: 24%" />
+<col style="width: 24%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><blockquote>
+<p>TES-nimike</p>
+</blockquote></th>
+<th><blockquote>
+<p>Palkkaryhmä 1.1.2024</p>
+</blockquote></th>
+<th><blockquote>
+<p>Palkkaryhmä 1.6.2024</p>
+</blockquote></th>
+</tr>
+</thead>
+<tbody>
+</tbody>
+</table>
 
 > Myyjä I B1 B
 >
@@ -7750,44 +8309,77 @@ Viikko 1 2 3 4 5 6 Työtuntien määrä
 ##### Huolto- ja liikenneasemien ravintolaesihenkilöiden palkkaryhmät
 
 > Huolto- ja liikenneasemien ravintolaesihenkilöiden palkkaryhmät ennen
-> 1.4.2018 määräytyivät 1.2.2017--31.1.2018 voimassa olleen Kaupan
+> 1.4.2018 määräytyivät 1.2.2017–31.1.2018 voimassa olleen Kaupan
 > työehtosopimuksen mukaan.
 
-+--------------------+-------------------------------------------------+
-| > Palkkaryhmä 1:   | > vuoropäällikkö                                |
-|                    | >                                               |
-|                    | > Kahvilat, pikaruokaravintolat sekä            |
-|                    | > ravintolat, joissa ei anniskella lainkaan tai |
-|                    | > anniskellaan enintään 5,5 tilavuusprosenttia  |
-|                    | > etyylialkoholia sisältäviä alkoholijuomia.    |
-+====================+=================================================+
-| > Palkkaryhmä 2:   | > kerroshoito- ja siivouspäällikkö,             |
-|                    | > baarimestari                                  |
-+--------------------+-------------------------------------------------+
-| > Palkkaryhmä 3:   | > vuoropäällikkö ja -mestari, hovimestari,      |
-|                    | > vastaanottopäällikkö                          |
-|                    | >                                               |
-|                    | > Anniskelupaikoissa, joissa anniskellaan yli   |
-|                    | > 5,5 tilavuusprosenttia etyylialkoholia        |
-|                    | > sisältäviä alkoholijuomia.                    |
-+--------------------+-------------------------------------------------+
-| > Palkkaryhmä 4:   | > kahvilan päällikkö, henkilöstöravintolan      |
-|                    | > päällikkö                                     |
-|                    | >                                               |
-|                    | > Kahvilat, pikaruokaravintolat sekä            |
-|                    | > ravintolat, joissa ei anniskella lainkaan tai |
-|                    | > anniskellaan enintään 5,5, tilavuusprosenttia |
-|                    | > etyylialkoholia sisältäviä alkoholijuomia.    |
-+--------------------+-------------------------------------------------+
-| > Palkkaryhmä 5:   | > keittiömestari                                |
-+--------------------+-------------------------------------------------+
-| > Palkkaryhmä 6:   | > ravintolapäällikkö, anniskeluravintolan       |
-|                    | > luvanhaltijan edustaja                        |
-|                    | >                                               |
-|                    | > Anniskelupaikat, joissa anniskellaan yli 5,5  |
-|                    | > tilavuusprosenttia etyylialkoholia sisältäviä |
-|                    | > alkoholijuomia.                               |
-+--------------------+-------------------------------------------------+
+<table>
+<colgroup>
+<col style="width: 30%" />
+<col style="width: 69%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><blockquote>
+<p>Palkkaryhmä 1:</p>
+</blockquote></th>
+<th><blockquote>
+<p>vuoropäällikkö</p>
+<p>Kahvilat, pikaruokaravintolat sekä ravintolat, joissa ei anniskella
+lainkaan tai anniskellaan enintään 5,5 tilavuusprosenttia
+etyylialkoholia sisältäviä alkoholijuomia.</p>
+</blockquote></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><blockquote>
+<p>Palkkaryhmä 2:</p>
+</blockquote></td>
+<td><blockquote>
+<p>kerroshoito- ja siivouspäällikkö, baarimestari</p>
+</blockquote></td>
+</tr>
+<tr class="even">
+<td><blockquote>
+<p>Palkkaryhmä 3:</p>
+</blockquote></td>
+<td><blockquote>
+<p>vuoropäällikkö ja -mestari, hovimestari, vastaanottopäällikkö</p>
+<p>Anniskelupaikoissa, joissa anniskellaan yli 5,5 tilavuusprosenttia
+etyylialkoholia sisältäviä alkoholijuomia.</p>
+</blockquote></td>
+</tr>
+<tr class="odd">
+<td><blockquote>
+<p>Palkkaryhmä 4:</p>
+</blockquote></td>
+<td><blockquote>
+<p>kahvilan päällikkö, henkilöstöravintolan päällikkö</p>
+<p>Kahvilat, pikaruokaravintolat sekä ravintolat, joissa ei anniskella
+lainkaan tai anniskellaan enintään 5,5, tilavuusprosenttia
+etyylialkoholia sisältäviä alkoholijuomia.</p>
+</blockquote></td>
+</tr>
+<tr class="even">
+<td><blockquote>
+<p>Palkkaryhmä 5:</p>
+</blockquote></td>
+<td><blockquote>
+<p>keittiömestari</p>
+</blockquote></td>
+</tr>
+<tr class="odd">
+<td><blockquote>
+<p>Palkkaryhmä 6:</p>
+</blockquote></td>
+<td><blockquote>
+<p>ravintolapäällikkö, anniskeluravintolan luvanhaltijan edustaja</p>
+<p>Anniskelupaikat, joissa anniskellaan yli 5,5 tilavuusprosenttia
+etyylialkoholia sisältäviä alkoholijuomia.</p>
+</blockquote></td>
+</tr>
+</tbody>
+</table>
 
 > Esihenkilön palkkaryhmittelyä sovellettaessa edellytetään henkilön
 > toimivan esi- henkilönä. Palkkaryhmää harkittaessa on ratkaisevaa työ,
@@ -7823,9 +8415,9 @@ Viikko 1 2 3 4 5 6 Työtuntien määrä
     toteaa konsultaation päättyneeksi.
 
 3.  Tämä pöytäkirja korvaa palvelusaikaa ja koulutusta koskevat TES 11
-    §:n
+    > §:n
 
-> 2.--4. kohdat.
+> 2.–4. kohdat.
 
 4.  Henkilökohtaista palkanosaa käytettäessä työntekijän tehtäväpalkka
     mää- räytyy työehtosopimuksen kulloinkin voimassa olevan
@@ -7840,11 +8432,11 @@ Viikko 1 2 3 4 5 6 Työtuntien määrä
 6.  Osana sopimista on suositeltavaa käsitellä lisäksi esimerkiksi
     seuraavia asioita:
 
-    -   mahdolliset siirtymäajat henkilökohtaisten palkanosien
-        > voimaantuloon
+    - mahdolliset siirtymäajat henkilökohtaisten palkanosien
+      voimaantuloon
 
-    -   mahdolliset osaamisen ja suoriutumisen tasot, jotka ylittävät
-        > tason 4.
+    - mahdolliset osaamisen ja suoriutumisen tasot, jotka ylittävät
+      tason 4.
 
 ##### Osaamisen ja suoriutumisen arviointimalli ja palkkakytkentä
 
@@ -7881,7 +8473,7 @@ Työote 1 piste 2 pistettä 3 pistettä 4 pistettä
 
 > Poikkeuksellinen, odotukset merkit- tävästi ylittävä
 >
-> 15--16 pistettä 16 %
+> 15–16 pistettä 16 %
 >
 > Henkilökohtaisen palkanosan toimiva käyttö edellyttää sitä, että
 > arviointias- teikko on kattavasti käytössä suhteessa henkilöstön
@@ -7916,20 +8508,39 @@ Työote 1 piste 2 pistettä 3 pistettä 4 pistettä
 >
 > leen palkkataulukon mukaisesti seuraavasti:
 
-+-----------------+---------------+---------------+-------------------+
-| > **Osaamisen   | >             | > **Hen       | > **Työntekijän   |
-| > ja            |  **Arvioinnin | kilökohtaisen | > palkkarakenteen |
-| > suoriutumisen | > kokonais-   | > palkanosan  | > mukainen palkka |
-| >               | >             | > suuruus**   | > yhteensä**      |
-| kokonaisarvio** |  pistemäärä** |               |                   |
-+=================+===============+===============+===================+
-+-----------------+---------------+---------------+-------------------+
+<table>
+<colgroup>
+<col style="width: 25%" />
+<col style="width: 23%" />
+<col style="width: 23%" />
+<col style="width: 28%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><blockquote>
+<p><strong>Osaamisen ja suoriutumisen kokonaisarvio</strong></p>
+</blockquote></th>
+<th><blockquote>
+<p><strong>Arvioinnin kokonais- pistemäärä</strong></p>
+</blockquote></th>
+<th><blockquote>
+<p><strong>Henkilökohtaisen palkanosan suuruus</strong></p>
+</blockquote></th>
+<th><blockquote>
+<p><strong>Työntekijän palkkarakenteen mukainen palkka
+yhteensä</strong></p>
+</blockquote></th>
+</tr>
+</thead>
+<tbody>
+</tbody>
+</table>
 
 > **Taso 1**
 >
 > Tilaa kehittyä
 >
-> 4--6 pistettä 4 % = 0,50 €/h 12,62 €/h + 0,50 €/h
+> 4–6 pistettä 4 % = 0,50 €/h 12,62 €/h + 0,50 €/h
 >
 > = 13,12 €/h
 >
@@ -7937,7 +8548,7 @@ Työote 1 piste 2 pistettä 3 pistettä 4 pistettä
 >
 > Hyvä, odotuksia vastaava
 >
-> 7--10 pistettä 8 % = 1,01 €/h
+> 7–10 pistettä 8 % = 1,01 €/h
 >
 > 12,62 €/h + 1,01 €/h
 >
@@ -7945,7 +8556,7 @@ Työote 1 piste 2 pistettä 3 pistettä 4 pistettä
 >
 > **Taso 3** Erinomainen, odotukset ylittävä
 >
-> 11--14 pistettä 12 % = 1,51 €/h
+> 11–14 pistettä 12 % = 1,51 €/h
 >
 > 12,62 €/h + 1,51 €/h
 >
@@ -7953,7 +8564,7 @@ Työote 1 piste 2 pistettä 3 pistettä 4 pistettä
 >
 > **Taso 4** Poikkeuksellinen, odotukset merkit- tävästi ylittävä
 >
-> 15--16 pistettä 16 % = 2,02 €/h 12,62 €/h + 2,02 €/h
+> 15–16 pistettä 16 % = 2,02 €/h 12,62 €/h + 2,02 €/h
 >
 > = 14,64 €/h
 >
@@ -7967,20 +8578,19 @@ Työote 1 piste 2 pistettä 3 pistettä 4 pistettä
 > Henkilökohtaisen palkanosan järjestelmään siirryttä- essä hänen
 > palkkansa muodostuu seuraavasti:
 
--   Tehtäväkohtainen palkka 12,62 €/h (1.6.2023 voimaan tulleen
-    Helsinki, Espoo, Kauniainen, Vantaa -taulukon B1-palkkaryhmän 1.
-    vuosi)
+- Tehtäväkohtainen palkka 12,62 €/h (1.6.2023 voimaan tulleen Helsinki,
+  Espoo, Kauniainen, Vantaa -taulukon B1-palkkaryhmän 1. vuosi)
 
--   Henkilökohtainen palkanosa, taso 2 (hyvä, odotuksia vastaava), 8 %
-    teh- täväkohtaisesta palkasta = 12,62 €/h \* 8 % = 1,01 €/h
+- Henkilökohtainen palkanosa, taso 2 (hyvä, odotuksia vastaava), 8 %
+  teh- täväkohtaisesta palkasta = 12,62 €/h \* 8 % = 1,01 €/h
 
--   Palkkarakenteen mukainen palkka on yhteensä 12,62 €/h + 1,01 €/h =
-    13,63 €/h
+- Palkkarakenteen mukainen palkka on yhteensä 12,62 €/h + 1,01 €/h =
+  13,63 €/h
 
--   Koska aiempi palkka 13,70 €/h on suurempi kuin tehtäväpalkka ja
-    henki- lökohtainen palkanosa yhteensä, muodostetaan erotuksesta
-    13,70 €/h -- 13,63 €/h = 0,07 €/h suuruinen siirtolisä. Työntekijän
-    palkka on yhteensä 12,62 €/h + 1,01 €/h + 0,07 €/h = 13,70 €/h.
+- Koska aiempi palkka 13,70 €/h on suurempi kuin tehtäväpalkka ja henki-
+  lökohtainen palkanosa yhteensä, muodostetaan erotuksesta 13,70 €/h –
+  13,63 €/h = 0,07 €/h suuruinen siirtolisä. Työntekijän palkka on
+  yhteensä 12,62 €/h + 1,01 €/h + 0,07 €/h = 13,70 €/h.
 
 > Esimerkki 65
 >
@@ -8073,340 +8683,1429 @@ Työote 1 piste 2 pistettä 3 pistettä 4 pistettä
     tai työryhmällä on oikeus saada kaikki asian selvittämisen kannalta
     tarpeelliset tiedot.
 
-## Taulukkopalkat 1.6.2023--31.5.2024
+## Taulukkopalkat 1.6.2023–31.5.2024
 
-### Taulukkopalkat 1.6.2023--31.5.2024
+### Taulukkopalkat 1.6.2023–31.5.2024
 
-> Tätä edeltävät taulukkopalkat ovat olleet voimassa
-> 1.5.2022--31.5.2023.
+> Tätä edeltävät taulukkopalkat ovat olleet voimassa 1.5.2022–31.5.2023.
 
-##### Kaupan työntekijöiden kuukausi- ja tuntipalkat 1.6.2023--31.5.2024
+##### Kaupan työntekijöiden kuukausi- ja tuntipalkat 1.6.2023–31.5.2024
 
-+----------+------+------+------+------+------+------+------+------+
-| >        |      |      |      |      |      |      |      |      |
-|  **TYÖNT |      |      |      |      |      |      |      |      |
-| EKIJÄT** |      |      |      |      |      |      |      |      |
-+==========+======+======+======+======+======+======+======+======+
-| > H      | >    |      | >    |      | >    |      | >    |      |
-| elsinki, |  1\. |      |  3\. |      |  5\. |      |  8\. |      |
-| > Espoo, | >    |      | >    |      | >    |      | >    |      |
-| > Kau    |  vuo |      |  vuo |      |  vuo |      |  vuo |      |
-| niainen, | tena |      | tena |      | tena |      | tena |      |
-| > Vantaa |      |      |      |      |      |      |      |      |
-+----------+------+------+------+------+------+------+------+------+
-| > **A**  | >    | > 1  | >    | > 1  | >    | > 1  | >    | > 1  |
-|          | 1913 | 1,96 | 1982 | 2,39 | 2088 | 3,05 | 2189 | 3,68 |
-+----------+------+------+------+------+------+------+------+------+
-| > **B1** | >    | > 1  | >    | > 1  | >    | > 1  | >    | > 1  |
-|          | 2019 | 2,62 | 2091 | 3,07 | 2207 | 3,79 | 2306 | 4,41 |
-+----------+------+------+------+------+------+------+------+------+
-| > **B2** | >    | > 1  | >    | > 1  | >    | > 1  | >    | > 1  |
-|          | 2029 | 2,68 | 2105 | 3,16 | 2223 | 3,89 | 2322 | 4,51 |
-+----------+------+------+------+------+------+------+------+------+
-| > **C1** | >    | > 1  | >    | > 1  | >    | > 1  | >    | > 1  |
-|          | 2159 | 3,49 | 2235 | 3,97 | 2380 | 4,88 | 2491 | 5,57 |
-+----------+------+------+------+------+------+------+------+------+
-| > **C2** | >    | > 1  | >    | > 1  | >    | > 1  | >    | > 1  |
-|          | 2167 | 3,54 | 2245 | 4,03 | 2395 | 4,97 | 2510 | 5,69 |
-+----------+------+------+------+------+------+------+------+------+
-| > **D**  | >    | > 1  | >    | > 1  | >    | > 1  | >    | > 1  |
-|          | 2281 | 4,26 | 2367 | 4,79 | 2526 | 5,79 | 2718 | 6,99 |
-+----------+------+------+------+------+------+------+------+------+
+<table style="width:100%;">
+<colgroup>
+<col style="width: 15%" />
+<col style="width: 10%" />
+<col style="width: 10%" />
+<col style="width: 10%" />
+<col style="width: 10%" />
+<col style="width: 10%" />
+<col style="width: 10%" />
+<col style="width: 10%" />
+<col style="width: 10%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th colspan="9"><blockquote>
+<p><strong>TYÖNTEKIJÄT</strong></p>
+</blockquote></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><blockquote>
+<p>Helsinki, Espoo, Kauniainen, Vantaa</p>
+</blockquote></td>
+<td colspan="2"><blockquote>
+<p>1. vuotena</p>
+</blockquote></td>
+<td colspan="2"><blockquote>
+<p>3. vuotena</p>
+</blockquote></td>
+<td colspan="2"><blockquote>
+<p>5. vuotena</p>
+</blockquote></td>
+<td colspan="2"><blockquote>
+<p>8. vuotena</p>
+</blockquote></td>
+</tr>
+<tr class="even">
+<td><blockquote>
+<p><strong>A</strong></p>
+</blockquote></td>
+<td><blockquote>
+<p>1913</p>
+</blockquote></td>
+<td><blockquote>
+<p>11,96</p>
+</blockquote></td>
+<td><blockquote>
+<p>1982</p>
+</blockquote></td>
+<td><blockquote>
+<p>12,39</p>
+</blockquote></td>
+<td><blockquote>
+<p>2088</p>
+</blockquote></td>
+<td><blockquote>
+<p>13,05</p>
+</blockquote></td>
+<td><blockquote>
+<p>2189</p>
+</blockquote></td>
+<td><blockquote>
+<p>13,68</p>
+</blockquote></td>
+</tr>
+<tr class="odd">
+<td><blockquote>
+<p><strong>B1</strong></p>
+</blockquote></td>
+<td><blockquote>
+<p>2019</p>
+</blockquote></td>
+<td><blockquote>
+<p>12,62</p>
+</blockquote></td>
+<td><blockquote>
+<p>2091</p>
+</blockquote></td>
+<td><blockquote>
+<p>13,07</p>
+</blockquote></td>
+<td><blockquote>
+<p>2207</p>
+</blockquote></td>
+<td><blockquote>
+<p>13,79</p>
+</blockquote></td>
+<td><blockquote>
+<p>2306</p>
+</blockquote></td>
+<td><blockquote>
+<p>14,41</p>
+</blockquote></td>
+</tr>
+<tr class="even">
+<td><blockquote>
+<p><strong>B2</strong></p>
+</blockquote></td>
+<td><blockquote>
+<p>2029</p>
+</blockquote></td>
+<td><blockquote>
+<p>12,68</p>
+</blockquote></td>
+<td><blockquote>
+<p>2105</p>
+</blockquote></td>
+<td><blockquote>
+<p>13,16</p>
+</blockquote></td>
+<td><blockquote>
+<p>2223</p>
+</blockquote></td>
+<td><blockquote>
+<p>13,89</p>
+</blockquote></td>
+<td><blockquote>
+<p>2322</p>
+</blockquote></td>
+<td><blockquote>
+<p>14,51</p>
+</blockquote></td>
+</tr>
+<tr class="odd">
+<td><blockquote>
+<p><strong>C1</strong></p>
+</blockquote></td>
+<td><blockquote>
+<p>2159</p>
+</blockquote></td>
+<td><blockquote>
+<p>13,49</p>
+</blockquote></td>
+<td><blockquote>
+<p>2235</p>
+</blockquote></td>
+<td><blockquote>
+<p>13,97</p>
+</blockquote></td>
+<td><blockquote>
+<p>2380</p>
+</blockquote></td>
+<td><blockquote>
+<p>14,88</p>
+</blockquote></td>
+<td><blockquote>
+<p>2491</p>
+</blockquote></td>
+<td><blockquote>
+<p>15,57</p>
+</blockquote></td>
+</tr>
+<tr class="even">
+<td><blockquote>
+<p><strong>C2</strong></p>
+</blockquote></td>
+<td><blockquote>
+<p>2167</p>
+</blockquote></td>
+<td><blockquote>
+<p>13,54</p>
+</blockquote></td>
+<td><blockquote>
+<p>2245</p>
+</blockquote></td>
+<td><blockquote>
+<p>14,03</p>
+</blockquote></td>
+<td><blockquote>
+<p>2395</p>
+</blockquote></td>
+<td><blockquote>
+<p>14,97</p>
+</blockquote></td>
+<td><blockquote>
+<p>2510</p>
+</blockquote></td>
+<td><blockquote>
+<p>15,69</p>
+</blockquote></td>
+</tr>
+<tr class="odd">
+<td><blockquote>
+<p><strong>D</strong></p>
+</blockquote></td>
+<td><blockquote>
+<p>2281</p>
+</blockquote></td>
+<td><blockquote>
+<p>14,26</p>
+</blockquote></td>
+<td><blockquote>
+<p>2367</p>
+</blockquote></td>
+<td><blockquote>
+<p>14,79</p>
+</blockquote></td>
+<td><blockquote>
+<p>2526</p>
+</blockquote></td>
+<td><blockquote>
+<p>15,79</p>
+</blockquote></td>
+<td><blockquote>
+<p>2718</p>
+</blockquote></td>
+<td><blockquote>
+<p>16,99</p>
+</blockquote></td>
+</tr>
+</tbody>
+</table>
 
-+----------+------+------+------+------+------+------+------+------+
-| > Muu    | >    |      | >    |      | >    |      | >    |      |
-| > Suomi  |  1\. |      |  3\. |      |  5\. |      |  8\. |      |
-|          | >    |      | >    |      | >    |      | >    |      |
-|          |  vuo |      |  vuo |      |  vuo |      |  vuo |      |
-|          | tena |      | tena |      | tena |      | tena |      |
-+==========+======+======+======+======+======+======+======+======+
-| > **A**  | >    | > 1  | >    | > 1  | >    | > 1  | >    | > 1  |
-|          | 1838 | 1,49 | 1902 | 1,89 | 1999 | 2,49 | 2090 | 3,06 |
-+----------+------+------+------+------+------+------+------+------+
-| > **B1** | >    | > 1  | >    | > 1  | >    | > 1  | >    | > 1  |
-|          | 1939 | 2,12 | 2009 | 2,56 | 2114 | 3,21 | 2202 | 3,76 |
-+----------+------+------+------+------+------+------+------+------+
-| > **B2** | >    | > 1  | >    | > 1  | >    | > 1  | >    | > 1  |
-|          | 1950 | 2,19 | 2024 | 2,65 | 2126 | 3,29 | 2218 | 3,86 |
-+----------+------+------+------+------+------+------+------+------+
-| > **C1** | >    | > 1  | >    | > 1  | >    | > 1  | >    | > 1  |
-|          | 2068 | 2,93 | 2141 | 3,38 | 2270 | 4,19 | 2371 | 4,82 |
-+----------+------+------+------+------+------+------+------+------+
-| > **C2** | >    | > 1  | >    | > 1  | >    | > 1  | >    | > 1  |
-|          | 2074 | 2,96 | 2148 | 3,43 | 2282 | 4,26 | 2387 | 4,92 |
-+----------+------+------+------+------+------+------+------+------+
-| > **D**  | >    | > 1  | >    | > 1  | >    | > 1  | >    | > 1  |
-|          | 2185 | 3,66 | 2288 | 4,30 | 2406 | 5,04 | 2576 | 6,10 |
-+----------+------+------+------+------+------+------+------+------+
+<table style="width:100%;">
+<colgroup>
+<col style="width: 15%" />
+<col style="width: 10%" />
+<col style="width: 10%" />
+<col style="width: 10%" />
+<col style="width: 10%" />
+<col style="width: 10%" />
+<col style="width: 10%" />
+<col style="width: 10%" />
+<col style="width: 10%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><blockquote>
+<p>Muu Suomi</p>
+</blockquote></th>
+<th colspan="2"><blockquote>
+<p>1. vuotena</p>
+</blockquote></th>
+<th colspan="2"><blockquote>
+<p>3. vuotena</p>
+</blockquote></th>
+<th colspan="2"><blockquote>
+<p>5. vuotena</p>
+</blockquote></th>
+<th colspan="2"><blockquote>
+<p>8. vuotena</p>
+</blockquote></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><blockquote>
+<p><strong>A</strong></p>
+</blockquote></td>
+<td><blockquote>
+<p>1838</p>
+</blockquote></td>
+<td><blockquote>
+<p>11,49</p>
+</blockquote></td>
+<td><blockquote>
+<p>1902</p>
+</blockquote></td>
+<td><blockquote>
+<p>11,89</p>
+</blockquote></td>
+<td><blockquote>
+<p>1999</p>
+</blockquote></td>
+<td><blockquote>
+<p>12,49</p>
+</blockquote></td>
+<td><blockquote>
+<p>2090</p>
+</blockquote></td>
+<td><blockquote>
+<p>13,06</p>
+</blockquote></td>
+</tr>
+<tr class="even">
+<td><blockquote>
+<p><strong>B1</strong></p>
+</blockquote></td>
+<td><blockquote>
+<p>1939</p>
+</blockquote></td>
+<td><blockquote>
+<p>12,12</p>
+</blockquote></td>
+<td><blockquote>
+<p>2009</p>
+</blockquote></td>
+<td><blockquote>
+<p>12,56</p>
+</blockquote></td>
+<td><blockquote>
+<p>2114</p>
+</blockquote></td>
+<td><blockquote>
+<p>13,21</p>
+</blockquote></td>
+<td><blockquote>
+<p>2202</p>
+</blockquote></td>
+<td><blockquote>
+<p>13,76</p>
+</blockquote></td>
+</tr>
+<tr class="odd">
+<td><blockquote>
+<p><strong>B2</strong></p>
+</blockquote></td>
+<td><blockquote>
+<p>1950</p>
+</blockquote></td>
+<td><blockquote>
+<p>12,19</p>
+</blockquote></td>
+<td><blockquote>
+<p>2024</p>
+</blockquote></td>
+<td><blockquote>
+<p>12,65</p>
+</blockquote></td>
+<td><blockquote>
+<p>2126</p>
+</blockquote></td>
+<td><blockquote>
+<p>13,29</p>
+</blockquote></td>
+<td><blockquote>
+<p>2218</p>
+</blockquote></td>
+<td><blockquote>
+<p>13,86</p>
+</blockquote></td>
+</tr>
+<tr class="even">
+<td><blockquote>
+<p><strong>C1</strong></p>
+</blockquote></td>
+<td><blockquote>
+<p>2068</p>
+</blockquote></td>
+<td><blockquote>
+<p>12,93</p>
+</blockquote></td>
+<td><blockquote>
+<p>2141</p>
+</blockquote></td>
+<td><blockquote>
+<p>13,38</p>
+</blockquote></td>
+<td><blockquote>
+<p>2270</p>
+</blockquote></td>
+<td><blockquote>
+<p>14,19</p>
+</blockquote></td>
+<td><blockquote>
+<p>2371</p>
+</blockquote></td>
+<td><blockquote>
+<p>14,82</p>
+</blockquote></td>
+</tr>
+<tr class="odd">
+<td><blockquote>
+<p><strong>C2</strong></p>
+</blockquote></td>
+<td><blockquote>
+<p>2074</p>
+</blockquote></td>
+<td><blockquote>
+<p>12,96</p>
+</blockquote></td>
+<td><blockquote>
+<p>2148</p>
+</blockquote></td>
+<td><blockquote>
+<p>13,43</p>
+</blockquote></td>
+<td><blockquote>
+<p>2282</p>
+</blockquote></td>
+<td><blockquote>
+<p>14,26</p>
+</blockquote></td>
+<td><blockquote>
+<p>2387</p>
+</blockquote></td>
+<td><blockquote>
+<p>14,92</p>
+</blockquote></td>
+</tr>
+<tr class="even">
+<td><blockquote>
+<p><strong>D</strong></p>
+</blockquote></td>
+<td><blockquote>
+<p>2185</p>
+</blockquote></td>
+<td><blockquote>
+<p>13,66</p>
+</blockquote></td>
+<td><blockquote>
+<p>2288</p>
+</blockquote></td>
+<td><blockquote>
+<p>14,30</p>
+</blockquote></td>
+<td><blockquote>
+<p>2406</p>
+</blockquote></td>
+<td><blockquote>
+<p>15,04</p>
+</blockquote></td>
+<td><blockquote>
+<p>2576</p>
+</blockquote></td>
+<td><blockquote>
+<p>16,10</p>
+</blockquote></td>
+</tr>
+</tbody>
+</table>
 
-> Tukkumyyjät II ja III 1.6.2023--31.5.2024
+> Tukkumyyjät II ja III 1.6.2023–31.5.2024
 
-+-----------+-------------+-------------+-------------+-------------+
-| > **TU    |             |             |             |             |
-| KKUMYYJÄT |             |             |             |             |
-| > II JA   |             |             |             |             |
-| > III**   |             |             |             |             |
-+===========+=============+=============+=============+=============+
-| >         | > 1\.       | > 3\.       | > 5\.       | > 8\.       |
-| Helsinki, | > vuotena   | > vuotena   | > vuotena   | > vuotena   |
-| > Espoo,  |             |             |             |             |
-| > Ka      |             |             |             |             |
-| uniainen, |             |             |             |             |
-| > Vantaa  |             |             |             |             |
-+-----------+-------------+-------------+-------------+-------------+
+<table>
+<colgroup>
+<col style="width: 16%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th colspan="5"><blockquote>
+<p><strong>TUKKUMYYJÄT II JA III</strong></p>
+</blockquote></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><blockquote>
+<p>Helsinki, Espoo, Kauniainen, Vantaa</p>
+</blockquote></td>
+<td><blockquote>
+<p>1. vuotena</p>
+</blockquote></td>
+<td><blockquote>
+<p>3. vuotena</p>
+</blockquote></td>
+<td><blockquote>
+<p>5. vuotena</p>
+</blockquote></td>
+<td><blockquote>
+<p>8. vuotena</p>
+</blockquote></td>
+</tr>
+</tbody>
+</table>
 
-+---------+-----------+-----------+-----------+-----------+---+----+
-| >       | > 2541    | > 2647    | > 2774    | > 2913    |   |    |
-|  **II** |           |           |           |           |   |    |
-+=========+===========+===========+===========+===========+===+====+
-| >       | > 2949    | > 3062    | > 3194    | > 3346    |   |    |
-| **III** |           |           |           |           |   |    |
-+---------+-----------+-----------+-----------+-----------+---+----+
-|         |           |           |           |           |   |    |
-+---------+-----------+-----------+-----------+-----------+---+----+
-|         |           |           |           |           |   | F  |
-+---------+-----------+-----------+-----------+-----------+---+----+
-| > Muu   | > 1\.     | > 3\.     | > 5\.     | > 8\.     |   |    |
-|         | > vuotena | > vuotena | > vuotena | > vuotena |   |    |
-+---------+-----------+-----------+-----------+-----------+---+----+
-| > Suomi |           |           |           |           |   |    |
-+---------+-----------+-----------+-----------+-----------+---+----+
-| >       | > 2393    | > 2498    | > 2616    | > 2750    |   | P  |
-|  **II** |           |           |           |           |   | al |
-|         |           |           |           |           |   | kk |
-+---------+-----------+-----------+-----------+-----------+---+----+
-| >       | > 2761    | > 2872    | > 2977    | > 3121    |   | >  |
-| **III** |           |           |           |           |   |  a |
-|         |           |           |           |           |   | li |
-|         |           |           |           |           |   | it |
-+---------+-----------+-----------+-----------+-----------+---+----+
+<table style="width:100%;">
+<colgroup>
+<col style="width: 14%" />
+<col style="width: 17%" />
+<col style="width: 17%" />
+<col style="width: 17%" />
+<col style="width: 17%" />
+<col style="width: 6%" />
+<col style="width: 7%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><blockquote>
+<p><strong>II</strong></p>
+</blockquote></th>
+<th><blockquote>
+<p>2541</p>
+</blockquote></th>
+<th><blockquote>
+<p>2647</p>
+</blockquote></th>
+<th><blockquote>
+<p>2774</p>
+</blockquote></th>
+<th><blockquote>
+<p>2913</p>
+</blockquote></th>
+<th colspan="2" rowspan="2"></th>
+</tr>
+<tr class="odd">
+<th><blockquote>
+<p><strong>III</strong></p>
+</blockquote></th>
+<th><blockquote>
+<p>2949</p>
+</blockquote></th>
+<th><blockquote>
+<p>3062</p>
+</blockquote></th>
+<th><blockquote>
+<p>3194</p>
+</blockquote></th>
+<th><blockquote>
+<p>3346</p>
+</blockquote></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>F</td>
+</tr>
+<tr class="odd">
+<td><blockquote>
+<p>Muu</p>
+</blockquote></td>
+<td><blockquote>
+<p>1. vuotena</p>
+</blockquote></td>
+<td><blockquote>
+<p>3. vuotena</p>
+</blockquote></td>
+<td><blockquote>
+<p>5. vuotena</p>
+</blockquote></td>
+<td><blockquote>
+<p>8. vuotena</p>
+</blockquote></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><blockquote>
+<p>Suomi</p>
+</blockquote></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><blockquote>
+<p><strong>II</strong></p>
+</blockquote></td>
+<td><blockquote>
+<p>2393</p>
+</blockquote></td>
+<td><blockquote>
+<p>2498</p>
+</blockquote></td>
+<td><blockquote>
+<p>2616</p>
+</blockquote></td>
+<td><blockquote>
+<p>2750</p>
+</blockquote></td>
+<td></td>
+<td>Palkk</td>
+</tr>
+<tr class="even">
+<td><blockquote>
+<p><strong>III</strong></p>
+</blockquote></td>
+<td><blockquote>
+<p>2761</p>
+</blockquote></td>
+<td><blockquote>
+<p>2872</p>
+</blockquote></td>
+<td><blockquote>
+<p>2977</p>
+</blockquote></td>
+<td><blockquote>
+<p>3121</p>
+</blockquote></td>
+<td></td>
+<td><blockquote>
+<p>aliit</p>
+</blockquote></td>
+</tr>
+</tbody>
+</table>
 
-+---------------------------------------------+------------------------+
-| > **ASENTAJAT JA HUOLTOMIEHET**             |                        |
-+=============================================+========================+
-| > Helsinki, Espoo, Kauniainen, Vantaa       | > 1994                 |
-+---------------------------------------------+------------------------+
-| > Muu Suomi                                 | > 1916                 |
-+---------------------------------------------+------------------------+
+<table>
+<colgroup>
+<col style="width: 64%" />
+<col style="width: 35%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><blockquote>
+<p><strong>ASENTAJAT JA HUOLTOMIEHET</strong></p>
+</blockquote></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><blockquote>
+<p>Helsinki, Espoo, Kauniainen, Vantaa</p>
+</blockquote></td>
+<td><blockquote>
+<p>1994</p>
+</blockquote></td>
+</tr>
+<tr class="even">
+<td><blockquote>
+<p>Muu Suomi</p>
+</blockquote></td>
+<td><blockquote>
+<p>1916</p>
+</blockquote></td>
+</tr>
+</tbody>
+</table>
 
-> Kaupan työehtosopimus 1.2.2023--31.1.2025 191
+> Kaupan työehtosopimus 1.2.2023–31.1.2025 191
 >
 > Huolto- ja liikenneasemien ravintolatyöntekijöiden kuukausi- ja
 > tuntipalkat 1.6.2023-31.5.2024
 
-+-------------------------+------+------+------+------+------+------+
-| > **HUOLTO- JA          |      |      |      |      |      |      |
-| > LIIKENNEASEMIEN       |      |      |      |      |      |      |
-| >                       |      |      |      |      |      |      |
-|  RAVINTOLATYÖNTEKIJÄT** |      |      |      |      |      |      |
-+=========================+======+======+======+======+======+======+
-|                         | >    |      | >    |      | >    |      |
-|                         |  1\. |      |  5\. |      |  8\. |      |
-|                         | >    |      | >    |      | >    |      |
-|                         |  vuo |      |  vuo |      |  vuo |      |
-|                         | tena |      | tena |      | tena |      |
-+-------------------------+------+------+------+------+------+------+
-| > Helsinki, Espoo, 2049 |      | > 1  | 2105 | 1    | >    | 1    |
-| >                       |      | 2,81 |      | 3,16 | 2206 | 3,79 |
-| > Kauniainen, Vantaa    |      |      |      |      |      |      |
-+-------------------------+------+------+------+------+------+------+
-| > Muu Suomi 2019        |      | > 1  | 2100 | 1    | >    | 1    |
-|                         |      | 2,62 |      | 3,13 | 2148 | 3,43 |
-+-------------------------+------+------+------+------+------+------+
+<table>
+<colgroup>
+<col style="width: 36%" />
+<col style="width: 10%" />
+<col style="width: 10%" />
+<col style="width: 10%" />
+<col style="width: 10%" />
+<col style="width: 10%" />
+<col style="width: 10%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th colspan="7"><blockquote>
+<p><strong>HUOLTO- JA LIIKENNEASEMIEN RAVINTOLATYÖNTEKIJÄT</strong></p>
+</blockquote></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td></td>
+<td colspan="2"><blockquote>
+<p>1. vuotena</p>
+</blockquote></td>
+<td colspan="2"><blockquote>
+<p>5. vuotena</p>
+</blockquote></td>
+<td colspan="2"><blockquote>
+<p>8. vuotena</p>
+</blockquote></td>
+</tr>
+<tr class="even">
+<td colspan="2"><blockquote>
+<p>Helsinki, Espoo, 2049</p>
+<p>Kauniainen, Vantaa</p>
+</blockquote></td>
+<td><blockquote>
+<p>12,81</p>
+</blockquote></td>
+<td>2105</td>
+<td>13,16</td>
+<td><blockquote>
+<p>2206</p>
+</blockquote></td>
+<td>13,79</td>
+</tr>
+<tr class="odd">
+<td colspan="2"><blockquote>
+<p>Muu Suomi 2019</p>
+</blockquote></td>
+<td><blockquote>
+<p>12,62</p>
+</blockquote></td>
+<td>2100</td>
+<td>13,13</td>
+<td><blockquote>
+<p>2148</p>
+</blockquote></td>
+<td>13,43</td>
+</tr>
+</tbody>
+</table>
 
 > Huolto- ja liikenneasemaravintola:
 >
-> luvanhaltijan edustajan sijaisen tuntipalkat 1.6.2023--31.5.2024
+> luvanhaltijan edustajan sijaisen tuntipalkat 1.6.2023–31.5.2024
 
-+----------------+----------------+----------------+-----------------+
-| > **HUOLTO- JA |                |                |                 |
-| > L            |                |                |                 |
-| IIKENNEASEMIEN |                |                |                 |
-| >              |                |                |                 |
-|  LUVANHALTIJAN |                |                |                 |
-| > EDUSTAJAN    |                |                |                 |
-| > SIJAISEN     |                |                |                 |
-| >              |                |                |                 |
-|  TUNTIPALKKA** |                |                |                 |
-+================+================+================+=================+
-| > 1\. vuotena  | > 3\. vuotena  | > 5\. vuotena  | > 8\. vuotena   |
-+----------------+----------------+----------------+-----------------+
+<table>
+<colgroup>
+<col style="width: 24%" />
+<col style="width: 24%" />
+<col style="width: 24%" />
+<col style="width: 25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th colspan="4"><blockquote>
+<p><strong>HUOLTO- JA LIIKENNEASEMIEN LUVANHALTIJAN EDUSTAJAN SIJAISEN
+TUNTIPALKKA</strong></p>
+</blockquote></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><blockquote>
+<p>1. vuotena</p>
+</blockquote></td>
+<td><blockquote>
+<p>3. vuotena</p>
+</blockquote></td>
+<td><blockquote>
+<p>5. vuotena</p>
+</blockquote></td>
+<td><blockquote>
+<p>8. vuotena</p>
+</blockquote></td>
+</tr>
+</tbody>
+</table>
 
 > 14,46 14,80 15,17 15,49
 >
 > Huolto- ja liikenneasemien ravintolaesihenkilöiden kuukausi- ja
-> tuntipalkat 1.6.2023--31.5.2024
+> tuntipalkat 1.6.2023–31.5.2024
 
-+---------+------+------+------+------+------+------+------+------+
-| > **    |      |      |      |      |      |      |      |      |
-| HUOLTO- |      |      |      |      |      |      |      |      |
-| > JA    |      |      |      |      |      |      |      |      |
-| > L     |      |      |      |      |      |      |      |      |
-| IIKENNE |      |      |      |      |      |      |      |      |
-| ASEMIEN |      |      |      |      |      |      |      |      |
-| > R     |      |      |      |      |      |      |      |      |
-| AVINTOL |      |      |      |      |      |      |      |      |
-| AESIHEN |      |      |      |      |      |      |      |      |
-| KILÖT** |      |      |      |      |      |      |      |      |
-+=========+======+======+======+======+======+======+======+======+
-|         | >    |      | >    |      | >    |      | >    |      |
-|         | 0--2 |      |  yli |      |  yli |      |  yli |      |
-|         | > vu |      | > 2  |      | > 5  |      | > 10 |      |
-|         | otta |      | > vu |      | > vu |      | > vu |      |
-|         |      |      | otta |      | otta |      | otta |      |
-+---------+------+------+------+------+------+------+------+------+
-| > **1** | >    | 1    | 2177 | > 1  | >    | > 1  | >    | > 1  |
-|         | 2129 | 3,31 |      | 3,61 | 2230 | 3,94 | 2281 | 4,62 |
-+---------+------+------+------+------+------+------+------+------+
-| > **2** | >    | 1    | 2290 | > 1  | >    | > 1  | >    | > 1  |
-|         | 2239 | 3,99 |      | 4,31 | 2346 | 4,66 | 2398 | 4,99 |
-+---------+------+------+------+------+------+------+------+------+
-| > **3** | >    | 1    | 2370 | > 1  | >    | > 1  | >    | > 1  |
-|         | 2314 | 4,46 |      | 4,81 | 2426 | 5,16 | 2480 | 5,50 |
-+---------+------+------+------+------+------+------+------+------+
-| > **4** | >    | 1    | 2391 | > 1  | >    | > 1  | >    | > 1  |
-|         | 2338 | 4,61 |      | 4,94 | 2448 | 5,30 | 2505 | 5,66 |
-+---------+------+------+------+------+------+------+------+------+
-| > **5** | >    | 1    | 2512 | > 1  | >    | > 1  | >    | > 1  |
-|         | 2454 | 5,34 |      | 5,70 | 2575 | 6,09 | 2636 | 6,48 |
-+---------+------+------+------+------+------+------+------+------+
-| > **6** | >    | 1    | 2636 | > 1  | >    | > 1  | >    | > 1  |
-|         | 2575 | 6,09 |      | 6,48 | 2701 | 6,88 | 2767 | 7,29 |
-+---------+------+------+------+------+------+------+------+------+
+<table>
+<colgroup>
+<col style="width: 15%" />
+<col style="width: 10%" />
+<col style="width: 10%" />
+<col style="width: 10%" />
+<col style="width: 10%" />
+<col style="width: 10%" />
+<col style="width: 10%" />
+<col style="width: 10%" />
+<col style="width: 10%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th colspan="9"><blockquote>
+<p><strong>HUOLTO- JA LIIKENNEASEMIEN RAVINTOLAESIHENKILÖT</strong></p>
+</blockquote></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td></td>
+<td colspan="2"><blockquote>
+<p>0–2 vuotta</p>
+</blockquote></td>
+<td colspan="2"><blockquote>
+<p>yli 2 vuotta</p>
+</blockquote></td>
+<td colspan="2"><blockquote>
+<p>yli 5 vuotta</p>
+</blockquote></td>
+<td colspan="2"><blockquote>
+<p>yli 10 vuotta</p>
+</blockquote></td>
+</tr>
+<tr class="even">
+<td><blockquote>
+<p><strong>1</strong></p>
+</blockquote></td>
+<td><blockquote>
+<p>2129</p>
+</blockquote></td>
+<td>13,31</td>
+<td>2177</td>
+<td><blockquote>
+<p>13,61</p>
+</blockquote></td>
+<td><blockquote>
+<p>2230</p>
+</blockquote></td>
+<td><blockquote>
+<p>13,94</p>
+</blockquote></td>
+<td><blockquote>
+<p>2281</p>
+</blockquote></td>
+<td><blockquote>
+<p>14,62</p>
+</blockquote></td>
+</tr>
+<tr class="odd">
+<td><blockquote>
+<p><strong>2</strong></p>
+</blockquote></td>
+<td><blockquote>
+<p>2239</p>
+</blockquote></td>
+<td>13,99</td>
+<td>2290</td>
+<td><blockquote>
+<p>14,31</p>
+</blockquote></td>
+<td><blockquote>
+<p>2346</p>
+</blockquote></td>
+<td><blockquote>
+<p>14,66</p>
+</blockquote></td>
+<td><blockquote>
+<p>2398</p>
+</blockquote></td>
+<td><blockquote>
+<p>14,99</p>
+</blockquote></td>
+</tr>
+<tr class="even">
+<td><blockquote>
+<p><strong>3</strong></p>
+</blockquote></td>
+<td><blockquote>
+<p>2314</p>
+</blockquote></td>
+<td>14,46</td>
+<td>2370</td>
+<td><blockquote>
+<p>14,81</p>
+</blockquote></td>
+<td><blockquote>
+<p>2426</p>
+</blockquote></td>
+<td><blockquote>
+<p>15,16</p>
+</blockquote></td>
+<td><blockquote>
+<p>2480</p>
+</blockquote></td>
+<td><blockquote>
+<p>15,50</p>
+</blockquote></td>
+</tr>
+<tr class="odd">
+<td><blockquote>
+<p><strong>4</strong></p>
+</blockquote></td>
+<td><blockquote>
+<p>2338</p>
+</blockquote></td>
+<td>14,61</td>
+<td>2391</td>
+<td><blockquote>
+<p>14,94</p>
+</blockquote></td>
+<td><blockquote>
+<p>2448</p>
+</blockquote></td>
+<td><blockquote>
+<p>15,30</p>
+</blockquote></td>
+<td><blockquote>
+<p>2505</p>
+</blockquote></td>
+<td><blockquote>
+<p>15,66</p>
+</blockquote></td>
+</tr>
+<tr class="even">
+<td><blockquote>
+<p><strong>5</strong></p>
+</blockquote></td>
+<td><blockquote>
+<p>2454</p>
+</blockquote></td>
+<td>15,34</td>
+<td>2512</td>
+<td><blockquote>
+<p>15,70</p>
+</blockquote></td>
+<td><blockquote>
+<p>2575</p>
+</blockquote></td>
+<td><blockquote>
+<p>16,09</p>
+</blockquote></td>
+<td><blockquote>
+<p>2636</p>
+</blockquote></td>
+<td><blockquote>
+<p>16,48</p>
+</blockquote></td>
+</tr>
+<tr class="odd">
+<td><blockquote>
+<p><strong>6</strong></p>
+</blockquote></td>
+<td><blockquote>
+<p>2575</p>
+</blockquote></td>
+<td>16,09</td>
+<td>2636</td>
+<td><blockquote>
+<p>16,48</p>
+</blockquote></td>
+<td><blockquote>
+<p>2701</p>
+</blockquote></td>
+<td><blockquote>
+<p>16,88</p>
+</blockquote></td>
+<td><blockquote>
+<p>2767</p>
+</blockquote></td>
+<td><blockquote>
+<p>17,29</p>
+</blockquote></td>
+</tr>
+</tbody>
+</table>
 
-## Taulukkopalkat 1.6.2024--31.1.2025
+## Taulukkopalkat 1.6.2024–31.1.2025
 
-### Taulukkopalkat 1.6.2024--31.1.2025
+### Taulukkopalkat 1.6.2024–31.1.2025
 
-> Kaupan työntekijöiden kuukausi- ja tuntipalkat 1.6.2024--31.1.2025
+> Kaupan työntekijöiden kuukausi- ja tuntipalkat 1.6.2024–31.1.2025
 >
-> Tukkumyyjät II ja III 1.6.2024--31.1.2025
+> Tukkumyyjät II ja III 1.6.2024–31.1.2025
 
-+-----------+-------------+-------------+-------------+-------------+
-| > **TU    |             |             |             |             |
-| KKUMYYJÄT |             |             |             |             |
-| > II JA   |             |             |             |             |
-| > III**   |             |             |             |             |
-+===========+=============+=============+=============+=============+
-| >         | > 1\.       | > 3\.       | > 5\.       | > 8\.       |
-| Helsinki, | > vuotena   | > vuotena   | > vuotena   | > vuotena   |
-| > Espoo,  |             |             |             |             |
-| > Ka      |             |             |             |             |
-| uniainen, |             |             |             |             |
-| > Vantaa  |             |             |             |             |
-+-----------+-------------+-------------+-------------+-------------+
+<table>
+<colgroup>
+<col style="width: 17%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th colspan="5"><blockquote>
+<p><strong>TUKKUMYYJÄT II JA III</strong></p>
+</blockquote></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><blockquote>
+<p>Helsinki, Espoo, Kauniainen, Vantaa</p>
+</blockquote></td>
+<td><blockquote>
+<p>1. vuotena</p>
+</blockquote></td>
+<td><blockquote>
+<p>3. vuotena</p>
+</blockquote></td>
+<td><blockquote>
+<p>5. vuotena</p>
+</blockquote></td>
+<td><blockquote>
+<p>8. vuotena</p>
+</blockquote></td>
+</tr>
+</tbody>
+</table>
 
-+-----------+-------------+-------------+-------------+-------------+
-| > **II**  | > 2595      | > 2704      | > 2833      | > 2975      |
-+===========+=============+=============+=============+=============+
-| > **III** | > 3012      | > 3128      | > 3262      | > 3418      |
-+-----------+-------------+-------------+-------------+-------------+
-|           |             |             |             |             |
-+-----------+-------------+-------------+-------------+-------------+
-| > Muu     | > 1\.       | > 3\.       | > 5\.       | > 8\.       |
-| > Suomi   | > vuotena   | > vuotena   | > vuotena   | > vuotena   |
-+-----------+-------------+-------------+-------------+-------------+
-| > **II**  | > 2444      | > 2551      | > 2672      | > 2809      |
-+-----------+-------------+-------------+-------------+-------------+
-| > **III** | > 2820      | > 2933      | > 3041      | > 3188      |
-+-----------+-------------+-------------+-------------+-------------+
+<table style="width:100%;">
+<colgroup>
+<col style="width: 17%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><blockquote>
+<p><strong>II</strong></p>
+</blockquote></th>
+<th><blockquote>
+<p>2595</p>
+</blockquote></th>
+<th><blockquote>
+<p>2704</p>
+</blockquote></th>
+<th><blockquote>
+<p>2833</p>
+</blockquote></th>
+<th><blockquote>
+<p>2975</p>
+</blockquote></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><blockquote>
+<p><strong>III</strong></p>
+</blockquote></td>
+<td><blockquote>
+<p>3012</p>
+</blockquote></td>
+<td><blockquote>
+<p>3128</p>
+</blockquote></td>
+<td><blockquote>
+<p>3262</p>
+</blockquote></td>
+<td><blockquote>
+<p>3418</p>
+</blockquote></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><blockquote>
+<p>Muu Suomi</p>
+</blockquote></td>
+<td><blockquote>
+<p>1. vuotena</p>
+</blockquote></td>
+<td><blockquote>
+<p>3. vuotena</p>
+</blockquote></td>
+<td><blockquote>
+<p>5. vuotena</p>
+</blockquote></td>
+<td><blockquote>
+<p>8. vuotena</p>
+</blockquote></td>
+</tr>
+<tr class="even">
+<td><blockquote>
+<p><strong>II</strong></p>
+</blockquote></td>
+<td><blockquote>
+<p>2444</p>
+</blockquote></td>
+<td><blockquote>
+<p>2551</p>
+</blockquote></td>
+<td><blockquote>
+<p>2672</p>
+</blockquote></td>
+<td><blockquote>
+<p>2809</p>
+</blockquote></td>
+</tr>
+<tr class="odd">
+<td><blockquote>
+<p><strong>III</strong></p>
+</blockquote></td>
+<td><blockquote>
+<p>2820</p>
+</blockquote></td>
+<td><blockquote>
+<p>2933</p>
+</blockquote></td>
+<td><blockquote>
+<p>3041</p>
+</blockquote></td>
+<td><blockquote>
+<p>3188</p>
+</blockquote></td>
+</tr>
+</tbody>
+</table>
 
-> Asentajat ja huoltomiehet 1.6.2024--31.1.2025
+> Asentajat ja huoltomiehet 1.6.2024–31.1.2025
 
-+---------------------------------------------+------------------------+
-| > **ASENTAJAT JA HUOLTOMIEHET**             |                        |
-+=============================================+========================+
-| > Helsinki, Espoo, Kauniainen, Vantaa       | > 2037                 |
-+---------------------------------------------+------------------------+
-| > Muu Suomi                                 | > 1957                 |
-+---------------------------------------------+------------------------+
+<table>
+<colgroup>
+<col style="width: 64%" />
+<col style="width: 35%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><blockquote>
+<p><strong>ASENTAJAT JA HUOLTOMIEHET</strong></p>
+</blockquote></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><blockquote>
+<p>Helsinki, Espoo, Kauniainen, Vantaa</p>
+</blockquote></td>
+<td><blockquote>
+<p>2037</p>
+</blockquote></td>
+</tr>
+<tr class="even">
+<td><blockquote>
+<p>Muu Suomi</p>
+</blockquote></td>
+<td><blockquote>
+<p>1957</p>
+</blockquote></td>
+</tr>
+</tbody>
+</table>
 
 > Huolto- ja liikenneasemien ravintolatyöntekijöiden kuukausi- ja
-> tuntipalkat 1.6.2024--31.1.2025
+> tuntipalkat 1.6.2024–31.1.2025
 
-+-------------------------+------+------+------+------+------+------+
-| > **HUOLTO- JA          |      |      |      |      |      |      |
-| > LIIKENNEASEMIEN       |      |      |      |      |      |      |
-| >                       |      |      |      |      |      |      |
-|  RAVINTOLATYÖNTEKIJÄT** |      |      |      |      |      |      |
-+=========================+======+======+======+======+======+======+
-|                         | >    |      | >    |      | >    |      |
-|                         |  1\. |      |  5\. |      |  8\. |      |
-|                         | >    |      | >    |      | >    |      |
-|                         |  vuo |      |  vuo |      |  vuo |      |
-|                         | tena |      | tena |      | tena |      |
-+-------------------------+------+------+------+------+------+------+
-| > Helsinki, Espoo, 2093 |      | > 1  | >    | > 1  | >    | > 1  |
-| >                       |      | 3,08 | 2150 | 3,44 | 2253 | 4,08 |
-| > Kauniainen, Vantaa    |      |      |      |      |      |      |
-+-------------------------+------+------+------+------+------+------+
-| > Muu Suomi 2062        |      | > 1  | >    | > 1  | >    | > 1  |
-|                         |      | 2,89 | 2145 | 3,41 | 2194 | 3,71 |
-+-------------------------+------+------+------+------+------+------+
+<table>
+<colgroup>
+<col style="width: 36%" />
+<col style="width: 10%" />
+<col style="width: 10%" />
+<col style="width: 10%" />
+<col style="width: 10%" />
+<col style="width: 10%" />
+<col style="width: 10%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th colspan="7"><blockquote>
+<p><strong>HUOLTO- JA LIIKENNEASEMIEN RAVINTOLATYÖNTEKIJÄT</strong></p>
+</blockquote></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td></td>
+<td colspan="2"><blockquote>
+<p>1. vuotena</p>
+</blockquote></td>
+<td colspan="2"><blockquote>
+<p>5. vuotena</p>
+</blockquote></td>
+<td colspan="2"><blockquote>
+<p>8. vuotena</p>
+</blockquote></td>
+</tr>
+<tr class="even">
+<td colspan="2"><blockquote>
+<p>Helsinki, Espoo, 2093</p>
+<p>Kauniainen, Vantaa</p>
+</blockquote></td>
+<td><blockquote>
+<p>13,08</p>
+</blockquote></td>
+<td><blockquote>
+<p>2150</p>
+</blockquote></td>
+<td><blockquote>
+<p>13,44</p>
+</blockquote></td>
+<td><blockquote>
+<p>2253</p>
+</blockquote></td>
+<td><blockquote>
+<p>14,08</p>
+</blockquote></td>
+</tr>
+<tr class="odd">
+<td colspan="2"><blockquote>
+<p>Muu Suomi 2062</p>
+</blockquote></td>
+<td><blockquote>
+<p>12,89</p>
+</blockquote></td>
+<td><blockquote>
+<p>2145</p>
+</blockquote></td>
+<td><blockquote>
+<p>13,41</p>
+</blockquote></td>
+<td><blockquote>
+<p>2194</p>
+</blockquote></td>
+<td><blockquote>
+<p>13,71</p>
+</blockquote></td>
+</tr>
+</tbody>
+</table>
 
-> Kaupan työehtosopimus 1.2.2023--31.1.2025 195
+> Kaupan työehtosopimus 1.2.2023–31.1.2025 195
 
 ##### Huolto- ja liikenneasemaravintola:
 
-> luvanhaltijan edustajan sijaisen tuntipalkat 1.6.2024--31.1.2025
+> luvanhaltijan edustajan sijaisen tuntipalkat 1.6.2024–31.1.2025
 
-+-----------------+-----------------+-----------------+-----------------+
-| > **HUOLTO- JA  |                 |                 |                 |
-| >               |                 |                 |                 |
-| LIIKENNEASEMIEN |                 |                 |                 |
-| > LUVANHALTIJAN |                 |                 |                 |
-| > EDUSTAJAN     |                 |                 |                 |
-| > SIJAISEN      |                 |                 |                 |
-| > TUNTIPALKKA** |                 |                 |                 |
-+=================+=================+=================+=================+
-| > 1\. vuotena   | > 3\. vuotena   | > 5\. vuotena   | > 8\. vuotena   |
-+-----------------+-----------------+-----------------+-----------------+
+<table>
+<colgroup>
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th colspan="4"><blockquote>
+<p><strong>HUOLTO- JA LIIKENNEASEMIEN LUVANHALTIJAN EDUSTAJAN SIJAISEN
+TUNTIPALKKA</strong></p>
+</blockquote></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><blockquote>
+<p>1. vuotena</p>
+</blockquote></td>
+<td><blockquote>
+<p>3. vuotena</p>
+</blockquote></td>
+<td><blockquote>
+<p>5. vuotena</p>
+</blockquote></td>
+<td><blockquote>
+<p>8. vuotena</p>
+</blockquote></td>
+</tr>
+</tbody>
+</table>
 
 > 14,77 15,12 15,49 15,82
 >
 > Huolto- ja liikenneasemien ravintolaesihenkilöiden kuukausi- ja
-> tuntipalkat 1.6.2024--31.1.2025
+> tuntipalkat 1.6.2024–31.1.2025
 
-+---------+------+------+------+------+------+------+------+------+
-| > **    |      |      |      |      |      |      |      |      |
-| HUOLTO- |      |      |      |      |      |      |      |      |
-| > JA    |      |      |      |      |      |      |      |      |
-| > L     |      |      |      |      |      |      |      |      |
-| IIKENNE |      |      |      |      |      |      |      |      |
-| ASEMIEN |      |      |      |      |      |      |      |      |
-| > R     |      |      |      |      |      |      |      |      |
-| AVINTOL |      |      |      |      |      |      |      |      |
-| AESIHEN |      |      |      |      |      |      |      |      |
-| KILÖT** |      |      |      |      |      |      |      |      |
-+=========+======+======+======+======+======+======+======+======+
-|         | >    |      | >    |      | >    |      | >    |      |
-|         | 0--2 |      |  yli |      |  yli |      |  yli |      |
-|         | > vu |      | > 2  |      | > 5  |      | > 10 |      |
-|         | otta |      | > vu |      | > vu |      | > vu |      |
-|         |      |      | otta |      | otta |      | otta |      |
-+---------+------+------+------+------+------+------+------+------+
-| > **1** | >    | 1    | 2224 | > 1  | 2278 | > 1  | >    | > 1  |
-|         | 2175 | 3,59 |      | 3,90 |      | 4,24 | 2330 | 4,56 |
-+---------+------+------+------+------+------+------+------+------+
-| > **2** | >    | 1    | 2339 | > 1  | 2396 | > 1  | >    | > 1  |
-|         | 2287 | 4,29 |      | 4,62 |      | 4,98 | 2449 | 5,31 |
-+---------+------+------+------+------+------+------+------+------+
-| > **3** | >    | 1    | 2421 | > 1  | 2478 | > 1  | >    | > 1  |
-|         | 2364 | 4,78 |      | 5,13 |      | 5,49 | 2533 | 5,83 |
-+---------+------+------+------+------+------+------+------+------+
-| > **4** | >    | 1    | 2442 | > 1  | 2500 | > 1  | >    | > 1  |
-|         | 2388 | 4,93 |      | 5,26 |      | 5,63 | 2559 | 5,99 |
-+---------+------+------+------+------+------+------+------+------+
-| > **5** | >    | 1    | 2566 | > 1  | 2630 | > 1  | >    | > 1  |
-|         | 2507 | 5,67 |      | 6,04 |      | 6,44 | 2692 | 6,83 |
-+---------+------+------+------+------+------+------+------+------+
-| > **6** | >    | 1    | 2692 | > 1  | 2759 | > 1  | >    | > 1  |
-|         | 2630 | 6,44 |      | 6,83 |      | 7,24 | 2826 | 7,66 |
-+---------+------+------+------+------+------+------+------+------+
+<table>
+<colgroup>
+<col style="width: 15%" />
+<col style="width: 10%" />
+<col style="width: 10%" />
+<col style="width: 10%" />
+<col style="width: 10%" />
+<col style="width: 10%" />
+<col style="width: 10%" />
+<col style="width: 10%" />
+<col style="width: 10%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th colspan="9"><blockquote>
+<p><strong>HUOLTO- JA LIIKENNEASEMIEN RAVINTOLAESIHENKILÖT</strong></p>
+</blockquote></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td></td>
+<td colspan="2"><blockquote>
+<p>0–2 vuotta</p>
+</blockquote></td>
+<td colspan="2"><blockquote>
+<p>yli 2 vuotta</p>
+</blockquote></td>
+<td colspan="2"><blockquote>
+<p>yli 5 vuotta</p>
+</blockquote></td>
+<td colspan="2"><blockquote>
+<p>yli 10 vuotta</p>
+</blockquote></td>
+</tr>
+<tr class="even">
+<td><blockquote>
+<p><strong>1</strong></p>
+</blockquote></td>
+<td><blockquote>
+<p>2175</p>
+</blockquote></td>
+<td>13,59</td>
+<td>2224</td>
+<td><blockquote>
+<p>13,90</p>
+</blockquote></td>
+<td>2278</td>
+<td><blockquote>
+<p>14,24</p>
+</blockquote></td>
+<td><blockquote>
+<p>2330</p>
+</blockquote></td>
+<td><blockquote>
+<p>14,56</p>
+</blockquote></td>
+</tr>
+<tr class="odd">
+<td><blockquote>
+<p><strong>2</strong></p>
+</blockquote></td>
+<td><blockquote>
+<p>2287</p>
+</blockquote></td>
+<td>14,29</td>
+<td>2339</td>
+<td><blockquote>
+<p>14,62</p>
+</blockquote></td>
+<td>2396</td>
+<td><blockquote>
+<p>14,98</p>
+</blockquote></td>
+<td><blockquote>
+<p>2449</p>
+</blockquote></td>
+<td><blockquote>
+<p>15,31</p>
+</blockquote></td>
+</tr>
+<tr class="even">
+<td><blockquote>
+<p><strong>3</strong></p>
+</blockquote></td>
+<td><blockquote>
+<p>2364</p>
+</blockquote></td>
+<td>14,78</td>
+<td>2421</td>
+<td><blockquote>
+<p>15,13</p>
+</blockquote></td>
+<td>2478</td>
+<td><blockquote>
+<p>15,49</p>
+</blockquote></td>
+<td><blockquote>
+<p>2533</p>
+</blockquote></td>
+<td><blockquote>
+<p>15,83</p>
+</blockquote></td>
+</tr>
+<tr class="odd">
+<td><blockquote>
+<p><strong>4</strong></p>
+</blockquote></td>
+<td><blockquote>
+<p>2388</p>
+</blockquote></td>
+<td>14,93</td>
+<td>2442</td>
+<td><blockquote>
+<p>15,26</p>
+</blockquote></td>
+<td>2500</td>
+<td><blockquote>
+<p>15,63</p>
+</blockquote></td>
+<td><blockquote>
+<p>2559</p>
+</blockquote></td>
+<td><blockquote>
+<p>15,99</p>
+</blockquote></td>
+</tr>
+<tr class="even">
+<td><blockquote>
+<p><strong>5</strong></p>
+</blockquote></td>
+<td><blockquote>
+<p>2507</p>
+</blockquote></td>
+<td>15,67</td>
+<td>2566</td>
+<td><blockquote>
+<p>16,04</p>
+</blockquote></td>
+<td>2630</td>
+<td><blockquote>
+<p>16,44</p>
+</blockquote></td>
+<td><blockquote>
+<p>2692</p>
+</blockquote></td>
+<td><blockquote>
+<p>16,83</p>
+</blockquote></td>
+</tr>
+<tr class="odd">
+<td><blockquote>
+<p><strong>6</strong></p>
+</blockquote></td>
+<td><blockquote>
+<p>2630</p>
+</blockquote></td>
+<td>16,44</td>
+<td>2692</td>
+<td><blockquote>
+<p>16,83</p>
+</blockquote></td>
+<td>2759</td>
+<td><blockquote>
+<p>17,24</p>
+</blockquote></td>
+<td><blockquote>
+<p>2826</p>
+</blockquote></td>
+<td><blockquote>
+<p>17,66</p>
+</blockquote></td>
+</tr>
+</tbody>
+</table>
 
 ## Lisät 1.5.2022 alkaen
 
-### Lisät 1.2.2023--31.1.2025
+### Lisät 1.2.2023–31.1.2025
 
 > Työaikalisät ovat olleet voimassa 1.5.2022 alkaen.
 >
@@ -8415,18 +10114,34 @@ Työote 1 piste 2 pistettä 3 pistettä 4 pistettä
 > Logistiikkatyöntekijöiden työryhmän vanhinta (nokkamies) koskeva
 > määräys on voimassa 31.12.2023 asti.
 
-+--------------------+-----------------------+------------------------+
-| > MYYJÄT JA        | > Määrä ja            | > Klo                  |
-| >                  | > laskentapohja       |                        |
-| MYYMÄLÄTYÖNTEKIJÄT |                       |                        |
-+====================+=======================+========================+
-+--------------------+-----------------------+------------------------+
+<table>
+<colgroup>
+<col style="width: 30%" />
+<col style="width: 34%" />
+<col style="width: 35%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><blockquote>
+<p>MYYJÄT JA MYYMÄLÄTYÖNTEKIJÄT</p>
+</blockquote></th>
+<th><blockquote>
+<p>Määrä ja laskentapohja</p>
+</blockquote></th>
+<th><blockquote>
+<p>Klo</p>
+</blockquote></th>
+</tr>
+</thead>
+<tbody>
+</tbody>
+</table>
 
 > Iltalisä
 >
 > tes 12 § 3. kohta
 >
-> marras--joulukuu
+> marras–joulukuu
 >
 > Hki\* 4,18 e tunnilta
 >
@@ -8434,13 +10149,13 @@ Työote 1 piste 2 pistettä 3 pistettä 4 pistettä
 >
 > Hki\* 8,36 e tunnilta1) Muu Suomi 8,00 e tunnilta1)
 >
-> Maanantai--perjantai klo 18--24 ja sunnuntai klo 18--24 aukiolosta
+> Maanantai–perjantai klo 18–24 ja sunnuntai klo 18–24 aukiolosta
 > riippumatta ja yksinkertaisena.
 >
 > Sunnuntain lisäksi myös kirkollinen juhla-, vapun- ja
 > itsenäisyyspäivä.
 >
-> Sunnuntaisin klo 18--24 myymä- län ollessa auki klo 18:n jälkeen.
+> Sunnuntaisin klo 18–24 myymä- län ollessa auki klo 18:n jälkeen.
 >
 > ( 1) Lisä on kaksinkertainen iltalisä.)
 >
@@ -8448,7 +10163,7 @@ Työote 1 piste 2 pistettä 3 pistettä 4 pistettä
 >
 > tes 12 § 4. kohta
 >
-> Sama kuin lauantailisä Kirkollisen juhlapäivän aattona klo 18--24, jos
+> Sama kuin lauantailisä Kirkollisen juhlapäivän aattona klo 18–24, jos
 > myymälä auki klo 18 jälkeen.
 >
 > Yölisä
@@ -8467,12 +10182,12 @@ Työote 1 piste 2 pistettä 3 pistettä 4 pistettä
 >
 > Muu Suomi 5,27 e tunnilta
 >
-> Maanantai--lauantai klo 00--06 aukiolosta riippumatta.
+> Maanantai–lauantai klo 00–06 aukiolosta riippumatta.
 >
 > Lisää ei makseta sunnuntaiyönä, kirkollisen juhla-, vapun- ja
 > itsenäisyyspäivän yönä tehdystä työstä.
 >
-> Arkilauantai klo 13--24 aukiolosta riippumatta.
+> Arkilauantai klo 13–24 aukiolosta riippumatta.
 >
 > Inventaarilisä lauantaina
 >
@@ -8498,11 +10213,11 @@ Työote 1 piste 2 pistettä 3 pistettä 4 pistettä
 >
 > tes 12 § 12. kohta
 >
-> Sama kuin lauantailisä Arkilauantai klo 13--24 aukiolosta riippumatta.
+> Sama kuin lauantailisä Arkilauantai klo 13–24 aukiolosta riippumatta.
 >
 > Vähintään 5 % taulukkopalkasta.
 >
-> 5--20 %
+> 5–20 %
 >
 > Vähintään 5 % taulukkopalkasta.
 >
@@ -8512,91 +10227,189 @@ Työote 1 piste 2 pistettä 3 pistettä 4 pistettä
 >
 > *\* Helsinki, Espoo, Kauniainen, Vantaa*
 
-+--------------------+-----------------------+------------------------+
-| > LOGI             | > Määrä ja            | > Klo                  |
-| STIIKKATYÖNTEKIJÄT | > laskentapohja       |                        |
-+====================+=======================+========================+
-| > Iltalisä         | > 3,73 e tunnilta     | > Maanantai--perjantai |
-|                    |                       | > klo 18--22.          |
-+--------------------+-----------------------+------------------------+
-| > tes 13 § 2.      | > 7,47 e tunnilta     | > Sunnuntai klo        |
-| > kohta            |                       | > 18--22. Sunnuntain   |
-|                    |                       | > lisäksi myös         |
-|                    |                       | > kirkollinen juhla-,  |
-|                    |                       | > vapun- ja            |
-|                    |                       | > itsenäisyyspäivä.    |
-+--------------------+-----------------------+------------------------+
-| > Yölisä           | > 4,40 e tunnilta     | > Maanantai--lauantai  |
-| >                  | >                     | > klo 00--06 ja        |
-| > tes 13 § 4.      | > 8,79 e tunnilta     | > 22--24.              |
-| > kohta            |                       | >                      |
-|                    |                       | > Sunnuntai klo 00--06 |
-|                    |                       | > ja 22--24.           |
-|                    |                       | > Sunnuntain lisäksi   |
-|                    |                       | > myös kirkollinen     |
-|                    |                       | > juhla-, vapun- ja    |
-|                    |                       | > itsenäisyyspvä.      |
-+--------------------+-----------------------+------------------------+
-| > Lauantailisä     | > Hki\* 5,46 e        | > Arkilauantai klo     |
-| >                  | > tunnilta            | > 13--22               |
-| > tes 13 § 6.      | >                     |                        |
-| > kohta            | > Muu Suomi 5,27 e    |                        |
-|                    | > tunnilta            |                        |
-+--------------------+-----------------------+------------------------+
-| > Iltalisä         | > Hki\* 4,18 e        | > Maanantai--perjantai |
-| > myyntityöhön     | > tunnilta            | > klo 18--24           |
-+--------------------+-----------------------+------------------------+
-| > liittyvästä      | > Muu Suomi 4,00 e    | > ja sunnuntai klo     |
-| >                  | > tunnilta            | > 18--24 yksin-        |
-|  logistiikkatyöstä |                       | > kertaisena, jos työ  |
-| >                  |                       | > liittyy aukiolon     |
-| > tes 12 § 3.      |                       | > johdosta tehtävään   |
-| > kohta            |                       | > myyntityöhön.        |
-|                    |                       | > Sunnuntain lisäksi   |
-|                    |                       | > myös kirkollinen     |
-|                    |                       | > juhla-, vapun- ja    |
-|                    |                       | > itsenäisyyspäivä.    |
-+--------------------+-----------------------+------------------------+
-| > marras--joulukuu | > Hki\* 8,36 e        | > Sunnuntaisin klo     |
-|                    | > tunnilta            | > 18--24, jos työ      |
-|                    | >                     | > liittyy aukiolon     |
-|                    | > Muu Suomi 8,00 e    | > johdosta tehtävään   |
-|                    | > tunnilta            | > myyntityöhön.        |
-+--------------------+-----------------------+------------------------+
-| > Aattoiltalisä    | > Hki\* 5,46 e        | > Kirkollisen          |
-| > myyntityöhön     | > tunnilta            | > juhlapyhän aattona   |
-+--------------------+-----------------------+------------------------+
-| > liittyvästä      | > Muu Suomi 5,27 e    | > klo 18--24, jos työ  |
-| >                  | > tunnilta            | > liittyy aukiolon     |
-|  logistiikkatyöstä |                       | > johdostatehtävään    |
-| >                  |                       | > myyntityöhön.        |
-| > tes 12 § 4.      |                       |                        |
-| > kohta            |                       |                        |
-+--------------------+-----------------------+------------------------+
-| > Yölisä           | > Hki\* 6,28 e        | > Maanantai--lauantai  |
-| > myyntityöhön     | > tunnilta            | > klo 00--06, jos      |
-+--------------------+-----------------------+------------------------+
-| > liittyvästä      | > Muu Suomi 6,01 e    | > työ liittyy aukiolon |
-| >                  | > tunnilta            | > johdosta tehtävään   |
-|  logistiikkatyöstä |                       | > myyntityöhön. Lisää  |
-| >                  |                       | > ei makseta           |
-| > tes 12 § 5.      |                       | > sunnuntaiyönä,       |
-| > kohta            |                       | > kirkol- lisen        |
-|                    |                       | > juhla-, vapun- ja    |
-|                    |                       | > itsenäisyys- päivän  |
-|                    |                       | > yönä tehdystä        |
-|                    |                       | > työstä.              |
-+--------------------+-----------------------+------------------------+
-| > Lauantailisä     | > Hki\* 5,46 e        | > Arkilauantai klo     |
-| > myyntityöhön     | > tunnilta            | > 13--24, jos työ      |
-+--------------------+-----------------------+------------------------+
-| > liittyvästä      | > Muu Suomi 5,27 e    | > liittyy aukiolon     |
-| >                  | > tunnilta            | > johdosta tehtävään   |
-|  logistiikkatyöstä |                       | > myyntityöhön.        |
-| >                  |                       |                        |
-| > tes 12 § 6.      |                       |                        |
-| > kohta            |                       |                        |
-+--------------------+-----------------------+------------------------+
+<table>
+<colgroup>
+<col style="width: 30%" />
+<col style="width: 34%" />
+<col style="width: 35%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><blockquote>
+<p>LOGISTIIKKATYÖNTEKIJÄT</p>
+</blockquote></th>
+<th><blockquote>
+<p>Määrä ja laskentapohja</p>
+</blockquote></th>
+<th><blockquote>
+<p>Klo</p>
+</blockquote></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><blockquote>
+<p>Iltalisä</p>
+</blockquote></td>
+<td><blockquote>
+<p>3,73 e tunnilta</p>
+</blockquote></td>
+<td><blockquote>
+<p>Maanantai–perjantai klo 18–22.</p>
+</blockquote></td>
+</tr>
+<tr class="even">
+<td><blockquote>
+<p>tes 13 § 2. kohta</p>
+</blockquote></td>
+<td><blockquote>
+<p>7,47 e tunnilta</p>
+</blockquote></td>
+<td><blockquote>
+<p>Sunnuntai klo 18–22. Sunnuntain lisäksi myös kirkollinen juhla-,
+vapun- ja itsenäisyyspäivä.</p>
+</blockquote></td>
+</tr>
+<tr class="odd">
+<td><blockquote>
+<p>Yölisä</p>
+<p>tes 13 § 4. kohta</p>
+</blockquote></td>
+<td><blockquote>
+<p>4,40 e tunnilta</p>
+<p>8,79 e tunnilta</p>
+</blockquote></td>
+<td><blockquote>
+<p>Maanantai–lauantai klo 00–06 ja 22–24.</p>
+<p>Sunnuntai klo 00–06 ja 22–24. Sunnuntain lisäksi myös kirkollinen
+juhla-, vapun- ja itsenäisyyspvä.</p>
+</blockquote></td>
+</tr>
+<tr class="even">
+<td><blockquote>
+<p>Lauantailisä</p>
+<p>tes 13 § 6. kohta</p>
+</blockquote></td>
+<td><blockquote>
+<p>Hki* 5,46 e tunnilta</p>
+<p>Muu Suomi 5,27 e tunnilta</p>
+</blockquote></td>
+<td><blockquote>
+<p>Arkilauantai klo 13–22</p>
+</blockquote></td>
+</tr>
+<tr class="odd">
+<td><blockquote>
+<p>Iltalisä myyntityöhön</p>
+</blockquote></td>
+<td><blockquote>
+<p>Hki* 4,18 e tunnilta</p>
+</blockquote></td>
+<td><blockquote>
+<p>Maanantai–perjantai klo 18–24</p>
+</blockquote></td>
+</tr>
+<tr class="even">
+<td><blockquote>
+<p>liittyvästä logistiikkatyöstä</p>
+<p>tes 12 § 3. kohta</p>
+</blockquote></td>
+<td><blockquote>
+<p>Muu Suomi 4,00 e tunnilta</p>
+</blockquote></td>
+<td><blockquote>
+<p>ja sunnuntai klo 18–24 yksin- kertaisena, jos työ liittyy aukiolon
+johdosta tehtävään myyntityöhön. Sunnuntain lisäksi myös kirkollinen
+juhla-, vapun- ja itsenäisyyspäivä.</p>
+</blockquote></td>
+</tr>
+<tr class="odd">
+<td><blockquote>
+<p>marras–joulukuu</p>
+</blockquote></td>
+<td><blockquote>
+<p>Hki* 8,36 e tunnilta</p>
+<p>Muu Suomi 8,00 e tunnilta</p>
+</blockquote></td>
+<td><blockquote>
+<p>Sunnuntaisin klo 18–24, jos työ liittyy aukiolon johdosta tehtävään
+myyntityöhön.</p>
+</blockquote></td>
+</tr>
+<tr class="even">
+<td><blockquote>
+<p>Aattoiltalisä myyntityöhön</p>
+</blockquote></td>
+<td><blockquote>
+<p>Hki* 5,46 e tunnilta</p>
+</blockquote></td>
+<td><blockquote>
+<p>Kirkollisen juhlapyhän aattona</p>
+</blockquote></td>
+</tr>
+<tr class="odd">
+<td><blockquote>
+<p>liittyvästä logistiikkatyöstä</p>
+<p>tes 12 § 4. kohta</p>
+</blockquote></td>
+<td><blockquote>
+<p>Muu Suomi 5,27 e tunnilta</p>
+</blockquote></td>
+<td><blockquote>
+<p>klo 18–24, jos työ liittyy aukiolon johdostatehtävään
+myyntityöhön.</p>
+</blockquote></td>
+</tr>
+<tr class="even">
+<td><blockquote>
+<p>Yölisä myyntityöhön</p>
+</blockquote></td>
+<td><blockquote>
+<p>Hki* 6,28 e tunnilta</p>
+</blockquote></td>
+<td><blockquote>
+<p>Maanantai–lauantai klo 00–06, jos</p>
+</blockquote></td>
+</tr>
+<tr class="odd">
+<td><blockquote>
+<p>liittyvästä logistiikkatyöstä</p>
+<p>tes 12 § 5. kohta</p>
+</blockquote></td>
+<td><blockquote>
+<p>Muu Suomi 6,01 e tunnilta</p>
+</blockquote></td>
+<td><blockquote>
+<p>työ liittyy aukiolon johdosta tehtävään myyntityöhön. Lisää ei
+makseta sunnuntaiyönä, kirkol- lisen juhla-, vapun- ja itsenäisyys-
+päivän yönä tehdystä työstä.</p>
+</blockquote></td>
+</tr>
+<tr class="even">
+<td><blockquote>
+<p>Lauantailisä myyntityöhön</p>
+</blockquote></td>
+<td><blockquote>
+<p>Hki* 5,46 e tunnilta</p>
+</blockquote></td>
+<td><blockquote>
+<p>Arkilauantai klo 13–24, jos työ</p>
+</blockquote></td>
+</tr>
+<tr class="odd">
+<td><blockquote>
+<p>liittyvästä logistiikkatyöstä</p>
+<p>tes 12 § 6. kohta</p>
+</blockquote></td>
+<td><blockquote>
+<p>Muu Suomi 5,27 e tunnilta</p>
+</blockquote></td>
+<td><blockquote>
+<p>liittyy aukiolon johdosta tehtävään myyntityöhön.</p>
+</blockquote></td>
+</tr>
+</tbody>
+</table>
 
 > Olosuhdelisät
 >
@@ -8616,7 +10429,7 @@ Työote 1 piste 2 pistettä 3 pistettä 4 pistettä
 >
 > tes 13 § 11. kohta
 >
-> 7--11 % taulukkopalkasta / tunti
+> 7–11 % taulukkopalkasta / tunti
 >
 > 20 % henkilökohtaisesta palkasta / tunti. Pääasiallisesti
 > pakastevaras- tossa työskentelevälle työntekijälle lisä maksetaan
@@ -8634,7 +10447,7 @@ Työote 1 piste 2 pistettä 3 pistettä 4 pistettä
 >
 > Iltalisä myyntityöhön liittyvästä toimihenkilötyöstä tes 12 § 3. kohta
 >
-> marras--joulukuu
+> marras–joulukuu
 >
 > Aattoiltalisä myyntityöhön liittyvästä toimihenkilötyöstä tes 12 § 4.
 > kohta
@@ -8670,31 +10483,31 @@ Työote 1 piste 2 pistettä 3 pistettä 4 pistettä
 >
 > Muu Suomi 5,27 e tunnilta
 >
-> Maanantai--lauantai klo 00--06 ja 18--24.
+> Maanantai–lauantai klo 00–06 ja 18–24.
 >
-> Sunnuntai klo 18--24. Sunnuntain lisäksi kirkollinen juhla-, vapun- ja
+> Sunnuntai klo 18–24. Sunnuntain lisäksi kirkollinen juhla-, vapun- ja
 > itsenäisyyspäivä.
 >
 > ( 1) Lisä on kaksinkertainen iltalisä.)
 >
-> Maanantai--perjantai klo 18--24 ja sunnuntai klo 18--24 yksin-
+> Maanantai–perjantai klo 18–24 ja sunnuntai klo 18–24 yksin-
 >
 > kertaisena, jos työ liittyy aukiolon johdosta tehtävään myyntityöhön.
 > Sunnuntain lisäksi myös kirkollinen juhla-, vapun- ja
 > itsenäisyyspäivä.
 >
-> Sunnuntaisin klo 18--24, jos työ liit- tyy aukiolon johdosta tehtävään
+> Sunnuntaisin klo 18–24, jos työ liit- tyy aukiolon johdosta tehtävään
 > myyntityöhön.
 >
-> Kirkollisen juhlapyhän aattona klo 18--24, jos työ liittyy aukiolon
+> Kirkollisen juhlapyhän aattona klo 18–24, jos työ liittyy aukiolon
 >
 > johdosta tehtävään myyntityöhön.
 >
-> Maanantai--lauantai klo 00--06, jos työ liittyy aukiolon johdosta
+> Maanantai–lauantai klo 00–06, jos työ liittyy aukiolon johdosta
 > tehtävään myyntityöhön. Lisää ei makseta sunnuntaiyönä, kirkollisen
 > juhla-, vapun- ja itsenäisyyspäivän yönä tehdystä työstä.
 >
-> Arkilauantai klo 13--24, jos työ liit- tyy aukiolon johdosta tehtävään
+> Arkilauantai klo 13–24, jos työ liit- tyy aukiolon johdosta tehtävään
 > myyntityöhön.
 >
 > *\* Helsinki, Espoo, Kauniainen, Vantaa*
@@ -8721,7 +10534,7 @@ Työote 1 piste 2 pistettä 3 pistettä 4 pistettä
 >
 > tes 12 § 3. kohta
 >
-> marras--joulukuu
+> marras–joulukuu
 >
 > Aattoiltalisä myyntityöhön liittyvästä vahtimestarin työstä
 >
@@ -8755,24 +10568,24 @@ Työote 1 piste 2 pistettä 3 pistettä 4 pistettä
 >
 > Muu Suomi 5,27 e tunnilta
 >
-> Maanantai--perjantai klo 18--24 ja sunnuntai klo 18--24 yksin-
+> Maanantai–perjantai klo 18–24 ja sunnuntai klo 18–24 yksin-
 >
 > kertaisena, jos työ liittyy aukiolon johdosta tehtävään myyntityöhön.
 > Sunnuntain lisäksi myös kirkollinen juhla-, vapun- ja
 > itsenäisyyspäivä.
 >
-> Sunnuntaisin klo 18--24, jos työ liittyy aukiolon johdosta tehtävään
+> Sunnuntaisin klo 18–24, jos työ liittyy aukiolon johdosta tehtävään
 > myyntityöhön.
 >
-> Kirkollisen juhlapyhän aattona klo 18--24, jos työ liittyy aukiolon
+> Kirkollisen juhlapyhän aattona klo 18–24, jos työ liittyy aukiolon
 >
 > johdosta tehtävään myyntityöhön.
 >
-> Maanantai--lauantai klo 00--06, jos työ liittyy aukiolon johdosta
+> Maanantai–lauantai klo 00–06, jos työ liittyy aukiolon johdosta
 > tehtävään myyntityöhön. Lisää ei makseta sunnuntaiyönä, kirkollisen
 > juhla-, vapun- ja itsenäisyyspäivän yönä tehdystä työstä.
 >
-> Arkilauantai klo 13--24, jos työ liittyy aukiolon johdosta tehtävään
+> Arkilauantai klo 13–24, jos työ liittyy aukiolon johdosta tehtävään
 > myyntityöhön.
 >
 > Lisät voidaan sopia osaksi kokonaispalkkaa.
@@ -8793,16 +10606,16 @@ Työote 1 piste 2 pistettä 3 pistettä 4 pistettä
 >
 > 3,57 e tunnilta
 >
-> Maanantai--lauantai klo 18--22.
+> Maanantai–lauantai klo 18–22.
 >
-> Sunnuntai klo 18--22.
+> Sunnuntai klo 18–22.
 >
 > Sunnuntain lisäksi myös kirkollinen juhla-, vapun- ja
 > itsenäisyyspäivä.
 >
-> Maanantai--lauantai klo 00--06 ja 22--24.
+> Maanantai–lauantai klo 00–06 ja 22–24.
 >
-> Sunnuntai klo 00--06 ja 22--24. Sunnuntain lisäksi myös kirkollinen
+> Sunnuntai klo 00–06 ja 22–24. Sunnuntain lisäksi myös kirkollinen
 > juhla-, vapun- ja itsenäisyyspäivä.
 >
 > Iltalisä
@@ -8813,10 +10626,10 @@ Työote 1 piste 2 pistettä 3 pistettä 4 pistettä
 >
 > ptk 3 § 2. ja 3. kohta
 >
-> 0,96 e tunnilta Maanantai--sunnuntai klo 18--23. Sunnuntain lisäksi
-> myös kirkollinen juhla-, vapun- ja itsenäisyyspäivä.
+> 0,96 e tunnilta Maanantai–sunnuntai klo 18–23. Sunnuntain lisäksi myös
+> kirkollinen juhla-, vapun- ja itsenäisyyspäivä.
 >
-> 3,52 e tunnilta Maanantai--sunnuntai klo 00--06 ja 23--24.
+> 3,52 e tunnilta Maanantai–sunnuntai klo 00–06 ja 23–24.
 >
 > Sunnuntain lisäksi myös kirkollinen juhla-, vapun- ja
 > itsenäisyyspäivä.
@@ -8837,60 +10650,57 @@ Työote 1 piste 2 pistettä 3 pistettä 4 pistettä
 >
 > jossa yli 400 m2 päivittäistavarakauppa.
 
-+-------------+-------------+---------------------+--------------------+
-| > Iltalisä  | > 1,06 e    | > 1,86 e tunnilta   | > Päivit           |
-| > klo       | > tunnilta  | >                   | täistavarakaupassa |
-| > 18--24    | >           | > 3,72 e tunnilta   | > tehtävä työ:     |
-| >           | > 2,12 e    |                     | >                  |
-| > maananta  | > tunnilta  |                     | > lisät kuten      |
-| i--lauantai |             |                     | > myyjillä ja      |
-| >           |             |                     | > myym             |
-|  sunnuntai, |             |                     | älätyöntekijöillä. |
-| > kirkol-   |             |                     | > tes 12 § 3. - 6. |
-| > linen     |             |                     | >                  |
-| > juhla-,   |             |                     | > Muualla kuin     |
-| > vapun- ja |             |                     | >                  |
-| > itsen     |             |                     |  päivittäistavara- |
-| äisyyspäivä |             |                     | > kaupassa tehtävä |
-|             |             |                     | > työ: ptk 4 § 1.  |
-|             |             |                     | > kohta            |
-|             |             |                     | >                  |
-|             |             |                     | > Iltalisä klo     |
-|             |             |                     | > 18--24           |
-|             |             |                     | >                  |
-|             |             |                     | > ma--la 1,06 e    |
-|             |             |                     | > tunnilta         |
-|             |             |                     | > sunnuntai,       |
-|             |             |                     | > kirkollinen      |
-|             |             |                     | > juhla-, vapun-   |
-|             |             |                     | > ja               |
-|             |             |                     | > itsenäisyyspäivä |
-|             |             |                     | > 2,12 e tunnilta  |
-|             |             |                     | >                  |
-|             |             |                     | > Yölisä klo       |
-|             |             |                     | > 00--06 ma--su,   |
-|             |             |                     | > kirkollinen      |
-|             |             |                     | > juhla-, vapun-   |
-|             |             |                     | > ja               |
-|             |             |                     | > itsenäisyyspäivä |
-|             |             |                     | > 3,51 e tunnilta  |
-+=============+=============+=====================+====================+
-| > Yölisä    | > 3,51 e    | > 3,72 e tunnilta   |                    |
-| > klo       | > tunnilta  |                     |                    |
-| > 00--06    |             |                     |                    |
-| >           |             |                     |                    |
-| >           |             |                     |                    |
-| maanantai-- |             |                     |                    |
-| >           |             |                     |                    |
-|  sunnuntai, |             |                     |                    |
-| >           |             |                     |                    |
-| kirkollinen |             |                     |                    |
-| >           |             |                     |                    |
-| > juhla-,   |             |                     |                    |
-| > vapun- ja |             |                     |                    |
-| > itsen     |             |                     |                    |
-| äisyyspäivä |             |                     |                    |
-+-------------+-------------+---------------------+--------------------+
+<table>
+<colgroup>
+<col style="width: 19%" />
+<col style="width: 20%" />
+<col style="width: 30%" />
+<col style="width: 29%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><blockquote>
+<p>Iltalisä klo 18–24</p>
+<p>maanantai–lauantai sunnuntai, kirkol- linen juhla-, vapun- ja
+itsenäisyyspäivä</p>
+</blockquote></th>
+<th><blockquote>
+<p>1,06 e tunnilta</p>
+<p>2,12 e tunnilta</p>
+</blockquote></th>
+<th><blockquote>
+<p>1,86 e tunnilta</p>
+<p>3,72 e tunnilta</p>
+</blockquote></th>
+<th rowspan="2"><blockquote>
+<p>Päivittäistavarakaupassa tehtävä työ:</p>
+<p>lisät kuten myyjillä ja myymälätyöntekijöillä. tes 12 § 3. - 6.</p>
+<p>Muualla kuin päivittäistavara- kaupassa tehtävä työ: ptk 4 § 1.
+kohta</p>
+<p>Iltalisä klo 18–24</p>
+<p>ma–la 1,06 e tunnilta sunnuntai, kirkollinen juhla-, vapun- ja
+itsenäisyyspäivä 2,12 e tunnilta</p>
+<p>Yölisä klo 00–06 ma–su, kirkollinen juhla-, vapun- ja
+itsenäisyyspäivä 3,51 e tunnilta</p>
+</blockquote></th>
+</tr>
+<tr class="odd">
+<th><blockquote>
+<p>Yölisä klo 00–06</p>
+<p>maanantai– sunnuntai, kirkollinen</p>
+<p>juhla-, vapun- ja itsenäisyyspäivä</p>
+</blockquote></th>
+<th><blockquote>
+<p>3,51 e tunnilta</p>
+</blockquote></th>
+<th><blockquote>
+<p>3,72 e tunnilta</p>
+</blockquote></th>
+</tr>
+</thead>
+<tbody>
+</tbody>
+</table>
 
 > Hälytysraha
 >
@@ -8912,6 +10722,4 @@ Työote 1 piste 2 pistettä 3 pistettä 4 pistettä
 >
 > [www.pam.fi](http://www.pam.fi/)
 
-![](vertopal_8f97f4f4cc344ecdbe0e6ccf00fee4ad/media/image4.png){width="0.4090758967629046in"
-height="0.22836067366579177in"}![](vertopal_8f97f4f4cc344ecdbe0e6ccf00fee4ad/media/image5.png){width="0.7515266841644794in"
-height="0.2708333333333333in"}
+<img src="media/image4.png" style="width:0.40908in;height:0.22836in" /><img src="media/image5.png" style="width:0.75153in;height:0.27083in" />
