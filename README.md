@@ -1,3 +1,6 @@
+![](vertopal_8f97f4f4cc344ecdbe0e6ccf00fee4ad/media/image1.png){width="0.5338145231846019in"
+height="0.297995406824147in"}
+
 > **KAUPAN TYÖEHTOSOPIMUS** 1.2.2023--31.1.2025
 >
 > ja PALKKALIITE
@@ -6763,8 +6766,8 @@ Viikko 1 2 3 4 5 6 Työtuntien määrä
 
 ## Lomakkeet
 
-> ![](vertopal_57578efb67f74166a98baf273d8e9dc8/media/image2.png){width="0.2949420384951881in"
-> height="0.2601629483814523in"}![](vertopal_57578efb67f74166a98baf273d8e9dc8/media/image3.png){width="0.20214129483814522in"
+> ![](vertopal_8f97f4f4cc344ecdbe0e6ccf00fee4ad/media/image2.png){width="0.2949420384951881in"
+> height="0.2601629483814523in"}![](vertopal_8f97f4f4cc344ecdbe0e6ccf00fee4ad/media/image3.png){width="0.20214129483814522in"
 > height="0.11284011373578302in"}**ERIMIELISYYSMUISTIO**
 >
 > Yritys
@@ -8908,3 +8911,7 @@ Työote 1 piste 2 pistettä 3 pistettä 4 pistettä
 > 020 690 211
 >
 > [www.pam.fi](http://www.pam.fi/)
+
+![](vertopal_8f97f4f4cc344ecdbe0e6ccf00fee4ad/media/image4.png){width="0.4090758967629046in"
+height="0.22836067366579177in"}![](vertopal_8f97f4f4cc344ecdbe0e6ccf00fee4ad/media/image5.png){width="0.7515266841644794in"
+height="0.2708333333333333in"}
