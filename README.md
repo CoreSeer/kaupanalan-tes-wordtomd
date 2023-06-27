@@ -1,6963 +1,8910 @@
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.001.png)![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.002.png)
+> **KAUPAN TYÖEHTOSOPIMUS** 1.2.2023--31.1.2025
+>
+> ja PALKKALIITE
+>
+> 1.6.2023--31.1.2025
+>
+> **Kaupan työehtosopimus** 1.2.2023--31.1.2025
 
+ja Palkkaliite
 
+> 1.6.2023--31.1.2025
 
+####  A Työehtosopimus s. 15--89
 
+> B Ammattiryhmäpöytäkirjat
+> \...\...\...\...\...\...\...\...\...\...\...\...\...\.... s. 92--107
 
+-   Asentajat ja huoltomiehet
 
+-   Huolto- ja liikenneasematyöntekijät
 
+-   Kioskimyyjät
 
+-   Provisiopalkkaiset myyjät
 
+-   Somistajat
 
+-   Tukkumyyjät ja ostajat
 
+-   Logistiikkatyöntekijät
 
+####  C Työaikapöytäkirjat \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\... s. 108--130
 
+-   Arkipyhäjärjestelmä
 
+-   Vuosityöajan lyhennys
 
+-   Joustava kokoaikatyö
 
+-   Lisätyön tarjoaminen
 
+-   Kokoaikatyön tarjoaminen
 
+-   Työaikapankki
 
+-   Väkivallan uhka
 
+####  D Sopimukset \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\... s. 132--160
 
+> Luottamusmiessopimus Työsuojelun yhteistoimintasopimus Koulutussopimus
 
+####  E Lomakkeet\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...s. 162--169
 
+> Erimielisyysmuistio Työsopimuslomake
 
+####  F Palkkaliite\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\... s. 171--203
 
+1.  Vuosiportaat
 
+2.  Vaativuustasojen yleiskuvaus
 
+3.  Konttoritöiden vaativuustasot
 
+4.  Palkkaryhmät
 
-<a name="kauppa_tes_kansi_web.pdf"></a>**KAUPAN TYÖEHTOSOPIMUS** 1.2.2023–31.1.2025
+5.  Taulukkopalkat 1.6.2023 alkaen
 
-**ja PALKKALIITE**
+6.  Taulukkopalkat 1.6.2024 alkaen
 
-1\.6.2023–31.1.2025
+7.  Lisät
 
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.003.png)![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.004.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
-<a name="taitto_tes_kauppa2023"></a>**Kaupan työehtosopimus** 1.2.2023–31.1.2025
-
-**ja Palkkaliite**
-
-1\.6.2023–31.1.2025
-
-#### ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.005.png) A   Työehtosopimus	s. 15–89
-` `B   Ammattiryhmäpöytäkirjat ........................................... s. 92–107
-
-- ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.006.png)Asentajat ja huoltomiehet
-- Huolto- ja liikenneasematyöntekijät
-- Kioskimyyjät
-- Provisiopalkkaiset myyjät
-- Somistajat
-- Tukkumyyjät ja ostajat
-- Logistiikkatyöntekijät
-
-#### ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.007.png) C   Työaikapöytäkirjat ...................................................... s. 108–130
-- Arkipyhäjärjestelmä
-- Vuosityöajan lyhennys
-- Joustava kokoaikatyö
-- Lisätyön tarjoaminen
-- Kokoaikatyön tarjoaminen
-- Työaikapankki
-- Väkivallan uhka
-
-#### ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.008.png) D  Sopimukset .................................................................. s. 132–160
-Luottamusmiessopimus Työsuojelun yhteistoimintasopimus Koulutussopimus
-#### ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.009.png) E  Lomakkeet.....................................................................s. 162–169
-Erimielisyysmuistio Työsopimuslomake
-#### ` `F  Palkkaliite..................................................................... s. 171–203
-1. ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.010.png)Vuosiportaat
-1. Vaativuustasojen yleiskuvaus
-1. Konttoritöiden vaativuustasot
-1. Palkkaryhmät
-1. Taulukkopalkat 1.6.2023 alkaen
-1. Taulukkopalkat 1.6.2024 alkaen
-1. Lisät
-
-Kaupan työehtosopimus 1.2.2023–31.1.2025
-
-13
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.011.png)![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.012.png)
 # K[AUPAN TYÖEHTOSOPIMUS](#_bookmark0)
 
-SISÄLLYS
+> SISÄLLYS
 
-1. [SOVELTAMISALA	16](#_bookmark0)
+1.  [SOVELTAMISALA 16](#_bookmark0)
 
-[1 § Sopimuksen ulottuvuus	16](#_bookmark0)
+[1 § Sopimuksen ulottuvuus 16](#_bookmark0)
 
-1. [TYÖSUHDE	17](#_bookmark1)
+2.  [TYÖSUHDE 17](#työsuhde)
 
-   2. [§ Työnjohto	17](#_bookmark1)
-   2. [§ Työsopimus ja koeaika	17](#_bookmark1)
-   2. [§ Määräaikainen sopimus	18](#_bookmark2)
-   2. [§ Työsuhteen päättyminen ja lomautus	18](#_bookmark2)
+    2.  [§ Työnjohto 17](#työsuhde)
 
-[*Irtisanomisaika	18*](#_bookmark2)
+    3.  [§ Työsopimus ja koeaika 17](#työsuhde)
 
-[*Korvaukset	20*](#_bookmark3)
+    4.  [§ Määräaikainen sopimus 18](#määräaikainen-sopimus)
 
-[*Työsuhteen purkaminen	21*](#_bookmark4)
+    5.  [§ Työsuhteen päättyminen ja lomautus
+        18](#määräaikainen-sopimus)
 
-[*Lomautus	21*](#_bookmark4)
+[*Irtisanomisaika 18*](#määräaikainen-sopimus)
 
-1. [TYÖAIKA	22](#_bookmark5)
-6. [§ Työaika	22](#_bookmark5)
+[*Korvaukset 20*](#_bookmark3)
 
-[*Työajasta sopiminen	22*](#_bookmark5)
+[*Työsuhteen purkaminen 21*](#_bookmark4)
 
-[*Säännöllisen työajan järjestäminen viikon jaksossa	22*](#_bookmark5)
+[*Lomautus 21*](#_bookmark4)
 
-[*Tasoittumisjärjestelmä	23*](#_bookmark6)
+3.  [TYÖAIKA 22](#työaika)
 
-[*Säännöllisen työajan järjestäminen tasoittumisjaksossa	23*](#_bookmark6)
+```{=html}
+<!-- -->
+```
+6.  [§ Työaika 22](#työaika)
 
-[*2–26 viikon tasoittumisjakso	24*](#_bookmark7)
+[*Työajasta sopiminen 22*](#työaika)
 
-[*27–52 viikon tasoittumisjakso	24*](#_bookmark7)
+[*Säännöllisen työajan järjestäminen viikon jaksossa 22*](#työaika)
 
-[*Työvuoroluettelo	25*](#_bookmark8)
+[*Tasoittumisjärjestelmä 23*](#_bookmark6)
 
-[*Työhönsidonnaisuusaika	27*](#_bookmark9)
+[*Säännöllisen työajan järjestäminen tasoittumisjaksossa
+23*](#_bookmark6)
 
-[*Vuorokausilepo	27*](#_bookmark9)
+[*2--26 viikon tasoittumisjakso 24*](#_bookmark7)
 
-[*Viikkolepo	27*](#_bookmark9)
+[*27--52 viikon tasoittumisjakso 24*](#_bookmark7)
 
-[*Yötyö	27*](#_bookmark9)
+[*Työvuoroluettelo 25*](#työvuoroluettelo)
 
-[*Varallaolo ja hätätyö	28*](#_bookmark10)
+[*Työhönsidonnaisuusaika 27*](#työhönsidonnaisuusaika)
 
-[*Liukuva työaika	28*](#_bookmark10)
+[*Vuorokausilepo 27*](#työhönsidonnaisuusaika)
 
-[*Muut työaikajärjestelyt	29*](#_bookmark11)
+[*Viikkolepo 27*](#työhönsidonnaisuusaika)
 
-6. [§ Vapaat	29](#_bookmark11)
+[*Yötyö 27*](#työhönsidonnaisuusaika)
 
-[*Vapaapäivät	29*](#_bookmark11)
+[*Varallaolo ja hätätyö 28*](#_bookmark10)
 
-[*Tasoittumisjakso ja vapaapäivä	30*](#_bookmark12)
+[*Liukuva työaika 28*](#_bookmark10)
 
-[*Työviikko	30*](#_bookmark12)
+[*Muut työaikajärjestelyt 29*](#_bookmark11)
 
-[*Vuosivapaajärjestelmä	31*](#_bookmark13)
+7.  [§ Vapaat 29](#_bookmark11)
 
-[*Vuosivapaan ansainta	31*](#_bookmark13)
+[*Vapaapäivät 29*](#_bookmark11)
 
-[*Vuosivapaan antaminen	32*](#_bookmark14)
+[*Tasoittumisjakso ja vapaapäivä 30*](#tasoittumisjakso-ja-vapaapäivä)
 
-[*Vuosivapaan vaikutus työaikaan ja vuosivapaan pituudesta*](#_bookmark15)
+[*Työviikko 30*](#tasoittumisjakso-ja-vapaapäivä)
 
-[*toisin sopiminen	34*](#_bookmark15)
+[*Vuosivapaajärjestelmä 31*](#_bookmark13)
 
-[*Palkka vuosivapaan ajalta	35*](#_bookmark16)
+[*Vuosivapaan ansainta 31*](#_bookmark13)
 
-[*Vuosivapaan maksaminen rahakorvauksena	36*](#_bookmark17)
+[*Vuosivapaan antaminen 32*](#_bookmark14)
 
-[*Vuosivapaat työsuhteen päättyessä	37*](#_bookmark18)
+[*Vuosivapaan vaikutus työaikaan ja vuosivapaan
+pituudesta*](#vuosivapaan-vaikutus-työaikaan-ja-vuosivapaan-pituudesta-toisin-sopiminen)
 
-[*Vapaapäivien sijoittelu	37*](#_bookmark18)
+[*toisin sopiminen
+34*](#vuosivapaan-vaikutus-työaikaan-ja-vuosivapaan-pituudesta-toisin-sopiminen)
 
-6. [§ Ruoka- ja kahvitauko	39](#_bookmark19)
+[*Palkka vuosivapaan ajalta 35*](#_bookmark16)
 
-[*Ruokatauko	39*](#_bookmark19)
+[*Vuosivapaan maksaminen rahakorvauksena
+36*](#vuosivapaan-maksaminen-rahakorvauksena)
 
-[*Kahvitauko	39*](#_bookmark19)
+[*Vuosivapaat työsuhteen päättyessä
+37*](#vuosivapaat-työsuhteen-päättyessä)
 
-6. [§ Lisä- ja ylityö	40](#_bookmark20)
+[*Vapaapäivien sijoittelu 37*](#vuosivapaat-työsuhteen-päättyessä)
 
-[*Lisätyö	40*](#_bookmark20)
+8.  [§ Ruoka- ja kahvitauko 39](#ruoka--ja-kahvitauko)
 
-[*Ylityö	40*](#_bookmark20)
+[*Ruokatauko 39*](#ruoka--ja-kahvitauko)
 
-[*Lisä- ja ylityösuostumus	40*](#_bookmark20)
+[*Kahvitauko 39*](#ruoka--ja-kahvitauko)
 
-[*Lisätyön tarjoamisen periaatteiden käsittely	40*](#_bookmark20)
+9.  [§ Lisä- ja ylityö 40](#lisä--ja-ylityö)
 
-[*Korotettu palkka	40*](#_bookmark20)
+[*Lisätyö 40*](#lisä--ja-ylityö)
 
-[*Korotettu palkka tasoittumisjaksossa	42*](#_bookmark21)
+[*Ylityö 40*](#lisä--ja-ylityö)
 
-[*Korotetun palkan maksaminen tasoittumisjaksossa	44*](#_bookmark22)
+[*Lisä- ja ylityösuostumus 40*](#lisä--ja-ylityö)
 
-[*Lisä- ja ylityökorvaus vapaa-aikana	44*](#_bookmark22)
+[*Lisätyön tarjoamisen periaatteiden käsittely 40*](#lisä--ja-ylityö)
 
-[*Työsopimuksen päättyminen kesken tasoittumisjakson	45*](#_bookmark23)
+[*Korotettu palkka 40*](#lisä--ja-ylityö)
 
-[*Työajan enimmäismäärä	46*](#_bookmark24)
+[*Korotettu palkka tasoittumisjaksossa 42*](#_bookmark21)
 
-[*Tuntipalkkajakaja	46*](#_bookmark24)
+[*Korotetun palkan maksaminen tasoittumisjaksossa 44*](#_bookmark22)
 
-[*Lisä- ja ylityökorvausten vanhentuminen	46*](#_bookmark24)
+[*Lisä- ja ylityökorvaus vapaa-aikana 44*](#_bookmark22)
 
-6. [§ Sunnuntaityö	46](#_bookmark24)
-1. [PALKKAUS	47](#_bookmark25)
-6. [§ Työpalkat	47](#_bookmark25)
+[*Työsopimuksen päättyminen kesken tasoittumisjakson
+45*](#työsopimuksen-päättyminen-kesken-tasoittumisjakson)
 
-[*Palkan suuruus	47*](#_bookmark25)
+[*Työajan enimmäismäärä 46*](#_bookmark24)
 
-[*Palvelusaika	47*](#_bookmark25)
+[*Tuntipalkkajakaja 46*](#_bookmark24)
 
-[*Koulutus	48*](#_bookmark26)
+[*Lisä- ja ylityökorvausten vanhentuminen 46*](#_bookmark24)
 
-[*Työskentely vaativammassa tehtävässä	48*](#_bookmark26)
+10. [§ Sunnuntaityö 46](#_bookmark24)
 
-[*Tilapäinen siirto	48*](#_bookmark26)
+```{=html}
+<!-- -->
+```
+4.  [PALKKAUS 47](#palkkaus)
 
-[*Siirto vaativuustasossa	49*](#_bookmark27)
+```{=html}
+<!-- -->
+```
+11. [§ Työpalkat 47](#palkkaus)
 
-[*Vaativuustasojen ylittävä palkka	49*](#_bookmark27)
+[*Palkan suuruus 47*](#palkkaus)
 
-[*Osakuukauden palkka	49*](#_bookmark27)
+[*Palvelusaika 47*](#palkkaus)
 
-[*Koululaispalkka	50*](#_bookmark28)
+[*Koulutus 48*](#_bookmark26)
 
-[*Taulukkopalkat	51*](#_bookmark29)
+[*Työskentely vaativammassa tehtävässä 48*](#_bookmark26)
 
-[*Alle 37,5 tuntia tekevät	51*](#_bookmark29)
+[*Tilapäinen siirto 48*](#_bookmark26)
 
-6. [§ Myyjät ja myymälätyöntekijät	51](#_bookmark29)
+[*Siirto vaativuustasossa 49*](#siirto-vaativuustasossa)
 
-[*Harjoitteluaika	51*](#_bookmark29)
+[*Vaativuustasojen ylittävä palkka 49*](#siirto-vaativuustasossa)
 
-[*Vaativuustasot	51*](#_bookmark29)
+[*Osakuukauden palkka 49*](#siirto-vaativuustasossa)
 
-[*Iltalisä	52*](#_bookmark30)
+[*Koululaispalkka 50*](#_bookmark28)
 
-[*Aattoiltalisä	53*](#_bookmark31)
+[*Taulukkopalkat 51*](#taulukkopalkat)
 
-[*Yölisä	53*](#_bookmark31)
+[*Alle 37,5 tuntia tekevät 51*](#taulukkopalkat)
 
-[*Lauantailisä	53*](#_bookmark31)
+12. [§ Myyjät ja myymälätyöntekijät 51](#taulukkopalkat)
 
-[*Inventaarilisä lauantaina	54*](#_bookmark32)
+[*Harjoitteluaika 51*](#taulukkopalkat)
 
-[*Vastuulisä	54*](#_bookmark32)
+[*Vaativuustasot 51*](#taulukkopalkat)
 
-[*Myymälänhoitajan sijaisuuslisä	54*](#_bookmark32)
+[*Iltalisä 52*](#_bookmark30)
 
-[*Kylmä- ja pakkashuonelisä	55*](#_bookmark33)
+[*Aattoiltalisä 53*](#aattoiltalisä)
 
-[*Hälytysraha	55*](#_bookmark33)
+[*Yölisä 53*](#aattoiltalisä)
 
-6. [§ Logistiikkatyöntekijät](#_bookmark33)	56
+[*Lauantailisä 53*](#aattoiltalisä)
 
-[*Harjoitteluaika](#_bookmark33)	*56*
+[*Inventaarilisä lauantaina 54*](#_bookmark32)
 
-[*Iltalisä	56*](#_bookmark34)
+[*Vastuulisä 54*](#_bookmark32)
 
-[*Yölisä	56*](#_bookmark34)
+[*Myymälänhoitajan sijaisuuslisä 54*](#_bookmark32)
 
-[*Lauantailisä	56*](#_bookmark34)
+[*Kylmä- ja pakkashuonelisä 55*](#_bookmark33)
 
-[*Olosuhdelisät	56*](#_bookmark34)
+[*Hälytysraha 55*](#_bookmark33)
 
-[*Pakastevarastolisä	57*](#_bookmark35)
+13. [§ Logistiikkatyöntekijät](#_bookmark33) 56
 
-[*Työryhmän vanhin (nokkamies)	57*](#_bookmark35)
+*[Harjoitteluaika](#_bookmark33) 56*
 
-[*Hälytysraha](#_bookmark35)	*58*
+[*Iltalisä 56*](#logistiikkatyöntekijät)
 
-[*Vaativuusluokitus](#_toc_250011)	*58*
+[*Yölisä 56*](#logistiikkatyöntekijät)
 
-6. [§ Toimihenkilöt	58](#_bookmark36)
+[*Lauantailisä 56*](#logistiikkatyöntekijät)
 
-[*Harjoitteluaika	58*](#_bookmark36)
+[*Olosuhdelisät 56*](#logistiikkatyöntekijät)
 
-[*Työaikalisät	58*](#_bookmark36)
+[*Pakastevarastolisä 57*](#_bookmark35)
 
-[*Vaativuusluokitus	58*](#_bookmark36)
+[*Työryhmän vanhin (nokkamies) 57*](#_bookmark35)
 
-6. [§ Muut ammattiryhmät	5](#_bookmark36)9
+*[Hälytysraha](#_bookmark35) 58*
 
-[*Pika- ja noutotukkutyöntekijät](#_bookmark36)	*59*
+*[Vaativuusluokitus](#vaativuusluokitus) 58*
 
-[*Vahtimestarit	59*](#_bookmark37)
+14. [§ Toimihenkilöt 58](#hälytysraha-2)
 
-[*Lähetit	59*](#_bookmark37)
+[*Harjoitteluaika 58*](#hälytysraha-2)
 
-[*Korjausompelijat	59*](#_bookmark37)
+[*Työaikalisät 58*](#hälytysraha-2)
 
-[*Siivoojat	59*](#_bookmark37)
+[*Vaativuusluokitus 58*](#hälytysraha-2)
 
-1. [POISSAOLOT	60](#_bookmark38)
-6. [§ Sairastuminen	60](#_bookmark38)
+15. [§ Muut ammattiryhmät 5](#hälytysraha-2)9
 
-[*Palkanmaksun edellytykset	60*](#_bookmark38)
+*[Pika- ja noutotukkutyöntekijät](#hälytysraha-2) 59*
 
-[*Ilmoitusvelvollisuus ja lääkärintodistus	60*](#_bookmark38)
+[*Vahtimestarit 59*](#muut-ammattiryhmät)
 
-[*Menettely terveyspalveluiden puuttuessa	61*](#_bookmark39)
+[*Lähetit 59*](#muut-ammattiryhmät)
 
-[*Omailmoitusmenettely	61*](#_bookmark39)
+[*Korjausompelijat 59*](#muut-ammattiryhmät)
 
-[*Työskentely osittaisella työkyvyllä	62*](#_bookmark40)
+[*Siivoojat 59*](#muut-ammattiryhmät)
 
-[*Palkanmaksu	63*](#_bookmark41)
+5.  [POISSAOLOT 60](#poissaolot)
 
-[*Sairauden uusiutuminen	64*](#_bookmark42)
+```{=html}
+<!-- -->
+```
+16. [§ Sairastuminen 60](#poissaolot)
 
-[*Karanteeni	65*](#_bookmark43)
+[*Palkanmaksun edellytykset 60*](#poissaolot)
 
-[*Alle 37,5 tuntia tekevät	65*](#_bookmark43)
+[*Ilmoitusvelvollisuus ja lääkärintodistus 60*](#poissaolot)
 
-6. [§ Tilapäinen poissaolo	66](#_bookmark44)
+[*Menettely terveyspalveluiden puuttuessa 61*](#_bookmark39)
 
-[*Äkillinen sairaus perheessä	66*](#_bookmark44)
+[*Omailmoitusmenettely 61*](#_bookmark39)
 
-[*Vihkiminen ja merkkipäivä	67*](#_bookmark45)
+[*Työskentely osittaisella työkyvyllä 62*](#_bookmark40)
 
-[*Kuolema ja hautajaiset	67*](#_bookmark45)
+[*Palkanmaksu 63*](#palkanmaksu)
 
-[*Kutsunta ja kertausharjoitukset	68*](#_bookmark46)
+[*Sairauden uusiutuminen 64*](#_bookmark42)
 
-[*Yhteiskunnallinen toiminta	68*](#_bookmark46)
+[*Karanteeni 65*](#_bookmark43)
 
-[*Vaikeasti sairas lapsi	68*](#_bookmark46)
+[*Alle 37,5 tuntia tekevät 65*](#_bookmark43)
 
-[*Vuosilomaedut	68*](#_bookmark46)
+17. [§ Tilapäinen poissaolo 66](#tilapäinen-poissaolo)
 
-6. [§ Lääkärintarkastukset	69](#_bookmark47)
+[*Äkillinen sairaus perheessä 66*](#tilapäinen-poissaolo)
 
-[*Palkanmaksun edellytykset	69*](#_bookmark47)
+[*Vihkiminen ja merkkipäivä 67*](#_bookmark45)
 
-6. [§ Lapsen syntymä	70](#_bookmark48)
+[*Kuolema ja hautajaiset 67*](#_bookmark45)
 
-[*Perhevapaat	70*](#_bookmark48)
+[*Kutsunta ja kertausharjoitukset 68*](#_bookmark46)
 
-[*Palkanmaksu perhevapaiden ajalta	70*](#_bookmark48)
+[*Yhteiskunnallinen toiminta 68*](#_bookmark46)
 
-[*Ilmoitusajat	71*](#_bookmark49)
+[*Vaikeasti sairas lapsi 68*](#_bookmark46)
 
-[*Vapaan ajankohdan muuttaminen	71*](#_bookmark49)
+[*Vuosilomaedut 68*](#_bookmark46)
 
-1. [VUOSILOMA	72](#_bookmark50)
-6. [§ Vuosiloma	72](#_bookmark50)
+18. [§ Lääkärintarkastukset 69](#lääkärintarkastukset)
 
-[*Loman pituus	72*](#_bookmark50)
+[*Palkanmaksun edellytykset 69*](#lääkärintarkastukset)
 
-[*Loman antaminen	73*](#_bookmark51)
+19. [§ Lapsen syntymä 70](#_bookmark48)
 
-[*Loma ja vapaapäivä	73*](#_bookmark51)
+[*Perhevapaat 70*](#_bookmark48)
 
-[*Lomapalkan ja lomakorvauksen maksaminen	74*](#_bookmark52)
+[*Palkanmaksu perhevapaiden ajalta 70*](#_bookmark48)
 
-[*Lomapalkan laskeminen	74*](#_bookmark52)
+[*Ilmoitusajat 71*](#_bookmark49)
 
-[*Lomapalkan laskeminen lisien osalta	74*](#_bookmark52)
+[*Vapaan ajankohdan muuttaminen 71*](#_bookmark49)
 
-[*Alle 37,5 tuntia tekevät	75*](#_bookmark53)
+6.  [VUOSILOMA 72](#vuosiloma)
 
-20. [a § Vuosilomalain mukaisen lisävapaapäivän korvaus	78](#_bookmark54)
+```{=html}
+<!-- -->
+```
+20. [§ Vuosiloma 72](#vuosiloma)
+
+[*Loman pituus 72*](#vuosiloma)
+
+[*Loman antaminen 73*](#_bookmark51)
+
+[*Loma ja vapaapäivä 73*](#_bookmark51)
+
+[*Lomapalkan ja lomakorvauksen maksaminen 74*](#_bookmark52)
+
+[*Lomapalkan laskeminen 74*](#_bookmark52)
+
+[*Lomapalkan laskeminen lisien osalta 74*](#_bookmark52)
+
+[*Alle 37,5 tuntia tekevät 75*](#_bookmark53)
+
+20. [a § Vuosilomalain mukaisen lisävapaapäivän korvaus
+    78](#_bookmark54)
 
 [*Lisävapaapäivän korvauksen laskenta kokoaikaisella*](#_bookmark54)
 
-[*kuukausipalkkaisella työntekijällä	78*](#_bookmark54)
+[*kuukausipalkkaisella työntekijällä 78*](#_bookmark54)
 
-[*Lisävapaapäivän korvauksen laskenta alle 37,5 tuntia tekevällä	78*](#_bookmark54)
+[*Lisävapaapäivän korvauksen laskenta alle 37,5 tuntia tekevällä
+78*](#_bookmark54)
 
-20. [§ Lomaraha	79](#_bookmark55)
+21. [§ Lomaraha 79](#lomaraha)
 
-[*Suuruus	79*](#_bookmark55)
+[*Suuruus 79*](#lomaraha)
 
-[*Maksamisedellytykset	79*](#_bookmark55)
+[*Maksamisedellytykset 79*](#lomaraha)
 
-[*Hoitovapaa	80*](#_bookmark56)
+[*Hoitovapaa 80*](#_bookmark56)
 
-[*Varusmiespalvelus	80*](#_bookmark56)
+[*Varusmiespalvelus 80*](#_bookmark56)
 
-[*Työsuhteen päättyminen loman aikana	80*](#_bookmark56)
+[*Työsuhteen päättyminen loman aikana 80*](#_bookmark56)
 
-[*Eläkkeelle siirtyminen	81*](#_bookmark57)
+[*Eläkkeelle siirtyminen 81*](#eläkkeelle-siirtyminen)
 
-[*Maksamisaika	81*](#_bookmark57)
+[*Maksamisaika 81*](#eläkkeelle-siirtyminen)
 
-[*Lomarahan vaihtaminen vapaaksi	81*](#_bookmark57)
+[*Lomarahan vaihtaminen vapaaksi 81*](#eläkkeelle-siirtyminen)
 
-[*Alle 37,5 tuntia tekevät	82*](#_bookmark58)
+[*Alle 37,5 tuntia tekevät 82*](#_bookmark58)
 
-1. [MATKAT	83](#_bookmark59)
-20. [§ Matkakustannukset	83](#_bookmark59)
+7.  [MATKAT 83](#matkat)
 
-[*Matkakustannukset	83*](#_bookmark59)
+```{=html}
+<!-- -->
+```
+22. [§ Matkakustannukset 83](#matkat)
 
-[*Yrityksen matkustussääntö	83*](#_bookmark59)
+[*Matkakustannukset 83*](#matkat)
 
-[*Päiväraha	83*](#_bookmark59)
+[*Yrityksen matkustussääntö 83*](#matkat)
 
-[*Ateriakorvaus	83*](#_bookmark59)
+[*Päiväraha 83*](#matkat)
 
-1. [SOPIMINEN TYÖPAIKALLA	84](#_bookmark60)
-20. [§ Työpaikkakohtainen sopiminen	84](#_bookmark60)
-20. [§ Paikallinen sopiminen	84](#_bookmark60)
-1. [ERINÄISET MÄÄRÄYKSET	85](#_bookmark61)
-20. [§ Erinäiset määräykset	85](#_bookmark61)
+[*Ateriakorvaus 83*](#matkat)
 
-[*Noudatettavat sopimukset	85*](#_bookmark61)
+8.  [SOPIMINEN TYÖPAIKALLA 84](#sopiminen-työpaikalla)
 
-[*Jäsenmaksuperintä	85*](#_bookmark61)
+```{=html}
+<!-- -->
+```
+23. [§ Työpaikkakohtainen sopiminen 84](#sopiminen-työpaikalla)
 
-[*Kokoontuminen työpaikalla	86*](#_bookmark62)
+24. [§ Paikallinen sopiminen 84](#sopiminen-työpaikalla)
 
-[*Luottamusmies	86*](#_bookmark62)
+```{=html}
+<!-- -->
+```
+9.  [ERINÄISET MÄÄRÄYKSET 85](#erinäiset-määräykset)
 
-[*PAMin valtuuston ja hallituksen jäsen	86*](#_bookmark62)
+```{=html}
+<!-- -->
+```
+25. [§ Erinäiset määräykset 85](#erinäiset-määräykset)
 
-[*Perehdyttäminen	86*](#_bookmark62)
+[*Noudatettavat sopimukset 85*](#erinäiset-määräykset)
 
-[*Ryhmähenkivakuutus	87*](#_bookmark63)
+[*Jäsenmaksuperintä 85*](#erinäiset-määräykset)
 
-[*Työasut – myyjät	87*](#_bookmark63)
+[*Kokoontuminen työpaikalla 86*](#_bookmark62)
 
-[*Työasut – logistiikkatyöntekijät	87*](#_bookmark63)
+[*Luottamusmies 86*](#_bookmark62)
 
-[*Kassavaje	87*](#_bookmark63)
+[*PAMin valtuuston ja hallituksen jäsen 86*](#_bookmark62)
 
-1. [NEUVOTTELUJÄRJESTYS JA TYÖRAUHA	88](#_bookmark64)
-20. [§ Erimielisyydet	88](#_bookmark64)
+[*Perehdyttäminen 86*](#_bookmark62)
 
-[*Paikalliset neuvottelut	88*](#_bookmark64)
+[*Ryhmähenkivakuutus 87*](#ryhmähenkivakuutus)
 
-[*Liittoneuvottelut	88*](#_bookmark64)
+[*Työasut -- myyjät 87*](#ryhmähenkivakuutus)
 
-[*Neuvottelujen toteutus	88*](#_bookmark64)
+[*Työasut -- logistiikkatyöntekijät 87*](#ryhmähenkivakuutus)
 
-[*Työtuomioistuin	88*](#_bookmark64)
+[*Kassavaje 87*](#ryhmähenkivakuutus)
 
-20. [§ Työrauha ja sopimusrikkomukset	88](#_bookmark64)
-1. [VOIMASSAOLO	89](#_bookmark65)
-20. [§ Sopimuksen voimassaolo	89](#_bookmark65)
+10. [NEUVOTTELUJÄRJESTYS JA TYÖRAUHA
+    88](#neuvottelujärjestys-ja-työrauha)
 
-[AMMATTIRYHMÄPÖYTÄKIRJAT	92](#_bookmark66)
+```{=html}
+<!-- -->
+```
+26. [§ Erimielisyydet 88](#neuvottelujärjestys-ja-työrauha)
 
-[ASENTAJAT JA HUOLTOMIEHET	92](#_bookmark66)
+[*Paikalliset neuvottelut 88*](#neuvottelujärjestys-ja-työrauha)
 
-1. [§ Ulottuvuus	92](#_bookmark66)
-1. [§ Ohjeelliset ansioluvut ja vähimmäispalkka	92](#_bookmark66)
+[*Liittoneuvottelut 88*](#neuvottelujärjestys-ja-työrauha)
 
-[*Vaativuustasot	93*](#_bookmark67)
+[*Neuvottelujen toteutus 88*](#neuvottelujärjestys-ja-työrauha)
 
-[*Vähimmäispalkka	93*](#_bookmark67)
+[*Työtuomioistuin 88*](#neuvottelujärjestys-ja-työrauha)
 
-1. [§ Matkakustannukset	94](#_bookmark68)
-1. [§ Lomaraha	94](#_bookmark68)
+27. [§ Työrauha ja sopimusrikkomukset
+    > 88](#neuvottelujärjestys-ja-työrauha)
 
-[HUOLTO- JA LIIKENNEASEMATYÖNTEKIJÄT	95](#_bookmark69)
+```{=html}
+<!-- -->
+```
+11. [VOIMASSAOLO 89](#voimassaolo)
 
-1. [§ Ulottuvuus	95](#_bookmark69)
-1. [§ Sunnuntaityö	95](#_bookmark69)
-1. [§ Palkat	95](#_bookmark69)
+```{=html}
+<!-- -->
+```
+28. [§ Sopimuksen voimassaolo 89](#voimassaolo)
 
-[*Harjoitteluaika	95*](#_bookmark69)
+[AMMATTIRYHMÄPÖYTÄKIRJAT
+92](#ammattiryhmäpöytäkirjat-asentajat-ja-huoltomiehet)
 
-[*Palkkaryhmät	96*](#_bookmark70)
+[ASENTAJAT JA HUOLTOMIEHET
+92](#ammattiryhmäpöytäkirjat-asentajat-ja-huoltomiehet)
 
-[*Huolto- ja liikenneaseman ravintolatyöntekijä	96*](#_bookmark70)
+1.  [§ Ulottuvuus
+    92](#ammattiryhmäpöytäkirjat-asentajat-ja-huoltomiehet)
 
-[*Luvanhaltijan edustajan sijainen	97*](#_bookmark71)
+2.  [§ Ohjeelliset ansioluvut ja vähimmäispalkka
+    92](#ammattiryhmäpöytäkirjat-asentajat-ja-huoltomiehet)
 
-[*Huolto- ja liikenneaseman ravintolaesihenkilö	97*](#_bookmark71)
+[*Vaativuustasot 93*](#vaativuustasot-1)
 
-[*Huoltoasentajien vaativuustasot	97*](#_bookmark71)
+[*Vähimmäispalkka 93*](#vaativuustasot-1)
 
-1. [§ Lisät](#_bookmark72)	97
+3.  [§ Matkakustannukset 94](#matkakustannukset-2)
 
-*Hälytysraha	98*
+4.  [§ Lomaraha 94](#matkakustannukset-2)
 
-1. § Työasut	98
+[HUOLTO- JA LIIKENNEASEMATYÖNTEKIJÄT
+95](#huolto--ja-liikenneasematyöntekijät)
 
-[KIOSKIMYYJÄT](#_bookmark73)	99
+1.  [§ Ulottuvuus 95](#huolto--ja-liikenneasematyöntekijät)
 
-1. [§ Ulottuvuus](#_bookmark73)	99
-1. [§ Palkat](#_bookmark73)	99
-1. [§ Ilta- ja yölisä](#_bookmark73)	99
+2.  [§ Sunnuntaityö 95](#huolto--ja-liikenneasematyöntekijät)
 
-[*Iltalisä](#_bookmark73)	*99*
+3.  [§ Palkat 95](#huolto--ja-liikenneasematyöntekijät)
 
-[*Yölisä](#_bookmark73)	*99*
+[*Harjoitteluaika 95*](#huolto--ja-liikenneasematyöntekijät)
 
-[*Ilta- ja yölisät sunnuntaina](#_bookmark73)	*99*
+[*Palkkaryhmät 96*](#palkkaryhmät)
 
-1. [§ Työaika	10](#_bookmark74)0
-1. [§ Sunnuntaityö	10](#_bookmark74)0
+[*Huolto- ja liikenneaseman ravintolatyöntekijä 96*](#palkkaryhmät)
 
-[PROVISIOPALKKAISET MYYJÄT	1](#_bookmark75)01
+[*Luvanhaltijan edustajan sijainen 97*](#_bookmark71)
 
-1. [§ Henkilökohtainen provisiopalkka	1](#_bookmark75)01
-1. [§ Keskimääräinen päiväpalkka	1](#_bookmark75)01
+[*Huolto- ja liikenneaseman ravintolaesihenkilö 97*](#_bookmark71)
 
-[SOMISTAJAT	1](#_bookmark76)02
+[*Huoltoasentajien vaativuustasot 97*](#_bookmark71)
 
-1. [§ Ulottuvuus	1](#_bookmark76)02
-1. [§ Työpalkat	1](#_bookmark76)02
+4.  [§ Lisät](#_bookmark72) 97
 
-[*Palvelusaika	1](#_bookmark76)*02*
+*Hälytysraha 98*
 
-[*Vaativuustasot	1](#_bookmark76)*02*
+5.  § Työasut 98
 
-[*Erityisen vaativa somistus	1](#_bookmark77)*03*
+[KIOSKIMYYJÄT](#kioskimyyjät) 99
 
-[*Työskentely vaativammassa tehtävässä	1](#_bookmark77)*03*
+1.  [§ Ulottuvuus](#kioskimyyjät) 99
 
-1. [§ Työasut	1](#_bookmark77)03
+2.  [§ Palkat](#kioskimyyjät) 99
 
-[TUKKUMYYJÄT JA OSTAJAT	10](#_bookmark78)4
+3.  [§ Ilta- ja yölisä](#kioskimyyjät) 99
 
-1. [§ Ulottuvuus	10](#_bookmark78)4
-1. [§ Vaativuustasot	10](#_bookmark78)4
-1. [§ Muut määräykset	10](#_bookmark79)5
+*[Iltalisä](#kioskimyyjät) 99*
 
-LOGISTIIKKAT[YÖNTEKIJÄT	1](#_bookmark80)06
+*[Yölisä](#kioskimyyjät) 99*
 
-1. [§ Suorituspalkkaus	10](#_bookmark80)6
-1. [§ Yleiskorotus suorituspalkassa	1](#_bookmark81)07
-1. [§ Eräistä määräyksistä toisin sopiminen	1](#_bookmark81)07
-1. [§ Sairauspoissaolojen määrän tarkastelu ja vähentäminen	1](#_bookmark81)07
+*[Ilta- ja yölisät sunnuntaina](#kioskimyyjät) 99*
 
-[TYÖAIKAPÖYTÄKIRJAT](#_bookmark82)	108
+4.  [§ Työaika 10](#työaika-2)0
 
-[ARKIPYHÄJÄRJESTELMÄ](#_bookmark82)	108
+5.  [§ Sunnuntaityö 10](#työaika-2)0
 
-[*Arkipyhäjärjestelmän käyttöönotto	10](#_bookmark82)*8*
+[PROVISIOPALKKAISET MYYJÄT 1](#provisiopalkkaiset-myyjät)01
 
-[*Arkipyhäviikon työajan lyhennys	10](#_bookmark82)*8*
+1.  [§ Henkilökohtainen provisiopalkka 1](#provisiopalkkaiset-myyjät)01
 
-[*Lisä- ja ylityö](#_bookmark83)	*111*
+2.  [§ Keskimääräinen päiväpalkka 1](#provisiopalkkaiset-myyjät)01
 
-[*Korotettu palkka](#_bookmark83)	*111*
+[SOMISTAJAT 1](#somistajat)02
 
-[VUOSITYÖAJAN LYHENNYS	11](#_bookmark84)3
+1.  [§ Ulottuvuus 1](#somistajat)02
 
-[*Soveltamisala	1](#_bookmark84)*13*
+2.  [§ Työpalkat 1](#somistajat)02
 
-[*Lyhennysmallit	1](#_bookmark84)*13*
+*[Palvelusaika 1](#somistajat)02*
 
-[*Lyhennys paikallisesti sopien	1](#_bookmark84)*13*
+*[Vaativuustasot 1](#somistajat)02*
 
-[*Pekkaspäivien ansainta	1](#_bookmark85)*14*
+*[Erityisen vaativa somistus 1](#erityisen-vaativa-somistus)03*
 
-[*Pekkaspäivien antaminen	1](#_bookmark85)*14*
+*[Työskentely vaativammassa tehtävässä
+1](#erityisen-vaativa-somistus)03*
 
-[*Poissaolot ja vuosiloma	1](#_bookmark85)*14*
+3.  [§ Työasut 1](#erityisen-vaativa-somistus)03
 
-[*Pekkaspäivät työsuhteen päättyessä	1](#_bookmark86)*15*
+[TUKKUMYYJÄT JA OSTAJAT 10](#tukkumyyjät-ja-ostajat)4
 
-[*Pekkaspäivät ja vuosivapaajärjestelmä	1](#_bookmark86)*15*
+1.  [§ Ulottuvuus 10](#tukkumyyjät-ja-ostajat)4
 
-[*Pekkaspäivät ja arkipyhäjärjestelmä	11](#_bookmark87)*6*
+2.  [§ Vaativuustasot 10](#tukkumyyjät-ja-ostajat)4
 
-[*Arkipyhäviikon työajan lyhennys	11](#_bookmark87)*6*
+3.  [§ Muut määräykset 10](#_bookmark79)5
 
-[*Lisä- ja ylityö sekä korotettu palkka	1](#_bookmark88)*17*
+LOGISTIIKKAT[YÖNTEKIJÄT 1](#logistiikkatyöntekijät-1)06
 
-[JOUSTAVA KOKOAIKATYÖ](#_bookmark89)	119
+1.  [§ Suorituspalkkaus 10](#logistiikkatyöntekijät-1)6
 
-[*Joustavan kokoaikatyön tarkoitus	1](#_bookmark89)*19*
+2.  [§ Yleiskorotus suorituspalkassa
+    1](#yleiskorotus-suorituspalkassa)07
 
-[*Järjestelmän käyttöönotto ja irtisanominen	1](#_bookmark89)*19*
+3.  [§ Eräistä määräyksistä toisin sopiminen
+    1](#yleiskorotus-suorituspalkassa)07
 
-[*Joustavasta kokoaikatyöstä sopiminen ja sopimuksen irtisanominen	1](#_bookmark89)*19*
+4.  [§ Sairauspoissaolojen määrän tarkastelu ja vähentäminen
+    1](#yleiskorotus-suorituspalkassa)07
 
-[*Joustavaa kokoaikatyötä koskevassa paikallisessa sopimuksessa*](#_bookmark90)
+[TYÖAIKAPÖYTÄKIRJAT](#työaikapöytäkirjat-arkipyhäjärjestelmä) 108
 
-[*sovittavat asiat	12](#_bookmark90)*0*
+[ARKIPYHÄJÄRJESTELMÄ](#työaikapöytäkirjat-arkipyhäjärjestelmä) 108
 
-[*Työntekijän kieltäytymisoikeus joustotunneista	12](#_bookmark90)*0*
+*[Arkipyhäjärjestelmän käyttöönotto
+10](#työaikapöytäkirjat-arkipyhäjärjestelmä)8*
 
-[*Muut työehdot	12](#_bookmark91)*1*
+*[Arkipyhäviikon työajan lyhennys
+10](#työaikapöytäkirjat-arkipyhäjärjestelmä)8*
 
-[LISÄTYÖN TARJOAMINEN	12](#_bookmark92)2
+*[Lisä- ja ylityö](#lisä--ja-ylityö-1) 111*
 
-[*Sopimus	12](#_bookmark93)*3*
+*[Korotettu palkka](#lisä--ja-ylityö-1) 111*
 
-[KOKOAIKATYÖN TARJOAMINEN	1](#_bookmark94)24
+[VUOSITYÖAJAN LYHENNYS 11](#vuosityöajan-lyhennys)3
 
-[TYÖAIKAPANKKI	127](#_bookmark95)
+*[Soveltamisala 1](#vuosityöajan-lyhennys)13*
 
-[*Siirrettävät työtunnit	127*](#_bookmark95)
+*[Lyhennysmallit 1](#vuosityöajan-lyhennys)13*
 
-[*Työaikapankkivapaan pitäminen	127*](#_bookmark95)
+*[Lyhennys paikallisesti sopien 1](#vuosityöajan-lyhennys)13*
 
-[*Työkyvyttömyys ja vapaa	128*](#_bookmark96)
+*[Pekkaspäivien ansainta 1](#pekkaspäivien-ansainta)14*
 
-[*Kirjanpito	128*](#_bookmark96)
+*[Pekkaspäivien antaminen 1](#pekkaspäivien-ansainta)14*
 
-[*Työsuhteen päättyminen	128*](#_bookmark96)
+*[Poissaolot ja vuosiloma 1](#pekkaspäivien-ansainta)14*
 
-[VÄKIVALLAN UHKA	129](#_bookmark97)
+*[Pekkaspäivät työsuhteen päättyessä
+1](#pekkaspäivät-työsuhteen-päättyessä)15*
 
-1. [§ Arviointi	129](#_bookmark97)
-1. [§ Torjunta ja jälkihoito	129](#_bookmark97)
-1. [§ Yksintyöskentely	130](#_bookmark98)
+*[Pekkaspäivät ja vuosivapaajärjestelmä
+1](#pekkaspäivät-työsuhteen-päättyessä)15*
 
-[LUOTTAMUSMIESSOPIMUS	132](#_bookmark99)
+*[Pekkaspäivät ja arkipyhäjärjestelmä 11](#_bookmark87)6*
 
-[Johdanto	132](#_bookmark99)
+*[Arkipyhäviikon työajan lyhennys 11](#_bookmark87)6*
 
-1. [§ Sopimuksen soveltamisala	133](#_bookmark100)
-1. [§ Luottamusmiehen tehtävät	133](#_bookmark100)
-1. [§ Luottamusmiehen valinta	133](#_bookmark100)
+*[Lisä- ja ylityö sekä korotettu palkka 1](#_bookmark88)17*
 
-[*Yleistä	133*](#_bookmark100)
+[JOUSTAVA KOKOAIKATYÖ](#joustava-kokoaikatyö) 119
 
-[*Luottamusmiehet	134*](#_bookmark101)
+*[Joustavan kokoaikatyön tarkoitus 1](#joustava-kokoaikatyö)19*
 
-[*Ilmoitukset työnantajalle	136*](#_bookmark102)
+*[Järjestelmän käyttöönotto ja irtisanominen
+1](#joustava-kokoaikatyö)19*
 
-[*Muutostilanteet	136*](#_bookmark102)
+*[Joustavasta kokoaikatyöstä sopiminen ja sopimuksen irtisanominen
+1](#joustava-kokoaikatyö)19*
 
-1. [§ Luottamusmiehelle annettavat tiedot	137](#_bookmark103)
-1. [§ Luottamusmiehen kanssa käsiteltävät asiat	138](#_bookmark104)
-1. [§ Työstävapautus ja työskentelypuitteet	139](#_bookmark105)
+[*Joustavaa kokoaikatyötä koskevassa paikallisessa
+sopimuksessa*](#_bookmark90)
 
-[*Työstävapautus	139*](#_bookmark105)
+*[sovittavat asiat 12](#_bookmark90)0*
 
-[*Työstävapautusaika ja ajankäyttö	139*](#_bookmark105)
+*[Työntekijän kieltäytymisoikeus joustotunneista 12](#_bookmark90)0*
 
-[*Työskentelypuitteet	140*](#_bookmark106)
+*[Muut työehdot 12](#_bookmark91)1*
 
-1. [§ Ansionmenetyksen korvaus	141](#_bookmark107)
+[LISÄTYÖN TARJOAMINEN 12](#lisätyön-tarjoaminen)2
 
-[*Ansionmenetys	141*](#_bookmark107)
+*[Sopimus 12](#_bookmark93)3*
 
-[*Matkakustannukset	141*](#_bookmark107)
+[KOKOAIKATYÖN TARJOAMINEN 1](#kokoaikatyön-tarjoaminen)24
 
-[*Luottamusmieskorvaus	141*](#_bookmark107)
+[TYÖAIKAPANKKI 127](#työaikapankki)
 
-[*Pääluottamusmiehen ansiokehitys	142*](#_bookmark108)
+[*Siirrettävät työtunnit 127*](#työaikapankki)
 
-1. [§ Luottamusmiehen koulutus	142](#_bookmark108)
-1. [§ Työsuhdeturva	14](#_bookmark108)3
+[*Työaikapankkivapaan pitäminen 127*](#työaikapankki)
 
-[*Syrjintäkielto	14](#_bookmark108)*3*
+[*Työkyvyttömyys ja vapaa 128*](#_bookmark96)
 
-[*Taloudelliset ja tuotannolliset irtisanomisperusteet	14](#_bookmark109)*3*
+[*Kirjanpito 128*](#_bookmark96)
 
-[*Yksilösuoja	14](#_bookmark109)*4*
+[*Työsuhteen päättyminen 128*](#_bookmark96)
 
-[*Ehdokassuoja	14](#_bookmark109)*4*
+[VÄKIVALLAN UHKA 129](#väkivallan-uhka)
 
-[*Jälkisuoja	14](#_bookmark110)*4*
+1.  [§ Arviointi 129](#väkivallan-uhka)
 
-[*Pääluottamusmies ja liikeen luovutus	14](#_bookmark110)*4*
+2.  [§ Torjunta ja jälkihoito 129](#väkivallan-uhka)
 
-[*Korvaukset	14](#_bookmark110)*5*
+3.  [§ Yksintyöskentely 130](#yksintyöskentely)
 
-1. [§ Neuvottelujärjestys	14](#_bookmark110)5
-1. [§ Sopimuksen voimassaolo	14](#_bookmark110)5
+[LUOTTAMUSMIESSOPIMUS 132](#luottamusmiessopimus)
 
-[TYÖSUOJELUN YHTEISTOIMINTASOPIMUS	14](#_bookmark111)6
+[Johdanto 132](#luottamusmiessopimus)
 
-1. [§ Soveltamisala	14](#_bookmark111)6
-1. [§ Yhteistoiminta työsuojelussa	14](#_bookmark111)6
-   1. [*Työpaikkakäsite	14](#_bookmark111)*6*
-   1. [*Työsuojeluyhteistoiminta	14](#_bookmark111)*6*
-   1. [*Yhteinen työpaikka	14](#_bookmark111)*6*
-   1. [*Työsuojelupäällikkö	1](#_bookmark112)*47*
-   1. [*Työsuojeluvaltuutettu	1](#_bookmark112)*47*
-   1. [*Päätyösuojeluvaltuutettu	14](#_bookmark113)*8*
-   1. [*Työsuojelun yhteistoiminta-alue	1](#_bookmark114)*49*
-   1. [*Työsuojeluasiamies](#_bookmark115)	*150*
-   1. [*Työsuhdeturva	15](#_bookmark116)*0*
+1.  [§ Sopimuksen soveltamisala 133](#sopimuksen-soveltamisala)
 
-*Syrjintäkielto	151*
+2.  [§ Luottamusmiehen tehtävät 133](#sopimuksen-soveltamisala)
 
-*Yksilösuoja	151*
+3.  [§ Luottamusmiehen valinta 133](#sopimuksen-soveltamisala)
 
-*Päätyösuojeluvaltuutetun suoja	151*
+[*Yleistä 133*](#sopimuksen-soveltamisala)
 
-*Korvaukset	152*
+[*Luottamusmiehet 134*](#luottamusmiehet)
 
-1. [*Työsuojelutoimikunta	15](#_bookmark117)*2*
+[*Ilmoitukset työnantajalle 136*](#_bookmark102)
 
-*Työsuojelutoimikunnan kokoukset	153*
+[*Muutostilanteet 136*](#_bookmark102)
 
-1. [*Yksintyöskentely	15](#_bookmark118)*3*
-1. [*Työsuojelu ja häirintä	15](#_bookmark118)*4*
-1. [*Työsuojeluvaltuutetun työstävapautusaika	15](#_bookmark118)*4*
-1. [*Työsuojeluvaltuutetun korvaus	15](#_bookmark119)*5*
-1. [§ Tietojen salassapitovelvollisuus	1](#_bookmark120)57
-1. [§ Neuvottelujärjestys	1](#_bookmark120)57
-1. [§ Voimassaolo	1](#_bookmark120)57
+4.  [§ Luottamusmiehelle annettavat tiedot
+    137](#luottamusmiehelle-annettavat-tiedot)
 
-[KOULUTUSSOPIMUS	15](#_bookmark121)8
+5.  [§ Luottamusmiehen kanssa käsiteltävät asiat 138](#_bookmark104)
 
-1. [§ Koulutustyöryhmä	15](#_bookmark121)8
-1. [§ Ammattiyhdistyskoulutus	15](#_bookmark121)8
+6.  [§ Työstävapautus ja työskentelypuitteet
+    139](#työstävapautus-ja-työskentelypuitteet)
 
-[*Kurssien hyväksyminen	15](#_bookmark121)*8*
+[*Työstävapautus 139*](#työstävapautus-ja-työskentelypuitteet)
 
-[*Osallistumisoikeus	15](#_bookmark121)*8*
+[*Työstävapautusaika ja ajankäyttö
+139*](#työstävapautus-ja-työskentelypuitteet)
 
-[*Ilmoitusvelvollisuus	1](#_bookmark122)*59*
+[*Työskentelypuitteet 140*](#_bookmark106)
 
-[*Korvaukset	1](#_bookmark122)*59*
+7.  [§ Ansionmenetyksen korvaus 141](#_bookmark107)
 
-[*Muut edut	159*](#_bookmark123)
+[*Ansionmenetys 141*](#_bookmark107)
 
-1. [§ Yhteinen koulutus](#_bookmark123)	160
-1. [§ Ammatillinen jatko-, täydennys- ja uudelleenkoulutus](#_bookmark123)	160
-1. [§ Voimassaolo	16](#_bookmark124)0
+[*Matkakustannukset 141*](#_bookmark107)
 
-ERIMIELISYYSMUISTIO	162
+[*Luottamusmieskorvaus 141*](#_bookmark107)
 
-[ERIMIELISYYSMUISTION TÄYTTÖOHJEET	164](#_bookmark125)
+[*Pääluottamusmiehen ansiokehitys 142*](#_bookmark108)
 
-[Yleistä	164](#_bookmark125)
+8.  [§ Luottamusmiehen koulutus 142](#_bookmark108)
 
-[Erimielisyyden aihe	164](#_bookmark125)
+9.  [§ Työsuhdeturva 14](#_bookmark108)3
 
-[Yhteisesti todettu tapahtumien kulku	164](#_bookmark125)
+*[Syrjintäkielto 14](#_bookmark108)3*
 
-[Paikallisten osapuolten kannat yksityiskohtaisine perusteluineen	165](#_bookmark126)
+*[Taloudelliset ja tuotannolliset irtisanomisperusteet
+14](#työsuhdeturva)3*
 
-[Muistion lähettäminen liitolle	165](#_bookmark126)
+*[Yksilösuoja 14](#työsuhdeturva)4*
 
-TYÖSOPIMUSLOMAKE	166
+*[Ehdokassuoja 14](#työsuhdeturva)4*
 
-[TYÖSOPIMUSLOMAKKEEN TÄYTTÄMISOHJEITA	167](#_bookmark127)
+*[Jälkisuoja 14](#yksilösuoja)4*
 
-[Koeaika	167](#_bookmark127)
+*[Pääluottamusmies ja liikeen luovutus 14](#yksilösuoja)4*
 
-[Toistaiseksi voimassa oleva työsopimus	167](#_bookmark127)
+*[Korvaukset 14](#yksilösuoja)5*
 
-[Määräaikainen työsopimus	167](#_bookmark127)
+10. [§ Neuvottelujärjestys 14](#yksilösuoja)5
 
-[Työaika	168](#_bookmark128)
+11. [§ Sopimuksen voimassaolo 14](#yksilösuoja)5
 
-[Työtehtävät	168](#_bookmark128)
+[TYÖSUOJELUN YHTEISTOIMINTASOPIMUS 14](#korvaukset-1)6
 
-[Palkkaus	168](#_bookmark128)
+1.  [§ Soveltamisala 14](#korvaukset-1)6
 
-[Irtisanomisaika	168](#_bookmark128)
+2.  [§ Yhteistoiminta työsuojelussa 14](#korvaukset-1)6
 
-[Muut ehdot	169](#_bookmark129)
+    1.  *[Työpaikkakäsite 14](#korvaukset-1)6*
 
-[Erillinen liite	169](#_bookmark129)
+    2.  *[Työsuojeluyhteistoiminta 14](#korvaukset-1)6*
 
-[Muutoksesta ilmoittaminen	169](#_bookmark129)
+    3.  *[Yhteinen työpaikka 14](#korvaukset-1)6*
 
-PALKKALIITE 1 6.2023–31.1.2025
+    4.  *[Työsuojelupäällikkö 1](#työsuojelun-yhteistoimintasopimus)47*
 
-1. VUOSIPORTAAT	171
-1. LOGISTIIKKATEHTÄVIEN JA TOIMIHENKILÖTEHTÄVIEN PALKKAUSJÄRJESTELMÄ (1.1.2024 ALKAEN)	172
+    5.  *[Työsuojeluvaltuutettu
+        1](#työsuojelun-yhteistoimintasopimus)47*
 
-[Palkan määräytyminen ja menettely](#_bookmark128)	172
+    6.  *[Päätyösuojeluvaltuutettu 14](#_bookmark113)8*
 
-[Vähimmäispalkat](#_bookmark128)	173
+    7.  *[Työsuojelun yhteistoiminta-alue 1](#_bookmark114)49*
 
-[Vaativuusluokitus](#_bookmark128)	173
+    8.  *[Työsuojeluasiamies](#_bookmark115) 150*
 
-[Erimielisyyksien ratkaisumekanismit](#_toc_250010)	173
+    9.  *[Työsuhdeturva 15](#työsuojeluasiamies)0*
 
-1. [LOGISTIIKKATEHTÄVIEN VAATIVUUSLUOKITUS JA PALKKARYHMÄT (1.1.2024 ALKAEN)	174](#_toc_250009)
-1. [TOIMIHENKILÖTEHTÄVIEN VAATIVUUSLUOKITUS JA PALKKARYHMÄT (1.1.2024 ALKAEN)	176](#_toc_250008)
-1. [PALKKARYHMÄT	178](#_toc_250007)
-1. [OSAAMISEEN JA SUORIUTUMISEEN PERUSTUVA PALKANOSA	181](#_toc_250006)
+*Syrjintäkielto 151*
 
-[Järjestelmän käyttöönotto ja siitä irtautuminen](#_toc_250005)	181
+*Yksilösuoja 151*
 
-Osaamisen ja suoriutumisen arviointimalli ja palkkakytkentä[	1](#_bookmark128)82
+*Päätyösuojeluvaltuutetun suoja 151*
 
-[Palkkojen muuntaminen](#_toc_250004)	183
+*Korvaukset 152*
 
-[Arviointimenettely](#_toc_250003)	186
+10. *[Työsuojelutoimikunta 15](#_bookmark117)2*
 
-[Erimielisyyksien ratkaiseminen](#_toc_250002)	188
+*Työsuojelutoimikunnan kokoukset 153*
 
-1. [TAULUKKOPALKAT 1.6.2023–31.5.2024	190](#_toc_250001)
-1. [TAULUKKOPALKAT 1.6.2024–31.1.2025	194](#_toc_250000)
-1. LISÄT 1.5.2022 ALKAEN	198
+11. *[Yksintyöskentely 15](#_bookmark118)3*
 
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.003.png)
+12. *[Työsuojelu ja häirintä 15](#_bookmark118)4*
 
+13. *[Työsuojeluvaltuutetun työstävapautusaika 15](#_bookmark118)4*
 
+14. *[Työsuojeluvaltuutetun korvaus 15](#työsuojelu-ja-häirintä)5*
 
+```{=html}
+<!-- -->
+```
+3.  [§ Tietojen salassapitovelvollisuus 1](#_bookmark120)57
 
+4.  [§ Neuvottelujärjestys 1](#_bookmark120)57
 
+5.  [§ Voimassaolo 1](#_bookmark120)57
 
+[KOULUTUSSOPIMUS 15](#tietojen-salassapitovelvollisuus)8
 
+1.  [§ Koulutustyöryhmä 15](#tietojen-salassapitovelvollisuus)8
 
+2.  [§ Ammattiyhdistyskoulutus 15](#tietojen-salassapitovelvollisuus)8
+
+*[Kurssien hyväksyminen 15](#tietojen-salassapitovelvollisuus)8*
+
+*[Osallistumisoikeus 15](#tietojen-salassapitovelvollisuus)8*
+
+*[Ilmoitusvelvollisuus 1](#koulutussopimus)59*
+
+*[Korvaukset 1](#koulutussopimus)59*
+
+[*Muut edut 159*](#ilmoitusvelvollisuus)
+
+3.  [§ Yhteinen koulutus](#ilmoitusvelvollisuus) 160
+
+4.  [§ Ammatillinen jatko-, täydennys- ja
+    uudelleenkoulutus](#ilmoitusvelvollisuus) 160
+
+5.  [§ Voimassaolo 16](#yhteinen-koulutus)0
+
+ERIMIELISYYSMUISTIO 162
+
+[ERIMIELISYYSMUISTION TÄYTTÖOHJEET
+164](#erimielisyysmuistion-täyttöohjeet)
+
+[Yleistä 164](#erimielisyysmuistion-täyttöohjeet)
+
+[Erimielisyyden aihe 164](#erimielisyysmuistion-täyttöohjeet)
+
+[Yhteisesti todettu tapahtumien kulku
+164](#erimielisyysmuistion-täyttöohjeet)
+
+[Paikallisten osapuolten kannat yksityiskohtaisine perusteluineen
+165](#_bookmark126)
+
+[Muistion lähettäminen liitolle 165](#_bookmark126)
+
+TYÖSOPIMUSLOMAKE 166
+
+[TYÖSOPIMUSLOMAKKEEN TÄYTTÄMISOHJEITA
+167](#työsopimuslomakkeen-täyttämisohjeita)
+
+[Koeaika 167](#työsopimuslomakkeen-täyttämisohjeita)
+
+> [Toistaiseksi voimassa oleva työsopimus
+> 167](#työsopimuslomakkeen-täyttämisohjeita)
+>
+> [Määräaikainen työsopimus 167](#työsopimuslomakkeen-täyttämisohjeita)
+>
+> [Työaika 168](#työaika-3)
+>
+> [Työtehtävät 168](#työaika-3)
+>
+> [Palkkaus 168](#työaika-3)
+
+[Irtisanomisaika 168](#työaika-3)
+
+[Muut ehdot 169](#muut-ehdot)
+
+[Erillinen liite 169](#muut-ehdot)
+
+[Muutoksesta ilmoittaminen 169](#muut-ehdot)
+
+PALKKALIITE 1 6.2023--31.1.2025
+
+1.  VUOSIPORTAAT 171
+
+2.  LOGISTIIKKATEHTÄVIEN JA TOIMIHENKILÖTEHTÄVIEN PALKKAUSJÄRJESTELMÄ
+    (1.1.2024 ALKAEN) 172
+
+[Palkan määräytyminen ja menettely](#työaika-3) 172
+
+[Vähimmäispalkat](#työaika-3) 173
+
+[Vaativuusluokitus](#työaika-3) 173
+
+> [Erimielisyyksien
+> ratkaisumekanismit](#erimielisyyksien-ratkaisumekanismit) 173
+
+3.  [LOGISTIIKKATEHTÄVIEN VAATIVUUSLUOKITUS JA PALKKARYHMÄT (1.1.2024
+    ALKAEN)
+    174](#logistiikkatehtävien-vaativuusluokitus-ja-palkkaryhmät-1.1.2024-alkaen)
+
+4.  [TOIMIHENKILÖTEHTÄVIEN VAATIVUUSLUOKITUS JA PALKKARYHMÄT (1.1.2024
+    ALKAEN)
+    176](#toimihenkilötehtävien-vaativuusluokitus-ja-palkkaryhmät-1.1.2024-alkaen)
+
+5.  [PALKKARYHMÄT 178](#palkkaryhmät-1)
+
+6.  [OSAAMISEEN JA SUORIUTUMISEEN PERUSTUVA PALKANOSA
+    181](#osaamiseen-ja-suoriutumiseen-perustuva-palkanosa)
+
+[Järjestelmän käyttöönotto ja siitä
+irtautuminen](#järjestelmän-käyttöönotto-ja-siitä-irtautuminen) 181
+
+Osaamisen ja suoriutumisen arviointimalli ja palkkakytkentä
+[1](#työaika-3)82
+
+[Palkkojen muuntaminen](#palkkojen-muuntaminen) 183
+
+[Arviointimenettely](#arviointimenettely) 186
+
+[Erimielisyyksien ratkaiseminen](#erimielisyyksien-ratkaiseminen) 188
+
+7.  [TAULUKKOPALKAT 1.6.2023--31.5.2024
+    190](#taulukkopalkat-1.6.202331.5.2024-1)
+
+8.  [TAULUKKOPALKAT 1.6.2024--31.1.2025
+    194](#taulukkopalkat-1.6.202431.1.2025-1)
+
+9.  LISÄT 1.5.2022 ALKAEN 198
 
 ## Kaupan työehtosopimus
 
+> []{#_bookmark0 .anchor}Kaupan liitto Palvelualojen ammattiliitto PAM
 
-A
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.013.png)<a name="1 §  sopimuksen ulottuvuus"></a><a name="1. soveltamisala"></a><a name="kaupan työehtosopimus"></a><a name="_bookmark0"></a>Kaupan liitto	Palvelualojen ammattiliitto PAM
+# KAUPAN TYÖEHTOSOPIMUS
 
-
-Työehtosopimus
-# ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.014.png)KAUPAN TYÖEHTOSOPIMUS
-
-
-1. # SOVELTAMISALA
+# SOVELTAMISALA
 
 #### 1 § Sopimuksen ulottuvuus
-1. Sopimusta noudatetaan yrityksessä, jonka toimialana on
 
-1. vähittäiskauppa
-1. tukkukauppa
-1. kaupan logistiikka
-1. agentuuritoiminta
-1. kioskikauppa
-1. huolto- ja liikenneasematoiminta
-1. kaupan palvelu- ja tukitoiminta
-1. konevuokraus.
+1.  Sopimusta noudatetaan yrityksessä, jonka toimialana on
 
-1. Sopimus koskee työaikalain alaisia työntekijöitä.
+    a.  vähittäiskauppa
 
-Kaupan työehtosopimus 1.2.2023–31.1.2025
+    b.  tukkukauppa
 
-89
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.011.png)![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.015.png)
+    c.  kaupan logistiikka
 
-A
-1. # ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.016.png)<a name="3 § työsopimus ja koeaika"></a><a name="2 § työnjohto"></a><a name="2. työsuhde"></a><a name="_bookmark1"></a>TYÖSUHDE
+    d.  agentuuritoiminta
 
-Työehtosopimus
-2. #### ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.017.png)§ Työnjohto
-   1. Työnantaja johtaa ja jakaa työtä.
+    e.  kioskikauppa
 
-1. Työnantaja ottaa ja erottaa työntekijät.
+    f.  huolto- ja liikenneasematoiminta
 
-1. Määrätynlaiseen työhön otettu työntekijä on velvollinen tarpeen vaatiessa tekemään muutakin ammattiinsa kuuluvaa tai siihen rinnastettavaa työtä.
+    g.  kaupan palvelu- ja tukitoiminta
 
-1. Järjestäytymisoikeus on molemmin puolin loukkaamaton.
+    h.  konevuokraus.
 
-2. #### § Työsopimus ja koeaika
-   1. Kirjallisessa työsopimuksessa tulee olla tässä työehtosopimuksessa olevan mallilomakkeen ja sen täyttöohjeiden mukaiset vähimmäistiedot.
+2.  Sopimus koskee työaikalain alaisia työntekijöitä.
 
-1. Koeajasta on sovittava työsopimuksessa.
+# TYÖSUHDE
 
-1. Koeajan pituus on enintään 6 kuukautta.
+2.  #### § Työnjohto
 
-Jos työntekijä on koeaikana ollut työkyvyttömyyden tai perhevapaan vuoksi poissa työstä, työnantajalla on oikeus pidentää koeaikaa kuukaudella kuta- kin työkyvyttömyys- tai perhevapaajaksoihin sisältyvää 30 kalenteripäivää kohden.
+    1.  Työnantaja johtaa ja jakaa työtä.
 
-Työnantajan on ilmoitettava työntekijälle koeajan pidentämisestä ennen koe- ajan päättymistä.
+    2.  Työnantaja ottaa ja erottaa työntekijät.
 
-Määräaikaisessa työsuhteessa koeaika saa pidennyksineen olla korkein- taan puolet työsopimuksen kestosta, ei kuitenkaan enempää kuin kuusi (6) kuukautta.
+    3.  Määrätynlaiseen työhön otettu työntekijä on velvollinen tarpeen
+        vaatiessa tekemään muutakin ammattiinsa kuuluvaa tai siihen
+        rinnastettavaa työtä.
 
-1. Koeaikana sopimus voidaan molemmin puolin purkaa irtisanomisaikaa noudattamatta.
+    4.  Järjestäytymisoikeus on molemmin puolin loukkaamaton.
 
-1. Työntekijän palatessa kohtuullisessa ajassa aikaisemman työnantajansa pal- velukseen ja entisen kaltaiseen työhön koeaikaa ei sovelleta, ellei siihen ole erityistä syytä.
+3.  #### § Työsopimus ja koeaika
 
-A
-2. #### ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.013.png)<a name="5 §  työsuhteen päättyminen ja lomautus"></a><a name="irtisanomisaika"></a><a name="4 § määräaikainen sopimus"></a><a name="_bookmark2"></a>§ Määräaikainen sopimus
-Työehtosopimus
-   1. ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.014.png)Määräaikaisen työsopimuksen tekeminen määräytyy työsopimuslain 1:3 §:n mukaan.
+    1.  Kirjallisessa työsopimuksessa tulee olla tässä
+        työehtosopimuksessa olevan mallilomakkeen ja sen täyttöohjeiden
+        mukaiset vähimmäistiedot.
 
-1. Sopimuksen päättymisajankohdan on oltava työntekijän tiedossa hyvissä ajoin, kuitenkin vähintään 1 viikkoa ennen, jos mahdollista.
+    2.  Koeajasta on sovittava työsopimuksessa.
 
-1. Päättäessään työsuhteen ennen määräaikaa työntekijä korvaa työnantajalle aiheuttamansa vahingon.
+    3.  Koeajan pituus on enintään 6 kuukautta.
 
-Korvaus on 2 viikon palkka tai laiminlyödyn työkauden ollessa lyhyempi sitä vastaava määrä.
+> Jos työntekijä on koeaikana ollut työkyvyttömyyden tai perhevapaan
+> vuoksi poissa työstä, työnantajalla on oikeus pidentää koeaikaa
+> kuukaudella kuta- kin työkyvyttömyys- tai perhevapaajaksoihin
+> sisältyvää 30 kalenteripäivää kohden.
+>
+> Työnantajan on ilmoitettava työntekijälle koeajan pidentämisestä ennen
+> koe- ajan päättymistä.
+>
+> Määräaikaisessa työsuhteessa koeaika saa pidennyksineen olla korkein-
+> taan puolet työsopimuksen kestosta, ei kuitenkaan enempää kuin kuusi
+> (6) kuukautta.
 
-Korvauksen suuruus on 4 viikon palkka tai laiminlyödyn työkauden ollessa ly- hyempi sitä vastaava määrä, mikäli määräaikaisuuden perusteena on projekti- luontoinen työ ja työsopimuksen päättymisajankohta on työntekijän tiedossa.
+4.  Koeaikana sopimus voidaan molemmin puolin purkaa irtisanomisaikaa
+    noudattamatta.
 
-Korvauksen kuittaaminen määräytyy työsopimuslain 2:17 §:n mukaan.
+5.  Työntekijän palatessa kohtuullisessa ajassa aikaisemman
+    työnantajansa pal- velukseen ja entisen kaltaiseen työhön koeaikaa
+    ei sovelleta, ellei siihen ole erityistä syytä.
 
-1. Päättäessään työsuhteen ennen määräaikaa työnantaja korvaa työntekijälle aiheuttamansa vahingon työsopimuslain 12:2 §:n mukaan.
+```{=html}
+<!-- -->
+```
+4.  #### § Määräaikainen sopimus
 
-2. #### § Työsuhteen päättyminen ja lomautus
+    1.  Määräaikaisen työsopimuksen tekeminen määräytyy työsopimuslain
+        1:3 §:n mukaan.
+
+    2.  Sopimuksen päättymisajankohdan on oltava työntekijän tiedossa
+        hyvissä ajoin, kuitenkin vähintään 1 viikkoa ennen, jos
+        mahdollista.
+
+    3.  Päättäessään työsuhteen ennen määräaikaa työntekijä korvaa
+        työnantajalle aiheuttamansa vahingon.
+
+> Korvaus on 2 viikon palkka tai laiminlyödyn työkauden ollessa lyhyempi
+> sitä vastaava määrä.
+>
+> Korvauksen suuruus on 4 viikon palkka tai laiminlyödyn työkauden
+> ollessa ly- hyempi sitä vastaava määrä, mikäli määräaikaisuuden
+> perusteena on projekti- luontoinen työ ja työsopimuksen
+> päättymisajankohta on työntekijän tiedossa.
+>
+> Korvauksen kuittaaminen määräytyy työsopimuslain 2:17 §:n mukaan.
+
+4.  Päättäessään työsuhteen ennen määräaikaa työnantaja korvaa
+    työntekijälle aiheuttamansa vahingon työsopimuslain 12:2 §:n mukaan.
+
+#### § Työsuhteen päättyminen ja lomautus
 
 ###### *Irtisanomisaika*
-1. Työnantajan noudattama irtisanomisaika on:
 
-työsuhteen jatkuttua	irtisanomisaika
+1.  Työnantajan noudattama irtisanomisaika on:
 
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.018.png)
+> enintään vuoden 14 päivää yli vuoden -- enintään 4 vuotta 1 kuukausi
+> yli 4 -- enintään 8 vuotta 2 kuukautta
+>
+> yli 8 -- enintään 12 vuotta 4 kuukautta
+>
+> yli 12 vuotta 6 kuukautta
 
-enintään vuoden	14 päivää yli vuoden – enintään 4 vuotta	1 kuukausi yli 4 – enintään 8 vuotta	2 kuukautta
+2.  Työntekijän noudattama irtisanomisaika on:
 
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.019.png)![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.019.png)![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.019.png)![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.019.png)yli 8 – enintään 12 vuotta	4 kuukautta
+> enintään 5 vuotta 14 päivää
+>
+> yli 5 vuotta 1 kuukausi
 
-yli 12 vuotta	6 kuukautta
+3.  Toimihenkilöillä ja tukkumyyjillä ja -ostajilla voidaan 1. ja 2.
+    kohdista poiketen sopia molempien osapuolten irtisanomisajaksi 1
+    kuukausi.
 
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.020.png)
+> Jos työnantajan irtisanomisaika on 1. kohdan mukaan pidempi kuin tämän
+> koh- dan nojalla sovittu 1 kuukauden irtisanomisaika, työnantajan on
+> noudatettava pidempää irtisanomisaikaa.
 
-A
-1. ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.016.png)Työntekijän noudattama irtisanomisaika on:
+4.  Irtisanomisaika alkaa kulua irtisanomista seuraavasta päivästä.
 
-työsuhteen jatkuttua	irtisanomisaika
+> Esimerkki 1
 
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.018.png)
+a.  Irtisanomisaika 14 vrk
 
-enintään 5 vuotta	14 päivää
+> Työsuhde irtisanottiin maanantaina 13.1. Irtisanomisaika alkaa
+> tiistaina 14.1.
+>
+> Työsuhteen viimeinen päivä on maanantai 27.1.
 
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.021.png)
+b.  Irtisanomisaika kuukausina
 
-Työehtosopimus
+> Kun irtisanomisaika lasketaan kuukausina, työsuhde päättyy järjestys-
+> numeroltaan samana päivänä, kun irtisanominen on suoritettu.
+>
+> Jos vastaavaa päivää ei ole siinä kuussa, jossa määräaika päättyisi,
+> työsuhde päättyy kuukauden viimeisenä päivänä.
+>
+> Irtisanomisaika 1 kk:
+>
+> Työsuhde irtisanottiin 1.3. Irtisanomisaika alkaa kulua 2.3.
+> Työsuhteen viimeinen päivä on 1.4.
+>
+> 1.3. \< 1 kk \> 1.4.
+>
+> irtisanominen työsuhteen
+>
+> viimeinen päivä
+>
+> Irtisanomisaika 2 kk:
+>
+> 31.12. \< 1 kk \> 28.2.
+>
+> irtisanominen työsuhteen
+>
+> viimeinen päivä
 
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.022.png)![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.017.png)yli 5 vuotta	1 kuukausi
+1.  []{#_bookmark3 .anchor}Työsopimus irtisanotaan todistettavasti.
 
-1. Toimihenkilöillä ja tukkumyyjillä ja -ostajilla voidaan 1. ja 2. kohdista poiketen sopia molempien osapuolten irtisanomisajaksi 1 kuukausi.
-
-Jos työnantajan irtisanomisaika on 1. kohdan mukaan pidempi kuin tämän koh- dan nojalla sovittu 1 kuukauden irtisanomisaika, työnantajan on noudatettava pidempää irtisanomisaikaa.
-
-1. ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.023.png)Irtisanomisaika alkaa kulua irtisanomista seuraavasta päivästä.
-
-Esimerkki 1
-
-1. Irtisanomisaika 14 vrk
-
-Työsuhde irtisanottiin maanantaina 13.1. Irtisanomisaika alkaa tiistaina 14.1.
-
-Työsuhteen viimeinen päivä on maanantai 27.1.
-
-1. Irtisanomisaika kuukausina
-
-Kun irtisanomisaika lasketaan kuukausina, työsuhde päättyy järjestys- numeroltaan samana päivänä, kun irtisanominen on suoritettu.
-
-Jos vastaavaa päivää ei ole siinä kuussa, jossa määräaika päättyisi, työsuhde päättyy kuukauden viimeisenä päivänä.
-
-Irtisanomisaika 1 kk:
-
-Työsuhde irtisanottiin 1.3. Irtisanomisaika alkaa kulua 2.3. Työsuhteen viimeinen päivä on 1.4.
-
-1\.3. <	1 kk	> 1.4.
-
-irtisanominen	työsuhteen
-
-viimeinen päivä
-
-Irtisanomisaika 2 kk:
-
-31\.12. <	1 kk	> 28.2.
-
-irtisanominen	työsuhteen
-
-viimeinen päivä
-
-A
-1. ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.013.png)<a name="korvaukset"></a><a name="_bookmark3"></a>Työsopimus irtisanotaan todistettavasti.
-
-Työehtosopimus
-1. ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.014.png)Irtisanomisen syy ja työsuhteen päättymisaika on vaadittaessa ilmoitettava työntekijälle viivytyksettä kirjallisesti.
+2.  Irtisanomisen syy ja työsuhteen päättymisaika on vaadittaessa
+    ilmoitettava työntekijälle viivytyksettä kirjallisesti.
 
 ###### *Korvaukset*
-1. Työntekijän, joka ei noudata irtisanomisaikaa, on korvattava työnantajalle nou- dattamatta jätetyn irtisanomisajan palkka.
 
-Korvauksen kuittaaminen määräytyy työsopimuslain 2:17 §:n mukaan.
+3.  Työntekijän, joka ei noudata irtisanomisaikaa, on korvattava
+    työnantajalle nou- dattamatta jätetyn irtisanomisajan palkka.
 
+> Korvauksen kuittaaminen määräytyy työsopimuslain 2:17 §:n mukaan.
+>
+> Esimerkki 2
+>
+> Työntekijä irtisanoutui 17.10. toistaiseksi voimassa olevasta
+> työsuhteestaan ja lähti välittömästi noudattamatta 14 päivän
+> irtisanomisaikaansa (työsuh- teen päättymispäivä 31.10.). Työntekijän
+> kuukausipalkka oli 1 939 euroa.
+>
+> Työntekijä oli töissä yhteensä 11 päivää (17 kalenteripäivää). Tältä
+> osin hänellä on työnantajalta palkkasaatavaa 11 x työpäivän palkka
+> 92,33 euroa eli yhteensä 1 015,63 euroa. Lomakorvaussaatavia hänellä
+> on yhteensä 930,72 euroa (1 939 : 25 x 12). Ennakonpidätyksen jälkeen
+> hänen nettolop-
+>
+> putilinsä on (1 015,63 euroa + 930,72 euroa) -- 525,51 euroa eli
+> yhteensä
+>
+> 1 420,84 euroa.
+>
+> Työntekijä on velvollinen maksamaan korvauksena työnantajalle
+> noudatta- matta jätetyn irtisanomisajan palkkaa vastaavan määrän eli
+> 923,37 euroa (1 939 euroa -- 1 015,63 euroa).
+>
+> Suojaosuus 17 kalenteripäivältä on 17 x 30,75 euroa (suojaosuus
+> velallisen osalta v. 2023) eli 522,75 euroa. Työnantajan kuitattava
+> saatava 923,37 euroa on pienempi kuin 2 x suojaosuus (1 045,50 euroa),
+> joten lopputilistä työnantaja voi kuitata enintään 2/3 suojaosuuden
+> ylittävästä saatavasta (400,62 euroa) eli 267,08 euroa. Työnantajalle
+> jää vielä korvaussaatavaa työntekijältä 656,29 euroa.
 
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.024.png)Esimerkki 2
+4.  Työnantajan, joka ei noudata irtisanomisaikaa, on maksettava
+    työntekijälle noudattamatta jätetyltä irtisanomisajalta täysi
+    palkka.
 
-Työntekijä irtisanoutui 17.10. toistaiseksi voimassa olevasta työsuhteestaan ja lähti välittömästi noudattamatta 14 päivän irtisanomisaikaansa (työsuh- teen päättymispäivä 31.10.). Työntekijän kuukausipalkka oli 1 939 euroa.
+###### *Työsuhteen purkaminen*
 
-Työntekijä oli töissä yhteensä 11 päivää (17 kalenteripäivää). Tältä osin hänellä on työnantajalta palkkasaatavaa 11 x työpäivän palkka 92,33 euroa eli yhteensä 1 015,63 euroa. Lomakorvaussaatavia hänellä on yhteensä 930,72 euroa (1 939 : 25 x 12). Ennakonpidätyksen jälkeen hänen nettolop-
+5.  Työsuhteen purkaminen määräytyy työsopimuslain 8:1 §:n mukaan.
 
-putilinsä on (1 015,63 euroa + 930,72 euroa) – 525,51 euroa eli yhteensä
-
-1 420,84 euroa.
-
-Työntekijä on velvollinen maksamaan korvauksena työnantajalle noudatta- matta jätetyn irtisanomisajan palkkaa vastaavan määrän eli 923,37 euroa (1 939 euroa – 1 015,63 euroa).
-
-Suojaosuus 17 kalenteripäivältä on 17 x 30,75 euroa (suojaosuus velallisen osalta v. 2023) eli 522,75 euroa. Työnantajan kuitattava saatava 923,37 euroa on pienempi kuin 2 x suojaosuus (1 045,50 euroa), joten lopputilistä työnantaja voi kuitata enintään 2/3 suojaosuuden ylittävästä saatavasta (400,62 euroa) eli 267,08 euroa. Työnantajalle jää vielä korvaussaatavaa työntekijältä 656,29 euroa.
-
-
-1. Työnantajan, joka ei noudata irtisanomisaikaa, on maksettava työntekijälle noudattamatta jätetyltä irtisanomisajalta täysi palkka.
-
-A
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.016.png)
-
-<a name="työsuhteen purkaminen"></a><a name="lomautus"></a><a name="_bookmark4"></a>Esimerkki 3
-
-Työntekijä irtisanoutui 17.10. toistaiseksi voimassa olevasta työsuhteestaan ja lähti välittömästi noudattamatta 14 päivän irtisanomisaikaansa (työsuh- teen päättymispäivä 31.10.). Työntekijän kuukausipalkka oli 1 939 euroa.
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.025.png)
-
-Työehtosopimus
-###### ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.017.png)*Työsuhteen purkaminen*
-1. Työsuhteen purkaminen määräytyy työsopimuslain 8:1 §:n mukaan.
-
-Purettaessa työsuhde se päättyy välittömästi.
+> Purettaessa työsuhde se päättyy välittömästi.
 
 ###### *Lomautus*
-1. Toistaiseksi voimassa olevaan työsuhteeseen otettu työntekijä voidaan lomauttaa 14 päivän ilmoitusajalla.
 
-Työpaikkakohtaisesti sopien (23 §:n mukaisesti) ilmoitusaikaa voidaan lyhen- tää 7 päivään. Jos työpaikalla on luottamusmies, asiasta sovitaan hänen kanssaan.
+6.  Toistaiseksi voimassa olevaan työsuhteeseen otettu työntekijä
+    voidaan lomauttaa 14 päivän ilmoitusajalla.
 
-Määräaikaiseen työsuhteeseen otettu työntekijä voidaan lomauttaa työsopi- muslain 5:2 §:n mukaan.
+> Työpaikkakohtaisesti sopien (23 §:n mukaisesti) ilmoitusaikaa voidaan
+> lyhen- tää 7 päivään. Jos työpaikalla on luottamusmies, asiasta
+> sovitaan hänen kanssaan.
+>
+> Määräaikaiseen työsuhteeseen otettu työntekijä voidaan lomauttaa
+> työsopi- muslain 5:2 §:n mukaan.
 
-1. Lomautuksen ennakkoselvitys, työntekijän kuuleminen ja lomautusilmoitus määräytyvät työsopimuslain 5:3 ja 5:4 §:n mukaan.
+7.  Lomautuksen ennakkoselvitys, työntekijän kuuleminen ja
+    lomautusilmoitus määräytyvät työsopimuslain 5:3 ja 5:4 §:n mukaan.
 
-1. Lomautettu työntekijä voi irtisanoutua työsopimuslain 5:7 §:n mukaan.
+8.  Lomautettu työntekijä voi irtisanoutua työsopimuslain 5:7 §:n
+    mukaan.
 
-A
-1. # ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.013.png)<a name="6 §  työaika"></a><a name="työajasta sopiminen"></a><a name="säännöllisen työajan järjestäminen viiko"></a><a name="3. työaika"></a><a name="_bookmark5"></a>TYÖAIKA
+# TYÖAIKA
 
-Työehtosopimus
-2. #### ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.014.png)§ Työaika
+#### § Työaika
 
 ###### *Työajasta sopiminen*
-1. Työsopimuksessa sovitaan keskimääräisestä vähimmäisviikkotyöajasta.
 
-Alle 37,5 tuntia tekevän viikkotyöajan ollessa ilman perusteltua syytä työso- pimuksessa sovittua työaikaa pidempi se sovitaan todellista viikkotyöaikaa vastaavaksi.
+1.  Työsopimuksessa sovitaan keskimääräisestä vähimmäisviikkotyöajasta.
 
-Työnantaja ja alle 37,5 tuntia tekevä työntekijä tarkastelevat toteutuneen työ- ajan ja työsopimustuntien vastaavuutta.
-
-Toteutuneen viikkotyöajan tarkastelu on tehtävä vähintään puolen vuoden välein työnantajan määrittämänä ajankohtana. Tätä pidemmästä, mutta enin- tään vuoden mittaisesta tarkasteluvälistä on sovittava 23 §:n mukaisesti. Jos työpaikalla on luottamusmies, asiasta sovitaan hänen kanssaan. Työnantajan on ilmoitettava etukäteen tarkastelun piirissä oleville työntekijöille tarkastelun ajankohta ja sen kattama ajanjakso.
-
-Tarkastelussa on perusteltava kirjallisesti merkittävät poikkeamat työsopi- mustunteihin nähden. Mikäli tarkastelu johtaa työsopimustuntien korottami- seen, korotetut sopimustunnit otetaan huomioon seuraavaksi suunniteltavan viikon tiedoissa. Toteuttamisajankohdasta voidaan työpaikkakohtaisesti (23
-
-§:n mukaisesti) sopia toisin.
+> Alle 37,5 tuntia tekevän viikkotyöajan ollessa ilman perusteltua syytä
+> työso- pimuksessa sovittua työaikaa pidempi se sovitaan todellista
+> viikkotyöaikaa vastaavaksi.
+>
+> Työnantaja ja alle 37,5 tuntia tekevä työntekijä tarkastelevat
+> toteutuneen työ- ajan ja työsopimustuntien vastaavuutta.
+>
+> Toteutuneen viikkotyöajan tarkastelu on tehtävä vähintään puolen
+> vuoden välein työnantajan määrittämänä ajankohtana. Tätä pidemmästä,
+> mutta enin- tään vuoden mittaisesta tarkasteluvälistä on sovittava 23
+> §:n mukaisesti. Jos työpaikalla on luottamusmies, asiasta sovitaan
+> hänen kanssaan. Työnantajan on ilmoitettava etukäteen tarkastelun
+> piirissä oleville työntekijöille tarkastelun ajankohta ja sen kattama
+> ajanjakso.
+>
+> Tarkastelussa on perusteltava kirjallisesti merkittävät poikkeamat
+> työsopi- mustunteihin nähden. Mikäli tarkastelu johtaa
+> työsopimustuntien korottami- seen, korotetut sopimustunnit otetaan
+> huomioon seuraavaksi suunniteltavan viikon tiedoissa.
+> Toteuttamisajankohdasta voidaan työpaikkakohtaisesti (23
+>
+> §:n mukaisesti) sopia toisin.
 
 ###### *Säännöllisen työajan järjestäminen viikon jaksossa*
-1. Säännöllinen työaika on enintään 9 tuntia vuorokaudessa ja enintään 37,5 tun- tia viikossa.
 
+2.  Säännöllinen työaika on enintään 9 tuntia vuorokaudessa ja enintään
+    37,5 tun- tia viikossa.
 
-|<p></p><p>Esimerkki 4</p>|||||||||
-| :- | :- | :- | :- | :- | :- | :- | :- | :- |
-|Työvuorot|Ma|Ti|Ke|To|Pe|La|Su|Yht. t|
-||8|7,5|6|7|9|–|–|37,5 t|
++-------------+-----+-----+-----+-----+-----+-----+-----+-----------+
+| > Esimerkki |     |     |     |     |     |     |     |           |
+| > 4         |     |     |     |     |     |     |     |           |
++=============+=====+=====+=====+=====+=====+=====+=====+===========+
+| > Työvuorot | >   | >   | Ke  | >   | Pe  | >   | Su  | > Yht. t  |
+|             |  Ma |  Ti |     |  To |     |  La |     |           |
++-------------+-----+-----+-----+-----+-----+-----+-----+-----------+
+|             | > 8 | >   | 6   | 7   | 9   | >   | --  | > 37,5 t  |
+|             |     | 7,5 |     |     |     |  -- |     |           |
++-------------+-----+-----+-----+-----+-----+-----+-----+-----------+
 
-A
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.016.png)<a name="tasoittumisjärjestelmä "></a><a name="säännöllisen työajan järjestäminen tasoi"></a><a name="_bookmark6"></a>Säännöllinen työaika voi työpaikkakohtaisesti sopien (23 §:n mukaisesti) olla enintään 10 tuntia vuorokaudessa. Jos työpaikalla on luottamusmies, asiasta sovitaan hänen kanssaan.
-
-Työehtosopimus
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.017.png)Logistiikkatyöntekijän säännöllinen työaika voi työpaikkakohtaisesti sopien (23 §:n mukaisesti) olla enintään 12 tuntia vuorokaudessa. Jos työpaikalla on luottamusmies, asiasta sovitaan hänen kanssaan.
+> []{#_bookmark6 .anchor}Säännöllinen työaika voi työpaikkakohtaisesti
+> sopien (23 §:n mukaisesti) olla enintään 10 tuntia vuorokaudessa. Jos
+> työpaikalla on luottamusmies, asiasta sovitaan hänen kanssaan.
+>
+> Logistiikkatyöntekijän säännöllinen työaika voi työpaikkakohtaisesti
+> sopien (23 §:n mukaisesti) olla enintään 12 tuntia vuorokaudessa. Jos
+> työpaikalla on luottamusmies, asiasta sovitaan hänen kanssaan.
 
 ###### *Tasoittumisjärjestelmä*
-1. Työnantajan laatimaan työajan tasoittumisjärjestelmään merkitään:
-- tasoittumisjakson pituus
-- kokonaistyöaika sekä
-- jakson alkamis- ja päättymispäivä.
 
-Valmistellessaan tai aikoessaan muuttaa työajan tasoittumisjärjestelmää työnantajan on varattava luottamusmiehelle, tai jollei sellaista ole valittu, työn- tekijöille tilaisuus esittää mielipiteensä. Luonnokseen perehtymiseen on varat- tava riittävä aika.
+3.  Työnantajan laatimaan työajan tasoittumisjärjestelmään merkitään:
 
-Käytettäessä työajan tasoittumisjärjestelmää työnantaja ja luottamusmies selvittävät työaikasuunnittelun lähtökohtia, työvoiman käytön tarpeen vaih- telua jakson aikana sekä suhteutetun kuukausipalkan käyttömahdollisuuksia.
+-   tasoittumisjakson pituus
 
-Työajan tasoittumisjärjestelmä annetaan tiedoksi viimeistään 2 viikkoa ennen tasoittumisjakson alkamista. Työajan tasoittumisjakson ollessa vähintään 9 viikkoa työajan tasoittumisjärjestelmä annetaan tiedoksi viimeistään 3 viik- koa ennen tasoittumisjakson alkamista.
+-   kokonaistyöaika sekä
+
+-   jakson alkamis- ja päättymispäivä.
+
+> Valmistellessaan tai aikoessaan muuttaa työajan
+> tasoittumisjärjestelmää työnantajan on varattava luottamusmiehelle,
+> tai jollei sellaista ole valittu, työn- tekijöille tilaisuus esittää
+> mielipiteensä. Luonnokseen perehtymiseen on varat- tava riittävä aika.
+>
+> Käytettäessä työajan tasoittumisjärjestelmää työnantaja ja
+> luottamusmies selvittävät työaikasuunnittelun lähtökohtia, työvoiman
+> käytön tarpeen vaih- telua jakson aikana sekä suhteutetun
+> kuukausipalkan käyttömahdollisuuksia.
+>
+> Työajan tasoittumisjärjestelmä annetaan tiedoksi viimeistään 2 viikkoa
+> ennen tasoittumisjakson alkamista. Työajan tasoittumisjakson ollessa
+> vähintään 9 viikkoa työajan tasoittumisjärjestelmä annetaan tiedoksi
+> viimeistään 3 viik- koa ennen tasoittumisjakson alkamista.
 
 ###### *Säännöllisen työajan järjestäminen tasoittumisjaksossa*
-1. Työnantaja laatii etukäteen työajan tasoittumisjärjestelmän, jonka aikana viik- kotyöaika tasoittuu enintään 37,5 tuntiin.
 
-Säännöllinen työaika on enintään 9 tuntia vuorokaudessa ja enintään 48 tun- tia viikossa.
+1.  Työnantaja laatii etukäteen työajan tasoittumisjärjestelmän, jonka
+    aikana viik- kotyöaika tasoittuu enintään 37,5 tuntiin.
 
-Käytettäessä tasoittumisjärjestelmää voi 3 viikon jaksossa olla enintään 9 kpl yli 8 tunnin työpäivää.
+> Säännöllinen työaika on enintään 9 tuntia vuorokaudessa ja enintään 48
+> tun- tia viikossa.
+>
+> Käytettäessä tasoittumisjärjestelmää voi 3 viikon jaksossa olla
+> enintään 9 kpl yli 8 tunnin työpäivää.
+>
+> []{#_bookmark7 .anchor}Säännöllinen työaika voi työpaikkakohtaisesti
+> sopien (23 §:n mukaisesti) olla enintään 10 tuntia vuorokaudessa. Jos
+> työpaikalla on luottamusmies, asiasta sovitaan hänen kanssaan.
+>
+> Logistiikkatyöntekijän säännöllinen työaika voi työpaikkakohtaisesti
+> sopien (23 §:n mukaisesti) olla enintään 12 tuntia vuorokaudessa. Jos
+> työpaikalla on luottamusmies, asiasta sovitaan hänen kanssaan.
 
-A
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.013.png)<a name="2–26 viikon tasoittumisjakso"></a><a name="27–52 viikon tasoittumisjakso"></a><a name="_bookmark7"></a>Säännöllinen työaika voi työpaikkakohtaisesti sopien (23 §:n mukaisesti) olla enintään 10 tuntia vuorokaudessa. Jos työpaikalla on luottamusmies, asiasta sovitaan hänen kanssaan.
+###### *2--26 viikon tasoittumisjakso*
 
-Työehtosopimus
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.014.png)Logistiikkatyöntekijän säännöllinen työaika voi työpaikkakohtaisesti sopien (23 §:n mukaisesti) olla enintään 12 tuntia vuorokaudessa. Jos työpaikalla on luottamusmies, asiasta sovitaan hänen kanssaan.
+2.  Työnantaja laatii etukäteen 2--26 viikon pituisen työajan
+    tasoittumisjakson, jonka aikana viikkotyöaika tasoittuu enintään
+    37,5 tuntiin (ks. myös logistiik- katyöntekijöitä koskeva
+    pöytäkirja).
 
-###### *2–26 viikon tasoittumisjakso*
-1. Työnantaja laatii etukäteen 2–26 viikon pituisen työajan tasoittumisjakson, jonka aikana viikkotyöaika tasoittuu enintään 37,5 tuntiin (ks. myös logistiik- katyöntekijöitä koskeva pöytäkirja).
+###### *27--52 viikon tasoittumisjakso*
 
-###### *27–52 viikon tasoittumisjakso*
-1. Tämän kohdan määräykset eivät koske logistiikkatyöntekijöiden 27–52 viikon tasoittumisjaksoa (ks. logistiikkatyöntekijöitä koskeva pöytäkirja).
+3.  Tämän kohdan määräykset eivät koske logistiikkatyöntekijöiden 27--52
+    viikon tasoittumisjaksoa (ks. logistiikkatyöntekijöitä koskeva
+    pöytäkirja).
 
-27–52 viikon tasoittumisjakson käyttämisestä tulee sopia työpaikkakohtaisesti (23 §:n mukaisesti). Sopimus voidaan solmia enintään 52 viikon määräajaksi.
+> 27--52 viikon tasoittumisjakson käyttämisestä tulee sopia
+> työpaikkakohtaisesti (23 §:n mukaisesti). Sopimus voidaan solmia
+> enintään 52 viikon määräajaksi.
+>
+> Sopimus päättyy ilman erillistä irtisanomista määräajan päätyttyä.
+>
+> Pidemmän tasoittumisjakson käyttämiselle tulee olla toimipaikan
+> tuotanto- tai palvelutoiminnasta johtuva perusteltu syy, joka tulee
+> käydä käyttöönotosta sovittaessa asianomaisen henkilöstöryhmän kanssa
+> läpi.
+>
+> Jos työpaikalla on luottamusmies, asiasta sovitaan hänen kanssaan. Jos
+> luotta- musmiestä ei ole valittu, sopijaosapuolena työntekijöiden
+> puolelta toimii asian- omainen henkilöstöryhmä. Sopimuksen syntyminen
+> edellyttää tällöin kyseisen henkilöstöryhmän keskuudessaan tekemää
+> päätöstä.
+>
+> Pidemmän tasoittumisjakson piiriin voivat kuulua toistaiseksi voimassa
+> ole- vissa tai vähintään vuoden kestävissä määräaikaisissa
+> työsuhteissa olevat työntekijät, joiden työsopimuksen mukainen työaika
+> on vähintään 30 tuntia vii- kossa. Alle 37,5 tuntia tekeville on
+> maksettava suhteutettua kuukausipalkkaa.
+>
+> Työnantaja laatii etukäteen 27--52 viikon pituisen työajan
+> tasoittumisjakson, jonka aikana viikkotyöaika tasoittuu enintään 37,5
+> tuntiin.
 
-Sopimus päättyy ilman erillistä irtisanomista määräajan päätyttyä.
+###### *Työvuoroluettelo*
 
-Pidemmän tasoittumisjakson käyttämiselle tulee olla toimipaikan tuotanto- tai palvelutoiminnasta johtuva perusteltu syy, joka tulee käydä käyttöönotosta sovittaessa asianomaisen henkilöstöryhmän kanssa läpi.
+4.  Työviikko alkaa maanantaina kello 00.00, ellei paikallisesti toisin
+    sovita. Työnantajan laatimaan työvuoroluetteloon merkitään:
 
-Jos työpaikalla on luottamusmies, asiasta sovitaan hänen kanssaan. Jos luotta- musmiestä ei ole valittu, sopijaosapuolena työntekijöiden puolelta toimii asian- omainen henkilöstöryhmä. Sopimuksen syntyminen edellyttää tällöin kyseisen henkilöstöryhmän keskuudessaan tekemää päätöstä.
+-   työntekijän säännöllisen työajan alkaminen ja päättyminen
 
-Pidemmän tasoittumisjakson piiriin voivat kuulua toistaiseksi voimassa ole- vissa tai vähintään vuoden kestävissä määräaikaisissa työsuhteissa olevat työntekijät, joiden työsopimuksen mukainen työaika on vähintään 30 tuntia vii- kossa. Alle 37,5 tuntia tekeville on maksettava suhteutettua kuukausipalkkaa.
+-   päivittäiset lepoajat sekä
 
-Työnantaja laatii etukäteen 27–52 viikon pituisen työajan tasoittumisjakson, jonka aikana viikkotyöaika tasoittuu enintään 37,5 tuntiin.
+-   tasoittumisjakson jäljellä oleva viikkojen ja työtuntien määrä sekä
+    näistä laskettu keskimääräinen viikkotyöaika.
 
-A
-###### ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.016.png)<a name="työvuoroluettelo"></a><a name="_bookmark8"></a>*Työvuoroluettelo*
-Työehtosopimus
-1. ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.017.png)Työviikko alkaa maanantaina kello 00.00, ellei paikallisesti toisin sovita. Työnantajan laatimaan työvuoroluetteloon merkitään:
-- työntekijän säännöllisen työajan alkaminen ja päättyminen
-- päivittäiset lepoajat sekä
-- tasoittumisjakson jäljellä oleva viikkojen ja työtuntien määrä sekä näistä laskettu keskimääräinen viikkotyöaika.
+> Työvuoroluetteloa laadittaessa työntekijälle on varattava tilaisuus
+> esittää mie- lipiteensä työvuorojen pituuden, työvuorojen sijoittelun,
+> vapaapäivien ja vuo- sivapaiden antamisen suhteen.
+>
+> Työvuoroluetteloa laadittaessa vältetään epätarkoituksenmukaisen
+> lyhyitä työvuoroja.
+>
+> Työajan sijoittelun ja vapaapäivien tulisi vaihdella työntekijöiden
+> kesken.
+>
+> Työvuoron keston tulee olla vähintään 4 tuntia. Työntekijän kanssa
+> kertaluon- teisesti sovittaessa tai perustellusta syystä työvuoro voi
+> olla tätä lyhyempi. Perusteltu syy tulee käydä työntekijän kanssa läpi
+> ennen työvuoroluettelon laatimista.
+>
+> Työvuorojen sijoittuessa eri vuorokauden aikoihin ne on suositeltavaa
+> suunni- tella työaikaergonomisesti. Suositeltava työvuorojen
+> kiertosuunta on aamu-, päivä-, ilta- ja yövuoro.
+>
+> Vapaapäiviä edeltävä työvuoro suositellaan järjestettäväksi
+> aamuvuoroksi ja vapaapäiviä seuraava vuoro iltavuoroksi, jos
+> vapaapäiviä on enemmän kuin 1.
+>
+> Työvuoroluetteloa voidaan muuttaa työaikalain mukaan.
+>
+> Työvuoroluettelo annetaan tiedoksi viimeistään 2 viikkoa ennen
+> työviikon alkamista.
+>
+> Työajan tasoittumisjakson ollessa vähintään 19 viikkoa
+> työvuoroluettelo anne- taan tiedoksi viimeistään 3 viikkoa ennen
+> työviikon alkamista.
+>
+> Työpaikkakohtaisesti sopien (23 §:n mukaisesti) työvuoroluettelo
+> voidaan antaa tiedoksi viimeistään viikkoa ennen työviikon alkamista.
+> Jos työpaikalla on luottamusmies, asiasta sovitaan hänen kanssaan.
+> Muussa tapauksessa sopimus tulee tehdä asianomaisen henkilöstöryhmän
+> kanssa.
+>
+> Esimerkki 5
+>
+> 20 viikon mittainen työajan tasoittumisjärjestelmä ajalle
+> 15.5.--1.10.2023.
+>
+> Koska jakson pituus on vähintään 19 viikkoa, tasoittumisjärjestelmä on
+> oltava nähtävillä 3 viikkoa ennen jakson alkua eli viimeistään
+> 23.4.2023.
 
-Työvuoroluetteloa laadittaessa työntekijälle on varattava tilaisuus esittää mie- lipiteensä työvuorojen pituuden, työvuorojen sijoittelun, vapaapäivien ja vuo- sivapaiden antamisen suhteen.
++---------------+----------------------------+-------------------------+
+| > Työntekijät | > Työsopimustunnit /       | > Jakson                |
+|               | > viikko                   | > kokonaistyöaika       |
++===============+============================+=========================+
+| > Työntekijä  | > 37,5 tuntia / viikko     | > 750 tuntia            |
+| > A           |                            |                         |
++---------------+----------------------------+-------------------------+
+| > Työntekijä  | > 30 tuntia / viikko       | > 600 tuntia            |
+| > B           |                            |                         |
++---------------+----------------------------+-------------------------+
+| > Työntekijä  | > 20 tuntia / viikko       | > 400 tuntia            |
+| > C           |                            |                         |
++---------------+----------------------------+-------------------------+
 
-Työvuoroluetteloa laadittaessa vältetään epätarkoituksenmukaisen lyhyitä työvuoroja.
+> Esimerkki 6
+>
+> Työvuorot esimerkki 5. olevan tasoittumisjärjestelmän ensimmäiselle
+> viikolle
 
-Työajan sijoittelun ja vapaapäivien tulisi vaihdella työntekijöiden kesken.
+-   työaika enintään 9 t / vrk ja 48 t / vko
 
-Työvuoron keston tulee olla vähintään 4 tuntia. Työntekijän kanssa kertaluon- teisesti sovittaessa tai perustellusta syystä työvuoro voi olla tätä lyhyempi. Perusteltu syy tulee käydä työntekijän kanssa läpi ennen työvuoroluettelon laatimista.
+-   enintään 9 yli 8 työtunnin päivää 3 viikossa
 
-Työvuorojen sijoittuessa eri vuorokauden aikoihin ne on suositeltavaa suunni- tella työaikaergonomisesti. Suositeltava työvuorojen kiertosuunta on aamu-, päivä-, ilta- ja yövuoro.
+-   paikallisesti sovittu 30 minuutin ruokatauoista (r)
 
-Vapaapäiviä edeltävä työvuoro suositellaan järjestettäväksi aamuvuoroksi ja vapaapäiviä seuraava vuoro iltavuoroksi, jos vapaapäiviä on enemmän kuin 1.
+> Työvuoroluettelo ajalle 15.5.--21.5.2023, tiedoksi viimeistään
+> 23.4.2023.
 
-Työvuoroluetteloa voidaan muuttaa työaikalain mukaan.
++----+-----------+-----+----+-----+-----+-----+-----+--------------+
+| >  | > V 09 -- | >   | >  | >   | >   | >   | > 4 | > 328,5 t /  |
+| tt | >         |  12 | 12 |  12 |  09 |  10 | 6,5 | > 9 vkoa,    |
+| >  | > 17.30   | .30 | >  | >   | >   | .30 | > t | > keskim.    |
+|  A | >         | >   | -- |  -- |  -- | >   |     | >            |
+|    | > \(r\)   | >   | >  | >   | >   | >   |     | > 36,5 t /   |
+|    |           |  -- | >  | >   | >   |  -- |     | > vko        |
+|    |           | >   | 21 |  21 |  17 | >   |     |              |
+|    |           |  21 | >  | >   | .30 |  16 |     |              |
+|    |           | >   | >  | >   | >   |     |     |              |
+|    |           | >   |  \ |  \( | >   |     |     |              |
+|    |           |  \( | (r | r\) |  \( |     |     |              |
+|    |           | r\) | \) |     | r\) |     |     |              |
++====+===========+=====+====+=====+=====+=====+=====+==============+
+| >  | > 13 --   | > V | >  | >   | >   | >   | >   | > 261 t / 9  |
+| tt | > 13 --   |     |  V |  09 |  10 |  08 |  39 | > vkoa,      |
+| >  | >         |     |    | >   | >   | >   | > t | > keskim.    |
+|  B | > 21 21   |     |    |  -- |  -- |  -- |     | >            |
+|    | >         |     |    | >   | >   | >   |     | > 29 t / vko |
+|    | > \(r\)   |     |    | >   | >   | >   |     |              |
+|    | > (r)     |     |    |  17 |  18 |  17 |     |              |
+|    |           |     |    | .30 | >   | >   |     |              |
+|    |           |     |    | >   | >   | >   |     |              |
+|    |           |     |    | >   |  \( |  \( |     |              |
+|    |           |     |    |  \( | r\) | r\) |     |              |
+|    |           |     |    | r\) |     |     |     |              |
++----+-----------+-----+----+-----+-----+-----+-----+--------------+
+| >  | > 08 --   | >   | >  | > V | >   | > V | >   | > 162 t / 9  |
+| tt | > 10      |  09 | 08 |     |  08 |     |  38 | > vkoa,      |
+| >  | >         | >   | >  |     | >   |     | > t | > keskim.    |
+|  C | > 16 --18 |  -- | -- |     |  -- |     |     | >            |
+|    | >         | >   | >  |     | >   |     |     | > 18 t / vko |
+|    | > \(r\)   | >   | >  |     | >   |     |     |              |
+|    | > (r)     |  17 | 17 |     |  16 |     |     |              |
+|    |           | .30 | >  |     | >   |     |     |              |
+|    |           | >   | >  |     | >   |     |     |              |
+|    |           | >   |  \ |     |  \( |     |     |              |
+|    |           |  \( | (r |     | r\) |     |     |              |
+|    |           | r\) | \) |     |     |     |     |              |
++----+-----------+-----+----+-----+-----+-----+-----+--------------+
 
-Työvuoroluettelo annetaan tiedoksi viimeistään 2 viikkoa ennen työviikon alkamista.
+###### *Työhönsidonnaisuusaika*
 
-Työajan tasoittumisjakson ollessa vähintään 19 viikkoa työvuoroluettelo anne- taan tiedoksi viimeistään 3 viikkoa ennen työviikon alkamista.
+1.  Työhönsidonnaisuusaika vuorokaudessa on, ellei paikallisesti toisin
+    sovita
 
-Työpaikkakohtaisesti sopien (23 §:n mukaisesti) työvuoroluettelo voidaan antaa tiedoksi viimeistään viikkoa ennen työviikon alkamista. Jos työpaikalla on luottamusmies, asiasta sovitaan hänen kanssaan. Muussa tapauksessa sopimus tulee tehdä asianomaisen henkilöstöryhmän kanssa.
+-   enintään 9 tuntia säännöllisen työajan ollessa 8 tuntia tai lyhyempi
 
-A
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.013.png)![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.026.png)
+-   enintään 10 tuntia säännöllisen työajan ollessa yli 8 tuntia
 
-Esimerkki 5
+-   enintään 11 tuntia säännöllisen työajan ollessa yli 9 tuntia.
 
-Työehtosopimus
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.014.png)20 viikon mittainen työajan tasoittumisjärjestelmä ajalle 15.5.–1.10.2023.
-
-Koska jakson pituus on vähintään 19 viikkoa, tasoittumisjärjestelmä on oltava nähtävillä 3 viikkoa ennen jakson alkua eli viimeistään 23.4.2023.
-
-
-|Työntekijät|Työsopimustunnit / viikko|Jakson kokonaistyöaika|
-| :- | :- | :- |
-|Työntekijä A|37,5 tuntia / viikko|750 tuntia|
-|Työntekijä B|30 tuntia / viikko|600 tuntia|
-|Työntekijä C|20 tuntia / viikko|400 tuntia|
-
-
-Esimerkki 6
-
-Työvuorot esimerkki 5. olevan tasoittumisjärjestelmän ensimmäiselle viikolle
-
-- työaika enintään 9 t / vrk ja 48 t / vko
-- enintään 9 yli 8 työtunnin päivää 3 viikossa
-- paikallisesti sovittu 30 minuutin ruokatauoista (r)
-
-Ma	Ti	Ke	To	Pe	La	Su	Yht.	Jäljellä tunteja /
-
-viikkoja,
-
-15\.5.	16.5.	17.5.	18.5.	19.5.	20.5.  21.5.	keskimäärin
-
-t / vko
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.027.png)![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.028.png)Työvuoroluettelo ajalle 15.5.–21.5.2023, tiedoksi viimeistään 23.4.2023.
-
-
-
-
-
-
-|tt A|<p>V	09 –</p><p>17\.30</p><p>(r)</p>|<p>12\.30</p><p>– 21</p><p>(r)</p>|<p>12 –</p><p>21</p><p>(r)</p>|<p>12 –</p><p>21</p><p>(r)</p>|<p>09 –</p><p>17\.30</p><p>(r)</p>|<p>10\.30</p><p>– 16</p>|46,5 t|<p>328,5 t / 9 vkoa, keskim.</p><p>36,5 t / vko</p>|
-| :- | :- | :- | :- | :- | :- | :- | :-: | :- |
-|tt B|<p>13 –	13 –</p><p>21	21</p><p>(r)	(r)</p>|V|V|<p>09 –</p><p>17\.30</p><p>(r)</p>|<p>10 –</p><p>18</p><p>(r)</p>|<p>08 –</p><p>17</p><p>(r)</p>|39 t|<p>261 t / 9 vkoa, keskim.</p><p>29 t / vko</p>|
-|tt C|<p>08 –	10</p><p>16	–18</p><p>(r)	(r)</p>|<p>09 –</p><p>17\.30</p><p>(r)</p>|<p>08 –</p><p>17</p><p>(r)</p>|V|<p>08 –</p><p>16</p><p>(r)</p>|V|38 t|<p>162 t / 9 vkoa, keskim.</p><p>18 t / vko</p>|
-
-A
-###### ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.016.png)<a name="työhönsidonnaisuusaika "></a><a name="vuorokausilepo"></a><a name="viikkolepo"></a><a name="yötyö"></a><a name="_bookmark9"></a>*Työhönsidonnaisuusaika*
-1. Työhönsidonnaisuusaika vuorokaudessa on, ellei paikallisesti toisin sovita
-
-Työehtosopimus
-- ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.017.png)enintään 9 tuntia säännöllisen työajan ollessa 8 tuntia tai lyhyempi
-- enintään 10 tuntia säännöllisen työajan ollessa yli 8 tuntia
-- enintään 11 tuntia säännöllisen työajan ollessa yli 9 tuntia.
-
-Määräys koskee myyjää ja myymälätyöntekijää, huolto- ja liikenneasematyön- tekijää sekä kioskimyyjää.
-
-Työnantaja voi päätöksellään poiketa kalenterivuoden aikana 5 kertaa työhön- sidonnaisuusajasta, mikäli se on tarpeen työnantajan määräämän, etäyhteyk- sin järjestämän kokouksen tai tilaisuuden vuoksi.
+> Määräys koskee myyjää ja myymälätyöntekijää, huolto- ja
+> liikenneasematyön- tekijää sekä kioskimyyjää.
+>
+> Työnantaja voi päätöksellään poiketa kalenterivuoden aikana 5 kertaa
+> työhön- sidonnaisuusajasta, mikäli se on tarpeen työnantajan
+> määräämän, etäyhteyk- sin järjestämän kokouksen tai tilaisuuden
+> vuoksi.
 
 ###### *Vuorokausilepo*
-1. Työntekijälle on annettava jokaisen työvuoron alkamista seuraavan 24 tunnin aikana vähintään 11 tunnin keskeytymätön lepoaika.
 
-Työnantaja ja työntekijä voivat sopia vuorokausilevosta toisin (23 §:n mukai- sesti). Sen tulee kuitenkin olla vähintään 9 tuntia.
+1.  Työntekijälle on annettava jokaisen työvuoron alkamista seuraavan 24
+    tunnin aikana vähintään 11 tunnin keskeytymätön lepoaika.
 
-Työntekijän kanssa voidaan kuitenkin edellä mainitusta poiketen kertaluontoi- sesti sopia, että vuorokausilevon pituus on vähintään 7 tuntia.
+> Työnantaja ja työntekijä voivat sopia vuorokausilevosta toisin (23 §:n
+> mukai- sesti). Sen tulee kuitenkin olla vähintään 9 tuntia.
+>
+> Työntekijän kanssa voidaan kuitenkin edellä mainitusta poiketen
+> kertaluontoi- sesti sopia, että vuorokausilevon pituus on vähintään 7
+> tuntia.
 
 ###### *Viikkolepo*
-1. Viikkolepo saadaan sijoittaa työviikkojen vaihteeseen siten, että yli puolet lepo- ajasta on sijoitettava sen viikon puolelle, jonka lepoajasta on kysymys.
+
+2.  Viikkolepo saadaan sijoittaa työviikkojen vaihteeseen siten, että
+    yli puolet lepo- ajasta on sijoitettava sen viikon puolelle, jonka
+    lepoajasta on kysymys.
 
 ###### *Yötyö*
-1. Yötyöstä on sovittava työntekijän kanssa (23 § mukaisesti). Mikäli työnan- taja ei saa muutoin työvuoroa täytettyä, työnantajalla on oikeus työvuoron määräämiseen.
 
-Yötyönä pidetään työvuoroa, josta vähintään 1,5 tuntia tehdään klo 23–06.
+3.  Yötyöstä on sovittava työntekijän kanssa (23 § mukaisesti). Mikäli
+    työnan- taja ei saa muutoin työvuoroa täytettyä, työnantajalla on
+    oikeus työvuoron määräämiseen.
 
-Yövuoro ei saa alkaa eikä päättyä klo 01–05 välillä, ellei yrityksen tavanomai- seen toimintaan liittyvä painava syy tätä edellytä.
-
-A
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.013.png)<a name="varallaolo ja hätätyö"></a><a name="liukuva työaika"></a><a name="_bookmark10"></a>Yövuoroja saa teettää enintään 5 peräkkäin. Sovittaessa yötyöstä työnantaja ja työntekijä voivat kuitenkin sopia enintään 7 peräkkäisestä yövuorosta.
-
-Työehtosopimus
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.014.png)Vähintään 5 peräkkäisen yövuoron jälkeen tulee olla 2 vapaata. Yksittäisiä yövuoroja tulee pyrkiä välttämään. Yövuorojen väliin ei voi sijoittaa yksittäistä vapaapäivää, ellei työntekijän kanssa kertaluonteisesti toisin sovita.
-
-Jatkuvasti yötyötä tekevälle työntekijälle on tehtävä terveystarkastukset työn- antajan kustannuksella työtä aloitettaessa ja tämän jälkeen lainsäädännön edellyttämin määräajoin.
-
-Mikäli yötyötä teetetään jatkuvasti osana työnantajan tavanomaista toimintaa, yötyön teettämisen periaatteet ja käytännöt on käsiteltävä osana työsuojelun yhteistoimintaa. Tässä yhteydessä on huomioitava erityisesti toimintatavat, joilla voidaan tukea terveyttä, työhyvinvointia ja työssä jaksamista.
-
-Jos työtä tehdään klo 23–06 ja työntekijän tavallisen työmatkan edellyttämää yleistä kulkuneuvoa tai mahdollisuutta työntekijän oman kulkuneuvon käyt- töön ei ole työvuoron alkamis- ja päättymisajankohtana, työnantajan on jär- jestettävä kuljetus.
+> Yötyönä pidetään työvuoroa, josta vähintään 1,5 tuntia tehdään klo
+> 23--06.
+>
+> Yövuoro ei saa alkaa eikä päättyä klo 01--05 välillä, ellei yrityksen
+> tavanomai- seen toimintaan liittyvä painava syy tätä edellytä.
+>
+> []{#_bookmark10 .anchor}Yövuoroja saa teettää enintään 5 peräkkäin.
+> Sovittaessa yötyöstä työnantaja ja työntekijä voivat kuitenkin sopia
+> enintään 7 peräkkäisestä yövuorosta.
+>
+> Vähintään 5 peräkkäisen yövuoron jälkeen tulee olla 2 vapaata.
+> Yksittäisiä yövuoroja tulee pyrkiä välttämään. Yövuorojen väliin ei
+> voi sijoittaa yksittäistä vapaapäivää, ellei työntekijän kanssa
+> kertaluonteisesti toisin sovita.
+>
+> Jatkuvasti yötyötä tekevälle työntekijälle on tehtävä
+> terveystarkastukset työn- antajan kustannuksella työtä aloitettaessa
+> ja tämän jälkeen lainsäädännön edellyttämin määräajoin.
+>
+> Mikäli yötyötä teetetään jatkuvasti osana työnantajan tavanomaista
+> toimintaa, yötyön teettämisen periaatteet ja käytännöt on käsiteltävä
+> osana työsuojelun yhteistoimintaa. Tässä yhteydessä on huomioitava
+> erityisesti toimintatavat, joilla voidaan tukea terveyttä,
+> työhyvinvointia ja työssä jaksamista.
+>
+> Jos työtä tehdään klo 23--06 ja työntekijän tavallisen työmatkan
+> edellyttämää yleistä kulkuneuvoa tai mahdollisuutta työntekijän oman
+> kulkuneuvon käyt- töön ei ole työvuoron alkamis- ja
+> päättymisajankohtana, työnantajan on jär- jestettävä kuljetus.
 
 ###### *Varallaolo ja hätätyö*
-1. Varallaolo ja hätätyö määräytyvät työaikalain mukaan.
 
-Varallaololla tarkoitetaan sitä, että työntekijä on sopimuksen mukaan työ- ajan ulkopuolella työnantajan tavoitettavissa niin, että hänet voidaan kutsua työhön.
+4.  Varallaolo ja hätätyö määräytyvät työaikalain mukaan.
 
-Työnantaja ja työntekijä sopivat varallaolosta ja siitä maksettavasta korva- uksesta. Varallaolokorvauksen määrä tai sen määräytymisperusteiden sekä varallaolon ehtojen on oltava työntekijän tiedossa sopimusta tehtäessä. Korvauksen määrässä on otettava huomioon varallaolosta työntekijän vapaa- ajan käytölle aiheutuvat rajoitukset.
-
-Varallaolo ei saa kohtuuttomasti haitata työntekijän vapaa-ajan käyttöä.
+> Varallaololla tarkoitetaan sitä, että työntekijä on sopimuksen mukaan
+> työ- ajan ulkopuolella työnantajan tavoitettavissa niin, että hänet
+> voidaan kutsua työhön.
+>
+> Työnantaja ja työntekijä sopivat varallaolosta ja siitä maksettavasta
+> korva- uksesta. Varallaolokorvauksen määrä tai sen
+> määräytymisperusteiden sekä varallaolon ehtojen on oltava työntekijän
+> tiedossa sopimusta tehtäessä. Korvauksen määrässä on otettava huomioon
+> varallaolosta työntekijän vapaa- ajan käytölle aiheutuvat rajoitukset.
+>
+> Varallaolo ei saa kohtuuttomasti haitata työntekijän vapaa-ajan
+> käyttöä.
 
 ###### *Liukuva työaika*
-1. Liukuvasta työajasta sovitaan kulloinkin voimassa olevan työaikalain mukai- sesti. Keskimääräinen säännöllinen työaika viikossa määräytyy tämän työeh- tosopimuksen mukaan.
 
-A
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.016.png)<a name="7 § vapaat"></a><a name="vapaapäivät"></a><a name="muut työaikajärjestelyt"></a><a name="_bookmark11"></a>Liukuvan työajan järjestelyn tarkoituksena on antaa työntekijälle itsenäinen päätösvalta päivittäisen työn alkamis- ja päättymisajankohdista.
+5.  Liukuvasta työajasta sovitaan kulloinkin voimassa olevan työaikalain
+    mukai- sesti. Keskimääräinen säännöllinen työaika viikossa määräytyy
+    tämän työeh- tosopimuksen mukaan.
 
-Työehtosopimus
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.017.png)Työnantajan on työntekijän pyynnöstä pyrittävä antamaan kertyneet säännöl- lisen työajan ylittymät kokonaisina vapaapäivinä.
+> []{#_bookmark11 .anchor}Liukuvan työajan järjestelyn tarkoituksena on
+> antaa työntekijälle itsenäinen päätösvalta päivittäisen työn alkamis-
+> ja päättymisajankohdista.
+>
+> Työnantajan on työntekijän pyynnöstä pyrittävä antamaan kertyneet
+> säännöl- lisen työajan ylittymät kokonaisina vapaapäivinä.
 
 ###### *Muut työaikajärjestelyt*
-1. Työehtosopimuksen liitteinä olevissa pöytäkirjoissa on esitetty muita työaika- järjestelyitä:
-- Arkipyhäjärjestelmä (s. 108)
-- Vuosityöajan lyhennys (s. 113)
-- Joustava kokoaikatyö (s. 119)
-- Lisätyön tarjoaminen (s. 122)
-- Kokoaikatyön tarjoaminen (s. 124)
-- Työaikapankki (s. 127)
 
-2. #### § Vapaat
+6.  Työehtosopimuksen liitteinä olevissa pöytäkirjoissa on esitetty
+    muita työaika- järjestelyitä:
+
+-   Arkipyhäjärjestelmä (s. 108)
+
+-   Vuosityöajan lyhennys (s. 113)
+
+-   Joustava kokoaikatyö (s. 119)
+
+-   Lisätyön tarjoaminen (s. 122)
+
+-   Kokoaikatyön tarjoaminen (s. 124)
+
+-   Työaikapankki (s. 127)
+
+#### § Vapaat
 
 ###### *Vapaapäivät*
-1. Työntekijällä on työaikalain viikkolepoajan lisäksi 1 vapaapäivä.
 
-Toimihenkilöllä vapaapäivä on kiinteä vapaapäivä ja jos mahdollista lauantai.
+1.  Työntekijällä on työaikalain viikkolepoajan lisäksi 1 vapaapäivä.
 
-Edellä mainittua määräystä toimihenkilötyön kiinteästä vapaapäivästä ei tar- vitse noudattaa, mikäli siihen on yrityksen liiketoiminnasta johtuva perusteltu syy. Perusteltu syy voi liittyä yrityksen tuotanto- tai palvelutoimintaan kuulu- viin järjestelyihin, jotka ovat tarpeellisia yrityksen asiakkaiden palvelemiseksi tai muun vastaavan toiminnallisen syyn vuoksi.
+> Toimihenkilöllä vapaapäivä on kiinteä vapaapäivä ja jos mahdollista
+> lauantai.
+>
+> Edellä mainittua määräystä toimihenkilötyön kiinteästä vapaapäivästä
+> ei tar- vitse noudattaa, mikäli siihen on yrityksen liiketoiminnasta
+> johtuva perusteltu syy. Perusteltu syy voi liittyä yrityksen tuotanto-
+> tai palvelutoimintaan kuulu- viin järjestelyihin, jotka ovat
+> tarpeellisia yrityksen asiakkaiden palvelemiseksi tai muun vastaavan
+> toiminnallisen syyn vuoksi.
+>
+> Työnantajan on pyydettäessä esitettävä kirjalliset perustelut
+> liiketoiminnal- lisesta tarpeesta. Jos kirjallisia perusteluita ei
+> pyynnöstä huolimatta esitetä 2 viikon kuluessa pyynnön esittämisestä,
+> tulee tästä eteenpäin noudattaa kiin- teää vapaapäivää koskevaa
+> määräystä.
 
-Työnantajan on pyydettäessä esitettävä kirjalliset perustelut liiketoiminnal- lisesta tarpeesta. Jos kirjallisia perusteluita ei pyynnöstä huolimatta esitetä 2 viikon kuluessa pyynnön esittämisestä, tulee tästä eteenpäin noudattaa kiin- teää vapaapäivää koskevaa määräystä.
+###### *Tasoittumisjakso ja vapaapäivä*
 
-A
-###### ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.013.png)<a name="tasoittumisjakso ja vapaapäivä"></a><a name="työviikko"></a><a name="_bookmark12"></a>*Tasoittumisjakso ja vapaapäivä*
-Työehtosopimus
-1. ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.014.png)Tasoittumisjakson aikana on oltava yhtä monta työehtosopimuksen mukaista vapaapäivää kuin jaksossa on viikkoja.
+2.  Tasoittumisjakson aikana on oltava yhtä monta työehtosopimuksen
+    mukaista vapaapäivää kuin jaksossa on viikkoja.
 
-Tasoittumisjaksoa käytettäessä voidaan työehtosopimuksen mukainen vapaa- päivä siirtää viikolta toiselle. Toimihenkilötyössä vapaapäivien siirtäminen edellyttää työpaikkakohtaista sopimista (23 §:n mukaisesti), ellei kyseessä ole edellä mainittu yrityksen tuotanto- tai palvelutoiminnasta johtuva perus- teltu syy.
-
-Siirrettäessä vapaapäivä viikolta toiselle on siirrettävä vapaapäivä aina liitet- tävä jonkin toisen vapaan yhteyteen. Vapaapäivien yhdenjaksoisesta antami- sesta voidaan sopia työpaikkakohtaisesti (23 §:n mukaisesti) toisin.
+> Tasoittumisjaksoa käytettäessä voidaan työehtosopimuksen mukainen
+> vapaa- päivä siirtää viikolta toiselle. Toimihenkilötyössä
+> vapaapäivien siirtäminen edellyttää työpaikkakohtaista sopimista (23
+> §:n mukaisesti), ellei kyseessä ole edellä mainittu yrityksen
+> tuotanto- tai palvelutoiminnasta johtuva perus- teltu syy.
+>
+> Siirrettäessä vapaapäivä viikolta toiselle on siirrettävä vapaapäivä
+> aina liitet- tävä jonkin toisen vapaan yhteyteen. Vapaapäivien
+> yhdenjaksoisesta antami- sesta voidaan sopia työpaikkakohtaisesti (23
+> §:n mukaisesti) toisin.
 
 ###### *Työviikko*
-1. Työviikko on keskimäärin 5-päiväinen.
 
-Työnantaja ja alle 37,5 tuntia tekevä työntekijä voivat sopia työntekijän halu- tessa 6-päiväisestä työviikosta.
+3.  Työviikko on keskimäärin 5-päiväinen.
 
-Työvuoroluetteloa laadittaessa vapaapäivien välissä voi olla enintään 8 työpäi- vää. Työpaikkakohtaisesti sopien (23 §:n mukaisesti) vapaapäivien välissä voi olla enintään 10 työpäivää. Jos työpaikalla on luottamusmies, asiasta sovitaan hänen kanssaan (ks. myös logistiikkatyöntekijöitä koskeva pöytäkirja).
+> Työnantaja ja alle 37,5 tuntia tekevä työntekijä voivat sopia
+> työntekijän halu- tessa 6-päiväisestä työviikosta.
+>
+> Työvuoroluetteloa laadittaessa vapaapäivien välissä voi olla enintään
+> 8 työpäi- vää. Työpaikkakohtaisesti sopien (23 §:n mukaisesti)
+> vapaapäivien välissä voi olla enintään 10 työpäivää. Jos työpaikalla
+> on luottamusmies, asiasta sovitaan hänen kanssaan (ks. myös
+> logistiikkatyöntekijöitä koskeva pöytäkirja).
+>
+> Työntekijän kanssa voidaan edellä mainitusta poiketen sopia
+> kertaluontoisesti, että vapaapäivien välissä voi olla enintään 11
+> työpäivää.
+>
+> Poissaolot eivät muuta työvuoroluettelon mukaisia vapaapäiviä.
 
-Työntekijän kanssa voidaan edellä mainitusta poiketen sopia kertaluontoisesti, että vapaapäivien välissä voi olla enintään 11 työpäivää.
++------------+------+-------+------+---------+-------+-------+-----+
+| >          |      |       |      |         |       |       |     |
+|  Esimerkki |      |       |      |         |       |       |     |
+| > 7        |      |       |      |         |       |       |     |
++============+======+=======+======+=========+=======+=======+=====+
+| >          | > Ma | > Ti  | > Ke | > To    | > Pe  | > La  | >   |
+|  Työvuoro- |      |       |      |         |       |       |  Su |
++------------+------+-------+------+---------+-------+-------+-----+
+| >          | > T  | > V   | > T  | > T     | T     | > T   | > V |
+|  luettelo: |      |       |      |         |       |       |     |
++------------+------+-------+------+---------+-------+-------+-----+
+| > S        |      |       |      |         |       |       |     |
+| airausloma |      |       |      |         |       |       |     |
++------------+------+-------+------+---------+-------+-------+-----+
 
-
-
-
-
-
-
-
-Työvuoroluettelon mukainen vapaapäivä (V) jäi sairausloman sisään ja vapaapäivä katsotaan pidetyksi. Työntekijä palaa töihin torstaina.
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.029.png)Poissaolot eivät muuta työvuoroluettelon mukaisia vapaapäiviä.
-
-
-
-|Esimerkki 7||||||||
-| :- | :- | :- | :- | :- | :- | :- | :- |
-|Työvuoro-|Ma|Ti|Ke|To|Pe|La|Su|
-|luettelo:|T|V|T|T|T|T|V|
-|Sairausloma||||||||
-
-A
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.016.png)
-
-<a name="vuosivapaajärjestelmä"></a><a name="vuosivapaan ansainta"></a><a name="_bookmark13"></a>Ma
-
-T
-
-Ti T
-
-Sairausloma
-
-Ke
-
-T
-
-Esimerkki 8
-
-Työvuoro-
-
-luettelo:
-
-To
-
-V
-
-Pe
-
-T
-
-La
-
-T
-
-Su
-
-V
-
-Työvuoroluettelon mukainen vapaapäivä (V) on sairausloman ulkopuolella, joten työntekijä palaa töihin perjantaina.
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.030.png)
-
-Työehtosopimus
-###### ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.017.png)*Vuosivapaajärjestelmä*
+###### *Vuosivapaajärjestelmä*
 
 ###### *Vuosivapaan ansainta*
-1. Vuosivapaajärjestelmässä työntekijä ansaitsee kalenterivuosittain vuosiva- paata. Vuosivapaiden ansainta alkaa vasta työsuhteen kestettyä 6 kuukautta.
 
-Vuosivapaata kerryttävät kalenterivuosittain:
+4.  Vuosivapaajärjestelmässä työntekijä ansaitsee kalenterivuosittain
+    vuosiva- paata. Vuosivapaiden ansainta alkaa vasta työsuhteen
+    kestettyä 6 kuukautta.
 
-- tosiasiallisesti tehdyt työtunnit,
-- muu työaikalain 2 luvun 3 §:n tarkoittama työajaksi luettava aika,
-- työnantajan määräämä koulutus siltä osin, kuin työnantaja maksaa sään- nöllisen työajan ansion menetystä,
-- luottamusmiehellä ja työsuojeluvaltuutetulla työstävapautusaika sekä
-- henkilöstön edustajalla koulutussopimuksen mukainen työnantajatuen pii- riin kuuluva ammattiyhdistyskoulutus siltä osin kuin työnantaja maksaa säännöllisen työajan ansion menetystä.
+> Vuosivapaata kerryttävät kalenterivuosittain:
 
-A
+-   tosiasiallisesti tehdyt työtunnit,
 
-Työehtosopimus
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.013.png)![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.014.png)<a name="vuosivapaan antaminen"></a><a name="_bookmark14"></a>Työntekijä ansaitsee vuosivapaita alla olevan taulukon mukaisesti:
+-   muu työaikalain 2 luvun 3 §:n tarkoittama työajaksi luettava aika,
 
+-   työnantajan määräämä koulutus siltä osin, kuin työnantaja maksaa
+    sään- nöllisen työajan ansion menetystä,
 
-|Kertyneiden tuntien määrä|Vuosivapaiden määrä|Vuosivapaatuntien määrä|
-| :- | :- | :- |
-|200|1|7,5|
-|400|2|15|
-|600|3|22,5|
-|800|4|30|
-|1 000|5|37,5|
-|1150|6|45|
-|1300|7|52,5|
-|1430|8|60|
-|1560|9|67,5|
+-   luottamusmiehellä ja työsuojeluvaltuutetulla työstävapautusaika sekä
 
-Esimerkki 9
+-   henkilöstön edustajalla koulutussopimuksen mukainen työnantajatuen
+    pii- riin kuuluva ammattiyhdistyskoulutus siltä osin kuin työnantaja
+    maksaa säännöllisen työajan ansion menetystä.
 
-Työntekijän työsuhde on alkanut 14.2. Kuusi kuukautta tulee täyteen
+> []{#_bookmark14 .anchor}Työntekijä ansaitsee vuosivapaita alla olevan
+> taulukon mukaisesti:
 
-13\.8. Työntekijän vuosivapaan ansaintaan oikeuttavia tunteja lasketaan
-
-14\.8. alkaen.
-
-Esimerkki 10
-
-Työntekijän työsuhde on kestänyt 30.1.–28.5. Työntekijän kanssa solmi- taan uusi työsuhde 1.6. Vuosivapaiden ansainta alkaa työsuhteiden kestet- tyä yhteensä 6 kuukautta. Tältä osin noudatetaan työsopimuslain 1 luvun 5 §:n periaatteita työsuhde-etuuksien määräytymisestä lyhytaikaisin keskeytyksin toisiaan seuraavissa työsuhteissa. Vuosivapaan ansaintaan oikeuttavia tunteja lasketaan 30.7. alkaen.
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.031.png)
++--------------------+-----------------------+-------------------------+
+| > Kertyneiden      | > Vuosivapaiden määrä | > Vuosivapaatuntien     |
+| > tuntien määrä    |                       | > määrä                 |
++====================+=======================+=========================+
+| > 200              | > 1                   | > 7,5                   |
++--------------------+-----------------------+-------------------------+
+| > 400              | > 2                   | > 15                    |
++--------------------+-----------------------+-------------------------+
+| > 600              | > 3                   | > 22,5                  |
++--------------------+-----------------------+-------------------------+
+| > 800              | > 4                   | > 30                    |
++--------------------+-----------------------+-------------------------+
+| > 1 000            | > 5                   | > 37,5                  |
++--------------------+-----------------------+-------------------------+
+| > 1150             | > 6                   | > 45                    |
++--------------------+-----------------------+-------------------------+
+| > 1300             | > 7                   | > 52,5                  |
++--------------------+-----------------------+-------------------------+
+| > 1430             | > 8                   | > 60                    |
++--------------------+-----------------------+-------------------------+
+| > 1560             | > 9                   | > 67,5                  |
++--------------------+-----------------------+-------------------------+
 
 ###### *Vuosivapaan antaminen*
-1. Vuosivapaat annetaan ensisijaisesti ansaintavuoden aikana, kuitenkin viimeis- tään ansaintavuotta seuraavan vuoden huhtikuun loppuun mennessä.
 
-A
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.016.png)Työntekijän aloitteesta voidaan kirjallisesti sopia, että vuosivapaat annetaan viimeistään ansaintavuotta seuraavan kalenterivuoden loppuun mennessä.
+1.  Vuosivapaat annetaan ensisijaisesti ansaintavuoden aikana, kuitenkin
+    viimeis- tään ansaintavuotta seuraavan vuoden huhtikuun loppuun
+    mennessä.
 
+> Työntekijän aloitteesta voidaan kirjallisesti sopia, että vuosivapaat
+> annetaan viimeistään ansaintavuotta seuraavan kalenterivuoden loppuun
+> mennessä.
+>
+> Vuosivapaita ei saa sijoittaa vuosiloman tai muiden vapaiden ajalle.
 
-Esimerkki 11
+<table>
+<colgroup>
+<col style="width: 7%" />
+<col style="width: 9%" />
+<col style="width: 9%" />
+<col style="width: 9%" />
+<col style="width: 10%" />
+<col style="width: 9%" />
+<col style="width: 9%" />
+<col style="width: 9%" />
+<col style="width: 9%" />
+<col style="width: 9%" />
+<col style="width: 6%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><blockquote>
+<p>To</p>
+</blockquote></th>
+<th>Pe</th>
+<th>La</th>
+<th><blockquote>
+<p>Su</p>
+</blockquote></th>
+<th><blockquote>
+<p>Ma</p>
+</blockquote></th>
+<th><blockquote>
+<p>Ti</p>
+</blockquote></th>
+<th><blockquote>
+<p>Ke</p>
+</blockquote></th>
+<th><blockquote>
+<p>To</p>
+</blockquote></th>
+<th><blockquote>
+<p>Pe</p>
+</blockquote></th>
+<th><blockquote>
+<p>La</p>
+</blockquote></th>
+<th>Su</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><blockquote>
+<p>VL</p>
+</blockquote></td>
+<td>–</td>
+<td>–</td>
+<td><blockquote>
+<p>–</p>
+</blockquote></td>
+<td><blockquote>
+<p>–</p>
+</blockquote></td>
+<td><blockquote>
+<p>VL</p>
+</blockquote></td>
+<td><blockquote>
+<p>VL</p>
+</blockquote></td>
+<td><blockquote>
+<p>VL</p>
+</blockquote></td>
+<td><blockquote>
+<p>VL</p>
+</blockquote></td>
+<td><blockquote>
+<p>VL</p>
+</blockquote></td>
+<td>–</td>
+</tr>
+</tbody>
+</table>
 
-Työntekijällä on 6 päivän vuosiloma 6.4.–15.4.2023. Koska pitkäperjantai, pääsiäislauantai, sunnuntai ja toinen pääsiäispäivä eivät ole vuosilomapäi- viä,
+> Vuosivapaat on mahdollisuuksien mukaan annettava jonkin muun vapaan
+> yh- teydessä. Vapaa voidaan kuitenkin antaa myös yksittäisenä päivänä,
+> kuten esimerkiksi arkipyhänä.
+>
+> Vuosivapaita annettaessa on kuultava työntekijää. Kolme päivää tai
+> sitä pidemmästä yhdenjaksoisesta vuosivapaasta on sovittava
+> työntekijän kanssa.
+>
+> Vuosivapaa on merkittävä työvuoroluetteloon. Sille
+> kalenterivuorokaudelle, jolle vuosivapaa sijoittuu, ei voi suunnitella
+> alkavaa tai päättyvää työvuoroa.
+>
+> Vuosivapaat tulee antaa kokonaisina vapaapäivinä.
+>
+> Poissaolot eivät muuta työvuoroluettelon mukaisia vuosivapaita.
+> Vuosivapaan ajalta työntekijä ansaitsee vuosilomaa.
 
-niin työntekijän vuosiloma päättyy lauantaina 15.4.2023. Vuosivapaata ei voi sijoittaa vuosiloman ajalle.
+###### *Vuosivapaan vaikutus työaikaan ja vuosivapaan pituudesta toisin sopiminen*
 
-Työehtosopimus
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.032.png)![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.017.png)Vuosivapaita ei saa sijoittaa vuosiloman tai muiden vapaiden ajalle.
+2.  Vuosivapaa annetaan 7,5 tunnin pituisena työpäivänä.
 
+> Esimerkki 13
+>
+> *37,5 tuntia tekevä, yritys ei käytä työajan tasoittumisjärjestelmää*
+>
+> Työntekijälle annetaan 1 vuosivapaa 7,5 tunnin pituisena työpäivänä.
+> Viikon muina 4 työpäivänä hän on töissä yhteensä 30 tuntia.
+>
+> Vuosivapaita kerryttäviksi tunneiksi kirjataan 30 tuntia.
+>
+> Esimerkki 14
+>
+> *Alle 37,5 tuntia tekevä, yritys ei käytä työajan
+> tasoittumisjärjestelmää*
+>
+> Työntekijän työsopimuksessa sovittu viikkotyöaika on 30 tuntia.
+> Hänelle annetaan 1 vuosivapaa 7,5 tunnin pituisena työpäivänä. Viikon
+> muina 4 työpäivänä hän on töissä yhteensä 22,5 tuntia.
+>
+> Vuosivapaita kerryttäviksi tunneiksi kirjataan 22,5 tuntia.
+>
+> Esimerkki 15
+>
+> *37,5 tuntia tekevä, yritys käyttää työajan tasoittumisjärjestelmää*
+>
+> Työpaikalla on käytössä 12 viikon tasoittumisjärjestelmä. Jakson enim-
+> mäistyöaika on 450 tuntia (12 x 37,5). Jakson aikana on annettu 2
+> vuosi- vapaata 7,5 tunnin pituisina työpäivinä. Vuosivapaatunteja on
+> annettu 15.
+>
+> Vuosivapaita kerryttäviksi tunneiksi kirjataan 435 tuntia.
+>
+> Suunniteltu työvuoro voidaan työntekijän aloitteesta sopia
+> vuosivapaaksi. Vuosivapaan pituus vastaa tällöin työvuoron pituutta.
+> Sopimisen yhteydessä tulee kuitenkin todeta sen mahdollinen vaikutus
+> pidettävien vuosivapaiden määrään.
+>
+> Työnantaja ja työntekijä voivat sopia vuosivapaan pituudesta toisin
+> (23 §:n mukaisesti) työntekijällä ollessa aina samanpituiset alle 7,5
+> tunnin työvuorot. Vuosivapaan pituus sovitaan vastaamaan
+> säännönmukaisen työvuoron pituutta,
+>
+> []{#_bookmark16 .anchor}jolloin vuosivapaiden määrä voi myös kasvaa.
+> Työnantaja voi suunnitella sovi- tun pituisia vuosivapaita
+> työvuoroluetteloon jatkossa ilman erillistä sopimista.
+>
+> Jos työntekijän vuositasolla saamat vuosivapaatunnit jäävät alle 67,5
+> tunnin, saamatta jäänyt työvuoroa lyhyempi vuosivapaan osa toteutetaan
+> esimerkiksi:
 
+-   lyhentämällä työpäivää tai työpäiviä ko. tunneilla (palkka maksetaan
+    kui- tenkin koko suunnitellulta työvuorolta) tai
 
+-   maksamalla ko. tunnit 8. kohdan mukaisesti rahakorvauksena tai
 
-
-
-
-
-
-
-
-|To|Pe|La|Su|Ma|Ti|Ke|To|Pe|La|Su|
-| :- | -: | -: | :-: | :- | :- | :- | :- | :- | :- | -: |
-|VL|–|–|–|–|VL|VL|VL|VL|VL|–|
-
-
-Vuosivapaat on mahdollisuuksien mukaan annettava jonkin muun vapaan yh- teydessä. Vapaa voidaan kuitenkin antaa myös yksittäisenä päivänä, kuten esimerkiksi arkipyhänä.
-
-Esimerkki 12
-
-Työntekijällä on 6 päivän vuosiloma 31.3.–6.4.2023. Pitkäperjantai on 7.4. Koska vuosiloma on päättynyt 6.4., vuosivapaa voidaan sijoittaa pitkä- perjantaille 7.4.
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.033.png)
-
-Vuosivapaita annettaessa on kuultava työntekijää. Kolme päivää tai sitä pidemmästä yhdenjaksoisesta vuosivapaasta on sovittava työntekijän kanssa.
-
-Vuosivapaa on merkittävä työvuoroluetteloon. Sille kalenterivuorokaudelle, jolle vuosivapaa sijoittuu, ei voi suunnitella alkavaa tai päättyvää työvuoroa.
-
-Vuosivapaat tulee antaa kokonaisina vapaapäivinä.
-
-Poissaolot eivät muuta työvuoroluettelon mukaisia vuosivapaita. Vuosivapaan ajalta työntekijä ansaitsee vuosilomaa.
-
-A
-###### ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.013.png)<a name="vuosivapaan vaikutus työaikaan ja vuosiv"></a><a name="_bookmark15"></a>*Vuosivapaan vaikutus työaikaan ja vuosivapaan pituudesta toisin sopiminen*
-1. Vuosivapaa annetaan 7,5 tunnin pituisena työpäivänä.
-
-
-Työehtosopimus
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.034.png)![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.014.png)Esimerkki 13
-
-*37,5 tuntia tekevä, yritys ei käytä työajan tasoittumisjärjestelmää*
-
-Työntekijälle annetaan 1 vuosivapaa 7,5 tunnin pituisena työpäivänä. Viikon muina 4 työpäivänä hän on töissä yhteensä 30 tuntia.
-
-Vuosivapaita kerryttäviksi tunneiksi kirjataan 30 tuntia.
-
-Esimerkki 14
-
-*Alle 37,5 tuntia tekevä, yritys ei käytä työajan tasoittumisjärjestelmää*
-
-Työntekijän työsopimuksessa sovittu viikkotyöaika on 30 tuntia. Hänelle annetaan 1 vuosivapaa 7,5 tunnin pituisena työpäivänä. Viikon muina 4 työpäivänä hän on töissä yhteensä 22,5 tuntia.
-
-Vuosivapaita kerryttäviksi tunneiksi kirjataan 22,5 tuntia.
-
-Esimerkki 15
-
-*37,5 tuntia tekevä, yritys käyttää työajan tasoittumisjärjestelmää*
-
-Työpaikalla on käytössä 12 viikon tasoittumisjärjestelmä. Jakson enim- mäistyöaika on 450 tuntia (12 x 37,5). Jakson aikana on annettu 2 vuosi- vapaata 7,5 tunnin pituisina työpäivinä. Vuosivapaatunteja on annettu 15.
-
-Vuosivapaita kerryttäviksi tunneiksi kirjataan 435 tuntia.
-
-
-Suunniteltu työvuoro voidaan työntekijän aloitteesta sopia vuosivapaaksi. Vuosivapaan pituus vastaa tällöin työvuoron pituutta. Sopimisen yhteydessä tulee kuitenkin todeta sen mahdollinen vaikutus pidettävien vuosivapaiden määrään.
-
-Työnantaja ja työntekijä voivat sopia vuosivapaan pituudesta toisin (23 §:n mukaisesti) työntekijällä ollessa aina samanpituiset alle 7,5 tunnin työvuorot. Vuosivapaan pituus sovitaan vastaamaan säännönmukaisen työvuoron pituutta,
-
-A
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.016.png)<a name="palkka vuosivapaan ajalta"></a><a name="_bookmark16"></a>jolloin vuosivapaiden määrä voi myös kasvaa. Työnantaja voi suunnitella sovi- tun pituisia vuosivapaita työvuoroluetteloon jatkossa ilman erillistä sopimista.
-
-Työehtosopimus
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.017.png)Jos työntekijän vuositasolla saamat vuosivapaatunnit jäävät alle 67,5 tunnin, saamatta jäänyt työvuoroa lyhyempi vuosivapaan osa toteutetaan esimerkiksi:
-
-- lyhentämällä työpäivää tai työpäiviä ko. tunneilla (palkka maksetaan kui- tenkin koko suunnitellulta työvuorolta) tai
-- maksamalla ko. tunnit 8. kohdan mukaisesti rahakorvauksena tai
-- siirtämällä ko. tunnit työaikapankkiin.
-
-Esimerkki 16
-
-Työntekijä on osittaisella hoitovapaalla. Hän tekee 6 tunnin työvuoroja
-
-5 päivänä viikossa. Työnantaja ja työntekijä sopivat vuosivapaan pituudeksi työvuoron pituuden. Työnantaja voi suunnitella sovitun pituisia vuosi- vapaita työvuoroluetteloon jatkossa ilman erillistä sopimista.
-
-Työntekijä on tehnyt vuoden aikana yhteensä 1 350 tuntia töitä. Hänelle on kertynyt 52,5 vuosivapaatuntia. Työnantajan ja työntekijän sopimalla tavalla työntekijä saa 8 vuosivapaata ja yhteensä 48 vuosivapaatun-
-
-tia. Jäljellä olevan 4,5 tunnin toteutumisesta työnantaja ja työntekijä voivat sopia tämän esimerkin yläpuolella olevan tekstin mukaisesti.
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.035.png)
+-   siirtämällä ko. tunnit työaikapankkiin.
 
 ###### *Palkka vuosivapaan ajalta*
-1. Vuosivapaan ajalta työntekijä saa palkkansa kiinteine lisineen ilman tuntikoh- taisia olosuhdelisiä ja työaikalisiä.
 
-Kuukausipalkkainen ja suhteutetulla kuukausipalkalla oleva työntekijä saa nor- maalin palkkansa riippumatta pidetyn vuosivapaan pituudesta.
+1.  Vuosivapaan ajalta työntekijä saa palkkansa kiinteine lisineen ilman
+    tuntikoh- taisia olosuhdelisiä ja työaikalisiä.
 
-Tuntipalkkainen työntekijä saa vuosivapaan ajalta palkan pidetyn vuosivapaan pituuden mukaan.
+> Kuukausipalkkainen ja suhteutetulla kuukausipalkalla oleva työntekijä
+> saa nor- maalin palkkansa riippumatta pidetyn vuosivapaan pituudesta.
+>
+> Tuntipalkkainen työntekijä saa vuosivapaan ajalta palkan pidetyn
+> vuosivapaan pituuden mukaan.
+>
+> Provisiopalkkaiselle maksetaan vuosivapaan ajalta keskimääräinen
+> päivä- provisio.
 
-Provisiopalkkaiselle maksetaan vuosivapaan ajalta keskimääräinen päivä- provisio.
+###### *Vuosivapaan maksaminen rahakorvauksena*
 
-A
-###### ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.013.png)<a name="vuosivapaan maksaminen rahakorvauksena"></a><a name="_bookmark17"></a>*Vuosivapaan maksaminen rahakorvauksena*
-Työehtosopimus
-1. ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.014.png)Työntekijän työsuhteen kestettyä 6 kuukautta hänen kanssaan voidaan sopia (23 §:n mukaisesti) vuosivapaiden antamisen sijaan niiden maksaminen raha- korvauksena. Aina työntekijän ansaittua vuosivapaan, hänelle maksetaan sen pituutta vastaava rahakorvaus seuraavana palkkapäivänä.
+2.  Työntekijän työsuhteen kestettyä 6 kuukautta hänen kanssaan voidaan
+    sopia (23 §:n mukaisesti) vuosivapaiden antamisen sijaan niiden
+    maksaminen raha- korvauksena. Aina työntekijän ansaittua
+    vuosivapaan, hänelle maksetaan sen pituutta vastaava rahakorvaus
+    seuraavana palkkapäivänä.
 
-Työntekijän aloitteesta voidaan sopia myös yksittäisen vuosivapaan tai sen osan maksamisesta rahakorvauksena. Rahakorvaus maksetaan seuraavana palkkapäivänä.
+> Työntekijän aloitteesta voidaan sopia myös yksittäisen vuosivapaan tai
+> sen osan maksamisesta rahakorvauksena. Rahakorvaus maksetaan
+> seuraavana palkkapäivänä.
+>
+> Rahakorvauksen suuruus saadaan kertomalla vuosivapaan pituus
+> tuntipalkalla. Tuntipalkassa otetaan huomioon työntekijän palkassa
+> maksamishetkellä ole- vat kiinteät lisät ilman tuntikohtaisia
+> olosuhdelisiä ja työaikalisiä.
+>
+> Suhteutettua kuukausipalkkaa saavan työntekijän tuntipalkka lasketaan
+> työn- tekijän kokoaikatyön mukaisesta kuukausipalkasta jakajalla 160.
+>
+> Jos vuosivapaita ei ole ollut mahdollista antaa ansaintavuotta
+> seuraavan vuo- den huhtikuun loppuun mennessä, vuosivapaat tulee
+> maksaa rahakorvauk- sena toukokuun palkkapäivänä.
+>
+> Jos vuosivapaita ei ole ollut mahdollista antaa työntekijän
+> aloitteesta tehdyn kirjallisen sopimuksen mukaisesti viimeistään
+> ansaintavuotta seuraavan kalen- terivuoden loppuun mennessä,
+> vuosivapaat tulee maksaa rahakorvauksena tammikuun palkkapäivänä.
 
-Esimerkki 17
+###### *Vuosivapaat työsuhteen päättyessä*
 
-Työntekijälle on kertynyt 4 vuosivapaata ja hän haluaa yhden vuosivapaan rahakorvauksena. Jäljelle jääneiden vuosivapaiden maksamisesta raha- korvauksena tulee sopia erikseen.
+3.  Työsuhteen päättyessä pitämättömät vuosivapaat maksetaan
+    rahakorvauksena.
 
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.036.png)
-
-Rahakorvauksen suuruus saadaan kertomalla vuosivapaan pituus tuntipalkalla. Tuntipalkassa otetaan huomioon työntekijän palkassa maksamishetkellä ole- vat kiinteät lisät ilman tuntikohtaisia olosuhdelisiä ja työaikalisiä.
-
-Suhteutettua kuukausipalkkaa saavan työntekijän tuntipalkka lasketaan työn- tekijän kokoaikatyön mukaisesta kuukausipalkasta jakajalla 160.
-
-Jos vuosivapaita ei ole ollut mahdollista antaa ansaintavuotta seuraavan vuo- den huhtikuun loppuun mennessä, vuosivapaat tulee maksaa rahakorvauk- sena toukokuun palkkapäivänä.
-
-Esimerkki 18
-
-Työntekijä on pitkällä sairauslomalla. Edellisen vuoden vuosivapaita ei ole voitu tästä syystä antaa huhtikuun loppuun mennessä. Työnantaja maksaa vuosivapaat rahakorvauksena toukokuun palkkapäivänä.
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.037.png)
-
-Jos vuosivapaita ei ole ollut mahdollista antaa työntekijän aloitteesta tehdyn kirjallisen sopimuksen mukaisesti viimeistään ansaintavuotta seuraavan kalen- terivuoden loppuun mennessä, vuosivapaat tulee maksaa rahakorvauksena tammikuun palkkapäivänä.
-
-A
-###### ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.016.png)<a name="vuosivapaat työsuhteen päättyessä"></a><a name="vapaapäivien sijoittelu"></a><a name="_bookmark18"></a>*Vuosivapaat työsuhteen päättyessä*
-1. Työsuhteen päättyessä pitämättömät vuosivapaat maksetaan rahakorvauksena.
-
-Työehtosopimus
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.017.png)Mikäli työntekijän aloitteesta on sovittu vuosivapaan pitämisestä ennen kuin se on ansaittu, työnantajalla on työsuhteen päättyessä oikeus periä takaisin ansaitsemattomasta vuosivapaasta maksettu palkka. Takaisinperintä on mah- dollista vain, jos työsuhde päättyy työntekijästä johtuvasta syystä.
+> Mikäli työntekijän aloitteesta on sovittu vuosivapaan pitämisestä
+> ennen kuin se on ansaittu, työnantajalla on työsuhteen päättyessä
+> oikeus periä takaisin ansaitsemattomasta vuosivapaasta maksettu
+> palkka. Takaisinperintä on mah- dollista vain, jos työsuhde päättyy
+> työntekijästä johtuvasta syystä.
 
 ###### *Vapaapäivien sijoittelu*
-1. Vapaapäivät sijoitetaan seuraavasti:
 
-1. *Peräkkäiset vapaat*
+4.  Vapaapäivät sijoitetaan seuraavasti:
 
-Työntekijälle annetaan kalenterivuoden aikana vähintään 20 peräkkäisten vapaapäivien yhdistelmää.
+    1.  *Peräkkäiset vapaat*
 
-Edellä mainituista peräkkäisten vapaapäivien yhdistelmistä työntekijälle anne- taan kalenterivuoden aikana vähintään 17 viikonloppuvapaata eli perjantai- lauantai, lauantai–sunnuntai tai sunnuntai–maanantai-vapaapäiväyhdistelmää.
+> Työntekijälle annetaan kalenterivuoden aikana vähintään 20
+> peräkkäisten vapaapäivien yhdistelmää.
+>
+> Edellä mainituista peräkkäisten vapaapäivien yhdistelmistä
+> työntekijälle anne- taan kalenterivuoden aikana vähintään 17
+> viikonloppuvapaata eli perjantai- lauantai, lauantai--sunnuntai tai
+> sunnuntai--maanantai-vapaapäiväyhdistelmää.
+>
+> Viikonloppuvapaista vähintään 9 annetaan
+> lauantai-sunnuntai-vapaapäivä- yhdistelmänä, ellei työntekijä
+> työskentele vain viikonloppuisin.
+>
+> Peräkkäisten vapaiden antamisesta voidaan työpaikkakohtaisesti sopia
+> toisin (23 §:n mukaisesti).
+>
+> Vuosilomalle sijoittuvat viikonloput lasketaan saaduiksi
+> viikonloppuvapaiksi.
+>
+> Jos työsuhde ei ole jatkunut koko kalenterivuotta, annetaan
+> peräkkäisiä vapaita ja viikonloppuvapaita vastaavassa suhteessa.
+>
+> Poissaolot eivät muuta työvuoroluettelon mukaisia vapaapäiviä.
 
-Viikonloppuvapaista vähintään 9 annetaan lauantai-sunnuntai-vapaapäivä- yhdistelmänä, ellei työntekijä työskentele vain viikonloppuisin.
+2.  *Sunnuntaivapaa*
 
-Peräkkäisten vapaiden antamisesta voidaan työpaikkakohtaisesti sopia toisin (23 §:n mukaisesti).
+> Työntekijällä on kalenterivuoden aikana vähintään 22 työstä vapaata
+> sunnun- taita, ellei toisin sovita (23 §:n mukaisesti). Jos työsuhde
+> ei ole jatkunut koko kalenterivuotta, on työstä vapaita sunnuntaita
+> vastaavassa suhteessa.
+>
+> Työntekijälle annetaan sunnuntai tai kirkollinen juhlapäivä vapaaksi
+> perustel- lusta perhesyystä hänen ilmoitettuaan siitä ennen
+> työvuoroluettelon laatimista.
+>
+> Edellä esitetty ei koske huolto- ja liikenneasematyöntekijöitä eikä
+> kioskimyyjää. Poissaolot eivät muuta työvuoroluettelon mukaisia
+> vapaapäiviä.
 
-Vuosilomalle sijoittuvat viikonloput lasketaan saaduiksi viikonloppuvapaiksi.
+3.  *Aattovapaa*
 
-Jos työsuhde ei ole jatkunut koko kalenterivuotta, annetaan peräkkäisiä vapaita ja viikonloppuvapaita vastaavassa suhteessa.
+> Seuraavista aattopäivistä tulee vakinaisella työntekijällä olla 2
+> vapaana:
 
-Poissaolot eivät muuta työvuoroluettelon mukaisia vapaapäiviä.
+-   pääsiäislauantai
 
-1. *Sunnuntaivapaa*
+-   juhannusaatto
 
-Työntekijällä on kalenterivuoden aikana vähintään 22 työstä vapaata sunnun- taita, ellei toisin sovita (23 §:n mukaisesti). Jos työsuhde ei ole jatkunut koko kalenterivuotta, on työstä vapaita sunnuntaita vastaavassa suhteessa.
+-   jouluaatto
 
-A
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.013.png)Työntekijälle annetaan sunnuntai tai kirkollinen juhlapäivä vapaaksi perustel- lusta perhesyystä hänen ilmoitettuaan siitä ennen työvuoroluettelon laatimista.
+-   uudenvuodenaatto.
 
-Työehtosopimus
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.014.png)Edellä esitetty ei koske huolto- ja liikenneasematyöntekijöitä eikä kioskimyyjää. Poissaolot eivät muuta työvuoroluettelon mukaisia vapaapäiviä.
+> Toimihenkilöllä vapaapäiviä ovat pääsiäislauantai, juhannusaatto ja
+> jouluaatto, ellei kyseessä ole 7 §:n 1. kohdassa määritelty yrityksen
+> liiketoiminnasta joh- tuva perusteltu syy, jolloin tämän määräyksen
+> sijaan noudatetaan kohdan 10.3. aattovapaamääräyksiä muilta osin.
+>
+> Työsuhteen alkamisvuonna aattovapaat annetaan, jos työsuhde on alkanut
+> ennen pääsiäisviikkoa.
+>
+> Vuosilomalle sijoittuvat aattopäivät lasketaan saaduiksi
+> aattovapaiksi. Poissaolot eivät muuta työvuoroluettelon mukaisia
+> vapaapäiviä.
+>
+> Työnantaja voi korvata aattovapaat maksamalla kyseisinä päivinä
+> tehdystä säännöllisestä työstä 100 %:lla korotettu palkka.
+>
+> Työnantaja ja työntekijä voivat kertaluonteisesti sopia
+> aattovapaamääräyk- sistä toisin.
 
-1. *Aattovapaa*
-
-Seuraavista aattopäivistä tulee vakinaisella työntekijällä olla 2 vapaana:
-
-0. pääsiäislauantai
-0. juhannusaatto
-0. jouluaatto
-0. uudenvuodenaatto.
-
-Toimihenkilöllä vapaapäiviä ovat pääsiäislauantai, juhannusaatto ja jouluaatto, ellei kyseessä ole 7 §:n 1. kohdassa määritelty yrityksen liiketoiminnasta joh- tuva perusteltu syy, jolloin tämän määräyksen sijaan noudatetaan kohdan 10.3. aattovapaamääräyksiä muilta osin.
-
-Työsuhteen alkamisvuonna aattovapaat annetaan, jos työsuhde on alkanut ennen pääsiäisviikkoa.
-
-Vuosilomalle sijoittuvat aattopäivät lasketaan saaduiksi aattovapaiksi. Poissaolot eivät muuta työvuoroluettelon mukaisia vapaapäiviä.
-
-Työnantaja voi korvata aattovapaat maksamalla kyseisinä päivinä tehdystä säännöllisestä työstä 100 %:lla korotettu palkka.
-
-Työnantaja ja työntekijä voivat kertaluonteisesti sopia aattovapaamääräyk- sistä toisin.
-
-A
-2. #### ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.016.png)<a name="8 § ruoka- ja kahvitauko"></a><a name="ruokatauko"></a><a name="kahvitauko"></a><a name="_bookmark19"></a>§ Ruoka- ja kahvitauko
+#### § Ruoka- ja kahvitauko
 
 ###### *Ruokatauko*
-Työehtosopimus
-1. ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.017.png)Säännöllisen työajan ollessa yhdenjaksoisesti yli 7 tuntia työntekijällä on vähin- tään tunnin ruokatauko.
 
-1. Paikallisesti sopimalla ruokatauko voidaan:
-- lyhentää enintään 30 minuutilla tai
-- poistaa kokonaan, jolloin työntekijä voi ruokailla työaikana.
-  1. Ruokatauko ei ole työaikaa työntekijän saadessa poistua esteettömästi työpaikalta.
-  1. Myymäläautotyöntekijän ruokatauko voidaan poistaa, jos hän voi ruokailla työaikana.
+1.  Säännöllisen työajan ollessa yhdenjaksoisesti yli 7 tuntia
+    työntekijällä on vähin- tään tunnin ruokatauko.
 
-1. Ruokataukoa ei saa sijoittaa välittömästi työpäivän alkuun tai loppuun.
+2.  Paikallisesti sopimalla ruokatauko voidaan:
+
+-   lyhentää enintään 30 minuutilla tai
+
+-   poistaa kokonaan, jolloin työntekijä voi ruokailla työaikana.
+
+    1.  Ruokatauko ei ole työaikaa työntekijän saadessa poistua
+        esteettömästi työpaikalta.
+
+    2.  Myymäläautotyöntekijän ruokatauko voidaan poistaa, jos hän voi
+        ruokailla työaikana.
+
+    3.  Ruokataukoa ei saa sijoittaa välittömästi työpäivän alkuun tai
+        loppuun.
 
 ###### *Kahvitauko*
-1. Työpäivän pituuden ollessa:
 
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.022.png)
+4.  Työpäivän pituuden ollessa:
 
-alle 4 tuntia	ei kahvitaukoa
+> alle 4 tuntia ei kahvitaukoa
+>
+> 4 tuntia -- alle 6 tuntia 1 kahvitauko
+>
+> vähintään 6 tuntia 2 kahvitaukoa
 
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.021.png)
+5.  Kahden kahvitauon vaikeuttaessa töiden järjestelyjä annetaan 1
+    pidempi kah- vitauko. Jatkuvasti kassalla työskentelevä työntekijä
+    saa tällöin 1 ylimääräisen tauon, jonka aikana hänellä voidaan
+    teettää muuta työtä.
 
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.019.png)4 tuntia – alle 6 tuntia	1 kahvitauko
+6.  Ruoka- ja kahvitaukoja annettaessa työnantajan on huolehdittava,
+    että ne voi- daan tosiasiallisesti pitää ja ohjeistettava, miten
+    työntekijä voi yksin työsken- nellessä ne järjestää.
 
-vähintään 6 tuntia	2 kahvitaukoa
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.020.png)
-
-1. Kahden kahvitauon vaikeuttaessa töiden järjestelyjä annetaan 1 pidempi kah- vitauko. Jatkuvasti kassalla työskentelevä työntekijä saa tällöin 1 ylimääräisen tauon, jonka aikana hänellä voidaan teettää muuta työtä.
-
-1. Ruoka- ja kahvitaukoja annettaessa työnantajan on huolehdittava, että ne voi- daan tosiasiallisesti pitää ja ohjeistettava, miten työntekijä voi yksin työsken- nellessä ne järjestää.
-
-A
-2. #### ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.013.png)<a name="9 § lisä- ja ylityö"></a><a name="lisätyö"></a><a name="ylityö"></a><a name="lisä- ja ylityösuostumus"></a><a name="lisätyön tarjoamisen periaatteiden käsit"></a><a name="korotettu palkka"></a><a name="_bookmark20"></a>§ Lisä- ja ylityö
+#### § Lisä- ja ylityö
 
 ###### *Lisätyö*
-Työehtosopimus
-1. ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.014.png)Lisätyö on sovitun työajan lisäksi tehty työ enintään 40 tuntiin saakka viikossa.
 
-Tehtyä lisätyötä ei voida vähentää jäljellä olevan tasoittumisjakson tunneista.
+1.  Lisätyö on sovitun työajan lisäksi tehty työ enintään 40 tuntiin
+    saakka viikossa.
+
+> Tehtyä lisätyötä ei voida vähentää jäljellä olevan tasoittumisjakson
+> tunneista.
 
 ###### *Ylityö*
-1. Ylityötä on 40 tuntia viikossa ylittävä työ.
 
-1. Tasoittumisjärjestelmässä ylityötä on keskimäärin 40 tuntia viikossa ylittävä työ.
+2.  Ylityötä on 40 tuntia viikossa ylittävä työ.
+
+3.  Tasoittumisjärjestelmässä ylityötä on keskimäärin 40 tuntia viikossa
+    ylittävä työ.
 
 ###### *Lisä- ja ylityösuostumus*
-1. Työntekijän lisä- ja ylityösuostumus määräytyy työaikalain 17 §:n mukaan.
 
-Vuorokaudessa yli 8 tuntia tai työvuoroluetteloon merkityn 8 tuntia pidemmän työajan lisäksi tehtävään työhön edellytetään työntekijältä työaikalain 17 §:n 1 momentin mukainen suostumus.
+4.  Työntekijän lisä- ja ylityösuostumus määräytyy työaikalain 17 §:n
+    mukaan.
+
+> Vuorokaudessa yli 8 tuntia tai työvuoroluetteloon merkityn 8 tuntia
+> pidemmän työajan lisäksi tehtävään työhön edellytetään työntekijältä
+> työaikalain 17 §:n 1 momentin mukainen suostumus.
 
 ###### *Lisätyön tarjoamisen periaatteiden käsittely*
-1. Työsopimuslain 2 luvun 5 §:n mukaisen lisätyön tarjoamisen periaatteita käsitellään työpaikalla henkilöstöedustajien tai henkilöstön kanssa osana yhteistoimintaa.
+
+5.  Työsopimuslain 2 luvun 5 §:n mukaisen lisätyön tarjoamisen
+    periaatteita käsitellään työpaikalla henkilöstöedustajien tai
+    henkilöstön kanssa osana yhteistoimintaa.
 
 ###### *Korotettu palkka*
-1. Vuorokaudessa 10 tuntia tai viikossa 37,5 tuntia ylittävästä työstä maksetaan 50 %:lla korotettu palkka.
 
-Korotettua palkkaa määritettäessä työaikaan lasketaan myös viikon aikana annettu vuosivapaa.
+6.  Vuorokaudessa 10 tuntia tai viikossa 37,5 tuntia ylittävästä työstä
+    maksetaan 50 %:lla korotettu palkka.
 
-A
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.016.png)
+> Korotettua palkkaa määritettäessä työaikaan lasketaan myös viikon
+> aikana annettu vuosivapaa.
+>
+> Esimerkki 19
+>
+> *37,5 tuntia tekevä, yritys ei käytä työajan tasoittumisjärjestelmää*
+>
+> Työntekijä on maanantaista torstaihin töissä yhteensä 30 tuntia.
+> Perjantain hän on vuosivapaalla. Kyseisen viikon työaika on 37,5
+> tuntia, johon sisältyy tehtyä työtä 30 tuntia ja pidettyä vuosivapaata
+> 7,5 tuntia.
+>
+> Vuosivapaita kerryttäviksi tunneiksi työntekijälle kirjataan tehdyt 30
+> tuntia.
+>
+> Jos kyseisellä viikolla työntekijä tekee enemmän tunteja, niistä
+> maksetaan heti korotettu palkka.
+>
+> Esimerkki 20
+>
+> *Alle 37,5 tuntia tekevä, yritys ei käytä työajan
+> tasoittumisjärjestelmää*
+>
+> Työntekijän viikoittainen työaika on työsopimuksen mukaan 22,5 tuntia.
+> Hän on maanantaina ja tiistaina töissä yhteensä 15 tuntia.
+>
+> Keskiviikon hän on vuosi-vapaalla, jonka pituus on 7,5 tuntia.
+>
+> Kyseisen viikon työaika työntekijällä on 22,5 tuntia, johon sisältyy
+> tehtyä työtä 15 tuntia ja pidettyä vuosivapaata 7,5 tuntia.
+>
+> Vuosivapaita kerryttäviksi tunneiksi työntekijälle kirjataan tehdyt 15
+> työtuntia.
+>
+> Kyseisellä viikolla työntekijä voi tehdä 15 tuntia (37,5 -- 22,5)
+> lisätyötä yksinkertaisella palkalla
 
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.038.png)Esimerkki 19
+7.  Logistiikkatyöntekijälle maksetaan vuorokaudessa 10 tunnin jälkeen
+    50 %:lla korotettu palkka ja 12 tunnin jälkeen 100 %:lla korotettu
+    palkka.
 
-Työehtosopimus
+> Jos logistiikkatyöntekijän säännöllinen työaika on
+> työpaikkakohtaisesti (23 §:n mukaisesti) sovittu enintään 12 tunniksi
+> vuorokaudessa, korotettua palkkaa maksetaan vuorokaudessa aina vasta
+> 12 tunnin jälkeen. Vuorokaudessa 12 tun- nin jälkeen tehtävistä
+> tunneista maksetaan 100 %:lla korotettu palkka.
+>
+> Logistiikkatyöntekijälle ei makseta ilta- ja yölisiä työajan
+> ylittäessä 12 tuntia vuorokaudessa.
+>
+> Muuten korotettu palkka maksetaan 6. kohdan mukaan.
 
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.017.png)*37,5 tuntia tekevä, yritys ei käytä työajan tasoittumisjärjestelmää*
+8.  []{#_bookmark21 .anchor}Työaikalisiä ei oteta huomioon peruspalkassa
+    laskettaessa lisä- ja ylityökorva- uksia. Työaikalisät maksetaan
+    lisä- ja ylityön ajalta korottamattomina.
 
-Työntekijä on maanantaista torstaihin töissä yhteensä 30 tuntia. Perjantain hän on vuosivapaalla. Kyseisen viikon työaika on 37,5 tuntia, johon sisältyy tehtyä työtä 30 tuntia ja pidettyä vuosivapaata 7,5 tuntia.
+###### *Korotettu palkka tasoittumisjaksossa*
 
-Vuosivapaita kerryttäviksi tunneiksi työntekijälle kirjataan tehdyt 30 tuntia.
+9.  Tasoittumisjärjestelmässä tehdystä tuntimäärästä
 
-Jos kyseisellä viikolla työntekijä tekee enemmän tunteja, niistä maksetaan heti korotettu palkka.
+```{=html}
+<!-- -->
+```
+a.  vähennetään yli 10 tuntia vuorokaudessa tehty työ, josta
 
-Esimerkki 20
+    -   maksetaan erikseen 50 %:lla korotettu palkka ja
 
-*Alle 37,5 tuntia tekevä, yritys ei käytä työajan tasoittumisjärjestelmää*
+    -   varastossa 12 tunnin jälkeen 100 %:lla korotettu palkka.
 
-Työntekijän viikoittainen työaika on työsopimuksen mukaan 22,5 tuntia. Hän on maanantaina ja tiistaina töissä yhteensä 15 tuntia.
+> Edellä esitetystä poiketen varastoissa ja logistiikkakeskuksissa,
+> joissa on työ- paikkakohtaisesti (työehtosopimuksen 23 §:n mukaisesti)
+> sovittu vuorokauti- nen säännöllinen työaika enintään 12 tunniksi,
+> vähennetään vain yli 12 tuntia vuorokaudessa tehty työ, josta
 
-Keskiviikon hän on vuosi-vapaalla, jonka pituus on 7,5 tuntia.
+-   maksetaan erikseen 100 %:lla korotettu palkka.
 
-Kyseisen viikon työaika työntekijällä on 22,5 tuntia, johon sisältyy tehtyä työtä 15 tuntia ja pidettyä vuosivapaata 7,5 tuntia.
+b.  vähennetään tasoittumisjakson viikkojen enimmäistyöajat
 
-Vuosivapaita kerryttäviksi tunneiksi työntekijälle kirjataan tehdyt 15 työtuntia.
+    -   viikkojen lukumäärä x 37,5 tuntia. Tasoittumisjakson työaikaan
+        > lasketaan mukaan jakson aikana annetut vuosivapaat.
 
-Kyseisellä viikolla työntekijä voi tehdä 15 tuntia (37,5 – 22,5) lisätyötä yksinkertaisella palkalla
+c.  maksetaan erotuksesta 50 %:lla korotettu palkka.
 
+> Työntekijä saa normaalin palkkansa lisäksi kyseiseltä jaksolta 50
+> %:lla korotetun palkan yhteensä 50 tunnilta (12 + 38).
+>
+> Vuosivapaita kerryttäviksi tunneiksi kirjataan tosiasiassa tehdyt 485
+> työtuntia.
+>
+> Ylityökirjanpitoon kirjataan tasoittumisjaksossa keskimäärin 40 tuntia
+> viikossa ylittävä työ eli 5 tuntia (485 -- 12 x 40).
+>
+> Esimerkki 22
+>
+> *Alle 37,5 tuntia tekevä tuntipalkkainen työntekijä, yritys käyttää
+> tasoittumisjärjestelmää*
+>
+> Työntekijän työsopimuksessa sovittu viikkotyöaika on 30 tuntia. Työ-
+> paikalla on käytössä 12 viikon tasoittumisjärjestelmä. Jaksolle
+> suunni- teltu tuntimäärä on (12 x 30) 360 tuntia. Jakson aikana
+> työntekijälle on annettu kaksi 7,5 tunnin pituista vuosivapaata.
+>
+> Jakson enimmäistyöaika korotetun palkan osalta on sama kuin koko-
+> aikaisella työntekijällä eli 450 tuntia (12 x 37,5).
+>
+> Työntekijä on tehnyt jaksolle suunniteltujen 360 tunnin lisäksi
+> ylimää- räistä työtä 95 tuntia eli jakson kokonaistuntimäärä on 455
+> tuntia.
+>
+> Työntekijälle maksetaan yksinkertainen tuntipalkka 450 tunnista ja
+>
+> 50 %:lla korotettu palkka jakson enimmäistyöajan ylittävistä 5
+> tunnista.
+>
+> Vuosivapaita kerryttäviksi tunneiksi kirjataan tosiasiassa tehdyt 440
+> tuntia (345 + 95).
+>
+> Ylityökirjanpitoon kirjattavia tunteja ei jaksolla ole tehty.
+>
+> []{#_bookmark22 .anchor}Esimerkki 23
+>
+> *Alle 37,5 tuntia tekevä ja suhteutettua kuukausipalkkaa saava
+> työntekijä, yritys käyttää tasoittumisjärjestelmää*
+>
+> Työntekijän työsopimuksessa sovittu viikkotyöaika on 30 tuntia, jonka
+> perusteella hänelle on laskettu suhteutettu kuukausipalkka.
+> Työpaikalla on käytössä 12 viikon tasoittumisjärjestelmä. Jaksolle
+> suunniteltu tunti- määrä on 360 tuntia (12 x 30). Jakson aikana
+> työntekijälle on annettu kaksi 7,5 tunnin pituista vuosivapaata.
+>
+> Jakson enimmäistyöaika korotetun palkan osalta on sama kuin koko-
+> aikaisella työntekijällä eli 450 tuntia (12 x 37,5).
+>
+> Työntekijä on tehnyt jaksolle suunniteltujen 360 tunnin lisäksi
+> ylimää- räistä työtä 95 tuntia eli jakson kokonaistuntimäärä on 455
+> tuntia.
+>
+> Työntekijä saa normaalin palkkansa lisäksi yksinkertaisen tuntipalkan
+> suunniteltujen tuntien lisäksi tehdyiltä 90 tunnilta ja 50 %:lla
+> korotetun palkan jakson enimmäistyöajan ylittävistä 5 tunnista.
+>
+> Vuosivapaita kerryttäviksi tunneiksi kirjataan tosiasiassa tehdyt 440
+> tuntia (345 + 95).
+>
+> Ylityökirjanpitoon kirjattavia tunteja ei jaksolla ole tehty.
 
-1. Logistiikkatyöntekijälle maksetaan vuorokaudessa 10 tunnin jälkeen 50 %:lla korotettu palkka ja 12 tunnin jälkeen 100 %:lla korotettu palkka.
-
-Jos logistiikkatyöntekijän säännöllinen työaika on työpaikkakohtaisesti (23 §:n mukaisesti) sovittu enintään 12 tunniksi vuorokaudessa, korotettua palkkaa maksetaan vuorokaudessa aina vasta 12 tunnin jälkeen. Vuorokaudessa 12 tun- nin jälkeen tehtävistä tunneista maksetaan 100 %:lla korotettu palkka.
-
-Logistiikkatyöntekijälle ei makseta ilta- ja yölisiä työajan ylittäessä 12 tuntia vuorokaudessa.
-
-Muuten korotettu palkka maksetaan 6. kohdan mukaan.
-
-A
-1. ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.013.png)<a name="korotettu palkka tasoittumisjaksossa"></a><a name="_bookmark21"></a>Työaikalisiä ei oteta huomioon peruspalkassa laskettaessa lisä- ja ylityökorva- uksia. Työaikalisät maksetaan lisä- ja ylityön ajalta korottamattomina.
-
-Työehtosopimus
-###### ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.014.png)*Korotettu palkka tasoittumisjaksossa*
-1. Tasoittumisjärjestelmässä tehdystä tuntimäärästä
-
-1. vähennetään yli 10 tuntia vuorokaudessa tehty työ, josta
-   0. maksetaan erikseen 50 %:lla korotettu palkka ja
-   0. varastossa 12 tunnin jälkeen 100 %:lla korotettu palkka.
-
-Edellä esitetystä poiketen varastoissa ja logistiikkakeskuksissa, joissa on työ- paikkakohtaisesti (työehtosopimuksen 23 §:n mukaisesti) sovittu vuorokauti- nen säännöllinen työaika enintään 12 tunniksi, vähennetään vain yli 12 tuntia vuorokaudessa tehty työ, josta
-
-0. maksetaan erikseen 100 %:lla korotettu palkka.
-1. vähennetään tasoittumisjakson viikkojen enimmäistyöajat
-   0. viikkojen lukumäärä x 37,5 tuntia. Tasoittumisjakson työaikaan lasketaan mukaan jakson aikana annetut vuosivapaat.
-
-1. maksetaan erotuksesta 50 %:lla korotettu palkka.
-
-Esimerkki 21
-
-*37,5 tuntia tekevä, yritys käyttää tasoittumisjärjestelmää*
-
-Työpaikalla on käytössä 12 viikon tasoittumisjärjestelmä, jolloin jaksolle suunniteltava työaika on (12 x 37,5) 450 tuntia. Jakson aikana työnte- kijälle on annettu kaksi 7,5 tunnin pituista vuosivapaata. Jaksolle suun- nitellusta työajasta tehtyjä työtunteja on 435 ja vuosivapaatunteja 15.
-
-Työntekijä on tehnyt jaksolle suunniteltujen 450 tunnin lisäksi 50 tuntia työtä, eli jakson kokonaistuntimäärä on 500 tuntia. Näistä tunneista on
-
-10 tuntia vuorokaudessa ylittäviä tunteja 12. Jakson työajasta vähennetään erikseen 50 %:lla korvattavat 10 tuntia ylittävät tunnit (500 – 12), jolloin tunteja jää 488. Tästä tuntimäärästä vähennetään kyseiselle jaksolle suunniteltu tuntimäärä 450 tuntia, jolloin 50 %:lla korvattavia tunteja jää 38 tuntia.
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.039.png)
-
-A
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.016.png)
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.040.png)Työntekijä saa normaalin palkkansa lisäksi kyseiseltä jaksolta 50 %:lla korotetun palkan yhteensä 50 tunnilta (12 + 38).
-
-Työehtosopimus
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.017.png)Vuosivapaita kerryttäviksi tunneiksi kirjataan tosiasiassa tehdyt 485 työtuntia.
-
-Ylityökirjanpitoon kirjataan tasoittumisjaksossa keskimäärin 40 tuntia viikossa ylittävä työ eli 5 tuntia (485 – 12 x 40).
-
-Esimerkki 22
-
-*Alle 37,5 tuntia tekevä tuntipalkkainen työntekijä, yritys käyttää tasoittumisjärjestelmää*
-
-Työntekijän työsopimuksessa sovittu viikkotyöaika on 30 tuntia. Työ- paikalla on käytössä 12 viikon tasoittumisjärjestelmä. Jaksolle suunni- teltu tuntimäärä on (12 x 30) 360 tuntia. Jakson aikana työntekijälle on annettu kaksi 7,5 tunnin pituista vuosivapaata.
-
-Jakson enimmäistyöaika korotetun palkan osalta on sama kuin koko- aikaisella työntekijällä eli 450 tuntia (12 x 37,5).
-
-Työntekijä on tehnyt jaksolle suunniteltujen 360 tunnin lisäksi ylimää- räistä työtä 95 tuntia eli jakson kokonaistuntimäärä on 455 tuntia.
-
-Työntekijälle maksetaan yksinkertainen tuntipalkka 450 tunnista ja
-
-50 %:lla korotettu palkka jakson enimmäistyöajan ylittävistä 5 tunnista.
-
-Vuosivapaita kerryttäviksi tunneiksi kirjataan tosiasiassa tehdyt 440 tuntia (345 + 95).
-
-Ylityökirjanpitoon kirjattavia tunteja ei jaksolla ole tehty.
-
-A
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.013.png)
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.041.png)<a name="korotetun palkan maksaminen tasoittumisj"></a><a name="lisä- ja ylityökorvaus vapaa-aikana"></a><a name="_bookmark22"></a>Esimerkki 23
-
-Työehtosopimus
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.014.png)*Alle 37,5 tuntia tekevä ja suhteutettua kuukausipalkkaa saava työntekijä, yritys käyttää tasoittumisjärjestelmää*
-
-Työntekijän työsopimuksessa sovittu viikkotyöaika on 30 tuntia, jonka perusteella hänelle on laskettu suhteutettu kuukausipalkka. Työpaikalla on käytössä 12 viikon tasoittumisjärjestelmä. Jaksolle suunniteltu tunti- määrä on 360 tuntia (12 x 30). Jakson aikana työntekijälle on annettu kaksi 7,5 tunnin pituista vuosivapaata.
-
-Jakson enimmäistyöaika korotetun palkan osalta on sama kuin koko- aikaisella työntekijällä eli 450 tuntia (12 x 37,5).
-
-Työntekijä on tehnyt jaksolle suunniteltujen 360 tunnin lisäksi ylimää- räistä työtä 95 tuntia eli jakson kokonaistuntimäärä on 455 tuntia.
-
-Työntekijä saa normaalin palkkansa lisäksi yksinkertaisen tuntipalkan suunniteltujen tuntien lisäksi tehdyiltä 90 tunnilta ja 50 %:lla korotetun palkan jakson enimmäistyöajan ylittävistä 5 tunnista.
-
-Vuosivapaita kerryttäviksi tunneiksi kirjataan tosiasiassa tehdyt 440 tuntia (345 + 95).
-
-Ylityökirjanpitoon kirjattavia tunteja ei jaksolla ole tehty.
-
-
-1. Tasoittumisjakson säännölliseen työaikaan lasketaan mukaan myös sellaiset tasoittumisjärjestelmässä ilmoitetut tunnit, joiden aikana työntekijä on ollut poissa työstä hyväksyttävästä syystä.
+1.  Tasoittumisjakson säännölliseen työaikaan lasketaan mukaan myös
+    sellaiset tasoittumisjärjestelmässä ilmoitetut tunnit, joiden aikana
+    työntekijä on ollut poissa työstä hyväksyttävästä syystä.
 
 ###### *Korotetun palkan maksaminen tasoittumisjaksossa*
-1. Kaikista tasoittumisjakson tunneista maksetaan korottamaton tuntipalkka tavanomaisena palkanmaksupäivänä.
 
-1. Korotusosat maksetaan tasoittumisjakson päättymistä seuraavana palkan- maksupäivänä.
+2.  Kaikista tasoittumisjakson tunneista maksetaan korottamaton
+    tuntipalkka tavanomaisena palkanmaksupäivänä.
+
+3.  Korotusosat maksetaan tasoittumisjakson päättymistä seuraavana
+    palkan- maksupäivänä.
 
 ###### *Lisä- ja ylityökorvaus vapaa-aikana*
-1. Lisä- ja ylityökorvaus voidaan vaihtaa vapaa-aikaan työaikalain 21 §:n mukaan.
 
-A
-###### ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.016.png)<a name="työsopimuksen päättyminen kesken tasoitt"></a><a name="_bookmark23"></a>*Työsopimuksen päättyminen kesken tasoittumisjakson*
-Työehtosopimus
-1. ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.017.png)Työsopimuksen päättyessä kesken tasoittumisjakson ja työajan jäädessä tasoittumatta keskimääräiseen 37,5 viikkotuntiin maksetaan tämän tuntimää- rän ylittäviltä tunneilta
+4.  Lisä- ja ylityökorvaus voidaan vaihtaa vapaa-aikaan työaikalain 21
+    §:n mukaan.
 
-1. korottamaton säännöllisen työajan palkka jos:
-- työnantajalla on oikeus päättää työsopimus työntekijästä johtuvista syistä tai
-- työntekijä irtisanoo työsopimuksen.
+###### *Työsopimuksen päättyminen kesken tasoittumisjakson*
 
-1. 50 %:lla korotettu palkka jos:
-- työntekijällä on oikeus purkaa työsopimus tai
-- työnantaja irtisanoo sopimuksen taloudellisista tai tuotannollisista syistä.
+5.  Työsopimuksen päättyessä kesken tasoittumisjakson ja työajan
+    jäädessä tasoittumatta keskimääräiseen 37,5 viikkotuntiin maksetaan
+    tämän tuntimää- rän ylittäviltä tunneilta
 
-Vuorokaudessa yli 10 tuntia tehdystä työstä maksetaan kuitenkin a. ja b. koh- dissa 50 %:lla korotettu palkka. Logistiikkatyöntekijälle maksetaan korvaus
+```{=html}
+<!-- -->
+```
+a.  korottamaton säännöllisen työajan palkka jos:
 
-7\. kohdan mukaan.
+-   työnantajalla on oikeus päättää työsopimus työntekijästä johtuvista
+    syistä tai
 
-Esimerkki 24
+-   työntekijä irtisanoo työsopimuksen.
 
-Työpaikalla on käytössä 12 viikon tasoittumisjakso, jonka enimmäistyöaika on (12 x 37,5) 450 tuntia. Työnantaja on irtisanonut työsopimuksen taloudellisista syistä ja se päättyy viikon 8 lopussa.
+b.  50 %:lla korotettu palkka jos:
 
-Työntekijä on tehnyt viikoilla 1–8 yhteensä 336 tuntia, joista 10 tuntia ylittäviä tunteja on 12. Tehdyistä tunneista vähennetään erikseen 50 %:lla korvattavat 10 tuntia ylittävät tunnit (336 – 12), jolloin tunteja jää 324.
+-   työntekijällä on oikeus purkaa työsopimus tai
 
-Tästä tuntimäärästä vähennetään kyseisten 8 viikon enimmäistyöaika
+-   työnantaja irtisanoo sopimuksen taloudellisista tai tuotannollisista
+    syistä.
 
-(8 x 37,5) 300 tuntia, jolloin 50 %:lla korvattavia tunteja jää (324 – 300) 24.
+> Vuorokaudessa yli 10 tuntia tehdystä työstä maksetaan kuitenkin a. ja
+> b. koh- dissa 50 %:lla korotettu palkka. Logistiikkatyöntekijälle
+> maksetaan korvaus
+>
+> 7\. kohdan mukaan.
 
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.042.png)
+1.  Työsopimuksen päättyessä kesken tasoittumisjakson ja
+    kokoaikatyöntekijän keskimääräisen viikkotyöajan jäädessä alle 37,5
+    tunnin vähennetään teke- mättä jäänyttä tuntimäärää vastaava palkka
+    työntekijän lopputilistä.
 
-1. Työsopimuksen päättyessä kesken tasoittumisjakson ja kokoaikatyöntekijän keskimääräisen viikkotyöajan jäädessä alle 37,5 tunnin vähennetään teke- mättä jäänyttä tuntimäärää vastaava palkka työntekijän lopputilistä.
+2.  Suhteutettua kuukausipalkkaa saavan työntekijän työsopimuksen
+    päättyessä kesken tasoittumisjakson ja työajan jäädessä
+    tasoittumatta keskimääräiseen sovittuun viikkotyöaikaan, maksetaan
+    tämän tuntimäärän ylittäviltä tunneilta keskimäärin 37,5 tuntiin
+    asti korottamaton säännöllisen työajan palkka. Lisäksi
+    noudatetaan 14. kohdan määräyksiä.
 
-1. Suhteutettua kuukausipalkkaa saavan työntekijän työsopimuksen päättyessä kesken tasoittumisjakson ja työajan jäädessä tasoittumatta keskimääräiseen sovittuun viikkotyöaikaan, maksetaan tämän tuntimäärän ylittäviltä tunneilta keskimäärin 37,5 tuntiin asti korottamaton säännöllisen työajan palkka. Lisäksi noudatetaan 14. kohdan määräyksiä.
-
-A
-
-Työehtosopimus
-1. ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.013.png)![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.014.png)<a name="10 § sunnuntaityö"></a><a name="työajan enimmäismäärä"></a><a name="tuntipalkkajakaja"></a><a name="lisä- ja ylityökorvausten vanhentuminen"></a><a name="_bookmark24"></a>Suhteutettua kuukausipalkkaa saavan työntekijän työsopimuksen päättyessä kesken tasoittumisjakson ja työajan jäädessä alle sovitun keskimääräisen viikkotyöajan, vähennetään tekemättä jäänyttä tuntimäärää vastaava palkka työntekijän lopputilistä.
+3.  []{#_bookmark24 .anchor}Suhteutettua kuukausipalkkaa saavan
+    työntekijän työsopimuksen päättyessä kesken tasoittumisjakson ja
+    työajan jäädessä alle sovitun keskimääräisen viikkotyöajan,
+    vähennetään tekemättä jäänyttä tuntimäärää vastaava palkka
+    työntekijän lopputilistä.
 
 ###### *Työajan enimmäismäärä*
-1. Työajan enimmäismäärä noudattaa työaikalaissa säädettyjä rajoituksia. Työajan enimmäismäärän tarkastelujaksona käytetään 6 kuukautta. Tarkastelujaksoa voidaan työpaikkakohtaisesti (23 §:n mukaisesti) pidentää enintään 12 kuu- kauteen. Jos työpaikalla on luottamusmies, asiasta sovitaan hänen kanssaan.
+
+4.  Työajan enimmäismäärä noudattaa työaikalaissa säädettyjä
+    rajoituksia. Työajan enimmäismäärän tarkastelujaksona käytetään 6
+    kuukautta. Tarkastelujaksoa voidaan työpaikkakohtaisesti (23 §:n
+    mukaisesti) pidentää enintään 12 kuu- kauteen. Jos työpaikalla on
+    luottamusmies, asiasta sovitaan hänen kanssaan.
 
 ###### *Tuntipalkkajakaja*
-1. Tuntipalkka saadaan jakamalla kuukausipalkka 160:llä.
+
+5.  Tuntipalkka saadaan jakamalla kuukausipalkka 160:llä.
 
 ###### *Lisä- ja ylityökorvausten vanhentuminen*
-1. `	`Lisä- ja ylityökorvaukset vanhentuvat työaikalain 40 §:n mukaan, ellei kan- netta nosteta:
-1. työsuhteen jatkuessa 2 vuoden kuluessa sen kalenterivuoden päättymi- sestä, jonka aikana oikeus korvaukseen on syntynyt
-1. työsuhteen päättyessä 2 vuoden kuluessa siitä, kun työsuhde on päättynyt.
 
-2. #### § Sunnuntaityö
-   1. Sunnuntaina tai kirkollisena juhlapäivänä saa teettää työtä vain, jos siitä on työsopimuksella sovittu tai työntekijä antaa siihen erikseen suostumuksensa.
+6.  Lisä- ja ylityökorvaukset vanhentuvat työaikalain 40 §:n mukaan,
+    ellei kan- netta nosteta:
 
-1. Sunnuntaityön teettämisessä noudatetaan tasapuolisuutta ottaen erityisesti huomioon työntekijän ammattitaito, osaaminen ja soveltuvuus tehtävään.
+```{=html}
+<!-- -->
+```
+a.  työsuhteen jatkuessa 2 vuoden kuluessa sen kalenterivuoden päättymi-
+    sestä, jonka aikana oikeus korvaukseen on syntynyt
 
-1. Sunnuntaina tai kirkollisena juhla-, itsenäisyys- ja vapunpäivänä tehdystä säännöllisestä työstä maksetaan kaksinkertainen palkka.
+b.  työsuhteen päättyessä 2 vuoden kuluessa siitä, kun työsuhde on
+    > päättynyt.
 
-Sunnuntaityökorvausta laskettaessa työaikalisiä ei oteta huomioon peruspal- kassa. Sunnuntaityökorvaus vanhenee työaikalain 40 §:n mukaan (ks. 9 § 20. kohta).
+```{=html}
+<!-- -->
+```
+10. #### § Sunnuntaityö
 
-A
-1. # ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.016.png)<a name="11 §  työpalkat"></a><a name="palkan suuruus"></a><a name="palvelusaika"></a><a name="4. palkkaus"></a><a name="_bookmark25"></a>PALKKAUS
+    1.  Sunnuntaina tai kirkollisena juhlapäivänä saa teettää työtä
+        vain, jos siitä on työsopimuksella sovittu tai työntekijä antaa
+        siihen erikseen suostumuksensa.
 
-Työehtosopimus
-2. #### ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.017.png)§ Työpalkat
+    2.  Sunnuntaityön teettämisessä noudatetaan tasapuolisuutta ottaen
+        erityisesti huomioon työntekijän ammattitaito, osaaminen ja
+        soveltuvuus tehtävään.
+
+    3.  Sunnuntaina tai kirkollisena juhla-, itsenäisyys- ja
+        vapunpäivänä tehdystä säännöllisestä työstä maksetaan
+        kaksinkertainen palkka.
+
+> Sunnuntaityökorvausta laskettaessa työaikalisiä ei oteta huomioon
+> peruspal- kassa. Sunnuntaityökorvaus vanhenee työaikalain 40 §:n
+> mukaan (ks. 9 § 20. kohta).
+
+# PALKKAUS
+
+#### § Työpalkat
 
 ###### *Palkan suuruus*
-1. Palkan suuruuteen vaikuttavat:
-- työtehtävät
-- koulutus
-- palvelusvuodet
-- lisät
-- työntekemispaikkakunta.
+
+1.  Palkan suuruuteen vaikuttavat:
+
+-   työtehtävät
+
+-   koulutus
+
+-   palvelusvuodet
+
+-   lisät
+
+-   työntekemispaikkakunta.
 
 ###### *Palvelusaika*
-1. Palvelusaikaan lasketaan:
-- samassa tämän työehtosopimuksen tarkoittamassa ammatissa työsken- nelty aika kokonaisuudessaan.
-- vuosilomalain 7 §:n mukainen työhön rinnastettava aika esimerkiksi ras- kaus- ja vanhempainvapaasta (hoitovapaata ja asevelvollisuusaikaa ei las- keta palvelusaikaan).
 
-Esimerkki 25
+1.  Palvelusaikaan lasketaan:
 
-Kioskimyyjänä 3 vuotta työskennellyt henkilö palkataan kenkäkauppaan myyjäksi. Myyjänä työskennelty aika otetaan kokonaisuudessaan huo- mioon palvelusaikaa laskettaessa. Kokemusvuosiensa perusteella hän on 3. vuoden myyjä.
+-   samassa tämän työehtosopimuksen tarkoittamassa ammatissa työsken-
+    > nelty aika kokonaisuudessaan.
 
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.043.png)
+-   vuosilomalain 7 §:n mukainen työhön rinnastettava aika esimerkiksi
+    > ras- kaus- ja vanhempainvapaasta (hoitovapaata ja
+    > asevelvollisuusaikaa ei las- keta palvelusaikaan).
 
-1. Kokemus muussa ammatissa otetaan huomioon kohtuullisessa määrin, jos se osittain vastaa työssä vaadittavaa ammattikokemusta. Tämä pyritään totea- maan työsopimusta tehtäessä.
+    1.  Kokemus muussa ammatissa otetaan huomioon kohtuullisessa määrin,
+        jos se osittain vastaa työssä vaadittavaa ammattikokemusta. Tämä
+        pyritään totea- maan työsopimusta tehtäessä.
 
-A
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.013.png)
+###### *Koulutus*
 
-<a name="koulutus"></a><a name="tilapäinen siirto"></a><a name="_bookmark26"></a>Esimerkki 26
-
-Myyjänä aiemmin työskennellyt henkilö palkataan toiseen yritykseen varastotehtäviin. Tällöin palvelusaikaa laskettaessa menetellään kohdan
-
-3\. mukaisesti.
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.044.png)
-
-Työehtosopimus
-###### ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.014.png)*Koulutus*
-1. Työtehtävään liittyvän ammatillisen tutkinnon suorittanut on heti palkkataulu- kon 3. vuoden työntekijä.
-
-
-Esimerkki 27
-
-Työntekijällä on 2 vuotta työkokemusta myyjänä ennen, kun hän suorittaa liiketalouden perustutkinnon (merkonomi). Tutkinnon suoritettuaan hän siirtyy 3. vuoden työntekijäksi. Ilman tutkintotodistusta hän olisi jatkanut vuoden ajan 1. vuoden työntekijänä ennen siirtymistä seuraavaan vuosipor- taaseen. Tutkinnon suorittamisesta hän hyötyi työkokemustaustallaan yhden vuoden.
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.045.png)
+2.  Työtehtävään liittyvän ammatillisen tutkinnon suorittanut on heti
+    palkkataulu- kon 3. vuoden työntekijä.
 
 ###### *Työskentely vaativammassa tehtävässä*
-1. Työntekijän tehdessä korkeamman vaativuusluokan työtä vähäistä suurem- massa määrin tulee tämän vaikutus palkkaukseen todeta tai sopia paikallisesti.
 
-Palkkaa voidaan maksaa esimerkiksi tunti-, vuoro- ja tehtäväkohtaisesti tai jol- lain muulla vastaavalla tavalla suhteutettuna, kuten kiinteänä lisänä.
+3.  Työntekijän tehdessä korkeamman vaativuusluokan työtä vähäistä
+    suurem- massa määrin tulee tämän vaikutus palkkaukseen todeta tai
+    sopia paikallisesti.
+
+> Palkkaa voidaan maksaa esimerkiksi tunti-, vuoro- ja
+> tehtäväkohtaisesti tai jol- lain muulla vastaavalla tavalla
+> suhteutettuna, kuten kiinteänä lisänä.
 
 ###### *Tilapäinen siirto*
-1. Siirrettäessä työntekijä korkeammin palkattuun työhön yhdenjaksoisesti yli 2 viikoksi maksetaan yli menevältä ajalta kyseisen työn mukaista palkkaa.
 
-Ennen siirtoa työnantaja toteaa sen vaikutuksen palkkaukseen.
+4.  Siirrettäessä työntekijä korkeammin palkattuun työhön
+    yhdenjaksoisesti yli 2 viikoksi maksetaan yli menevältä ajalta
+    kyseisen työn mukaista palkkaa.
 
-A
-###### ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.016.png)<a name="siirto vaativuustasossa"></a><a name="vaativuustasojen ylittävä palkka"></a><a name="osakuukauden palkka"></a><a name="_bookmark27"></a>*Siirto vaativuustasossa*
-Työehtosopimus
-1. ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.017.png)Työntekijän siirtyessä erityisammattitehtävään uusi taulukkopalkka määräytyy sen vuosiportaan mukaan, joka on entistä taulukkopalkkaa lähinnä korkeampi. Mikäli työntekijä olennaisilta osin hyödyntää uudessa tehtävässään aiempaa osaamistaan tai työkokemustaan, määräytyy taulukkopalkka sen vuosiportaan mukaan, johon hän kuului ennen siirtoa.
+> Ennen siirtoa työnantaja toteaa sen vaikutuksen palkkaukseen.
+
+###### *Siirto vaativuustasossa*
+
+5.  Työntekijän siirtyessä erityisammattitehtävään uusi taulukkopalkka
+    määräytyy sen vuosiportaan mukaan, joka on entistä taulukkopalkkaa
+    lähinnä korkeampi. Mikäli työntekijä olennaisilta osin hyödyntää
+    uudessa tehtävässään aiempaa osaamistaan tai työkokemustaan,
+    määräytyy taulukkopalkka sen vuosiportaan mukaan, johon hän kuului
+    ennen siirtoa.
 
 ###### *Vaativuustasojen ylittävä palkka*
-1. Erityisammattitehtäviä vaativimmissa tehtävissä palkka määräytyy sopimuk- sen mukaan.
 
-Palkan tulee kuitenkin olla erityisammattitehtävän vähimmäispalkkaa korkeampi.
+6.  Erityisammattitehtäviä vaativimmissa tehtävissä palkka määräytyy
+    sopimuk- sen mukaan.
+
+> Palkan tulee kuitenkin olla erityisammattitehtävän vähimmäispalkkaa
+> korkeampi.
 
 ###### *Osakuukauden palkka*
-1. Osakuukauden palkka lasketaan:
-- kertomalla päiväpalkka palkkaan oikeuttavilla päivillä, jos niitä on alle 13
-- vähentämällä kuukausipalkasta poissa oltujen työpäivien palkka, jos palk- kaan oikeuttavia päiviä on vähintään 13.
 
-Päiväpalkka saadaan jakamalla kuukausipalkka 21:llä, ellei yrityksen käyttä- mästä tietojärjestelmästä johtuen käytetä kuukauden todellisten työpäivien lukumäärää.
+7.  Osakuukauden palkka lasketaan:
 
-A
+-   kertomalla päiväpalkka palkkaan oikeuttavilla päivillä, jos niitä on
+    alle 13
 
-Työehtosopimus
+-   vähentämällä kuukausipalkasta poissa oltujen työpäivien palkka, jos
+    palk- kaan oikeuttavia päiviä on vähintään 13.
 
-<a name="koululaispalkka"></a><a name="_bookmark28"></a>Esimerkki 28
-
-Työssä
-
-Poissaolo
-
-1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20…
-
-1\.–12. välisenä aikana on 8 palkkaan oikeuttavaa päivää, 7 työpäivää ja 1 vuosivapaa.
-
-Kuukausipalkka on 1 848 euroa.
-
-Työpäivän palkka: 1 848 euroa: 21 = 88 euroa.
-
-Palkkaa maksetaan (8 × 88 euroa) 704 euroa.
-
-Esimerkki 29
-
-Työssä
-
-Poissaolo
-
-1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21… 30
-
-1\.–17. välisenä aikana on 13 palkkaan oikeuttavaa päivää.
-
-18\.–30. välisenä aikana on poissa oltuja työpäiviä 9. Kuukausipalkka on 1 848 euroa.
-
-Työpäivän palkka: 1 848 euroa : 21 = 88 euroa.
-
-Poissa oltujen työpäivien palkka: 9 × 88 euroa = 792 euroa. Palkkaa maksetaan (1 848 euroa – 792 euroa) 1 056 euroa.
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.013.png)![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.014.png)![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.046.png)
+> Päiväpalkka saadaan jakamalla kuukausipalkka 21:llä, ellei yrityksen
+> käyttä- mästä tietojärjestelmästä johtuen käytetä kuukauden
+> todellisten työpäivien lukumäärää.
 
 ###### *Koululaispalkka*
-1. Peruskoulun, lukion tai ammatillisen oppilaitoksen oppilaalle voidaan maksaa koululaispalkkaa yhteensä enintään 2 kuukaudelta.
 
-Koululaisen palkka on 70 % kunkin vaativuusluokan 1. vuoden palkasta.
+1.  Peruskoulun, lukion tai ammatillisen oppilaitoksen oppilaalle
+    voidaan maksaa koululaispalkkaa yhteensä enintään 2 kuukaudelta.
 
-Koululaisen työskenneltyä tämän työehtosopimuksen tarkoittamassa amma- tissa 2 kuukautta palkka määräytyy harjoittelijan mukaan.
+> Koululaisen palkka on 70 % kunkin vaativuusluokan 1. vuoden palkasta.
+>
+> Koululaisen työskenneltyä tämän työehtosopimuksen tarkoittamassa amma-
+> tissa 2 kuukautta palkka määräytyy harjoittelijan mukaan.
 
-A
-###### ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.016.png)<a name="12 § myyjät ja myymälätyöntekijät"></a><a name="harjoitteluaika"></a><a name="vaativuustasot"></a><a name="taulukkopalkat"></a><a name="alle 37,5 tuntia tekevät"></a><a name="_bookmark29"></a>*Taulukkopalkat*
-1. Taulukkopalkat ovat palkkaliitteessä.
+###### *Taulukkopalkat*
 
-Työehtosopimus
-###### ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.017.png)*Alle 37,5 tuntia tekevät*
-1. Työntekijälle maksetaan tuntipalkka tai suhteutettu kuukausipalkka.
+2.  Taulukkopalkat ovat palkkaliitteessä.
 
-1. Tuntipalkka saadaan jakamalla kokoaikatyöntekijän taulukkopalkka luvulla 160. Palkkataulukot ovat palkkaliitteessä.
+###### *Alle 37,5 tuntia tekevät*
 
-1. Työntekijälle voidaan maksaa kuukausipalkka sovitun viikkotyöajan ja 37,5 tunnin suhteessa seuraavan kaavan mukaan:
+3.  Työntekijälle maksetaan tuntipalkka tai suhteutettu kuukausipalkka.
 
-kokoaikatyöntekijän taulukkopalkka x sovittu viikkotyöaika 
+4.  Tuntipalkka saadaan jakamalla kokoaikatyöntekijän taulukkopalkka
+    luvulla 160. Palkkataulukot ovat palkkaliitteessä.
 
-37,5
+5.  Työntekijälle voidaan maksaa kuukausipalkka sovitun viikkotyöajan ja
+    37,5 tunnin suhteessa seuraavan kaavan mukaan:
 
-Suhteutettua kuukausipalkkaa saavan työntekijän tuntipalkka määräytyy
+> [kokoaikatyöntekijän taulukkopalkka x sovittu
+> viikkotyöaika]{.underline}
+>
+> 37,5
+>
+> Suhteutettua kuukausipalkkaa saavan työntekijän tuntipalkka määräytyy
+>
+> 14\. kohdan mukaan.
 
-14\. kohdan mukaan.
+6.  Palkka maksetaan muun henkilöstön palkanmaksuajan mukaan.
 
-1. Palkka maksetaan muun henkilöstön palkanmaksuajan mukaan.
-
-2. #### § Myyjät ja myymälätyöntekijät
+#### § Myyjät ja myymälätyöntekijät
 
 ###### *Harjoitteluaika*
-1. Harjoitteluaika on 1 vuosi.
 
-Harjoittelijan palkka on 85 % palkkaryhmä B1:n (1.6.2024 alkaen palkkaryhmä B:n) 1. vuoden palkasta.
+1.  Harjoitteluaika on 1 vuosi.
 
-Harjoitteluajan jälkeen maksetaan ao. palkkaryhmän 1. vuoden palkkaa.
+> Harjoittelijan palkka on 85 % palkkaryhmä B1:n (1.6.2024 alkaen
+> palkkaryhmä B:n) 1. vuoden palkasta.
+>
+> Harjoitteluajan jälkeen maksetaan ao. palkkaryhmän 1. vuoden palkkaa.
 
 ###### *Vaativuustasot*
-1. Vaativuustasot ovat Myyjä I ja Myyjä II.
 
-Työntekijä kuuluu siihen vaativuustasoon, jonka mukaista työtä hän tekee pää- osan työajastaan.
+2.  Vaativuustasot ovat Myyjä I ja Myyjä II.
 
-A
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.013.png)<a name="iltalisä"></a><a name="_bookmark30"></a>Työntekijä kuuluu Myyjä I:een, elleivät työtehtävät edellytä hänen kuulumis- taan Myyjä II:een.
+> Työntekijä kuuluu siihen vaativuustasoon, jonka mukaista työtä hän
+> tekee pää- osan työajastaan.
+>
+> []{#_bookmark30 .anchor}Työntekijä kuuluu Myyjä I:een, elleivät
+> työtehtävät edellytä hänen kuulumis- taan Myyjä II:een.
+>
+> Työntekijä kuuluu Myyjä II:een työn ollessa erityisen vaativaa ja
+> edellyttä- essä erityistä koulutusta tai pitkäaikaisella kokemuksella
+> hankittua vaativaa ammattitaitoa.
+>
+> Työntekijän kuuluminen Myyjä II:een edellyttää lisäksi:
 
-Työehtosopimus
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.014.png)Työntekijä kuuluu Myyjä II:een työn ollessa erityisen vaativaa ja edellyttä- essä erityistä koulutusta tai pitkäaikaisella kokemuksella hankittua vaativaa ammattitaitoa.
+-   myyntiartikkeleiden tavanomaista parempaa erikoistuntemusta
 
-Työntekijän kuuluminen Myyjä II:een edellyttää lisäksi:
+-   taitoa antaa asiakasohjausta ja -neuvontaa tuotteiden
+    > toimintaperiaatteista.
 
-- myyntiartikkeleiden tavanomaista parempaa erikoistuntemusta
-- taitoa antaa asiakasohjausta ja -neuvontaa tuotteiden toimintaperiaatteista.
+> Myyjä II:n mukaisia työtehtäviä ovat muun muassa:
 
-Myyjä II:n mukaisia työtehtäviä ovat muun muassa:
+-   lihamestarin työt lajitelmiltaan ja myynnin määrältään suurehkoissa
+    > elin- tarvikemyymälöissä ja -osastoissa
 
-- lihamestarin työt lajitelmiltaan ja myynnin määrältään suurehkoissa elin- tarvikemyymälöissä ja -osastoissa
-- sekä vastaavaa vaativuustasoa edellyttävät myyntitehtävät muissa myy- mälöissä, kuten esimerkiksi:
-  - rakennus- ja LVI-tarvikkeiden myyntitehtävät myyjän tehdessä asiakkaan esittämien piirustusten tai ohjeiden perusteella kustannuslaskelmiin perus- tuvia myyntitarjouksia
-  - myyntitehtävät, jotka edellyttävät tuotekokonaisuuksien tarjontaa asiak- kaan esittämien valmiiden työsuunnitelmien perusteella.
+-   sekä vastaavaa vaativuustasoa edellyttävät myyntitehtävät muissa
+    > myy- mälöissä, kuten esimerkiksi:
+
+    -   rakennus- ja LVI-tarvikkeiden myyntitehtävät myyjän tehdessä
+        > asiakkaan esittämien piirustusten tai ohjeiden perusteella
+        > kustannuslaskelmiin perus- tuvia myyntitarjouksia
+
+    -   myyntitehtävät, jotka edellyttävät tuotekokonaisuuksien
+        > tarjontaa asiak- kaan esittämien valmiiden työsuunnitelmien
+        > perusteella.
 
 ###### *Iltalisä*
-1. Kello 18.00–24.00 tehdystä työstä maksetaan palkkaliitteen mukainen ilta- lisä myymälän aukiolosta riippumatta. Lisää ei makseta arkilauantai-iltana tehdystä työstä.
 
-Iltalisä maksetaan sunnuntaina, kirkollisena juhla-, vapun- ja itsenäisyyspäi- vänä (kello 18.00–24.00) yksinkertaisena. Myymälän ollessa auki sunnuntai- sin marras- ja joulukuussa kello 18.00 jälkeen maksetaan sunnuntaisin kello 18.00–24.00 tehdystä työstä iltalisä kaksinkertaisena.
+1.  Kello 18.00--24.00 tehdystä työstä maksetaan palkkaliitteen mukainen
+    ilta- lisä myymälän aukiolosta riippumatta. Lisää ei makseta
+    arkilauantai-iltana tehdystä työstä.
 
-Lisä maksetaan myös muulle työntekijälle (esim. logistiikkatyöntekijä ja toimihenkilö):
+> Iltalisä maksetaan sunnuntaina, kirkollisena juhla-, vapun- ja
+> itsenäisyyspäi- vänä (kello 18.00--24.00) yksinkertaisena. Myymälän
+> ollessa auki sunnuntai- sin marras- ja joulukuussa kello 18.00 jälkeen
+> maksetaan sunnuntaisin kello 18.00--24.00 tehdystä työstä iltalisä
+> kaksinkertaisena.
+>
+> Lisä maksetaan myös muulle työntekijälle (esim. logistiikkatyöntekijä
+> ja toimihenkilö):
 
-- hänen työskennellessä säännöllisesti myymälässä tai sen välittömässä läheisyydessä ja
-- töiden liittyessä aukiolon johdosta tehtävään myyntityöhön.
+-   hänen työskennellessä säännöllisesti myymälässä tai sen välittömässä
+    > läheisyydessä ja
 
-Lisä voidaan sopia kiinteäksi kuukausikorvaukseksi työn ollessa myymälän sul- kemisen jälkeen tapahtuvaa tavanomaista lopettamistyötä.
+-   töiden liittyessä aukiolon johdosta tehtävään myyntityöhön.
 
-A
-###### ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.016.png)<a name="aattoiltalisä"></a><a name="yölisä"></a><a name="lauantailisä"></a><a name="_bookmark31"></a>*Aattoiltalisä*
-Työehtosopimus
-1. ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.017.png)Myymälän oltua auki kirkollisen juhlapäivän aattona kello 18.00 jälkeen mak- setaan kello 18.00–24.00 tehdystä työstä lauantailisän suuruinen aattoiltalisä.
+> Lisä voidaan sopia kiinteäksi kuukausikorvaukseksi työn ollessa
+> myymälän sul- kemisen jälkeen tapahtuvaa tavanomaista lopettamistyötä.
 
-Kirkollisen juhlapäivän aatot ovat:
+###### *Aattoiltalisä*
 
-- loppiaisen aatto
-- kiirastorstai
-- helatorstain aatto
-- juhannusaatto
-- pyhäinpäivän aatto
-- jouluaatto
-- uudenvuoden aatto.
+1.  Myymälän oltua auki kirkollisen juhlapäivän aattona kello 18.00
+    jälkeen mak- setaan kello 18.00--24.00 tehdystä työstä lauantailisän
+    suuruinen aattoiltalisä.
 
-Aaton ollessa lauantaina lisä määräytyy 6. kohdan mukaan.
+> Kirkollisen juhlapäivän aatot ovat:
 
-Lisä maksetaan myös muulle työntekijälle 3. kohdan 3. kappaleen mukaan. Vappu- ja itsenäisyyspäiväaaton lisä määräytyy 3. kohdan mukaan.
+-   loppiaisen aatto
+
+-   kiirastorstai
+
+-   helatorstain aatto
+
+-   juhannusaatto
+
+-   pyhäinpäivän aatto
+
+-   jouluaatto
+
+-   uudenvuoden aatto.
+
+> Aaton ollessa lauantaina lisä määräytyy 6. kohdan mukaan.
+>
+> Lisä maksetaan myös muulle työntekijälle 3. kohdan 3. kappaleen
+> mukaan. Vappu- ja itsenäisyyspäiväaaton lisä määräytyy 3. kohdan
+> mukaan.
+
 ###### *Yölisä*
-1. Kello 00.00–06.00 tehdystä työstä maksetaan palkkaliitteen mukainen yölisä myymälän aukiolosta riippumatta. Lisää ei makseta sunnuntaiyönä eikä kirkol- lisen juhla-, vapun- ja itsenäisyyspäivän yönä tehdystä työstä.
 
-Lisä maksetaan myös muulle työntekijälle 3. kohdan 3. kappaleen mukaan.
+1.  Kello 00.00--06.00 tehdystä työstä maksetaan palkkaliitteen mukainen
+    yölisä myymälän aukiolosta riippumatta. Lisää ei makseta
+    sunnuntaiyönä eikä kirkol- lisen juhla-, vapun- ja itsenäisyyspäivän
+    yönä tehdystä työstä.
 
-Lisä voidaan sopia kiinteäksi kuukausikorvaukseksi työn ollessa myymälän sul- kemisen jälkeen tapahtuvaa tavanomaista lopettamistyötä.
+> Lisä maksetaan myös muulle työntekijälle 3. kohdan 3. kappaleen
+> mukaan.
+>
+> Lisä voidaan sopia kiinteäksi kuukausikorvaukseksi työn ollessa
+> myymälän sul- kemisen jälkeen tapahtuvaa tavanomaista lopettamistyötä.
 
 ###### *Lauantailisä*
-1. Arkilauantaina kello 13.00–24.00 tehdystä työstä maksetaan palkkaliitteen mukainen lauantailisä myymälän aukiolosta riippumatta.
 
-Lisä maksetaan myös muulle työntekijälle 3. kohdan 3. kappaleen mukaan.
+2.  Arkilauantaina kello 13.00--24.00 tehdystä työstä maksetaan
+    palkkaliitteen mukainen lauantailisä myymälän aukiolosta
+    riippumatta.
 
-A
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.013.png)
+> Lisä maksetaan myös muulle työntekijälle 3. kohdan 3. kappaleen
+> mukaan.
 
-<a name="inventaarilisä lauantaina"></a><a name="vastuulisä"></a><a name="myymälänhoitajan sijaisuuslisä"></a><a name="_bookmark32"></a>Esimerkki 30
+###### *Inventaarilisä lauantaina*
 
-Työntekijän työaika päättyy lauantaina klo 16.00. Lauantailisä maksetaan kaikilta klo 13.00 jälkeen tehdyiltä työtunneilta siitä riippumatta, ovatko tunnit työvuoroluettelon mukaisia säännölli-
-
-siä tunteja, lisä- tai ylityötunteja.
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.047.png)
-
-Työehtosopimus
-###### ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.014.png)*Inventaarilisä lauantaina*
-1. Arkilauantaina kello 13.00–24.00 tehdystä inventaarityöstä maksetaan lauan- tailisän suuruinen inventaarilisä.
+3.  Arkilauantaina kello 13.00--24.00 tehdystä inventaarityöstä
+    maksetaan lauan- tailisän suuruinen inventaarilisä.
 
 ###### *Vastuulisä*
-1. Työntekijälle maksetaan vastuulisä hänen vastatessaan ja huolehtiessaan:
-- osastosta tai tuoteryhmästä
-- toisten työntekijöiden ohjauksesta, valvonnasta ja työaikasuunnitelmien tekemisestä
-- myynti- ja mainossuunnittelusta ja raportoinnista. Vastuulisä on vähintään 5 % taulukkopalkasta.
 
-Tehtävien ja vastuiden ollessa lähellä esihenkilöiden tehtäviä lisä maksetaan 5 % suurempana.
+4.  Työntekijälle maksetaan vastuulisä hänen vastatessaan ja
+    huolehtiessaan:
+
+-   osastosta tai tuoteryhmästä
+
+-   toisten työntekijöiden ohjauksesta, valvonnasta ja
+    > työaikasuunnitelmien tekemisestä
+
+-   myynti- ja mainossuunnittelusta ja raportoinnista. Vastuulisä on
+    vähintään 5 % taulukkopalkasta.
+
+> Tehtävien ja vastuiden ollessa lähellä esihenkilöiden tehtäviä lisä
+> maksetaan 5 % suurempana.
 
 ###### *Myymälänhoitajan sijaisuuslisä*
-1. Sijaisuuslisä maksetaan myymälänhoitajan sijaiselle.
 
-Lisän suuruuteen vaikuttavat:
+1.  Sijaisuuslisä maksetaan myymälänhoitajan sijaiselle.
 
-- työntekijän alallaoloaika
-- sijaisuuden kesto
-- myymälän koko.
+> Lisän suuruuteen vaikuttavat:
 
-A
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.016.png)<a name="13 § varastotyöntekijät"></a><a name="kylmä- ja pakkashuonelisä"></a><a name="hälytysraha"></a><a name="_bookmark33"></a>Lisän suuruus on vähintään:
+-   työntekijän alallaoloaika
 
-Lisä %
+-   sijaisuuden kesto
 
-Vakinaisten työntekijöiden määrä (alle 37,5 tuntia tekevät työajan suhteessa)
+-   myymälän koko.
 
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.048.png)
-
-4–5	5
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.049.png)
-
-Työehtosopimus
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.050.png)![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.017.png)6–10	10
-
-11–20	15
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.049.png)
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.051.png)21–	20
-
-Maksettaessa 11 §:n 6. kohdan mukaista lisää (tilapäinen siirto) myymälänhoi- tajan sijaisuuslisää ei makseta.
+> []{#_bookmark33 .anchor}Lisän suuruus on vähintään:
+>
+> 4--5 5
+>
+> 6--10 10
+>
+> 11--20 15
+>
+> 21-- 20
+>
+> Maksettaessa 11 §:n 6. kohdan mukaista lisää (tilapäinen siirto)
+> myymälänhoi- tajan sijaisuuslisää ei makseta.
 
 ###### *Kylmä- ja pakkashuonelisä*
-1. Kylmähuonelisä maksetaan työntekijän työskennellessä pääasiallisesti myymälän kylmähuoneessa.
 
-Lisä on vähintään 5 % taulukkopalkasta.
+1.  Kylmähuonelisä maksetaan työntekijän työskennellessä pääasiallisesti
+    myymälän kylmähuoneessa.
 
-1. Pakkashuoneessa työskennellyiltä tunneilta maksetaan 20 %:lla korotettu palkka.
+> Lisä on vähintään 5 % taulukkopalkasta.
+
+2.  Pakkashuoneessa työskennellyiltä tunneilta maksetaan 20 %:lla
+    korotettu palkka.
 
 ###### *Hälytysraha*
-1. Hälytysraha maksetaan työntekijän poistuttua työpaikalta ja hänen tullessa hälytyskutsusta työhön saman vuorokauden aikana säännöllisen työajan ulkopuolella.
 
-Hälytysraha on 2 tunnin palkka muun hälytystyöstä maksettavan palkan lisäksi.
+3.  Hälytysraha maksetaan työntekijän poistuttua työpaikalta ja hänen
+    tullessa hälytyskutsusta työhön saman vuorokauden aikana
+    säännöllisen työajan ulkopuolella.
 
-A
-2. #### ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.013.png)<a name="olosuhdelisät"></a><a name="_bookmark34"></a>§ Logistiikkatyöntekijät
+> Hälytysraha on 2 tunnin palkka muun hälytystyöstä maksettavan palkan
+> lisäksi.
+
+#### § Logistiikkatyöntekijät
 
 ###### *Harjoitteluaika*
-Työehtosopimus
-1. ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.014.png)Harjoitteluaika on 1 vuosi.
 
-Harjoittelijan palkka on 85 % ko. vaativuusluokan 1. vuoden palkasta.
+1.  Harjoitteluaika on 1 vuosi.
+
+> Harjoittelijan palkka on 85 % ko. vaativuusluokan 1. vuoden palkasta.
 
 ###### *Iltalisä*
-1. Kello 18.00–22.00 tehdystä työstä maksetaan palkkaliitteen mukainen iltalisä. Iltalisä maksetaan kaksinkertaisena sunnuntaina, kirkollisena juhla-, vapun- ja itsenäisyyspäivänä.
-1. Logistiikkatyön liittyessä myyntityöhön lisä maksetaan 12 §:n 3. ja 4. kohtien mukaan.
-###### *Yölisä*
-1. Kello 22.00–06.00 tehdystä työstä maksetaan palkkaliitteen mukainen yölisä. Yölisä maksetaan kaksinkertaisena sunnuntaina, kirkollisena juhla-, vapun- ja itsenäisyyspäivänä.
 
-1. Logistiikkatyön liittyessä myyntityöhön lisä maksetaan 12 §:n 5. kohdan mukaan.
+2.  Kello 18.00--22.00 tehdystä työstä maksetaan palkkaliitteen mukainen
+    iltalisä. Iltalisä maksetaan kaksinkertaisena sunnuntaina,
+    kirkollisena juhla-, vapun- ja itsenäisyyspäivänä.
+
+3.  Logistiikkatyön liittyessä myyntityöhön lisä maksetaan 12 §:n 3.
+    ja 4. kohtien mukaan.
+
+###### *Yölisä*
+
+4.  Kello 22.00--06.00 tehdystä työstä maksetaan palkkaliitteen mukainen
+    yölisä. Yölisä maksetaan kaksinkertaisena sunnuntaina, kirkollisena
+    juhla-, vapun- ja itsenäisyyspäivänä.
+
+5.  Logistiikkatyön liittyessä myyntityöhön lisä maksetaan 12 §:n 5.
+    kohdan mukaan.
 
 ###### *Lauantailisä*
-1. Arkilauantaina kello 13.00–22.00 tehdystä työstä maksetaan palkkaliitteen mukainen lauantailisä.
-1. Logistiikkatyön liittyessä myyntityöhön lisä maksetaan 12 §:n 6. kohdan mukaan.
+
+6.  Arkilauantaina kello 13.00--22.00 tehdystä työstä maksetaan
+    palkkaliitteen mukainen lauantailisä.
+
+7.  Logistiikkatyön liittyessä myyntityöhön lisä maksetaan 12 §:n 6.
+    kohdan mukaan.
 
 ###### *Olosuhdelisät*
-1. Lisiä maksetaan seuraavasti:
 
-*Raskaat tai likaiset olosuhteet*
+8.  Lisiä maksetaan seuraavasti:
 
-Lisä maksetaan poikkeuksellisen raskaissa tai likaisissa olosuhteissa tehtä- viltä tunneilta.
+> *Raskaat tai likaiset olosuhteet*
+>
+> Lisä maksetaan poikkeuksellisen raskaissa tai likaisissa olosuhteissa
+> tehtä- viltä tunneilta.
+>
+> Lisä on 7--11 % taulukkopalkasta tunnilta.
+>
+> []{#_bookmark35 .anchor}*Muuten vaikeat olosuhteet*
+>
+> Lisä maksetaan myös muuten vaikeissa olosuhteissa tehtäviltä
+> tunneilta.
+>
+> Tällaista työtä voi olla esimerkiksi:
 
-Lisä on 7–11 % taulukkopalkasta tunnilta.
+-   työ ulko- tai lämmittämättömässä varastossa talviaikana
 
-A
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.016.png)<a name="pakastevarastolisä"></a><a name="työryhmän vanhin (nokkamies)"></a><a name="_bookmark35"></a>*Muuten vaikeat olosuhteet*
+-   työ tuoretavaravarastossa
 
-Lisä maksetaan myös muuten vaikeissa olosuhteissa tehtäviltä tunneilta.
+-   vaarallisten aineiden käsittely
 
-Työehtosopimus
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.017.png)Tällaista työtä voi olla esimerkiksi:
+-   tai käsin suoritettavien suurten tavaramäärien siirtely. Lisä on
+    7--11 % taulukkopalkasta tunnilta.
 
-- työ ulko- tai lämmittämättömässä varastossa talviaikana
-- työ tuoretavaravarastossa
-- vaarallisten aineiden käsittely
-- tai käsin suoritettavien suurten tavaramäärien siirtely. Lisä on 7–11 % taulukkopalkasta tunnilta.
-
-Lisiä määrättäessä selvitetään, miten suuri osa logistiikkatyöntekijän työstä poikkeaa logistiikkatyön keskimääräisistä olosuhteista sekä mikä osa työstä suoritetaan edellä mainituissa olosuhteissa.
-
-Lisistä sovitaan paikallisesti.
-
-Jos työpaikalla on luottamusmies, asiasta sovitaan hänen kanssaan.
+> Lisiä määrättäessä selvitetään, miten suuri osa logistiikkatyöntekijän
+> työstä poikkeaa logistiikkatyön keskimääräisistä olosuhteista sekä
+> mikä osa työstä suoritetaan edellä mainituissa olosuhteissa.
+>
+> Lisistä sovitaan paikallisesti.
+>
+> Jos työpaikalla on luottamusmies, asiasta sovitaan hänen kanssaan.
 
 ###### *Pakastevarastolisä*
-1. Pakastevarastossa tehdyiltä tunneilta maksetaan 20 %:lla korotettu palkka.
 
-Pääasiallisesti pakastevarastossa työskentelevälle työntekijälle lisä maksetaan kaikilta tunneilta.
+1.  Pakastevarastossa tehdyiltä tunneilta maksetaan 20 %:lla korotettu
+    palkka.
+
+> Pääasiallisesti pakastevarastossa työskentelevälle työntekijälle lisä
+> maksetaan kaikilta tunneilta.
 
 ###### *Työryhmän vanhin (nokkamies)*
-1. Työryhmän vanhin on erikseen nimetty logistiikkatyöntekijä, joka:
-- työskentelee pysyvästi kaupan logistiikan esihenkilön apuna työnjohto- tehtävissä ja
-- tekee myös tavanomaista logistiikkatyötä.
 
-Taulukkopalkka on palkkaryhmä B2:n 8. vuoden taulukkopalkka korotettuna vähintään 10 %:lla.
+2.  Työryhmän vanhin on erikseen nimetty logistiikkatyöntekijä, joka:
 
-Työryhmän vanhinta (nokkamies) koskeva määräys on voimassa 31.12.2023 asti.
+-   työskentelee pysyvästi kaupan logistiikan esihenkilön apuna
+    työnjohto- tehtävissä ja
 
-A
-###### ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.013.png)<a name="15 § muut ammattiryhmät"></a><a name=" pika- ja noutotukkutyöntekijät"></a><a name="14 § konttorityöntekijät"></a><a name="työaikalisät"></a><a name="_bookmark36"></a>*Hälytysraha*
-Työehtosopimus
-1. ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.014.png)Hälytysraha maksetaan työntekijän poistuttua työpaikalta ja hänen tullessa hälytyskutsusta työhön saman vuorokauden aikana säännöllisen työajan ulkopuolella.
+-   tekee myös tavanomaista logistiikkatyötä.
 
-Hälytysraha on 2 tunnin palkka muun hälytystyöstä maksettavan palkan lisäksi.
+> Taulukkopalkka on palkkaryhmä B2:n 8. vuoden taulukkopalkka
+> korotettuna vähintään 10 %:lla.
+>
+> Työryhmän vanhinta (nokkamies) koskeva määräys on voimassa 31.12.2023
+> asti.
+
+###### *Hälytysraha* {#hälytysraha-2}
+
+1.  Hälytysraha maksetaan työntekijän poistuttua työpaikalta ja hänen
+    tullessa hälytyskutsusta työhön saman vuorokauden aikana
+    säännöllisen työajan ulkopuolella.
+
+> Hälytysraha on 2 tunnin palkka muun hälytystyöstä maksettavan palkan
+> lisäksi.
 
 ###### *Vaativuusluokitus (1.1.2024 alkaen)*
-1. Logistiikkatehtävien vaativuusluokitukset ovat palkkaliitteessä.
 
-2. #### § Toimihenkilöt
+2.  Logistiikkatehtävien vaativuusluokitukset ovat palkkaliitteessä.
+
+#### § Toimihenkilöt
 
 ###### *Harjoitteluaika*
-1. Harjoitteluaika on kullekin toimihenkilöalalle tulevalle 1 vuosi.
 
-Harjoitteluaika edellytetään toimihenkilöalalle tultaessa suoritettavaksi ainoas- taan kerran.
+1.  Harjoitteluaika on kullekin toimihenkilöalalle tulevalle 1 vuosi.
 
-Harjoittelijan palkka on 85 % toimihenkilön ko. vaativuustason 1. vuoden palkasta.
+> Harjoitteluaika edellytetään toimihenkilöalalle tultaessa
+> suoritettavaksi ainoas- taan kerran.
+>
+> Harjoittelijan palkka on 85 % toimihenkilön ko. vaativuustason 1.
+> vuoden palkasta.
 
 ###### *Työaikalisät*
-1. Kello 18.00–06.00 tehdystä työstä maksetaan palkkaliitteen mukainen ilta- lisä. Iltalisä maksetaan sunnuntaina, kirkollisena juhla-, vapun- ja itsenäisyys- päivänä (kello 18.00–24.00) kaksinkertaisena.
 
-Lisää ei makseta:
+2.  Kello 18.00--06.00 tehdystä työstä maksetaan palkkaliitteen mukainen
+    ilta- lisä. Iltalisä maksetaan sunnuntaina, kirkollisena juhla-,
+    vapun- ja itsenäisyys- päivänä (kello 18.00--24.00)
+    kaksinkertaisena.
 
-- käytettäessä liukuvaa työaikaa tai
-- työntekijän päättäessä itse säännöllisen työaikansa ajankohdasta.
+> Lisää ei makseta:
 
-Toimihenkilötyön liittyessä myyntityöhön lisä maksetaan 12 §:n 3.–6. kohtien mukaan.
+-   käytettäessä liukuvaa työaikaa tai
+
+-   työntekijän päättäessä itse säännöllisen työaikansa ajankohdasta.
+
+> Toimihenkilötyön liittyessä myyntityöhön lisä maksetaan 12 §:n 3.--6.
+> kohtien mukaan.
 
 ###### *Vaativuusluokitus (1.1.2024 alkaen)*
-1. Toimihenkilöiden vaativuusluokitukset ovat palkkaliitteessä.
 
-A
-2. #### ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.016.png)<a name="vahtimestarit"></a><a name="lähetit"></a><a name="korjausompelijat"></a><a name="siivoojat"></a><a name="_bookmark37"></a>§ Muut ammattiryhmät
-Työehtosopimus
-   1. ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.017.png)Tämän pykälän ammattiryhmiin noudatetaan työehtosopimuksen määräyksiä alla esitetyin poikkeuksin.
+1.  Toimihenkilöiden vaativuusluokitukset ovat palkkaliitteessä.
+
+```{=html}
+<!-- -->
+```
+15. #### § Muut ammattiryhmät
+
+    1.  Tämän pykälän ammattiryhmiin noudatetaan työehtosopimuksen
+        määräyksiä alla esitetyin poikkeuksin.
 
 ###### *Pika- ja noutotukkutyöntekijät*
-1. Pika- ja noutotukkutyöntekijän palkka määräytyy 13 §:n mukaan lukuun otta- matta 13 §:n 3., 5. ja 7. kohtia.
+
+2.  Pika- ja noutotukkutyöntekijän palkka määräytyy 13 §:n mukaan lukuun
+    otta- matta 13 §:n 3., 5. ja 7. kohtia.
 
 ###### *Vahtimestarit*
-1. Vahtimestarin palkka määräytyy työsopimuksen mukaan.
 
-Työajan määräytyessä myymälässä työskentelevän työntekijän työajan perus- teella maksetaan ilta-, aattoilta-, yö- ja lauantailisä 12 §:n 3.–6. kohtien mukaan.
+3.  Vahtimestarin palkka määräytyy työsopimuksen mukaan.
 
-Työajan määräytyessä muulla perusteella maksetaan ilta-, yö- ja lauantailisä 13 §:n 2., 4. ja 6. kohtien mukaan.
-
-Lisät voidaan sopia osaksi kokonaispalkkaa.
+> Työajan määräytyessä myymälässä työskentelevän työntekijän työajan
+> perus- teella maksetaan ilta-, aattoilta-, yö- ja lauantailisä 12 §:n
+> 3.--6. kohtien mukaan.
+>
+> Työajan määräytyessä muulla perusteella maksetaan ilta-, yö- ja
+> lauantailisä 13 §:n 2., 4. ja 6. kohtien mukaan.
+>
+> Lisät voidaan sopia osaksi kokonaispalkkaa.
 
 ###### *Lähetit*
-1. Harjoitteluaika on 1 vuosi.
 
-Harjoittelijan palkka on 85 % palkkaryhmä A:n 1. vuoden palkasta.
+4.  Harjoitteluaika on 1 vuosi.
+
+> Harjoittelijan palkka on 85 % palkkaryhmä A:n 1. vuoden palkasta.
 
 ###### *Korjausompelijat*
-1. Korjausompelijan palkkaryhmä on B1 (1.6.2024 alkaen B).
+
+5.  Korjausompelijan palkkaryhmä on B1 (1.6.2024 alkaen B).
 
 ###### *Siivoojat*
-1. Kello 18.00–22.00 tehdystä työstä maksetaan palkkaliitteen mukainen ilta- lisä. Kello 22.00–06.00 tehdystä työstä maksetaan palkkaliitteen mukainen yölisä. Ilta- ja yölisä maksetaan kaksinkertaisena sunnuntaina, kirkollisena juhla-, vapun- ja itsenäisyyspäivänä.
 
-1. Viikkotyöpäivien määrä voidaan sopia työsopimuksessa.
+6.  Kello 18.00--22.00 tehdystä työstä maksetaan palkkaliitteen mukainen
+    ilta- lisä. Kello 22.00--06.00 tehdystä työstä maksetaan
+    palkkaliitteen mukainen yölisä. Ilta- ja yölisä maksetaan
+    kaksinkertaisena sunnuntaina, kirkollisena juhla-, vapun- ja
+    itsenäisyyspäivänä.
 
-A
-5. # ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.013.png)<a name="16 §  sairastuminen"></a><a name="palkanmaksun edellytykset"></a><a name="ilmoitusvelvollisuus ja lääkärintodistus"></a><a name="5. poissaolot"></a><a name="_bookmark38"></a>POISSAOLOT
+7.  Viikkotyöpäivien määrä voidaan sopia työsopimuksessa.
 
-Työehtosopimus
-2. #### ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.014.png)§ Sairastuminen
+# POISSAOLOT
+
+#### § Sairastuminen
 
 ###### *Palkanmaksun edellytykset*
-1. Palkka maksetaan, jos:
-- työntekijä on sairastumisen tai tapaturman johdosta estynyt tekemästä työsopimuksensa mukaista työtä ja
-- työntekijä ei ole aiheuttanut työkyvyttömyyttä tahallisesti tai törkeällä huolimattomuudella.
+
+1.  Palkka maksetaan, jos:
+
+-   työntekijä on sairastumisen tai tapaturman johdosta estynyt
+    > tekemästä työsopimuksensa mukaista työtä ja
+
+-   työntekijä ei ole aiheuttanut työkyvyttömyyttä tahallisesti tai
+    > törkeällä huolimattomuudella.
 
 ###### *Ilmoitusvelvollisuus ja lääkärintodistus*
-1. Työntekijän on viipymättä ilmoitettava poissaolosta ja jos mahdollista sen kes- tosta. Työntekijän laiminlyödessä välittömän ilmoittamisen tahallaan tai huo- limattomuudesta palkanmaksuvelvollisuus alkaa ilmoittamisesta. Työntekijän on vaadittaessa esitettävä viipymättä lääkärintodistus tai muu työnantajan hyväksymä selvitys työkyvyttömyydestä.
 
-Lääkärintodistus on haettava ensisijaisesti työterveyslääkäriltä tai muulta työnantajan nimeämältä lääkäriltä.
+1.  Työntekijän on viipymättä ilmoitettava poissaolosta ja jos
+    mahdollista sen kes- tosta. Työntekijän laiminlyödessä välittömän
+    ilmoittamisen tahallaan tai huo- limattomuudesta
+    palkanmaksuvelvollisuus alkaa ilmoittamisesta. Työntekijän on
+    vaadittaessa esitettävä viipymättä lääkärintodistus tai muu
+    työnantajan hyväksymä selvitys työkyvyttömyydestä.
 
-Terveydenhoitajan tai sairaanhoitajan todistus katsotaan hyväksyttäväksi todistukseksi enintään 3 kalenteripäivää kestävän sairaustapauksen osalta jos:
+> Lääkärintodistus on haettava ensisijaisesti työterveyslääkäriltä tai
+> muulta työnantajan nimeämältä lääkäriltä.
+>
+> Terveydenhoitajan tai sairaanhoitajan todistus katsotaan
+> hyväksyttäväksi todistukseksi enintään 3 kalenteripäivää kestävän
+> sairaustapauksen osalta jos:
 
-- työnantaja ei ole järjestänyt lakisääteistä laajempaa ja lääkäripalvelut kat- tavaa työterveyshuoltoa,
-- työntekijä ei ole pyynnöstä huolimatta saanut vastaanottoaikaa julkisen terveydenhuollon piiriin kuuluvalta lääkäriltä ja työntekijä on toimittanut tästä selvityksen työnantajalle ja
-- kyseessä on tavanomainen infektiosairaus (esim. flunssa tai vatsatauti).
-- Jos kyseessä on epidemiaksi todettu sairaus (esim. influenssa), sama ter- veydenhoitaja tai sairaanhoitaja voi tutkimuksensa perusteella antaa tarvit- taessa uuden todistuksen enintään 3 kalenteripäiväksi kerrallaan.
+-   työnantaja ei ole järjestänyt lakisääteistä laajempaa ja
+    > lääkäripalvelut kat- tavaa työterveyshuoltoa,
 
-Jos sairaudesta tai tapaturmasta johtuva työkyvyttömyys alkaa vuosiloman tai sen osan aikana, työnantajalla on oikeus vaatia lääkärintodistus työkyvyt- tömyydestä edellisen kappaleen estämättä.
+-   työntekijä ei ole pyynnöstä huolimatta saanut vastaanottoaikaa
+    > julkisen terveydenhuollon piiriin kuuluvalta lääkäriltä ja
+    > työntekijä on toimittanut tästä selvityksen työnantajalle ja
 
-A
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.016.png)<a name="menettely terveyspalveluiden puuttuessa"></a><a name="omailmoitusmenettely"></a><a name="_bookmark39"></a>Jos työnantajalla on perusteltu syy epäillä työntekijän työkyvyttömyyttä, työn- antaja voi pyytää työntekijää hankkimaan palkanmaksuvelvollisuuden edelly- tyksenä uuden lääkärinlausunnon nimeämältään lääkäriltä.
+-   kyseessä on tavanomainen infektiosairaus (esim. flunssa tai
+    > vatsatauti).
 
-Työehtosopimus
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.017.png)Työnantajan nimetessä lääkärin työnantaja maksaa lääkärintodistuksen hankkimiskustannukset.
+-   Jos kyseessä on epidemiaksi todettu sairaus (esim. influenssa), sama
+    > ter- veydenhoitaja tai sairaanhoitaja voi tutkimuksensa
+    > perusteella antaa tarvit- taessa uuden todistuksen enintään 3
+    > kalenteripäiväksi kerrallaan.
+
+> Jos sairaudesta tai tapaturmasta johtuva työkyvyttömyys alkaa
+> vuosiloman tai sen osan aikana, työnantajalla on oikeus vaatia
+> lääkärintodistus työkyvyt- tömyydestä edellisen kappaleen estämättä.
+>
+> []{#_bookmark39 .anchor}Jos työnantajalla on perusteltu syy epäillä
+> työntekijän työkyvyttömyyttä, työn- antaja voi pyytää työntekijää
+> hankkimaan palkanmaksuvelvollisuuden edelly- tyksenä uuden
+> lääkärinlausunnon nimeämältään lääkäriltä.
+>
+> Työnantajan nimetessä lääkärin työnantaja maksaa lääkärintodistuksen
+> hankkimiskustannukset.
 
 ###### *Menettely terveyspalveluiden puuttuessa*
-1. Jos työntekijällä ei ole mahdollisuutta saada lääkärin, terveyden- tai sairaan- hoitajan todistusta terveyspalveluiden puuttuessa (tämä on todettava ja tie- dotettava etu-käteen työpaikkakohtaisesti) iltaisin, öisin, viikonloppuisin tai pyhinä, on työntekijällä oikeus olla sairausajan palkkaa menettämättä pois omalla ilmoituksellaan enintään siihen saakka, kunnes palvelut ovat saatavilla.
 
-Työnantajalla on oikeus vaatia ilmoitus ennen jokaista vuoroa sekä käyntiä lää- kärillä tai terveyden- tai sairaanhoitajan luona heti, kun palvelut ovat saatavilla. Perustellusta syystä työnantaja voi evätä tämän käyttömahdollisuuden ja vel- voittaa palkan-maksuvelvollisuuden edellytyksenä työntekijää toimittamaan lääkärintodistuksen jo ensimmäisestä päivästä lukien.
+1.  Jos työntekijällä ei ole mahdollisuutta saada lääkärin, terveyden-
+    tai sairaan- hoitajan todistusta terveyspalveluiden puuttuessa (tämä
+    on todettava ja tie- dotettava etu-käteen työpaikkakohtaisesti)
+    iltaisin, öisin, viikonloppuisin tai pyhinä, on työntekijällä oikeus
+    olla sairausajan palkkaa menettämättä pois omalla ilmoituksellaan
+    enintään siihen saakka, kunnes palvelut ovat saatavilla.
 
-Työkyvyttömyydestä tulee ilmoittaa työnantajalle viipymättä. Työntekijän lai- minlyödessä välittömän ilmoittamisen tahallaan tai huolimattomuudesta pal- kanmaksuvelvollisuus alkaa ilmoittamisesta.
+> Työnantajalla on oikeus vaatia ilmoitus ennen jokaista vuoroa sekä
+> käyntiä lää- kärillä tai terveyden- tai sairaanhoitajan luona heti,
+> kun palvelut ovat saatavilla. Perustellusta syystä työnantaja voi
+> evätä tämän käyttömahdollisuuden ja vel- voittaa
+> palkan-maksuvelvollisuuden edellytyksenä työntekijää toimittamaan
+> lääkärintodistuksen jo ensimmäisestä päivästä lukien.
+>
+> Työkyvyttömyydestä tulee ilmoittaa työnantajalle viipymättä.
+> Työntekijän lai- minlyödessä välittömän ilmoittamisen tahallaan tai
+> huolimattomuudesta pal- kanmaksuvelvollisuus alkaa ilmoittamisesta.
 
 ###### *Omailmoitusmenettely*
-1. Alla oleva menettely ei koske yrityksissä ennen 1.2.2017 käyttöön otettuja omailmoitusjärjestelyjä.
 
-Yrityksessä voidaan sopia työpaikkakohtaisesti (23 §:n mukaisesti) sai- rauspoissaoloja koskevan omailmoitusmenettelyn käyttöönotosta. Omailmoitusmenettely tarkoittaa työntekijän mahdollisuutta ilmoittaa omasta työkyvyttömyydestään työnantajalle ilman työkyvyttömyyden todentavaa lääkärin- tai terveydenhoitajan todistusta.
+2.  Alla oleva menettely ei koske yrityksissä ennen 1.2.2017 käyttöön
+    otettuja omailmoitusjärjestelyjä.
 
-Sopimus voi koskea enintään 3 kalenteripäivää kestäviä työntekijän omia sairauspoissaoloja.
-
-Omailmoitusmenettely koskee vain lyhytkestoisia sairauksia, jotka eivät vaadi lääkärinhoitoa (esim. flunssa, vatsatauti).
-
-A
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.013.png)<a name="työskentely osittaisella työkyvyllä "></a><a name="_bookmark40"></a>Työkyvyttömyydestä tulee ilmoittaa työnantajalle viipymättä. Työntekijän lai- minlyödessä välittömän ilmoittamisen tahallaan tai huolimattomuudesta pal- kan-maksuvelvollisuus alkaa ilmoittamisesta.
-
-Työehtosopimus
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.014.png)Työnantaja voi velvoittaa palkanmaksuvelvollisuuden edellytyksenä työnteki- jää toimittamaan lääkärintodistuksen jo ensimmäisestä päivästä lukien, mikäli katsoo sen perustellusta syystä tarpeelliseksi.
+> Yrityksessä voidaan sopia työpaikkakohtaisesti (23 §:n mukaisesti)
+> sai- rauspoissaoloja koskevan omailmoitusmenettelyn käyttöönotosta.
+> Omailmoitusmenettely tarkoittaa työntekijän mahdollisuutta ilmoittaa
+> omasta työkyvyttömyydestään työnantajalle ilman työkyvyttömyyden
+> todentavaa lääkärin- tai terveydenhoitajan todistusta.
+>
+> Sopimus voi koskea enintään 3 kalenteripäivää kestäviä työntekijän
+> omia sairauspoissaoloja.
+>
+> Omailmoitusmenettely koskee vain lyhytkestoisia sairauksia, jotka
+> eivät vaadi lääkärinhoitoa (esim. flunssa, vatsatauti).
+>
+> []{#_bookmark40 .anchor}Työkyvyttömyydestä tulee ilmoittaa
+> työnantajalle viipymättä. Työntekijän lai- minlyödessä välittömän
+> ilmoittamisen tahallaan tai huolimattomuudesta pal-
+> kan-maksuvelvollisuus alkaa ilmoittamisesta.
+>
+> Työnantaja voi velvoittaa palkanmaksuvelvollisuuden edellytyksenä
+> työnteki- jää toimittamaan lääkärintodistuksen jo ensimmäisestä
+> päivästä lukien, mikäli katsoo sen perustellusta syystä
+> tarpeelliseksi.
 
 ###### *Työskentely osittaisella työkyvyllä*
-1. Jos työntekijä ei ole sairauden tai tapaturman vuoksi täysin työkyvytön, voi- daan hänen omaa tavanomaista työtään muokata tai keventää tai hän voi osal- listua koulutukseen niin, että työskentely ei haittaa paranemista.
 
-Työn keventämistä ja muokkaamista koskevat yleiset periaatteet ja ohjeistus tulee käsitellä työsuojelun yhteistoiminnassa (Työsuojelun yhteistoimintaso- pimus 2 §).
+3.  Jos työntekijä ei ole sairauden tai tapaturman vuoksi täysin
+    työkyvytön, voi- daan hänen omaa tavanomaista työtään muokata tai
+    keventää tai hän voi osal- listua koulutukseen niin, että
+    työskentely ei haittaa paranemista.
 
-Työntekijä voi sairausloman sijaan tehdä myös muuta kuin tavanomaista työ- tään eli korvaavaa työtä. Korvaavan työn teettäminen edellyttää työntekijän suostumusta.
+> Työn keventämistä ja muokkaamista koskevat yleiset periaatteet ja
+> ohjeistus tulee käsitellä työsuojelun yhteistoiminnassa (Työsuojelun
+> yhteistoimintaso- pimus 2 §).
+>
+> Työntekijä voi sairausloman sijaan tehdä myös muuta kuin tavanomaista
+> työ- tään eli korvaavaa työtä. Korvaavan työn teettäminen edellyttää
+> työntekijän suostumusta.
+>
+> Korvaavan työn käyttöönottamisesta, ohjeistuksesta ja tiedottamisesta
+> sovi- taan työpaikkakohtaisesti (23 §:n mukaisesti). Jos työpaikalla
+> on luottamus- mies tai toissijaisesti työsuojeluvaltuutettu, tästä
+> sovitaan hänen kanssaan.
+>
+> Työskentely tai osallistuminen työnantajan järjestämään koulutukseen
+> sairaus- loman sijaan tulee aina perustua lääkärin arvioon jäljellä
+> olevasta työkyvystä.
+>
+> Ennen kevennetyn tai korvaavan työn käyttöönottoa asia on käsiteltävä
+> työpai- kalla työsuojeluyhteistoiminnassa työntekijän turvallisuutta
+> ja terveyttä koske- vana aiheena. Käsiteltäviä aiheita ovat mm.:
 
-Korvaavan työn käyttöönottamisesta, ohjeistuksesta ja tiedottamisesta sovi- taan työpaikkakohtaisesti (23 §:n mukaisesti). Jos työpaikalla on luottamus- mies tai toissijaisesti työsuojeluvaltuutettu, tästä sovitaan hänen kanssaan.
+-   ns. tavanomaiset sairaudet (tyypillisesti esim. kuume, flunssa tai
+    > vatsatau- dit), joiden aikana työskentely ei ole mahdollista
 
-Työskentely tai osallistuminen työnantajan järjestämään koulutukseen sairaus- loman sijaan tulee aina perustua lääkärin arvioon jäljellä olevasta työkyvystä.
+-   esimerkkitehtävät tai tehtävien muokkaukset, jotka mahdollistavat
+    > työs- kentelyn erityyppisistä terveysrajoituksista huolimatta.
 
-Ennen kevennetyn tai korvaavan työn käyttöönottoa asia on käsiteltävä työpai- kalla työsuojeluyhteistoiminnassa työntekijän turvallisuutta ja terveyttä koske- vana aiheena. Käsiteltäviä aiheita ovat mm.:
+> Suunniteltaessa kevennettyä tai korvaavaa työtä työntekijällä on
+> mahdollisuus käyttää avustajanaan työsuojeluvaltuutettua tai
+> luottamusmiestä.
+>
+> Työsuojeluvaltuutetulla on oikeus pyynnöstä saada tiedot kevennetyn ja
+> kor- vaavan työn käytöstä yrityksessä.
 
-- ns. tavanomaiset sairaudet (tyypillisesti esim. kuume, flunssa tai vatsatau- dit), joiden aikana työskentely ei ole mahdollista
-- esimerkkitehtävät tai tehtävien muokkaukset, jotka mahdollistavat työs- kentelyn erityyppisistä terveysrajoituksista huolimatta.
+###### *Palkanmaksu*
 
-Suunniteltaessa kevennettyä tai korvaavaa työtä työntekijällä on mahdollisuus käyttää avustajanaan työsuojeluvaltuutettua tai luottamusmiestä.
+1.  Palkka maksetaan kunkin työkyvyttömyystapauksen yhteydessä
+    seuraavasti:
 
-Työsuojeluvaltuutetulla on oikeus pyynnöstä saada tiedot kevennetyn ja kor- vaavan työn käytöstä yrityksessä.
+> alle kuukausi sairausvakuutuslain karenssi- ajalta 50 % palkasta
+>
+> vähintään kuukausi sairausvakuutuslain karenssiaika
+>
+> vähintään 3 kk mutta alle 3 vuotta 4 viikkoa
+>
+> 3 vuotta -- alle 5 vuotta 5 viikkoa
+>
+> 5 vuotta -- alle 10 vuotta 6 viikkoa
+>
+> vähintään 10 vuotta 8 viikkoa
+>
+> Palkallisen jakson pituus on kuitenkin enintään 3 kuukautta työsuhteen
+> kes- tosta riippumatta, jos työntekijä on työkyvytön häntä työssä
+> kohdanneen väki- vallan tai vakavan väkivallan uhkatilanteen vuoksi.
+>
+> Palkallisen jakson pituus on vähintään 4 viikkoa työsuhteen kestosta
+> riippu- matta, jos työntekijä on työkyvytön työtapaturmasta johtuen.
+> Tältä ajalta työntekijälle lain mukaan kuuluva päiväraha maksetaan
+> työnantajalle enin- tään työnantajan maksamaa palkan määrää
+> vastaavasti.
+>
+> Sairausvakuutuslain karenssiaika on sairastumispäivä ja sitä seuraavat
+> 9 arki- päivää. Työntekijän sairastuessa uudelleen samaan sairauteen
+> 30 päivän ku- luessa sairausvakuutuslain karenssiaika on
+> sairastumispäivä (ks. 7. kohta, Sairauden uusiutuminen).
+>
+> Palkka maksetaan jaksoon sisältyviltä työpäiviltä (ks. 9. kohta, alle
+> 37,5 tun- tia tekevät).
+>
+> Ilta-, yö- ja lauantailisät maksetaan sairausajan palkassa, jos niitä
+> olisi ker- tynyt työntekijälle sairausjakson aikana. Myyjien ja
+> myymälätyöntekijöiden iltalisä marras- ja joulukuun sunnuntailta
+> maksetaan sairausajan palkassa yksinkertaisena.
+>
+> Logistiikan lauantailisää (13 §:n 6. kohta) ei oteta huomioon
+> sairausajan palkassa.
+>
+> []{#_bookmark42 .anchor}Työnantaja maksaa sairausajan palkan suoraan
+> työntekijälle ja hakee itselleen sairausvakuutuskorvauksen.
+>
+> Paikallisesti voidaan sopia sairausajan palkan maksamisesta seuraavaa:
 
-A
-###### ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.016.png)<a name="palkanmaksu"></a><a name="_bookmark41"></a>*Palkanmaksu*
-1. Palkka maksetaan kunkin työkyvyttömyystapauksen yhteydessä seuraavasti:
+-   Sairausvakuutuslain karenssiaikaan sisältyviltä työpäiviltä
+    > maksetaan täysi palkka.
 
-Työsuhteen kesto sairastumishetkellä
+-   Karenssin jälkeisiltä työpäiviltä maksetaan päiväpalkan ja
+    > sairausvakuu- tuskorvauksen erotus. Maksaminen edellyttää
+    > selvitystä päivärahan suuruudesta.
 
-Palkallisen jakson pituus
+> Työtapaturmasta johtuva sairausajan palkka maksetaan palkalliselta
+> jaksolta suoraan työntekijälle.
+>
+> Jos työntekijä ei ole toimittanut Kelan pyytämiä selvityksiä, eikä
+> sairauspäivä- rahaa tästä syystä makseta tai se maksetaan normaalia
+> pienempänä, vähenee työnantajan palkanmaksuvelvollisuus maksamatta
+> jääneellä määrällä.
+>
+> Sairausajan palkasta vähennetään samasta työkyvyttömyydestä ja samalta
+> ajanjaksolta saatu päiväraha tai siihen rinnastettava korvaus, joka
+> maksetaan:
 
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.052.png)
+-   lain perusteella
 
-alle kuukausi	sairausvakuutuslain karenssi- ajalta 50 % palkasta
+-   työnantajan kokonaan tai osaksi kustantaman muun vakuutuksen
+    > perusteella
 
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.021.png)
+-   tai työnantajan kannatusmaksua saavasta sairausavustuskassasta.
 
-Työehtosopimus
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.019.png)![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.017.png)vähintään kuukausi	sairausvakuutuslain karenssiaika
-
-vähintään 3 kk mutta alle 3 vuotta	4 viikkoa
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.021.png)
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.019.png)3 vuotta – alle 5 vuotta	5 viikkoa
-
-5 vuotta – alle 10 vuotta	6 viikkoa
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.021.png)
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.022.png)vähintään 10 vuotta	8 viikkoa
-
-Palkallisen jakson pituus on kuitenkin enintään 3 kuukautta työsuhteen kes- tosta riippumatta, jos työntekijä on työkyvytön häntä työssä kohdanneen väki- vallan tai vakavan väkivallan uhkatilanteen vuoksi.
-
-Palkallisen jakson pituus on vähintään 4 viikkoa työsuhteen kestosta riippu- matta, jos työntekijä on työkyvytön työtapaturmasta johtuen. Tältä ajalta työntekijälle lain mukaan kuuluva päiväraha maksetaan työnantajalle enin- tään työnantajan maksamaa palkan määrää vastaavasti.
-
-Sairausvakuutuslain karenssiaika on sairastumispäivä ja sitä seuraavat 9 arki- päivää. Työntekijän sairastuessa uudelleen samaan sairauteen 30 päivän ku- luessa sairausvakuutuslain karenssiaika on sairastumispäivä (ks. 7. kohta, Sairauden uusiutuminen).
-
-Palkka maksetaan jaksoon sisältyviltä työpäiviltä (ks. 9. kohta, alle 37,5 tun- tia tekevät).
-
-Ilta-, yö- ja lauantailisät maksetaan sairausajan palkassa, jos niitä olisi ker- tynyt työntekijälle sairausjakson aikana. Myyjien ja myymälätyöntekijöiden iltalisä marras- ja joulukuun sunnuntailta maksetaan sairausajan palkassa yksinkertaisena.
-
-Logistiikan lauantailisää (13 §:n 6. kohta) ei oteta huomioon sairausajan palkassa.
-
-A
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.013.png)<a name="sairauden uusiutuminen"></a><a name="_bookmark42"></a>Työnantaja maksaa sairausajan palkan suoraan työntekijälle ja hakee itselleen sairausvakuutuskorvauksen.
-
-Paikallisesti voidaan sopia sairausajan palkan maksamisesta seuraavaa:
-
-Työehtosopimus
-
-- ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.014.png)Sairausvakuutuslain karenssiaikaan sisältyviltä työpäiviltä maksetaan täysi palkka.
-- Karenssin jälkeisiltä työpäiviltä maksetaan päiväpalkan ja sairausvakuu- tuskorvauksen erotus. Maksaminen edellyttää selvitystä päivärahan suuruudesta.
-
-Työtapaturmasta johtuva sairausajan palkka maksetaan palkalliselta jaksolta suoraan työntekijälle.
-
-Jos työntekijä ei ole toimittanut Kelan pyytämiä selvityksiä, eikä sairauspäivä- rahaa tästä syystä makseta tai se maksetaan normaalia pienempänä, vähenee työnantajan palkanmaksuvelvollisuus maksamatta jääneellä määrällä.
-
-Sairausajan palkasta vähennetään samasta työkyvyttömyydestä ja samalta ajanjaksolta saatu päiväraha tai siihen rinnastettava korvaus, joka maksetaan:
-
-- lain perusteella
-- työnantajan kokonaan tai osaksi kustantaman muun vakuutuksen perusteella
-- tai työnantajan kannatusmaksua saavasta sairausavustuskassasta.
-
-Palkan tultua jo maksetuksi työnantaja voi nostaa korvaukset itselleen tai periä ne työntekijältä, kuitenkin enintään maksamansa määrän.
+> Palkan tultua jo maksetuksi työnantaja voi nostaa korvaukset itselleen
+> tai periä ne työntekijältä, kuitenkin enintään maksamansa määrän.
 
 ###### *Sairauden uusiutuminen*
-1. Työntekijän sairastuessa samaan sairauteen 30 päivän kuluessa työhön paluusta maksetaan sairausajan palkka seuraavasti:
-- poissaolojaksot lasketaan yhteen ja niiltä maksetaan palkka kuin kyseessä olisi 1 sairastumisjakso
-- palkka maksetaan kuitenkin sairausvakuutuslain karenssiajalta eli sairastu- mispäivältä sen ollessa työpäivä.
 
-A
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.016.png)
+1.  Työntekijän sairastuessa samaan sairauteen 30 päivän kuluessa työhön
+    paluusta maksetaan sairausajan palkka seuraavasti:
 
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.053.png)<a name="karanteeni"></a><a name="_bookmark43"></a>Esimerkki 31
+-   poissaolojaksot lasketaan yhteen ja niiltä maksetaan palkka kuin
+    > kyseessä olisi 1 sairastumisjakso
 
-Työehtosopimus
+-   palkka maksetaan kuitenkin sairausvakuutuslain karenssiajalta eli
+    > sairastu- mispäivältä sen ollessa työpäivä.
 
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.017.png)Työntekijän työsuhde on kestänyt 1 vuoden. Työntekijä saa sairastuessaan työsuhteen keston perusteella palkkaa enintään 4 viikolta eli 28 kalente- ripäivältä. Jaksoon sisältyviltä työpäiviltä maksetaan sairausajan palkka.
+> []{#_bookmark43 .anchor}Esimerkki 31
+>
+> Työntekijän työsuhde on kestänyt 1 vuoden. Työntekijä saa
+> sairastuessaan työsuhteen keston perusteella palkkaa enintään 4
+> viikolta eli 28 kalente- ripäivältä. Jaksoon sisältyviltä työpäiviltä
+> maksetaan sairausajan palkka.
 
++----------+------+----+-----------+-----+------------+--------------+
+| >        |      |    | >         |     |            | > Sairaus-   |
+| Sairaus- |      |    |  Sairaus- |     |            | > poissaolo  |
+| > p      |      |    | >         |     |            |              |
+| oissaolo |      |    | poissaolo |     |            |              |
++==========+======+====+===========+=====+============+==============+
+| > 1.4.   | > 1  |    | > 21.4.   | > 5 | > 16.5.    | > 30.5.      |
+|          | 3.4. |    |           | .5. |            |              |
++----------+------+----+-----------+-----+------------+--------------+
 
-|Sairaus- poissaolo|||Sairaus- poissaolo|||Sairaus- poissaolo|
-| :- | :- | :- | :- | :- | :- | :- |
-|1\.4.|13\.4.||21\.4.|5\.5.|16\.5.|![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.054.png)30.5.|
-
-13 pv	+	15 pv	1 pv
-
-28 pv
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.055.png)
-
-Ensimmäinen sairausjakso 1.4.–13.4. = 13 kalenteripäivää. Palkka maksetaan 13 kalenteripäivään sisältyviltä työpäiviltä.
-
-Toinen sairausjakso samasta sairaudesta 21.4.–16.5. = 26 kalenteripäivää. Palkka maksetaan jäljellä oleviin (28 – 13) 15 kalenteripäivään 21.4.–5.5. sisältyviltä työpäiviltä.
-
-Saman sairauden takia työntekijä jää vielä 30.5. sairauslomalle. Palkka maksetaan tältä jaksolta ainoastaan sairausvakuutuslain karenssiajalta eli sairastumispäivältä 30.5. sen ollessa työntekijän työpäivä.
-
-Saman sairauden uusiutuessa yli 30 päivän kuluttua töihin palaamisesta sairausajan palkka maksetaan niin kuin kyseessä olisi uusi sairaus.
-
+> 13 pv + 15 pv 1 pv
+>
+> Ensimmäinen sairausjakso 1.4.--13.4. = 13 kalenteripäivää. Palkka
+> maksetaan 13 kalenteripäivään sisältyviltä työpäiviltä.
+>
+> Toinen sairausjakso samasta sairaudesta 21.4.--16.5. = 26
+> kalenteripäivää. Palkka maksetaan jäljellä oleviin (28 -- 13) 15
+> kalenteripäivään 21.4.--5.5. sisältyviltä työpäiviltä.
+>
+> Saman sairauden takia työntekijä jää vielä 30.5. sairauslomalle.
+> Palkka maksetaan tältä jaksolta ainoastaan sairausvakuutuslain
+> karenssiajalta eli sairastumispäivältä 30.5. sen ollessa työntekijän
+> työpäivä.
+>
+> Saman sairauden uusiutuessa yli 30 päivän kuluttua töihin palaamisesta
+> sairausajan palkka maksetaan niin kuin kyseessä olisi uusi sairaus.
 
 ###### *Karanteeni*
-1. Työntekijän ollessa poissa työstä tartuntatautilain perusteella hänelle makse- taan palkka tämän pykälän mukaan.
+
+1.  Työntekijän ollessa poissa työstä tartuntatautilain perusteella
+    hänelle makse- taan palkka tämän pykälän mukaan.
 
 ###### *Alle 37,5 tuntia tekevät*
-1. Palkka maksetaan työvuoroluetteloon merkityiltä tunneilta.
 
-Työvuoroluettelon puuttuessa palkka maksetaan sovitun keskimääräisen viik- kotyöajan mukaan.
+2.  Palkka maksetaan työvuoroluetteloon merkityiltä tunneilta.
 
-A
-2. #### ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.013.png)<a name="17 § tilapäinen poissaolo"></a><a name="äkillinen sairaus perheessä"></a><a name="_bookmark44"></a>§ Tilapäinen poissaolo
+> Työvuoroluettelon puuttuessa palkka maksetaan sovitun keskimääräisen
+> viik- kotyöajan mukaan.
+
+#### § Tilapäinen poissaolo
 
 ###### *Äkillinen sairaus perheessä*
-Työehtosopimus
-1. ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.014.png)Työntekijälle pyritään antamaan mahdollisuus lyhyeen palkattomaan poissa- oloon perheessä sattuneen äkillisen sairauden johdosta.
 
-1. Alle 10-vuotiaan lapsen sairastuessa äkillisesti lapsen huoltajalle, huoltajan avio- tai avopuolisolle tai huoltajalle, joka ei asu lapsen kanssa samassa talo- udessa, maksetaan palkka 1–3 kalenteripäivään sisältyviltä työpäiviltä 16 §:n mukaan.
+1.  Työntekijälle pyritään antamaan mahdollisuus lyhyeen palkattomaan
+    poissa- oloon perheessä sattuneen äkillisen sairauden johdosta.
 
-Palkanmaksun edellytyksenä on, että
+2.  Alle 10-vuotiaan lapsen sairastuessa äkillisesti lapsen huoltajalle,
+    huoltajan avio- tai avopuolisolle tai huoltajalle, joka ei asu
+    lapsen kanssa samassa talo- udessa, maksetaan palkka 1--3
+    kalenteripäivään sisältyviltä työpäiviltä 16 §:n mukaan.
 
-- lyhyt poissaolo on välttämätön lapsen hoidon järjestämiseksi tai lapsen hoitamiseksi ja
-- työntekijä on viipymättä ilmoittanut poissaolosta ja jos mahdollista sen kestosta ja
-- lapsen sairaudesta on toimitettu lääkärintodistus tai muu työnantajan hyväksymä selvitys.
+> Palkanmaksun edellytyksenä on, että
 
-Muulle kuin yksinhuoltajalle palkka maksetaan, jos
+-   lyhyt poissaolo on välttämätön lapsen hoidon järjestämiseksi tai
+    > lapsen hoitamiseksi ja
 
-- toisella huoltajalla
-- huoltajan avio- tai avopuolisolla tai
-- lapsen huoltajalla, joka ei asu lapsen kanssa samassa taloudessa,
+-   työntekijä on viipymättä ilmoittanut poissaolosta ja jos mahdollista
+    > sen kestosta ja
 
-ei ole ansiotyön työajan, välimatkan (asuinpaikka), asevelvollisuuden tai sivii- lipalvelun suorittamisen tai kertausharjoitusten takia mahdollisuutta järjestää hoitoa tai itse hoitaa lasta. Esteestä on pyynnöstä annettava selvitys.
+-   lapsen sairaudesta on toimitettu lääkärintodistus tai muu
+    > työnantajan hyväksymä selvitys.
 
-Tarvittaessa työntekijälle pyritään antamaan 3 kalenteripäivää pidempi pal- katon poissaolo.
+> Muulle kuin yksinhuoltajalle palkka maksetaan, jos
 
-A
+-   toisella huoltajalla
 
-Työehtosopimus
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.016.png)![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.017.png)
+-   huoltajan avio- tai avopuolisolla tai
 
+-   lapsen huoltajalla, joka ei asu lapsen kanssa samassa taloudessa,
 
+> ei ole ansiotyön työajan, välimatkan (asuinpaikka), asevelvollisuuden
+> tai sivii- lipalvelun suorittamisen tai kertausharjoitusten takia
+> mahdollisuutta järjestää hoitoa tai itse hoitaa lasta. Esteestä on
+> pyynnöstä annettava selvitys.
+>
+> Tarvittaessa työntekijälle pyritään antamaan 3 kalenteripäivää pidempi
+> pal- katon poissaolo.
 
++----------------+---------+-------+--------+--------+---------+----+
+| > [            |         |       |        |        |         |    |
+| ]{#_bookmark45 |         |       |        |        |         |    |
+| > .an          |         |       |        |        |         |    |
+| chor}Esimerkki |         |       |        |        |         |    |
+| > 33           |         |       |        |        |         |    |
++================+=========+=======+========+========+=========+====+
+| > Työvuoro-    | > To    | > Pe  | > La   | > Su   | > Ma    | Ti |
++----------------+---------+-------+--------+--------+---------+----+
+| > luettelo:    | > T     | T     | > V    | > V    | T       | T  |
++----------------+---------+-------+--------+--------+---------+----+
+|                |         | >     |        |        |         |    |
+|                |         | lapsi |        |        |         |    |
+|                |         | > sai |        |        |         |    |
+|                |         | raana |        |        |         |    |
+|                |         | > ja  |        |        |         |    |
+|                |         | >     |        |        |         |    |
+|                |         | työnt |        |        |         |    |
+|                |         | ekijä |        |        |         |    |
+|                |         | >     |        |        |         |    |
+|                |         |  pois |        |        |         |    |
+|                |         | > t   |        |        |         |    |
+|                |         | öistä |        |        |         |    |
++----------------+---------+-------+--------+--------+---------+----+
 
+###### *Vihkiminen ja merkkipäivä*
 
+1.  Työntekijän vihkimispäivä on palkallinen vapaapäivä sen ollessa
+    työpäivä.
 
-
-
-
-
-
-
-
-|<a name="vihkiminen ja merkkipäivä"></a><a name="kuolema ja hautajaiset"></a><a name="_bookmark45"></a>Esimerkki 33|||||||
-| :- | :- | :- | :- | :- | :- | :- |
-|Työvuoro-|To|Pe|La|Su|Ma|Ti|
-|luettelo:|T|T|V|V|T|T|
-||lapsi sairaana ja työntekijä pois töistä||||||
-
-
-
-
-
-
-Ma
-
-T
-
-Ti
-
-T
-
-Ke
-
-V
-
-To
-
-T
-
-lapsi sairaana ja työntekijä pois töistä
-
-Esimerkki 32
-
-Työvuoro- luettelo:
-
-Pe
-
-T
-
-La
-
-T
-
-Su
-
-V
-
-Palkka maksetaan vain 3 kalenteripäivään (Ma–Ke) sisältyviltä työpäiviltä (Ma–Ti).
-
-Palkka maksetaan vain 3 kalenteripäivään (Pe–Su) sisältyvältä työpäivältä (Pe).
-###### ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.056.png)*Vihkiminen ja merkkipäivä*
-1. Työntekijän vihkimispäivä on palkallinen vapaapäivä sen ollessa työpäivä.
-
-1. Työntekijän 50- ja 60-vuotispäivä on palkallinen vapaapäivä sen ollessa työ- päivä.
+2.  Työntekijän 50- ja 60-vuotispäivä on palkallinen vapaapäivä sen
+    ollessa työ- päivä.
 
 ###### *Kuolema ja hautajaiset*
-1. Työntekijälle pyritään järjestämään mahdollisuus lyhyeen poissaoloon lähio- maisen kuoleman ja hautajaisten johdosta.
 
-Lyhyellä poissaololla tarkoitetaan kuolemasta ja hautajaisista johtuviin järjes- telyihin tarvittavaa aikaa.
+3.  Työntekijälle pyritään järjestämään mahdollisuus lyhyeen poissaoloon
+    lähio- maisen kuoleman ja hautajaisten johdosta.
 
-A
-
-Työehtosopimus
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.013.png)![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.014.png)<a name="kutsunta ja kertausharjoitukset"></a><a name="yhteiskunnallinen toiminta"></a><a name="vaikeasti sairas lapsi"></a><a name="vuosilomaedut"></a><a name="_bookmark46"></a>Poissaolon kestäessä lähiomaisen kuoleman johdosta yli päivän työnteki- jän on annettava työnantajan pyynnöstä etukäteen selvitys ajan tarpeesta. Lähiomaisen hautajaisista johtuvasta, yli päivän kestävästä ajan tarpeesta on annettava työnantajan pyynnöstä selvitys etukäteen.
-
-Lähiomaisia ovat muun muassa puoliso, vanhemmat, iso- ja appivanhemmat, lapsi, sisar ja veli.
-
-Poissaolo ei vähennä ansioita.
+> Lyhyellä poissaololla tarkoitetaan kuolemasta ja hautajaisista
+> johtuviin järjes- telyihin tarvittavaa aikaa.
+>
+> []{#_bookmark46 .anchor}Poissaolon kestäessä lähiomaisen kuoleman
+> johdosta yli päivän työnteki- jän on annettava työnantajan pyynnöstä
+> etukäteen selvitys ajan tarpeesta. Lähiomaisen hautajaisista
+> johtuvasta, yli päivän kestävästä ajan tarpeesta on annettava
+> työnantajan pyynnöstä selvitys etukäteen.
+>
+> Lähiomaisia ovat muun muassa puoliso, vanhemmat, iso- ja
+> appivanhemmat, lapsi, sisar ja veli.
+>
+> Poissaolo ei vähennä ansioita.
 
 ###### *Kutsunta ja kertausharjoitukset*
-1. Työntekijä voi osallistua ansion alentumatta asevelvollisten kutsuntaan ja sii- hen liittyvään lääkärintarkastukseen. Lääkärintarkastukseen noudatetaan 18 §:n määräyksiä.
 
-1. Työntekijälle maksetaan kertausharjoituspäiviltä palkan ja reserviläispalkan erotus. Määräystä sovelletaan myös työntekijöihin, jotka siviilipalveluslain nojalla määrätään kertausharjoituksia korvaavaan täydennyspalveluun.
+4.  Työntekijä voi osallistua ansion alentumatta asevelvollisten
+    kutsuntaan ja sii- hen liittyvään lääkärintarkastukseen.
+    Lääkärintarkastukseen noudatetaan 18 §:n määräyksiä.
+
+5.  Työntekijälle maksetaan kertausharjoituspäiviltä palkan ja
+    reserviläispalkan erotus. Määräystä sovelletaan myös työntekijöihin,
+    jotka siviilipalveluslain nojalla määrätään kertausharjoituksia
+    korvaavaan täydennyspalveluun.
 
 ###### *Yhteiskunnallinen toiminta*
-1. Työntekijälle maksetaan palkan ja ansionmenetyskorvauksen erotus hänen osallistuessa työaikana:
-- kunnanvaltuuston
-- kunnanhallituksen
-- valtiollisten tai kunnallisten vaalien vaalilautakunnan tai -toimikunnan työskentelyyn.
 
-Erotus maksetaan työntekijän annettua selvityksen ansionmenetyskorvauksesta.
+6.  Työntekijälle maksetaan palkan ja ansionmenetyskorvauksen erotus
+    hänen osallistuessa työaikana:
+
+-   kunnanvaltuuston
+
+-   kunnanhallituksen
+
+-   valtiollisten tai kunnallisten vaalien vaalilautakunnan tai
+    > -toimikunnan työskentelyyn.
+
+> Erotus maksetaan työntekijän annettua selvityksen
+> ansionmenetyskorvauksesta.
 
 ###### *Vaikeasti sairas lapsi*
-1. Lapsen ollessa vaikeasti sairas työntekijä on sovittaessa oikeutettu palkatto- maan poissaoloon (Vnp/85).
+
+1.  Lapsen ollessa vaikeasti sairas työntekijä on sovittaessa oikeutettu
+    palkatto- maan poissaoloon (Vnp/85).
 
 ###### *Vuosilomaedut*
-1. Tämän pykälän mukaiset poissaolot eivät vähennä vuosilomaetuja lukuun otta- matta vaikeasti sairaan lapsen hoitoa.
 
-A
-2. #### ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.016.png)<a name="18 § lääkärintarkastukset"></a><a name="_bookmark47"></a>§ Lääkärintarkastukset
+2.  Tämän pykälän mukaiset poissaolot eivät vähennä vuosilomaetuja
+    lukuun otta- matta vaikeasti sairaan lapsen hoitoa.
+
+#### § Lääkärintarkastukset
 
 ###### *Palkanmaksun edellytykset*
-Työehtosopimus
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.017.png)Säännöllisen työajan palkkaa ei vähennetä seuraavissa tapauksissa (a.–e.) edel- lyttäen, että tarkastukset ja tutkimukset on järjestetty tarpeetonta työajan mene- tystä välttäen:
 
-1. *Sairauden toteaminen*
+> Säännöllisen työajan palkkaa ei vähennetä seuraavissa tapauksissa
+> (a.--e.) edel- lyttäen, että tarkastukset ja tutkimukset on
+> järjestetty tarpeetonta työajan mene- tystä välttäen:
 
-Sairauden toteamiseksi välttämätön lääkärintarkastus ja siihen liittyvä lääkä- rin määräämä laboratorio- tai röntgentutkimus, jos aikaa ei ole saatu työajan ulkopuolella.
+a.  *Sairauden toteaminen*
 
-1. *Välttämätön hammaslääkärikäynti*
+> Sairauden toteamiseksi välttämätön lääkärintarkastus ja siihen
+> liittyvä lääkä- rin määräämä laboratorio- tai röntgentutkimus, jos
+> aikaa ei ole saatu työajan ulkopuolella.
 
-Välttämättömän hammaslääkärikäynnin ajalta jos:
+b.  *Välttämätön hammaslääkärikäynti*
 
-0. hampaasta aiheutuu työkyvyttömyys ennen hammaslääkärikäyntiä ja
-0. hammaslääkärikäynti on kiireellinen, eli vaatii käynnin samana päivänä tai saman työvuoron aikana eikä aikaa ole saatu työajan ulkopuolella ja
-0. hammaslääkärin antama todistus osoittaa hammaslääkärikäynnin kiireel- lisyyden.
+> Välttämättömän hammaslääkärikäynnin ajalta jos:
 
-1. *Raskaus*
+-   hampaasta aiheutuu työkyvyttömyys ennen hammaslääkärikäyntiä ja
 
-Raskaana olevan työntekijän käydessä synnytystä edeltävissä lääketieteelli- sissä tutkimuksissa, jos aikaa ei ole saatu työajan ulkopuolella.
+-   hammaslääkärikäynti on kiireellinen, eli vaatii käynnin samana
+    päivänä tai saman työvuoron aikana eikä aikaa ole saatu työajan
+    ulkopuolella ja
 
-1. *Lakisääteiset tarkastukset ja tutkimukset*
+-   hammaslääkärin antama todistus osoittaa hammaslääkärikäynnin
+    kiireel- lisyyden.
 
-Työntekijän käydessä:
+c.  *Raskaus*
 
-0. työterveyshuoltolain tarkoittamissa ja työterveyshuollon toimintasuunni- telmaan hyväksytyissä tarkastuksissa
+> Raskaana olevan työntekijän käydessä synnytystä edeltävissä
+> lääketieteelli- sissä tutkimuksissa, jos aikaa ei ole saatu työajan
+> ulkopuolella.
 
-– arvioitaessa työntekijän työkykyä työterveyshuoltolain perusteella kolmikantakeskustelussa työntekijällä on mahdollisuus käyttää avus- tajanaan työsuojeluvaltuutettua
+d.  *Lakisääteiset tarkastukset ja tutkimukset*
 
-0. nuorista työntekijöistä annettuun lakiin liittyvissä tutkimuksissa
+> Työntekijän käydessä:
 
-A
-0. ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.013.png)<a name="19 § lapsen syntymä"></a><a name="perhevapaat"></a><a name="_bookmark48"></a>tartuntatautilakiin liittyvissä ja työnantajan edellyttämissä tutkimuksissa
-0. tartuntatautilain edellyttämissä tutkimuksissa, jotka johtuvat työntekijän siirtymisestä yrityksessä toisiin tehtäviin.
+-   työterveyshuoltolain tarkoittamissa ja työterveyshuollon
+    toimintasuunni- telmaan hyväksytyissä tarkastuksissa
 
-Työehtosopimus
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.014.png)Työnantaja maksaa työntekijälle välttämättömät matkakustannukset kysei- siin tutkimuksiin tai jälkitarkastuksiin sekä päivärahan, jos ne tehdään muulla paikkakunnalla.
+> -- arvioitaessa työntekijän työkykyä työterveyshuoltolain perusteella
+> kolmikantakeskustelussa työntekijällä on mahdollisuus käyttää avus-
+> tajanaan työsuojeluvaltuutettua
 
-1. *Poissaolo muista syistä*
+-   nuorista työntekijöistä annettuun lakiin liittyvissä tutkimuksissa
 
-Kunnan järjestämät seulontatutkimukset (Vna 1339/2006: mammografia ja papakoe), mikäli käynnit eivät ole mahdollisia työajan ulkopuolella.
+-   []{#_bookmark48 .anchor}tartuntatautilakiin liittyvissä ja
+    > työnantajan edellyttämissä tutkimuksissa
 
-2. #### § Lapsen syntymä
+-   tartuntatautilain edellyttämissä tutkimuksissa, jotka johtuvat
+    > työntekijän siirtymisestä yrityksessä toisiin tehtäviin.
+
+> Työnantaja maksaa työntekijälle välttämättömät matkakustannukset
+> kysei- siin tutkimuksiin tai jälkitarkastuksiin sekä päivärahan, jos
+> ne tehdään muulla paikkakunnalla.
+
+e.  *Poissaolo muista syistä*
+
+> Kunnan järjestämät seulontatutkimukset (Vna 1339/2006: mammografia ja
+> papakoe), mikäli käynnit eivät ole mahdollisia työajan ulkopuolella.
+
+#### § Lapsen syntymä
+
 ###### *Perhevapaat*
-1. Erityisraskaus-, raskaus- ja vanhempainvapaa sekä hoitovapaa määräytyvät työsopimus- ja sairausvakuutuslain mukaan.
+
+1.  Erityisraskaus-, raskaus- ja vanhempainvapaa sekä hoitovapaa
+    määräytyvät työsopimus- ja sairausvakuutuslain mukaan.
 
 ###### *Palkanmaksu perhevapaiden ajalta*
-1. Raskausvapaan palkka
 
-Työntekijälle, jolla on oikeus sairausvakuutuslain 9 luvun 1 §:n mukaiseen ras- kausrahaan, maksetaan palkka raskausvapaan alusta lukien yhdenjaksoisen 40 raskausrahapäivän ajalta.
+2.  Raskausvapaan palkka
 
-1. Vanhempainvapaan palkka
+> Työntekijälle, jolla on oikeus sairausvakuutuslain 9 luvun 1 §:n
+> mukaiseen ras- kausrahaan, maksetaan palkka raskausvapaan alusta
+> lukien yhdenjaksoisen 40 raskausrahapäivän ajalta.
 
-Työntekijälle, jolla on oikeus sairausvakuutuslain 9 luvun 5 §:n 1–3 momentin mukaiseen vanhempainrahaan, maksetaan palkka vanhempainvapaan alusta lukien 36 ensimmäisen vanhempainrahapäivän ajalta.
+3.  Vanhempainvapaan palkka
 
-1. Palkkana maksetaan
-1. palkan ja sairausvakuutuslain raskaus- tai vanhempainrahan erotus tai
-1. palkka, jolloin työnantaja hakee itselleen sairausvakuutuslain raskaus- tai vanhempainrahan.
+> Työntekijälle, jolla on oikeus sairausvakuutuslain 9 luvun 5 §:n 1--3
+> momentin mukaiseen vanhempainrahaan, maksetaan palkka vanhempainvapaan
+> alusta lukien 36 ensimmäisen vanhempainrahapäivän ajalta.
 
-Maksamisen edellytyksenä ovat:
+4.  Palkkana maksetaan
 
-- työsuhde on kestänyt vähintään 9 kuukautta ennen vapaan alkua ja
-- työntekijä palaa perhevapaalta työhön.
+```{=html}
+<!-- -->
+```
+a.  palkan ja sairausvakuutuslain raskaus- tai vanhempainrahan erotus
+    > tai
 
-A
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.016.png)<a name="ilmoitusajat"></a><a name="vapaan ajankohdan muuttaminen"></a><a name="_bookmark49"></a>Erotuksen maksaminen edellyttää työntekijän selvitystä raskaus- ja vanhem- painrahan suuruudesta.
+b.  palkka, jolloin työnantaja hakee itselleen sairausvakuutuslain
+    > raskaus- tai vanhempainrahan.
 
-Työehtosopimus
+> Maksamisen edellytyksenä ovat:
 
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.017.png)Jos työntekijä ei ole toimittanut Kelan pyytämiä selvityksiä, eikä raskaus- ja vanhempainrahaa tästä syystä makseta tai se maksetaan normaalia pienem- pänä, vähenee työnantajan palkanmaksuvelvollisuus maksamatta jääneellä määrällä.
+-   työsuhde on kestänyt vähintään 9 kuukautta ennen vapaan alkua ja
 
-Alle 37,5 tuntia tekevälle maksetaan palkan ja sairausvakuutuslain raskaus- ja vanhempainrahan erotus tai palkka vapaan alkua edeltävän 9 kuukauden kes- kimääräisen viikkotyöajan mukaan. Keskimääräisen viikkotyöajan jäädessä alle työsopimuksessa sovitun viikkotyöajan maksetaan erotus sovitun viikkotyö- ajan mukaan.
+-   työntekijä palaa perhevapaalta työhön.
 
-Muut perhevapaat ovat palkattomia.
+> []{#_bookmark49 .anchor}Erotuksen maksaminen edellyttää työntekijän
+> selvitystä raskaus- ja vanhem- painrahan suuruudesta.
+>
+> Jos työntekijä ei ole toimittanut Kelan pyytämiä selvityksiä, eikä
+> raskaus- ja vanhempainrahaa tästä syystä makseta tai se maksetaan
+> normaalia pienem- pänä, vähenee työnantajan palkanmaksuvelvollisuus
+> maksamatta jääneellä määrällä.
+>
+> Alle 37,5 tuntia tekevälle maksetaan palkan ja sairausvakuutuslain
+> raskaus- ja vanhempainrahan erotus tai palkka vapaan alkua edeltävän 9
+> kuukauden kes- kimääräisen viikkotyöajan mukaan. Keskimääräisen
+> viikkotyöajan jäädessä alle työsopimuksessa sovitun viikkotyöajan
+> maksetaan erotus sovitun viikkotyö- ajan mukaan.
+>
+> Muut perhevapaat ovat palkattomia.
 
 ###### *Ilmoitusajat*
-1. Työntekijän on ilmoitettava työnantajalle raskaus-, vanhempain- ja hoitova- paasta viimeistään 2 kuukautta ennen vapaan alkamista.
 
-Jos vapaan kesto on enintään 12 arkipäivää, ilmoitusaika on kuitenkin 1 kuukausi.
+1.  Työntekijän on ilmoitettava työnantajalle raskaus-, vanhempain- ja
+    hoitova- paasta viimeistään 2 kuukautta ennen vapaan alkamista.
 
-Työntekijän tulisi antaa työnantajalle hyvissä ajoin kokonaissuunnitelma vapai- den käytöstä kummankin vanhemman osalta.
+> Jos vapaan kesto on enintään 12 arkipäivää, ilmoitusaika on kuitenkin
+> 1 kuukausi.
+>
+> Työntekijän tulisi antaa työnantajalle hyvissä ajoin
+> kokonaissuunnitelma vapai- den käytöstä kummankin vanhemman osalta.
 
 ###### *Vapaan ajankohdan muuttaminen*
-1. Työntekijä voi työsopimuslain mukaisesta perustellusta syystä muuttaa aikai- semmin ilmoittamansa raskaus-, vanhempain- tai hoitovapaan ajankohdan noudattaen 1 kuukauden ilmoitusaikaa.
 
-Työntekijä saa aikaistaa raskausvapaan sekä muuttaa sellaisen synnytyksen yhteydessä pidettäväksi aiotun vapaan ajankohdan, joka on oikeus pitää yhtä aikaa toisen vanhemman tai puolison kanssa, jos se on tarpeen lapsen synty- män tai lapsen tai vanhemman terveydentilan vuoksi. Muutoksesta on ilmoi- tettava työnantajalle niin pian kuin mahdollista.
+2.  Työntekijä voi työsopimuslain mukaisesta perustellusta syystä
+    muuttaa aikai- semmin ilmoittamansa raskaus-, vanhempain- tai
+    hoitovapaan ajankohdan noudattaen 1 kuukauden ilmoitusaikaa.
 
-Työntekijän keskeyttäessä vanhempain- tai hoitovapaan työkyvyttömyyden takia työnantajalla ei ole sairausajan palkanmaksuvelvollisuutta työsopimus- lain mukaisesti ilmoitetulta vanhempain- tai hoitovapaalta.
+> Työntekijä saa aikaistaa raskausvapaan sekä muuttaa sellaisen
+> synnytyksen yhteydessä pidettäväksi aiotun vapaan ajankohdan, joka on
+> oikeus pitää yhtä aikaa toisen vanhemman tai puolison kanssa, jos se
+> on tarpeen lapsen synty- män tai lapsen tai vanhemman terveydentilan
+> vuoksi. Muutoksesta on ilmoi- tettava työnantajalle niin pian kuin
+> mahdollista.
+>
+> Työntekijän keskeyttäessä vanhempain- tai hoitovapaan työkyvyttömyyden
+> takia työnantajalla ei ole sairausajan palkanmaksuvelvollisuutta
+> työsopimus- lain mukaisesti ilmoitetulta vanhempain- tai
+> hoitovapaalta.
 
-A
-5. # ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.013.png)<a name="20 §  vuosiloma"></a><a name="loman pituus"></a><a name="6. vuosiloma"></a><a name="_bookmark50"></a>VUOSILOMA
+# VUOSILOMA
 
-Työehtosopimus
-2. #### ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.014.png)§ Vuosiloma
-   1. Vuosilomaetuudet määräytyvät vuosilomalain ja työehtosopimuksen mukaan.
+20. #### § Vuosiloma
+
+    1.  Vuosilomaetuudet määräytyvät vuosilomalain ja työehtosopimuksen
+        mukaan.
 
 ###### *Loman pituus*
-1. Lomaa ansaitaan täydeltä lomanmääräytymiskuukaudelta työsuhteen kestet- tyä lomanmääräytymisvuoden (1.4.–31.3.) loppuun mennessä:
-- alle vuoden: 2 arkipäivää
-- vähintään vuoden: 2,5 arkipäivää.
 
-Täysi lomanmääräytymiskuukausi on kalenterikuukausi, jonka aikana työnte- kijä on työskennellyt:
+2.  Lomaa ansaitaan täydeltä lomanmääräytymiskuukaudelta työsuhteen
+    kestet- tyä lomanmääräytymisvuoden (1.4.--31.3.) loppuun mennessä:
 
-- vähintään 14 päivää
-- vähintään 35 tuntia.
+-   alle vuoden: 2 arkipäivää
 
-Lomaa ansaitaan joko 14 päivän tai 35 tunnin säännön perusteella.
+-   vähintään vuoden: 2,5 arkipäivää.
 
-Lomaa ansaitaan 35 tunnin säännön perusteella työntekijän työskennellessä työsopimuksen mukaan alle 14 päivää kuukaudessa.
+> Täysi lomanmääräytymiskuukausi on kalenterikuukausi, jonka aikana
+> työnte- kijä on työskennellyt:
 
-Esimerkki 34
+-   vähintään 14 päivää
 
-37,5 tuntia tekevän työntekijän toistaiseksi voimassa oleva työsopimus päät- tyi koeaikapurkuun 10 työpäivän (= 75 työtunnin) jälkeen. Työsopimuksensa mukaan työntekijällä olisi ollut mahdollisuus työskennellä 14 työpäivänä kuukaudessa, mikäli työsuhde olisi jatkunut. Lomaoikeus lasketaan ”14 työ- päivän” -ansaintasäännön perusteella.
+-   vähintään 35 tuntia.
 
-Työntekijä ei ansaitse vuosilomapäiviä, mutta hänelle maksetaan työehto- sopimuksen mukainen prosentuaalinen lomakorvaus.
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.057.png)
-
-A
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.016.png)
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.058.png)<a name="loman antaminen"></a><a name="loma ja vapaapäivä"></a><a name="_bookmark51"></a>Esimerkki 35
-
-Työehtosopimus
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.017.png)37,5 tuntia tekevän määräaikainen työsopimus päättyi sopimuksen mukaan 10 työpäivän (= 75 työtunnin) jälkeen. Työsopimuksensa mukaan työnteki- jällä ei olisi ollut mahdollisuutta työskennellä 14 työpäivänä kuukaudessa työsuhteensa aikana. Lomaoikeus lasketaan ”35 työtunnin”-ansaintasään- nön perusteella.
-
-Työntekijä ansaitsi työsuhteensa ajalta 2 lomapäivää, jonka perusteella hänelle maksetaan lomakorvaus.
-
-Esimerkki 36
-
-Työntekijä työskentelee 8 tuntia päivässä. Työpäiviä on viikossa 3. Työsopimuksensa mukaan työntekijällä ei ole mahdollisuutta työskennellä 14 työpäivänä kuukaudessa. Lomaoikeus lasketaan ”35 työtunnin” -ansain- tasäännön perusteella.
-
-Työntekijä ansaitsee vuosilomaa jokaiselta kuukaudelta, jossa on vähintään 35 työtuntia.
-
+> Lomaa ansaitaan joko 14 päivän tai 35 tunnin säännön perusteella.
+>
+> Lomaa ansaitaan 35 tunnin säännön perusteella työntekijän
+> työskennellessä työsopimuksen mukaan alle 14 päivää kuukaudessa.
+>
+> []{#_bookmark51 .anchor}Esimerkki 35
+>
+> 37,5 tuntia tekevän määräaikainen työsopimus päättyi sopimuksen mukaan
+> 10 työpäivän (= 75 työtunnin) jälkeen. Työsopimuksensa mukaan
+> työnteki- jällä ei olisi ollut mahdollisuutta työskennellä 14
+> työpäivänä kuukaudessa työsuhteensa aikana. Lomaoikeus lasketaan "35
+> työtunnin"-ansaintasään- nön perusteella.
+>
+> Työntekijä ansaitsi työsuhteensa ajalta 2 lomapäivää, jonka
+> perusteella hänelle maksetaan lomakorvaus.
+>
+> Esimerkki 36
+>
+> Työntekijä työskentelee 8 tuntia päivässä. Työpäiviä on viikossa 3.
+> Työsopimuksensa mukaan työntekijällä ei ole mahdollisuutta
+> työskennellä 14 työpäivänä kuukaudessa. Lomaoikeus lasketaan "35
+> työtunnin" -ansain- tasäännön perusteella.
+>
+> Työntekijä ansaitsee vuosilomaa jokaiselta kuukaudelta, jossa on
+> vähintään 35 työtuntia.
 
 ###### *Loman antaminen*
-1. Työnantaja määrää loman alkamisajankohdan vuosilomalain mukaisesti.
 
-Työnantajan on annettava ennen loman määräämistä työntekijälle tai tämän edustajalle mahdollisuus esittää mielipiteensä loman ajankohdasta.
+1.  Työnantaja määrää loman alkamisajankohdan vuosilomalain mukaisesti.
 
-Kesä- ja talviloman ei tulisi välittömästi seurata toisiaan.
-
-Lomapäiviksi ei lasketa pyhäpäiviä, pääsiäislauantaita, vapunpäivää, juhannus- aattoa, itsenäisyyspäivää ja jouluaattoa.
+> Työnantajan on annettava ennen loman määräämistä työntekijälle tai
+> tämän edustajalle mahdollisuus esittää mielipiteensä loman
+> ajankohdasta.
+>
+> Kesä- ja talviloman ei tulisi välittömästi seurata toisiaan.
+>
+> Lomapäiviksi ei lasketa pyhäpäiviä, pääsiäislauantaita, vapunpäivää,
+> juhannus- aattoa, itsenäisyyspäivää ja jouluaattoa.
 
 ###### *Loma ja vapaapäivä*
-1. Loman alkamiseen vapaapäivänä tarvitaan työntekijän suostumus. Vähintään 6 päivän loma voi alkaa ilman työntekijän suostumusta hänen maanan- taivapaapäivänään.
 
-Enintään 3 päivän lomaan ei voi sisältyä vapaapäivää ilman työntekijän suostumusta.
+2.  Loman alkamiseen vapaapäivänä tarvitaan työntekijän suostumus.
+    Vähintään 6 päivän loma voi alkaa ilman työntekijän suostumusta
+    hänen maanan- taivapaapäivänään.
 
-A
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.013.png)<a name="lomapalkan ja lomakorvauksen maksaminen"></a><a name="lomapalkan laskeminen"></a><a name="lomapalkan laskeminen lisien osalta "></a><a name="_bookmark52"></a>Vähintään 6 päivän loman päättyessä muuna arkipäivänä kuin lauantaina työn- tekijällä on tällä viikolla lomapäivien lisäksi vapaapäivä.
+> Enintään 3 päivän lomaan ei voi sisältyä vapaapäivää ilman työntekijän
+> suostumusta.
+>
+> []{#_bookmark52 .anchor}Vähintään 6 päivän loman päättyessä muuna
+> arkipäivänä kuin lauantaina työn- tekijällä on tällä viikolla
+> lomapäivien lisäksi vapaapäivä.
+>
+> Vähintään 6 päivän pituisen lakisääteisen vuosiloman
 
-Vähintään 6 päivän pituisen lakisääteisen vuosiloman
+-   alkaessa maanantaina on loman alkamista edeltävä sunnuntai
+    > vapaapäivä, ellei työntekijän aloitteesta kertaluonteisesti toisin
+    > sovita.
 
-Työehtosopimus
-
-- ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.014.png)alkaessa maanantaina on loman alkamista edeltävä sunnuntai vapaapäivä, ellei työntekijän aloitteesta kertaluonteisesti toisin sovita.
-- päättyessä lauantaina on loman päättymistä seuraava sunnuntai vapaa- päivä, ellei työntekijän aloitteesta kertaluonteisesti toisin sovita.
+-   päättyessä lauantaina on loman päättymistä seuraava sunnuntai vapaa-
+    > päivä, ellei työntekijän aloitteesta kertaluonteisesti toisin
+    > sovita.
 
 ###### *Lomapalkan ja lomakorvauksen maksaminen*
-1. Lomapalkka voidaan maksaa yrityksen normaalina palkanmaksupäivänä.
 
-Lomakorvaus työsuhteen päättyessä maksetaan vuosilomalain mukaan.
+1.  Lomapalkka voidaan maksaa yrityksen normaalina palkanmaksupäivänä.
+
+> Lomakorvaus työsuhteen päättyessä maksetaan vuosilomalain mukaan.
 
 ###### *Lomapalkan laskeminen*
-1. Vuosilomapäivän palkka saadaan kuukausipalkasta jakajalla 25.
 
-Lomapalkka provision osalta lasketaan vuosilomalain mukaan.
+2.  Vuosilomapäivän palkka saadaan kuukausipalkasta jakajalla 25.
 
-Jos työntekijän työaika ja vastaavasti palkka on muuttunut lomanmääräyty- misvuoden aikana ja hän on kuukausipalkkainen lomanmääräytymisvuoden lopussa (31.3.), hänen lomapalkkansa lasketaan tämän pykälän 8.–11. kohdan mukaan.
+> Lomapalkka provision osalta lasketaan vuosilomalain mukaan.
+>
+> Jos työntekijän työaika ja vastaavasti palkka on muuttunut
+> lomanmääräyty- misvuoden aikana ja hän on kuukausipalkkainen
+> lomanmääräytymisvuoden lopussa (31.3.), hänen lomapalkkansa lasketaan
+> tämän pykälän 8.--11. kohdan mukaan.
 
 ###### *Lomapalkan laskeminen lisien osalta*
-1. Lomapalkkaan ja -korvaukseen lisätään suuruudeltaan vaihtelevat työehto- sopimukseen perustuvat lisät.
 
-Tällaisia ovat mm. ilta-, yö- ja lauantailisät sekä säännölliseltä sunnuntaityöltä maksettu korotus työntekijän annettua työsopimuksessa suostumuksen sun- nuntaityöhön tai hänen työskennellessä työsopimuksensa perusteella kaik- kina viikonpäivinä.
+3.  Lomapalkkaan ja -korvaukseen lisätään suuruudeltaan vaihtelevat
+    työehto- sopimukseen perustuvat lisät.
 
-A
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.016.png)<a name="_bookmark53"></a>Lomapalkkaan ja -korvaukseen lisätään lomanmääräytymisvuoden aikana maksetuista lisistä:
+> Tällaisia ovat mm. ilta-, yö- ja lauantailisät sekä säännölliseltä
+> sunnuntaityöltä maksettu korotus työntekijän annettua työsopimuksessa
+> suostumuksen sun- nuntaityöhön tai hänen työskennellessä
+> työsopimuksensa perusteella kaik- kina viikonpäivinä.
+>
+> []{#_bookmark53 .anchor}Lomapalkkaan ja -korvaukseen lisätään
+> lomanmääräytymisvuoden aikana maksetuista lisistä:
 
-Työehtosopimus
+-   10 % työsuhteen kestettyä lomanmääräytymisvuoden loppuun (31.3.)
+    mennessä alle 1 vuoden
 
-- ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.017.png)10 % työsuhteen kestettyä lomanmääräytymisvuoden loppuun (31.3.) mennessä alle 1 vuoden
-- 12,5 % työsuhteen kestettyä lomanmääräytymisvuoden loppuun (31.3.) mennessä vähintään 1 vuoden.
+-   12,5 % työsuhteen kestettyä lomanmääräytymisvuoden loppuun (31.3.)
+    mennessä vähintään 1 vuoden.
 
-###### *Alle 37,5 tuntia tekevät*
-1. Lomapalkka tai -korvaus on sekä tuntipalkkaisella että suhteutettua kuukau- sipalkkaa saavalla jäljempänä esitetystä lomanmääräytymisvuoden ansiosta:
-- 10 % työsuhteen kestettyä lomanmääräytymisvuoden loppuun (31.3.) mennessä alle vuoden
-- 12,5 % työsuhteen kestettyä lomanmääräytymisvuoden loppuun (31.3.) mennessä vähintään vuoden.
+###### *Alle 37,5 tuntia tekevät* {#alle-375-tuntia-tekevät-3}
 
-Esimerkki 37
+1.  Lomapalkka tai -korvaus on sekä tuntipalkkaisella että suhteutettua
+    kuukau- sipalkkaa saavalla jäljempänä esitetystä
+    lomanmääräytymisvuoden ansiosta:
 
-Työntekijä on ollut työsuhteessa lomanmääräytymisvuoden loppuun (31.3.) mennessä 8 kuukautta, näistä 5 kuukautena kunakin vähintään
+-   10 % työsuhteen kestettyä lomanmääräytymisvuoden loppuun (31.3.)
+    mennessä alle vuoden
 
-35 tuntia. Lomanmääräytymisvuoden 1.4.–31.3. koko työssäoloajan ansio ilta- ja lauantailisineen on 6 130 euroa. Ansiossa on huomioitu myös pidettyjen vuosivapaiden ajalta maksettu palkka.
+-   12,5 % työsuhteen kestettyä lomanmääräytymisvuoden loppuun (31.3.)
+    mennessä vähintään vuoden.
 
-Työntekijä on ansainnut vuosilomaa 5 × 2 päivää eli 10 päivää. Loma- palkkaa hän saa 10 % 6 130 eurosta eli 613 euroa. Yhden annettavan lomapäivän palkka saadaan jakamalla lomapalkka lomapäivillä eli
+> Esimerkki 38
+>
+> Työntekijä on ollut työsuhteessa lomanmääräytymisvuoden loppuun
+> (31.3.) mennessä yli vuoden. Hän on työskennellyt joka kuukausi
+> vähintään 35 tuntia.
+>
+> Lomanmääräytymisvuoden 1.4.--31.3. koko työssäoloajan ansio ilta- ja
+> lauantailisineen on 16 320 euroa. Ansiossa on huomioitu myös pidetty-
+> jen vuosivapaiden ajalta maksettu palkka. Työssäoloajan palkkaan lisä-
+> tään laskennallista palkkaa 9. kohdan mukaisten poissaolojen ajalta,
+>
+> jos työntekijällä olisi niitä ollut lomanmääräytymisvuoden aikana.
+>
+> Työssäoloajan ansioon ei oteta mukaan maksettuja lomapalkkoja eikä
+> lomarahoja.
+>
+> Työntekijä on ansainnut vuosilomaa 12 × 2,5 päivää eli 30 päivää.
+> Kerty- neestä lomasta annetaan 24 päivää kesälomana ja 6 päivää
+> talvilomana.
+>
+> Lomapalkkaa hän saa 12,5 % 16 320 eurosta eli 2 040 euroa. Yhden
+> annettavan lomapäivän palkka saadaan jakamalla loma-
+>
+> palkka lomapäivillä eli 2 040 euroa : 30 = 68 euroa. Kesälomapalkka
+>
+> on 24 × 68 = 1 632 euroa. Talvilomapalkka on 6 × 68 euroa = 408 euroa.
+> Lomaraha on 50 % kesäloma- ja talvilomapalkasta.
 
-613 euroa: 10 = 61,30 euroa.
+1.  Lomanmääräytymisvuoden (1.4.--31.3.) ansio muodostuu:
 
-Lomarahana maksetaan 50 % 613 eurosta eli 306,50 euroa.
+-   työssäoloajan palkasta lukuun ottamatta hätä- ja ylityön ajalta
+    > makset- tua palkkaa
 
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.059.png)
+-   poissaoloajalta maksetusta palkasta (7 § 5. kohta ja 17--18 §) ja
 
-A
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.013.png)
+-   laskennallisesta palkasta.
 
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.060.png)Esimerkki 38
+    1.  Maksettuun palkkaan lisätään laskennallista palkkaa:
 
-Työehtosopimus
+```{=html}
+<!-- -->
+```
+-   sairauspoissaolojen ajalta yhteensä enintään 75 työpäivältä lomamää-
+    > räytymisvuoden aikana (75 työpäivän jaksoon sisältyvät palkalliset
+    > sairauspoissaolot).
 
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.014.png)Työntekijä on ollut työsuhteessa lomanmääräytymisvuoden loppuun (31.3.) mennessä yli vuoden. Hän on työskennellyt joka kuukausi vähintään 35 tuntia.
+> Esimerkki 39
 
-Lomanmääräytymisvuoden 1.4.–31.3. koko työssäoloajan ansio ilta- ja lauantailisineen on 16 320 euroa. Ansiossa on huomioitu myös pidetty- jen vuosivapaiden ajalta maksettu palkka. Työssäoloajan palkkaan lisä- tään laskennallista palkkaa 9. kohdan mukaisten poissaolojen ajalta,
+a.  Työntekijän työsuhde on kestänyt 4 vuotta ja hän työskentelee 5 päi-
+    vänä viikossa. Hänellä on ollut lomanmääräytymisvuoden aikana
+    yksittäi- siä palkallisia sairauspoissaoloja yhteensä 40 työpäivää
+    ja lisäksi yhden- jaksoinen 9 viikon sairauspoissaolo, jonka ajalta
+    palkkaa on maksettu
 
-jos työntekijällä olisi niitä ollut lomanmääräytymisvuoden aikana.
+> 5 viikolta eli 25 työpäivältä.
+>
+> Lomanmääräytymisvuoden ansioon lasketaan sairauspoissaolojen ajalta
+> maksettu palkka 65 (40 + 25) työpäivältä sekä lisäksi laskennallista
+> palkkaa 10 päivältä eli palkkaa yhteensä 75 työpäivältä.
 
-Työssäoloajan ansioon ei oteta mukaan maksettuja lomapalkkoja eikä lomarahoja.
+b.  Työntekijän työsuhde on kestänyt 11 vuotta ja hän työskentelee 5
+    päi- vänä viikossa. Hänellä on ollut lomanmääräytymisvuoden aikana
+    yksittäi- siä palkallisia sairauspoissaoloja yhteensä 40 työpäivää
+    ja lisäksi yhden- jaksoinen 9 viikon sairauspoissaolo, jonka ajalta
+    palkkaa on maksettu
 
-Työntekijä on ansainnut vuosilomaa 12 × 2,5 päivää eli 30 päivää. Kerty- neestä lomasta annetaan 24 päivää kesälomana ja 6 päivää talvilomana.
+> 8 viikolta eli 40 työpäivältä.
+>
+> Lomanmääräytymisvuoden ansioon lasketaan sairauspoissaolojen ajalta
+> maksettu palkka 75 (40 + 35) työpäivältä.
 
-Lomapalkkaa hän saa 12,5 % 16 320 eurosta eli 2 040 euroa. Yhden annettavan lomapäivän palkka saadaan jakamalla loma-
+-   sairauspoissaolojen ajalta yhteensä enintään 105 kalenteripäivältä
+    ansait- taessa lomaa 35 tunnin säännön mukaan (105 kalenteripäivän
+    jaksoon sisältyvät palkalliset sairauspoissaolot)
 
-palkka lomapäivillä eli 2 040 euroa : 30 = 68 euroa. Kesälomapalkka
+-   raskaus- ja vanhempainvapaan vuosilomaa kerryttävältä ajalta
 
-on 24 × 68 = 1 632 euroa. Talvilomapalkka on 6 × 68 euroa = 408 euroa. Lomaraha on 50 % kesäloma- ja talvilomapalkasta.
+-   lomautuksen ajalta enintään 30 työpäivältä lomautusta kohden
 
+-   lomautuksen ajalta yhteensä enintään 42 kalenteripäivältä
+    ansaittaessa lomaa 35 tunnin säännön mukaan
 
-1. Lomanmääräytymisvuoden (1.4.–31.3.) ansio muodostuu:
-- työssäoloajan palkasta lukuun ottamatta hätä- ja ylityön ajalta makset- tua palkkaa
-- poissaoloajalta maksetusta palkasta (7 § 5. kohta ja 17–18 §) ja
-- laskennallisesta palkasta.
-  1. Maksettuun palkkaan lisätään laskennallista palkkaa:
-- sairauspoissaolojen ajalta yhteensä enintään 75 työpäivältä lomamää- räytymisvuoden aikana (75 työpäivän jaksoon sisältyvät palkalliset sairauspoissaolot).
+-   tilapäisen hoitovapaan ajalta (työsopimuslain 4:6 §)
 
-A
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.016.png)
+-   pakottavien perhesyiden ajalta (työsopimuslain 4:7 §)
 
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.061.png)Esimerkki 39
+-   ammattitaudin tai tapaturman johdosta annettavan lääkinnällisen
+    kuntou- tuksen ajalta yhteensä enintään 75 työpäivältä
 
-Työehtosopimus
+-   ammattitaudin tai tapaturman johdosta annettavan lääkinnällisen
+    kuntou- tuksen ajalta yhteensä enintään 105 kalenteripäivältä
+    ansaittaessa lomaa 35 tunnin säännön mukaan
 
-1. ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.017.png)Työntekijän työsuhde on kestänyt 4 vuotta ja hän työskentelee 5 päi- vänä viikossa. Hänellä on ollut lomanmääräytymisvuoden aikana yksittäi- siä palkallisia sairauspoissaoloja yhteensä 40 työpäivää ja lisäksi yhden- jaksoinen 9 viikon sairauspoissaolo, jonka ajalta palkkaa on maksettu
+-   sairauden leviämisen estämiseksi annetun viranomaisen määräyksen
+    vuoksi.
 
-5 viikolta eli 25 työpäivältä.
+    1.  []{#_bookmark54 .anchor}Laskennallinen palkka määräytyy
+        poissaolon alkamishetken tuntipalkan ja sovitun keskimääräisen
+        viikkotyöajan mukaan tai kuukausipalkkaisella pois- saolon
+        alkamishetken kuukausipalkan mukaan.
 
-Lomanmääräytymisvuoden ansioon lasketaan sairauspoissaolojen ajalta maksettu palkka 65 (40 + 25) työpäivältä sekä lisäksi laskennallista palkkaa 10 päivältä eli palkkaa yhteensä 75 työpäivältä.
+> Jos tuntipalkkaisella ei ole sovittu keskimääräistä viikkotyöaikaa,
+> laskennalli- nen palkka määräytyy poissaoloa edeltävän 12 viikon
+> keskimääräisen viikko- työajan mukaan
 
-1. Työntekijän työsuhde on kestänyt 11 vuotta ja hän työskentelee 5 päi- vänä viikossa. Hänellä on ollut lomanmääräytymisvuoden aikana yksittäi- siä palkallisia sairauspoissaoloja yhteensä 40 työpäivää ja lisäksi yhden- jaksoinen 9 viikon sairauspoissaolo, jonka ajalta palkkaa on maksettu
+2.  Jos alle 37,5 tuntia tekevällä työntekijällä ei ole lomapäiviä,
+    lomakorvaus mak- setaan viimeistään lomakauden loppuun (30.9.)
+    mennessä.
 
-8 viikolta eli 40 työpäivältä.
+#### a § Vuosilomalain mukaisen lisävapaapäivän korvaus
 
-Lomanmääräytymisvuoden ansioon lasketaan sairauspoissaolojen ajalta maksettu palkka 75 (40 + 35) työpäivältä.
+###### *Lisävapaapäivän korvauksen laskenta kokoaikaisella* kuukausipalkkaisella työntekijällä
 
-
-- sairauspoissaolojen ajalta yhteensä enintään 105 kalenteripäivältä ansait- taessa lomaa 35 tunnin säännön mukaan (105 kalenteripäivän jaksoon sisältyvät palkalliset sairauspoissaolot)
-- raskaus- ja vanhempainvapaan vuosilomaa kerryttävältä ajalta
-- lomautuksen ajalta enintään 30 työpäivältä lomautusta kohden
-- lomautuksen ajalta yhteensä enintään 42 kalenteripäivältä ansaittaessa lomaa 35 tunnin säännön mukaan
-- tilapäisen hoitovapaan ajalta (työsopimuslain 4:6 §)
-- pakottavien perhesyiden ajalta (työsopimuslain 4:7 §)
-- ammattitaudin tai tapaturman johdosta annettavan lääkinnällisen kuntou- tuksen ajalta yhteensä enintään 75 työpäivältä
-- ammattitaudin tai tapaturman johdosta annettavan lääkinnällisen kuntou- tuksen ajalta yhteensä enintään 105 kalenteripäivältä ansaittaessa lomaa 35 tunnin säännön mukaan
-- sairauden leviämisen estämiseksi annetun viranomaisen määräyksen vuoksi.
-
-A
-1. ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.013.png)<a name="20 a § vuosilomalain mukaisen lisävapaap"></a><a name="lisävapaapäivän korvauksen laskenta koko"></a><a name="lisävapaapäivän korvauksen laskenta alle"></a><a name="_bookmark54"></a>Laskennallinen palkka määräytyy poissaolon alkamishetken tuntipalkan ja sovitun keskimääräisen viikkotyöajan mukaan tai kuukausipalkkaisella pois- saolon alkamishetken kuukausipalkan mukaan.
-
-Työehtosopimus
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.014.png)Jos tuntipalkkaisella ei ole sovittu keskimääräistä viikkotyöaikaa, laskennalli- nen palkka määräytyy poissaoloa edeltävän 12 viikon keskimääräisen viikko- työajan mukaan
-
-1. Jos alle 37,5 tuntia tekevällä työntekijällä ei ole lomapäiviä, lomakorvaus mak- setaan viimeistään lomakauden loppuun (30.9.) mennessä.
-
-20. #### a § Vuosilomalain mukaisen lisävapaapäivän korvaus
-
-###### *Lisävapaapäivän korvauksen laskenta kokoaikaisella kuukausipalkkaisella työntekijällä*
-1. Yhden lisävapaapäivän palkka saadaan kuukausipalkasta jakajalla 25. Tähän lisätään todellinen tai keskimääräinen työaikalisien kertymä samalla tavalla kuin sairausajan palkan laskennassa (16 § 6. kohta).
+1.  Yhden lisävapaapäivän palkka saadaan kuukausipalkasta jakajalla 25.
+    Tähän lisätään todellinen tai keskimääräinen työaikalisien kertymä
+    samalla tavalla kuin sairausajan palkan laskennassa (16 § 6. kohta).
 
 ###### *Lisävapaapäivän korvauksen laskenta alle 37,5 tuntia tekevällä*
-1. Lisävapaapäivien korvaus alle 37,5 tuntia tekevällä työntekijällä annettaessa lisävapaapäivät työsuhteen aikana
 
-Korvaus ja siihen kuuluvat työaikalisät lisävapaapäivien ajalta lasketaan kuten sairausajan palkka (16 § 6. kohta).
+2.  Lisävapaapäivien korvaus alle 37,5 tuntia tekevällä työntekijällä
+    annettaessa lisävapaapäivät työsuhteen aikana
 
-1. Lisävapaapäivien korvaus alle 37,5 tuntia tekevällä työntekijällä työsuhteen päättyessä
+> Korvaus ja siihen kuuluvat työaikalisät lisävapaapäivien ajalta
+> lasketaan kuten sairausajan palkka (16 § 6. kohta).
 
-Työsuhteen päättyessä ansaituilta ja pitämättömiltä lisävapaapäiviltä korvaus lasketaan alle 37,5 tuntia tekevällä työntekijällä tässä yhteydessä määrite- tyn suhteutetun kuukausipalkan (11 § 15. kohta) mukaan, joka jaetaan 25:llä ja kerrotaan lisävapaapäivien määrällä. Työaikalisät lisävapaapäiviltä makse- taan keskimääräisenä samalla tavoin kuin sairausajan palkassa (16 § 6. kohta).
+3.  Lisävapaapäivien korvaus alle 37,5 tuntia tekevällä työntekijällä
+    työsuhteen päättyessä
 
-1. Lisävapaapäiväkorvauksen maksamisessa noudatetaan työehtosopimuksen 20 §:n 5. kohdan määräyksiä.
+> Työsuhteen päättyessä ansaituilta ja pitämättömiltä lisävapaapäiviltä
+> korvaus lasketaan alle 37,5 tuntia tekevällä työntekijällä tässä
+> yhteydessä määrite- tyn suhteutetun kuukausipalkan (11 § 15. kohta)
+> mukaan, joka jaetaan 25:llä ja kerrotaan lisävapaapäivien määrällä.
+> Työaikalisät lisävapaapäiviltä makse- taan keskimääräisenä samalla
+> tavoin kuin sairausajan palkassa (16 § 6. kohta).
 
-A
-20. #### ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.016.png)<a name="21 § lomaraha"></a><a name="suuruus"></a><a name="maksamisedellytykset"></a><a name="_bookmark55"></a>§ Lomaraha
+4.  Lisävapaapäiväkorvauksen maksamisessa noudatetaan työehtosopimuksen
+    20 §:n 5. kohdan määräyksiä.
+
+#### § Lomaraha
 
 ###### *Suuruus*
-Työehtosopimus
-1. ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.017.png)Lomaraha on 50 % vuosilomalain mukaan ansaittua lomaa vastaavasta loma- palkasta.
+
+1.  Lomaraha on 50 % vuosilomalain mukaan ansaittua lomaa vastaavasta
+    loma- palkasta.
 
 ###### *Maksamisedellytykset*
-1. Lomaraha maksetaan työntekijän:
 
-   0. aloittaessa loman ilmoitettuna tai sovittuna aikana ja
-   0. palatessa työhön heti loman päätyttyä.
+2.  Lomaraha maksetaan työntekijän:
 
-Lomaraha maksetaan myös työntekijän:
+    -   aloittaessa loman ilmoitettuna tai sovittuna aikana ja
 
-0. oltua poissa työstä työnantajan suostumuksella välittömästi ennen loman alkamista tai sen päätyttyä
-0. ollessa estynyt palaamasta työhön vuosilomalain 7 §:n 2 momentissa mainitusta syystä.
+    -   palatessa työhön heti loman päätyttyä.
 
-Edellytysten jäädessä toteutumatta lomaraha voidaan periä takaisin.
+> Lomaraha maksetaan myös työntekijän:
 
-Esimerkki 40
+-   oltua poissa työstä työnantajan suostumuksella välittömästi ennen
+    loman alkamista tai sen päätyttyä
 
-37,5 tuntia tekevä pitää 24 päivää kesälomaa ja 6 päivää talvilomaa. Työntekijän peruskuukausipalkka on 1 680 euroa ja kuukausikohtaisia lisiä hän saa 5 % eli 84 euroa. Työntekijä on ansainnut lomanmääräytymisvuo- delta 1.4.–31.3. tuntikohtaisia lisiä (ilta- ja lauantailisiä) 968 euroa.
+-   ollessa estynyt palaamasta työhön vuosilomalain 7 §:n 2 momentissa
+    mainitusta syystä.
 
-Vuosilomapalkkaan niistä lisätään 12,5 % eli 121 euroa.
+> Edellytysten jäädessä toteutumatta lomaraha voidaan periä takaisin.
 
-Kesälomapalkka on:
+###### *Hoitovapaa*
 
-(1 680 euroa + 84 euroa) × 24 + (24/30 × 121 euroa) = 1 790,24 euroa
-
-25
-
-Lomaraha kesäloman osalta on 50 % kesälomapalkasta 1 790,24 eurosta eli 895,12 euroa.
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.062.png)
-
-A
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.013.png)
-
-<a name="hoitovapaa"></a><a name="varusmiespalvelus"></a><a name="työsuhteen päättyminen loman aikana"></a><a name="_bookmark56"></a>Talvilomapalkka on:
-
-(1 680 euroa + 84 euroa) × 6 + (6/30 × 121 euroa) = 447,56 euroa.
-
-25
-
-Lomaraha talviloman osalta on 50 % talvilomapalkasta 447,56 eurosta eli 223,78 euroa.
-
-Lomaraha kesä- ja talviloman osalta on yhteensä 1 118,90 euroa.
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.063.png)
-
-Työehtosopimus
-###### ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.014.png)*Hoitovapaa*
-1. Hoitovapaalla pidettävän tai hoitovapaaseen päättyvän vuosiloman osalta lomaraha maksetaan työntekijän palattua työhön hoitovapaalta ennakkoil- moituksen tai siihen tehdyn muutoksen mukaisesti.
+3.  Hoitovapaalla pidettävän tai hoitovapaaseen päättyvän vuosiloman
+    osalta lomaraha maksetaan työntekijän palattua työhön hoitovapaalta
+    ennakkoil- moituksen tai siihen tehdyn muutoksen mukaisesti.
 
 ###### *Varusmiespalvelus*
-1. Lomaraha maksetaan asevelvollisuutta suorittavalle hänen palattua asianmu- kaisesti työhön.
 
-Lomaraha on 50 % ennen palvelukseen astumista maksetusta lomapalkasta tai lomakorvauksesta.
+4.  Lomaraha maksetaan asevelvollisuutta suorittavalle hänen palattua
+    asianmu- kaisesti työhön.
+
+> Lomaraha on 50 % ennen palvelukseen astumista maksetusta lomapalkasta
+> tai lomakorvauksesta.
 
 ###### *Työsuhteen päättyminen loman aikana*
-1. Työsuhteen päättyessä taloudellisista tai tuotannollisista syistä loman aikana tai loman viimeisenä päivänä maksetaan lomaraha.
 
-Esimerkki 41
+5.  Työsuhteen päättyessä taloudellisista tai tuotannollisista syistä
+    loman aikana tai loman viimeisenä päivänä maksetaan lomaraha.
 
-Työntekijän työsuhde irtisanottiin 30.5. taloudellisilla ja tuotannollisilla perusteilla päättymään 30.7. Työntekijän kesäloman ajankohdaksi oli sovittu 14.7.–10.8.
+###### *Eläkkeelle siirtyminen*
 
-Työntekijä saa lomarahana 50 % sovitun kesälomansa (14.7.–10.8.) lomapalkasta. Lopputilin yhteydessä maksettavasta lomakorvauksesta lomarahaa ei makseta.
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.064.png)
-
-A
-###### ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.016.png)<a name="eläkkeelle siirtyminen"></a><a name="maksamisaika"></a><a name="lomarahan vaihtaminen vapaaksi"></a><a name="_bookmark57"></a>*Eläkkeelle siirtyminen*
-Työehtosopimus
-1. ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.017.png)Lomaraha maksetaan vuosilomapalkasta ja -korvauksesta työntekijän siirty- essä vanhuus- tai työkyvyttömyyseläkkeelle.
+6.  Lomaraha maksetaan vuosilomapalkasta ja -korvauksesta työntekijän
+    siirty- essä vanhuus- tai työkyvyttömyyseläkkeelle.
 
 ###### *Maksamisaika*
-1. Lomaraha maksetaan loman alkaessa, ellei työpaikkakohtaisesti (23 §:n mukaisesti) sovita sen maksamisajasta toisin. Jos yrityksessä on luottamus- mies, asiasta sovitaan hänen kanssaan.
 
-Puolet kesäloman lomarahasta voidaan maksaa viimeistään joulua edeltävänä palkanmaksupäivänä. Työsuhteen päättyessä ennen sitä lomaraha maksetaan lopputilissä.
+7.  Lomaraha maksetaan loman alkaessa, ellei työpaikkakohtaisesti (23
+    §:n mukaisesti) sovita sen maksamisajasta toisin. Jos yrityksessä on
+    luottamus- mies, asiasta sovitaan hänen kanssaan.
 
-Esimerkki 42
-
-Työntekijän lomaraha kesäloman osalta on 895,12 euroa. Se maksetaan loman alkaessa.
-
-Toisena vaihtoehtona on maksaa loman alkaessa puolet lomarahasta eli 447,56 euroa. Toinen osa 447,56 euroa maksetaan viimeistään joulua edeltävän palkanmaksun yhteydessä.
-
-Jos työntekijän työsuhde päättyy esimerkiksi lokakuussa, loma- rahan toinen osa maksetaan lopputilin yhteydessä.
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.065.png)
-
-Enintään 6 lomapäivän lomaraha voidaan maksaa yrityksen normaalina palkanmaksupäivänä.
+> Puolet kesäloman lomarahasta voidaan maksaa viimeistään joulua
+> edeltävänä palkanmaksupäivänä. Työsuhteen päättyessä ennen sitä
+> lomaraha maksetaan lopputilissä.
+>
+> Enintään 6 lomapäivän lomaraha voidaan maksaa yrityksen normaalina
+> palkanmaksupäivänä.
 
 ###### *Lomarahan vaihtaminen vapaaksi*
-1. Työnantaja ja työntekijä voivat sopia kirjallisesti lomarahan pitämisestä vas- taavana palkallisena vapaana.
 
-Lomarahavapaan ajalta työntekijä ansaitsee vuosilomaa.
+8.  Työnantaja ja työntekijä voivat sopia kirjallisesti lomarahan
+    pitämisestä vas- taavana palkallisena vapaana.
 
-Työntekijän sairastuessa lomarahavapaaseen noudatetaan vuosilomalain säännöksiä.
+> Lomarahavapaan ajalta työntekijä ansaitsee vuosilomaa.
+>
+> Työntekijän sairastuessa lomarahavapaaseen noudatetaan vuosilomalain
+> säännöksiä.
+>
+> []{#_bookmark58 .anchor}Esimerkki 43
+>
+> Työntekijän lomaraha on 600 euroa ja tuntipalkka 10 euroa. Työntekijä
+> ja työnantaja ovat sopineet koko lomarahan vaihtamisesta vapaaksi.
+> Työntekijä saa palkallista vapaa-aikaa 60 tuntia.
+>
+> Esimerkki 44
+>
+> Työntekijän lomaraha on 750 euroa ja tuntipalkka 11,59 euroa.
+> Työntekijän työsopimustunnit ovat 30 t/viikko. Työntekijä ja
+> työnantaja ovat sopineet, että työntekijä pitää 2 viikkoa
+> lomarahavapaata. Työntekijän lomaraha on 750 euroa ja tuntipalkka
+> 11,59 euroa. Työntekijän työsopimustunnit ovat 30 t/viikko. Työntekijä
+> ja työnantaja ovat sopineet, että työntekijä pitää
+>
+> 2 viikkoa lomarahavapaata.
+>
+> Työntekijän koko lomarahavapaa olisi 64,71 tuntia, josta vähennetään 2
+> viikon työtunnit (60 t/2viikkoa). Jäljelle jäävät tunnit (4,71 tuntia)
+> maksetaan rahana. Työntekijä saa palkallista vapaa-aikaa 2 viikkoa
+>
+> (30 t/viikko) ja tämän lisäksi hänelle maksetaan lomarahaa 54,59
+> euroa.
 
-A
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.013.png)
+###### *Alle 37,5 tuntia tekevät* {#alle-375-tuntia-tekevät-2}
 
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.066.png)<a name="_bookmark58"></a>Esimerkki 43
+9.  Lomarahan maksaminen edellyttää, että työntekijä on ansainnut
+    vuosilomapäiviä.
 
-Työehtosopimus
+# MATKAT
 
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.014.png)Työntekijän lomaraha on 600 euroa ja tuntipalkka 10 euroa. Työntekijä ja työnantaja ovat sopineet koko lomarahan vaihtamisesta vapaaksi. Työntekijä saa palkallista vapaa-aikaa 60 tuntia.
+#### § Matkakustannukset
 
-Esimerkki 44
-
-Työntekijän lomaraha on 750 euroa ja tuntipalkka 11,59 euroa. Työntekijän työsopimustunnit ovat 30 t/viikko. Työntekijä ja työnantaja ovat sopineet, että työntekijä pitää 2 viikkoa lomarahavapaata. Työntekijän lomaraha on 750 euroa ja tuntipalkka 11,59 euroa. Työntekijän työsopimustunnit ovat 30 t/viikko. Työntekijä ja työnantaja ovat sopineet, että työntekijä pitää
-
-2 viikkoa lomarahavapaata.
-
-Työntekijän koko lomarahavapaa olisi 64,71 tuntia, josta vähennetään 2 viikon työtunnit (60 t/2viikkoa). Jäljelle jäävät tunnit (4,71 tuntia) maksetaan rahana. Työntekijä saa palkallista vapaa-aikaa 2 viikkoa
-
-(30 t/viikko) ja tämän lisäksi hänelle maksetaan lomarahaa 54,59 euroa.
-
-
-###### *Alle 37,5 tuntia tekevät*
-1. Lomarahan maksaminen edellyttää, että työntekijä on ansainnut vuosilomapäiviä.
-
-A
-5. # ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.016.png)<a name="22 §  matkakustannukset"></a><a name="matkakustannukset "></a><a name="yrityksen matkustussääntö"></a><a name="päiväraha"></a><a name="ateriakorvaus"></a><a name="7. matkat"></a><a name="_bookmark59"></a>MATKAT
-
-Työehtosopimus
-20. #### ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.017.png)§ Matkakustannukset
 ###### *Matkakustannukset*
-1. Matkakustannukset korvataan vaihtoehtoisesti:
 
-   0. valtion matkustussäännön mukaan
-   0. verohallituksen päätöksen mukaan
-   0. yrityksen matkustussäännön mukaan.
+1.  Matkakustannukset korvataan vaihtoehtoisesti:
+
+    -   valtion matkustussäännön mukaan
+
+    -   verohallituksen päätöksen mukaan
+
+    -   yrityksen matkustussäännön mukaan.
 
 ###### *Yrityksen matkustussääntö*
-1. Yrityksen matkustussäännössä korvaukset määräytyvät valtion matkustus- säännön mukaan ja maksuperusteet (aikarajat) verohallituksen päätöksen mukaan.
+
+2.  Yrityksen matkustussäännössä korvaukset määräytyvät valtion
+    matkustus- säännön mukaan ja maksuperusteet (aikarajat)
+    verohallituksen päätöksen mukaan.
 
 ###### *Päiväraha*
-1. Noudatettaessa verohallituksen päätöstä tai yrityksen matkustussääntöä päivärahaa ei makseta:
 
-   0. työntekijän tehdessä työmatkan alueellisesti rajatussa ja usean kunnan alueella toimivassa yrityksessä
-   0. työntekijän osallistuessa yrityksen tai kaupparyhmittymän sisäiseen koulutukseen työnantajan maksaessa kustannukset.
+3.  Noudatettaessa verohallituksen päätöstä tai yrityksen
+    matkustussääntöä päivärahaa ei makseta:
+
+    -   työntekijän tehdessä työmatkan alueellisesti rajatussa ja usean
+        kunnan alueella toimivassa yrityksessä
+
+    -   työntekijän osallistuessa yrityksen tai kaupparyhmittymän
+        sisäiseen koulutukseen työnantajan maksaessa kustannukset.
 
 ###### *Ateriakorvaus*
-1. Ateriakorvaus maksetaan:
 
-   0. työmatkan kestäessä vähintään 6 tuntia ja
-   0. työntekijällä ei ole mahdollisuutta tavanomaiseen tai sitä vastaavaan työpaikkaruokailuun tai kotiruokailuun.
+4.  Ateriakorvaus maksetaan:
 
-Ateriakorvausta ei makseta:
+    -   työmatkan kestäessä vähintään 6 tuntia ja
 
-0. työntekijän saadessa koko- tai osapäivärahan tai
-0. työntekijän työskennellessä yrityksen saman paikkakunnan toisessa toimipaikassa.
+    -   työntekijällä ei ole mahdollisuutta tavanomaiseen tai sitä
+        vastaavaan työpaikkaruokailuun tai kotiruokailuun.
 
-Ateriakorvauksen suuruus määräytyy valtion matkustussäännön mukaan.
+> Ateriakorvausta ei makseta:
 
-A
-5. # ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.013.png)<a name="24 § paikallinen sopiminen"></a><a name="23 §  työpaikkakohtainen sopiminen"></a><a name="8. sopiminen työpaikalla"></a><a name="_bookmark60"></a>SOPIMINEN TYÖPAIKALLA
+-   työntekijän saadessa koko- tai osapäivärahan tai
 
-Työehtosopimus
-20. #### ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.014.png)§ Työpaikkakohtainen sopiminen
-    1. Työpaikkakohtaisessa sopimisessa sopijaosapuolia ovat:
+-   työntekijän työskennellessä yrityksen saman paikkakunnan toisessa
+    toimipaikassa.
 
-       0. työnantaja ja luottamusmies
-       0. työnantaja ja kaikki sopimuksen piiriin kuuluvat työntekijät yhdessä tai
-       0. työnantaja ja työntekijä,
+> Ateriakorvauksen suuruus määräytyy valtion matkustussäännön mukaan.
 
-ellei työehtosopimusmääräyksessä ole toisin sovittu.
+# SOPIMINEN TYÖPAIKALLA
 
-Työpaikkakohtainen sopimus:
+23. #### § Työpaikkakohtainen sopiminen
 
-0. on tehtävä kirjallisesti
-0. voidaan tehdä toistaiseksi tai määräajaksi
-0. toistaiseksi voimassa oleva sopimus voidaan irtisanoa 3 kuukauden irtisanomisajalla
-0. yli 9 kuukautta kestänyt määräaikainen sopimus voidaan irtisanoa 3 kuukauden irtisanomisajalla
-0. sopimuksen päätyttyä noudatetaan työehtosopimuksen määräyksiä.
-1. Sovitun järjestelyn ollessa sidottu tiettyyn ajanjaksoon se jatkuu irtisanomi- sesta huolimatta jakson loppuun.
+    1.  Työpaikkakohtaisessa sopimisessa sopijaosapuolia ovat:
 
-1. Työpaikkakohtainen sopimus tehdään erillisenä asiakirjana, ei osana työsopi- musta. Työpaikkakohtaisen sopimuksen irtisanominen ei johda työsopimuk- sen irtisanomiseen, vaan se on irtisanottavissa itsenäisenä sopimuksena.
+        -   työnantaja ja luottamusmies
 
-20. #### § Paikallinen sopiminen
-    1. Tämän työehtosopimuksen nojalla tehdyt toistaiseksi voimassa olevat paikal- liset sopimukset voidaan irtisanoa 3 kuukauden irtisanomisaikaa noudattaen, ellei irtisanomisajasta ole toisin sovittu.
+        -   työnantaja ja kaikki sopimuksen piiriin kuuluvat työntekijät
+            > yhdessä tai
 
-A
-5. # ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.016.png)<a name="25 §  erinäiset määräykset"></a><a name="noudatettavat sopimukset"></a><a name="jäsenmaksuperintä"></a><a name="9. erinäiset määräykset"></a><a name="_bookmark61"></a>ERINÄISET MÄÄRÄYKSET
+        -   työnantaja ja työntekijä,
 
-Työehtosopimus
-20. #### ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.017.png)§ Erinäiset määräykset
+> ellei työehtosopimusmääräyksessä ole toisin sovittu.
+>
+> Työpaikkakohtainen sopimus:
+
+-   on tehtävä kirjallisesti
+
+-   voidaan tehdä toistaiseksi tai määräajaksi
+
+-   toistaiseksi voimassa oleva sopimus voidaan irtisanoa 3 kuukauden
+    > irtisanomisajalla
+
+-   yli 9 kuukautta kestänyt määräaikainen sopimus voidaan irtisanoa 3
+    > kuukauden irtisanomisajalla
+
+-   sopimuksen päätyttyä noudatetaan työehtosopimuksen määräyksiä.
+
+2.  Sovitun järjestelyn ollessa sidottu tiettyyn ajanjaksoon se jatkuu
+    irtisanomi- sesta huolimatta jakson loppuun.
+
+3.  Työpaikkakohtainen sopimus tehdään erillisenä asiakirjana, ei osana
+    työsopi- musta. Työpaikkakohtaisen sopimuksen irtisanominen ei johda
+    työsopimuk- sen irtisanomiseen, vaan se on irtisanottavissa
+    itsenäisenä sopimuksena.
+
+```{=html}
+<!-- -->
+```
+24. #### § Paikallinen sopiminen
+
+    1.  Tämän työehtosopimuksen nojalla tehdyt toistaiseksi voimassa
+        olevat paikal- liset sopimukset voidaan irtisanoa 3 kuukauden
+        irtisanomisaikaa noudattaen, ellei irtisanomisajasta ole toisin
+        sovittu.
+
+# ERINÄISET MÄÄRÄYKSET
+
+#### § Erinäiset määräykset
 
 ###### *Noudatettavat sopimukset*
-1. Kaupan työehtosopimuksen osana noudatetaan seuraavia sopimuksia:
 
-   0. Koulutussopimus (s. 157–160)
-   0. Luottamusmiessopimus (s. 132–144)
-   0. Työsuojelun yhteistoimintasopimus (s. 145–156)
-   0. Sopimus ammattiyhdistysjäsenmaksujen perinnästä
-   0. Tutustu ja tienaa -kesäharjoitteluohjelma
-   0. Työpaikkaruokailua koskeva sopimus
-   0. Yhteistoimintasopimus
-   0. Yleissopimus.
+1.  Kaupan työehtosopimuksen osana noudatetaan seuraavia sopimuksia:
 
-Tämän lisäksi työehtosopimuksen liitteenä on:
+    -   Koulutussopimus (s. 157--160)
 
-0. keskusjärjestöjen Suositus päihdeongelmien ennaltaehkäisystä, päihdeasi- oiden käsittelystä ja hoitoonohjauksesta työpaikoilla; ja
-0. liittojen laatima Suositus työpaikalla tapahtuvan oppimisen pelisäännöistä.
+    -   Luottamusmiessopimus (s. 132--144)
 
-Koulutussopimus, Luottamusmiessopimus ja Työsuojelun yhteistoimintasopi- mus ovat tämän työehtosopimuksen osiossa D Sopimukset. Muut sopimuk- set ja suositukset ovat erillisessä liitteessä. Liite on sekä Kaupan liiton että Palvelualojen ammattiliiton kotisivuilla.
+    -   Työsuojelun yhteistoimintasopimus (s. 145--156)
+
+    -   Sopimus ammattiyhdistysjäsenmaksujen perinnästä
+
+    -   Tutustu ja tienaa -kesäharjoitteluohjelma
+
+    -   Työpaikkaruokailua koskeva sopimus
+
+    -   Yhteistoimintasopimus
+
+    -   Yleissopimus.
+
+> Tämän lisäksi työehtosopimuksen liitteenä on:
+
+-   keskusjärjestöjen Suositus päihdeongelmien ennaltaehkäisystä,
+    päihdeasi- oiden käsittelystä ja hoitoonohjauksesta työpaikoilla; ja
+
+-   liittojen laatima Suositus työpaikalla tapahtuvan oppimisen
+    pelisäännöistä.
+
+> Koulutussopimus, Luottamusmiessopimus ja Työsuojelun
+> yhteistoimintasopi- mus ovat tämän työehtosopimuksen osiossa D
+> Sopimukset. Muut sopimuk- set ja suositukset ovat erillisessä
+> liitteessä. Liite on sekä Kaupan liiton että Palvelualojen
+> ammattiliiton kotisivuilla.
 
 ###### *Jäsenmaksuperintä*
-1. Työntekijän pyynnöstä työnantaja pidättää Palvelualojen ammattiliitto PAM ry:n jäsenmaksut ja tilittää ne liiton pankkitilille.
 
-A
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.013.png)<a name="kokoontuminen työpaikalla"></a><a name="luottamusmies"></a><a name="pamin valtuuston ja hallituksen jäsen"></a><a name="perehdyttäminen"></a><a name="_bookmark62"></a>Perinnässä noudatetaan Sopimusta ammattiyhdistysjäsenmaksujen perinnästä.
+2.  Työntekijän pyynnöstä työnantaja pidättää Palvelualojen
+    ammattiliitto PAM ry:n jäsenmaksut ja tilittää ne liiton
+    pankkitilille.
 
-Työehtosopimus
-###### ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.014.png)*Kokoontuminen työpaikalla*
-1. Palvelualojen ammattiliiton yhdistykset, ammattiosastot, työhuonekunnat tai vastaavat voivat pitää työajan ulkopuolella kokouksia työsuhdekysymyksistä jos:
+> []{#_bookmark62 .anchor}Perinnässä noudatetaan Sopimusta
+> ammattiyhdistysjäsenmaksujen perinnästä.
 
-   0. kokouksen pitämisestä sovitaan työnantajan kanssa 3 päivää etukäteen, jos mahdollista
-   0. työnantaja osoittaa tarkoituksenmukaisen kokouspaikan
-   0. järjestäjä vastaa järjestyksestä ja kokoustilojen siisteydestä. Järjestäjällä on oikeus kutsua kokoukseen liiton edustajia.
+###### *Kokoontuminen työpaikalla*
+
+3.  Palvelualojen ammattiliiton yhdistykset, ammattiosastot,
+    työhuonekunnat tai vastaavat voivat pitää työajan ulkopuolella
+    kokouksia työsuhdekysymyksistä jos:
+
+    -   kokouksen pitämisestä sovitaan työnantajan kanssa 3 päivää
+        > etukäteen, jos mahdollista
+
+    -   työnantaja osoittaa tarkoituksenmukaisen kokouspaikan
+
+    -   järjestäjä vastaa järjestyksestä ja kokoustilojen siisteydestä.
+        Järjestäjällä on oikeus kutsua kokoukseen liiton edustajia.
+
 ###### *Luottamusmies*
-1. Työnantaja selvittää uusille työntekijöille yrityksen neuvottelu- ja luottamus- miesjärjestelmän.
 
-Työnantaja ja yrityksen luottamusmies sopivat luottamusmiesasioiden tiedot- tamistavoista yrityksen työntekijöille.
+4.  Työnantaja selvittää uusille työntekijöille yrityksen neuvottelu- ja
+    luottamus- miesjärjestelmän.
 
-Luottamusmiessopimus on tämän työehtosopimuksen osiossa D Sopimukset.
+> Työnantaja ja yrityksen luottamusmies sopivat luottamusmiesasioiden
+> tiedot- tamistavoista yrityksen työntekijöille.
+>
+> Luottamusmiessopimus on tämän työehtosopimuksen osiossa D Sopimukset.
 
 ###### *PAMin valtuuston ja hallituksen jäsen*
-1. Palvelualojen ammattiliitto PAMin valtuuston jäsenelle järjestetään mahdolli- suus osallistua valtuuston kokouksiin sekä liittokokouksiin ja hallituksen jäse- nelle hallituksen kokouksiin.
+
+5.  Palvelualojen ammattiliitto PAMin valtuuston jäsenelle järjestetään
+    mahdolli- suus osallistua valtuuston kokouksiin sekä
+    liittokokouksiin ja hallituksen jäse- nelle hallituksen kokouksiin.
 
 ###### *Perehdyttäminen*
-1. Henkilön, jonka tehtävänä on perehdyttää uusia työntekijöitä, harjoittelijoita tai ammatillisen tutkinnon suorittajia on oltava ennalta määrätty ja ammattitaitoi- nen. Tällaiselle henkilölle on varattava riittävästi aikaa tehtävän hoitamiseksi.
 
-Jos työpaikkaohjaajalle tai työntekijälle, joka osallistuu koulutuksen toteutta- miseen, maksetaan suorituspalkkaa tai vastaavaa palkan osaa, hänelle makse- taan edellä tarkoitettu palkan osa keskimääräisenä siltä ajalta, jolloin hän toimii työpaikkaohjaajana tai ohjaajana.
+6.  Henkilön, jonka tehtävänä on perehdyttää uusia työntekijöitä,
+    harjoittelijoita tai ammatillisen tutkinnon suorittajia on oltava
+    ennalta määrätty ja ammattitaitoi- nen. Tällaiselle henkilölle on
+    varattava riittävästi aikaa tehtävän hoitamiseksi.
 
-A
-###### ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.016.png)<a name="ryhmähenkivakuutus"></a><a name="työasut – myyjät"></a><a name="työasut – varastotyöntekijät"></a><a name="kassavaje"></a><a name="_bookmark63"></a>*Ryhmähenkivakuutus*
-1. Työnantaja kustantaa työntekijän ryhmähenkivakuutuksen.
+> Jos työpaikkaohjaajalle tai työntekijälle, joka osallistuu koulutuksen
+> toteutta- miseen, maksetaan suorituspalkkaa tai vastaavaa palkan osaa,
+> hänelle makse- taan edellä tarkoitettu palkan osa keskimääräisenä
+> siltä ajalta, jolloin hän toimii työpaikkaohjaajana tai ohjaajana.
 
-Työehtosopimus
-###### ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.017.png)*Työasut – myyjät*
-1. Työnantaja hankkii vakinaiselle myyjälle käyttökelpoisen työasun, ellei työ- paikkakohtaisesti (23 §: n mukaisesti) sovita toisin korvaavasta järjestelystä.
+###### *Ryhmähenkivakuutus*
 
-Työnantaja huoltaa työasun, ellei työntekijän kanssa korvausta vastaan toi- sin sovita.
+7.  Työnantaja kustantaa työntekijän ryhmähenkivakuutuksen.
 
-###### *Työasut – logistiikkatyöntekijät*
-1. Työnantaja hankkii vakinaiselle logistiikkatyöntekijälle suoja- tai työpuvun ja työkäsineet.
+###### *Työasut -- myyjät*
 
-Työnantaja huoltaa työasun, ellei työntekijän kanssa korvausta vastaan toi- sin sovita.
+8.  Työnantaja hankkii vakinaiselle myyjälle käyttökelpoisen työasun,
+    ellei työ- paikkakohtaisesti (23 §: n mukaisesti) sovita toisin
+    korvaavasta järjestelystä.
+
+> Työnantaja huoltaa työasun, ellei työntekijän kanssa korvausta vastaan
+> toi- sin sovita.
+
+###### *Työasut -- logistiikkatyöntekijät*
+
+9.  Työnantaja hankkii vakinaiselle logistiikkatyöntekijälle suoja- tai
+    työpuvun ja työkäsineet.
+
+> Työnantaja huoltaa työasun, ellei työntekijän kanssa korvausta vastaan
+> toi- sin sovita.
 
 ###### *Kassavaje*
-1. Työnantaja ja työntekijä selvittävät kassavajeen syntymiseen liittyvät tekijät ennen mahdollisen vahingonkorvauksen perimistä.
 
-Asian jäädessä erimieliseksi noudatetaan työehtosopimuksen neuvottelu- järjestystä.
+10. Työnantaja ja työntekijä selvittävät kassavajeen syntymiseen
+    liittyvät tekijät ennen mahdollisen vahingonkorvauksen perimistä.
 
-A
-5. # ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.013.png)<a name="27 § työrauha ja sopimusrikkomukset"></a><a name="26 §  erimielisyydet"></a><a name="paikalliset neuvottelut"></a><a name="liittoneuvottelut"></a><a name="neuvottelujen toteutus"></a><a name="työtuomioistuin"></a><a name="10. neuvottelujärjestys ja työrauha"></a><a name="_bookmark64"></a>NEUVOTTELUJÄRJESTYS JA TYÖRAUHA
+> Asian jäädessä erimieliseksi noudatetaan työehtosopimuksen neuvottelu-
+> järjestystä.
 
-Työehtosopimus
-20. #### ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.014.png)§ Erimielisyydet
+# NEUVOTTELUJÄRJESTYS JA TYÖRAUHA
+
+#### § Erimielisyydet
 
 ###### *Paikalliset neuvottelut*
-1. Työehtosopimukseen liittyvistä erimielisyyksistä neuvotellaan ensin työnanta- jan ja työntekijän tai työnantajan ja luottamusmiehen kanssa.
 
-Asian jäädessä erimieliseksi laaditaan 2 kappaleena erimielisyysmuistio.
+1.  Työehtosopimukseen liittyvistä erimielisyyksistä neuvotellaan ensin
+    työnanta- jan ja työntekijän tai työnantajan ja luottamusmiehen
+    kanssa.
+
+> Asian jäädessä erimieliseksi laaditaan 2 kappaleena
+> erimielisyysmuistio.
 
 ###### *Liittoneuvottelut*
-1. Paikalliset osapuolet voivat jättää asian liittojen ratkaistavaksi.
+
+2.  Paikalliset osapuolet voivat jättää asian liittojen ratkaistavaksi.
 
 ###### *Neuvottelujen toteutus*
-1. Paikalliset- ja liittoneuvottelut aloitetaan ja käydään viivytyksettä.
+
+3.  Paikalliset- ja liittoneuvottelut aloitetaan ja käydään
+    viivytyksettä.
 
 ###### *Työtuomioistuin*
-1. Asian jäädessä liittoneuvotteluissa erimieliseksi se voidaan jättää työtuomio- istuimen ratkaistavaksi.
 
-20. #### § Työrauha ja sopimusrikkomukset
-    1. Kaikki sopimukseen kohdistuvat työtaistelutoimenpiteet on kielletty.
+4.  Asian jäädessä liittoneuvotteluissa erimieliseksi se voidaan jättää
+    työtuomio- istuimen ratkaistavaksi.
 
-1. Tämän sopimuksen rikkomisen seuraamukset määräytyvät allekirjoituspäi- vänä voimassa olevan työehtosopimuslain mukaan.
+```{=html}
+<!-- -->
+```
+27. #### § Työrauha ja sopimusrikkomukset
 
-A
-5. # ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.016.png)<a name="28 §  sopimuksen voimassaolo"></a><a name="11. voimassaolo"></a><a name="_bookmark65"></a>VOIMASSAOLO
+    1.  Kaikki sopimukseen kohdistuvat työtaistelutoimenpiteet on
+        kielletty.
 
-Työehtosopimus
-20. #### ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.017.png)§ Sopimuksen voimassaolo
-    1. Sopimus on voimassa 31.1.2025 asti.
+    2.  Tämän sopimuksen rikkomisen seuraamukset määräytyvät
+        allekirjoituspäi- vänä voimassa olevan työehtosopimuslain
+        mukaan.
 
-1. Sopimus jatkuu 31.1.2025 jälkeen vuoden kerrallaan, ellei sitä irtisanota kirjal- lisesti viimeistään kuukautta ennen sen päättymistä.
+# VOIMASSAOLO
 
-1. Irtisanomisen yhteydessä on jätettävä kirjallisesti yksilöidyt muutosesitykset, muutoin irtisanominen on mitätön.
+28. #### § Sopimuksen voimassaolo
 
+    1.  Sopimus on voimassa 31.1.2025 asti.
 
+    2.  Sopimus jatkuu 31.1.2025 jälkeen vuoden kerrallaan, ellei sitä
+        irtisanota kirjal- lisesti viimeistään kuukautta ennen sen
+        päättymistä.
 
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.067.png)
+    3.  Irtisanomisen yhteydessä on jätettävä kirjallisesti yksilöidyt
+        muutosesitykset, muutoin irtisanominen on mitätön.
 
+> Pöytäkirjat
 
+# AMMATTIRYHMÄPÖYTÄKIRJAT ASENTAJAT JA HUOLTOMIEHET
 
+1.  #### § Ulottuvuus
 
+    1.  Pöytäkirja koskee asentajia ja huoltomiehiä.
 
+    2.  Pöytäkirja ei koske huolto- ja liikenneasemien huoltoasentajia
+        eikä kiinteistö- huoltomiehiä.
 
+    3.  Asentajiin ja huoltomiehiin noudatetaan soveltuvin osin
+        työehtosopimuksen määräyksiä jäljempänä esitetyin poikkeuksin.
 
+    4.  Työehtosopimuksen 7 §:n määräyksiä noudatetaan siten kuin on
+        sovittu myy- jien ja logistiikkatyöntekijöiden osalta.
 
+    5.  Työehtosopimuksen 4 luvun määräyksiä ei noudateta lukuun
+        ottamatta osa- kuukauden palkkaa (11 § 10. kohta).
 
+2.  #### § Ohjeelliset ansioluvut ja vähimmäispalkka
 
+    1.  Ohjeelliset ansioluvut sisältävät kuukausipalkan mukaan lukien
+        bonukset, lisät ja luontoisedut.
 
-
-
-
-
-
-
-Pöytäkirjat
-
-
-B
-# ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.068.png)<a name="2 § ohjeelliset ansioluvut ja vähimmäisp"></a><a name="1 § ulottuvuus"></a><a name="asentajat ja huoltomiehet"></a><a name="ammattiryhmäpöytäkirjat"></a><a name="_bookmark66"></a>AMMATTIRYHMÄPÖYTÄKIRJAT ASENTAJAT JA HUOLTOMIEHET
-Ammattiryhmäpöytäkirjat
-1. #### ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.069.png)§ Ulottuvuus
-   1. Pöytäkirja koskee asentajia ja huoltomiehiä.
-
-1. Pöytäkirja ei koske huolto- ja liikenneasemien huoltoasentajia eikä kiinteistö- huoltomiehiä.
-
-1. Asentajiin ja huoltomiehiin noudatetaan soveltuvin osin työehtosopimuksen määräyksiä jäljempänä esitetyin poikkeuksin.
-
-1. Työehtosopimuksen 7 §:n määräyksiä noudatetaan siten kuin on sovittu myy- jien ja logistiikkatyöntekijöiden osalta.
-
-1. Työehtosopimuksen 4 luvun määräyksiä ei noudateta lukuun ottamatta osa- kuukauden palkkaa (11 § 10. kohta).
-
-1. #### § Ohjeelliset ansioluvut ja vähimmäispalkka
-   1. Ohjeelliset ansioluvut sisältävät kuukausipalkan mukaan lukien bonukset, lisät ja luontoisedut.
-
-Vaativuustaso	Ohjeellinen ansioluku
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.070.png)
-
-1\.	1 750–2 050 euroa
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.021.png)
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.019.png)2.	1 900–2 350 euroa
-
-3\.	2 150–2 600 euroa
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.020.png)
-
-Ohjeelliset ansioluvut eivät ole sitovia vähimmäispalkkoja.
-
-Kaupan työehtosopimus 1.2.2023–31.1.2025
-
-129
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.011.png)![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.071.png)
-
-B
-###### ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.072.png)<a name="vähimmäispalkka"></a><a name="_bookmark67"></a>*Vaativuustasot*
-1. Vaativuustasot ovat:
-
-1. taso
-
-   0. pääosin rutiininomaiset asennus-, kokoonpano- ja kaapelointityöt
-
-Ammattiryhmäpöytäkirjat
-   0. ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.073.png)helpohkot laitteiden ja koneiden huolto- ja korjaustyöt
-   0. määräaikaishuolto-, puhdistus-, testaus- ja säätötyöt
-1. taso
-
-   0. rutiininomaista vaativammat, itsenäisesti hoidettavat asennus- ja kokoonpanotyöt
-   0. ohjauksen alaisena hoidettavat vaativat asennus- ja kokoonpanotyöt
-   0. itsenäisesti hoidettavat laitteiden ja koneiden huolto- ja korjaustyöt
-1. taso
-
-   0. itsenäisesti hoidettavat vaativat asennus- ja kokoonpanotyöt
-   0. itsenäisesti hoidettavat vaativat laitteiden, koneiden ja järjestelmien asia- kaspalvelu-, käyttöönotto- ja ylläpitotyöt.
-
-Kunkin vaativuustason sisällä työsuorituksen, ammattitaidon ja henkilökoh- taisten ominaisuuksien tulisi vaikuttaa palkkauksen suuruuteen, esimerkiksi:
-
-0. työsuoritus
-
-määrä, nopeus, laatu ja tulos
-
-0. ammattitaito
-
-koulutuksella ja kokemuksella hankitut taidot ja tiedot suhteessa työn vaatimiin taitoihin ja tietoihin, ammattitaidon käytettävyys ja monipuoli- suus, ammattitaidon kehittäminen ja ylläpitäminen
-
-0. henkilökohtaiset ominaisuudet
-
-luotettavuus, täsmällisyys, aloitteellisuus ja työtehtäviin liittyvä kielitaito.
-
-###### *Vähimmäispalkka*
-1. Asentajan ja huoltomiehen vähimmäispalkat ovat palkkaliitteessä.
-
-B
-1. #### ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.068.png)<a name="4 § lomaraha"></a><a name="3 § matkakustannukset"></a><a name="_bookmark68"></a>§ Matkakustannukset
-   1. Kilometri- tai vastaavia korvauksia maksetaan asunnon ja työkohteen väliseltä matkalta tämän ollessa olennaisesti pitempi kuin asunnon ja varsinaisen työ- paikan välinen matka.
-
-Ammattiryhmäpöytäkirjat
-1. ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.069.png)Sen lisäksi mitä ateriakorvauksesta on sovittu työehtosopimuksessa, ateria- korvausta ei makseta henkilölle, jos hänellä on oikeus saada ruokailulipuke joko luontoisetuna tai maksamalla siitä verotusarvo.
-
-1. Muutoin noudatetaan työehtosopimuksen 22 §:n määräyksiä.
-
-1. #### § Lomaraha
-   1. Lomaraha voidaan vaihtaa vastaavaan vapaa-aikaan paikallisesti sopimalla.
-
-1. Muutoin noudatetaan työehtosopimuksen 21 §:n määräyksiä lukuun ottamatta
-
-8\. kohtaa.
-
-B
-# ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.072.png)<a name="3 § palkat"></a><a name="2 § sunnuntaityö"></a><a name="huolto- ja liikenneasematyöntekijät"></a><a name="_bookmark69"></a>HUOLTO- JA LIIKENNEASEMATYÖNTEKIJÄT
-
-1. #### § Ulottuvuus
-   1. Pöytäkirja koskee kaikkia huolto- ja liikenneasemien työntekijöitä.
-
-Ammattiryhmäpöytäkirjat
-1. ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.073.png)Työntekijöihin noudatetaan työehtosopimuksen määräyksiä alla esitetyin poikkeuksin.
-
-1. #### § Sunnuntaityö
-   1. Sunnuntaityö määräytyy työaikalain 17 §:n mukaan.
-
-Sunnuntaina tai kirkollisena juhla-, itsenäisyys- ja vapunpäivänä tehdystä säännöllisestä työstä maksetaan kaksinkertainen palkka.
-
-Sunnuntaityökorvausta laskettaessa työaikalisiä ei oteta huomioon peruspal- kassa. Sunnuntaityökorvaus vanhenee työaikalain 40 §:n mukaan (kuten lisä- ja ylityökorvaukset, ks. työehtosopimus 9 § 20. kohta).
-
-1. #### § Palkat
-
-###### *Harjoitteluaika*
-1. Harjoitteluaika on 1 vuosi.
-
-Autonpesijä sekä huolto- ja liikenneaseman siivooja ovat heti 1. vuoden työntekijöitä.
-
-Harjoittelijan palkka on 85 % kunkin ammatin alimman palkkaryhmän 1. vuo- den palkasta.
-
-B
-###### ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.068.png)<a name="palkkaryhmät"></a><a name="huolto- ja liikenneaseman ravintolatyönt"></a><a name="_bookmark70"></a>*Palkkaryhmät*
-Ammattiryhmäpöytäkirjat
-1. ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.069.png)Palkkaryhmät:
-
-
-|TES-nimike|Palkkaryhmä 31.5.2024 asti|Palkkaryhmä 1.6.2024 alk.|
-| :- | :- | :- |
-|Huolto- ja liikenneasematyöntekijä I|A|A|
-|Huolto- ja liikenneasematyöntekijä II|B1|B|
-|Huoltoasentaja I|B2|B|
-|Huoltoasentaja II|C1|C|
-|Huoltoasentaja III|C2|C|
-
-Palkkaryhmä määräytyy sen mukaan, mitä työtä työntekijä tekee pääosan työajastaan.
-
-Huolto- ja liikenneasematyöntekijä kuuluu palkkaryhmään B1 (1.6.2024 al- kaen palkkaryhmään B) hänen työskennellessä sellaisella huolto- tai liikenne- asemalla, jossa on:
-
-0. vähintään 2 000 artikkelin päivittäistavarakauppa tai
-0. sellainen kahvila/ravintola, jossa omassa keittiössä valmistetaan lounas- tai vastaavia ruoka-annoksia ja anniskellaan enintään 5,5 tilavuusprosent- tia etyylialkoholia sisältäviä alkoholijuomia.
-
-Muuten työntekijä kuuluu palkkaryhmään A.
-
-Työntekijän tehdessä pääosan työajastaan avustavaa työtä hän kuuluu palkka- ryhmään A.
-
-###### *Huolto- ja liikenneaseman ravintolatyöntekijä*
-1. Huolto- ja liikenneaseman ravintolatyöntekijällä tarkoitetaan työntekijää, joka työskentelee pääasiallisesti huolto- ja liikenneasemalla toimivassa ravinto- lassa, jossa anniskellaan yli 5,5 tilavuusprosenttia etyylialkoholia sisältäviä alkoholijuomia.
-
-B
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.072.png)<a name="luvanhaltijan edustajan sijainen"></a><a name="huolto- ja liikenneaseman ravintolaesimi"></a><a name="huoltoasentajien vaativuustasot"></a><a name="_bookmark71"></a>Ravintolatyöntekijän palkka määräytyy palkkaliitteen mukaan.
-
-###### *Luvanhaltijan edustajan sijainen*
-Ammattiryhmäpöytäkirjat
-1. ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.073.png)Huolto- ja liikenneaseman ravintolatyöntekijälle, joka työskentelee työnantajan määräämänä luvanhaltijan edustajan sijaisena yli 5,5 tilavuusprosenttia etyy- lialkoholia sisältäviä alkoholijuomia anniskelevassa ravintolassa, maksetaan sijaisuustunneilta palkkaliitteen mukainen tuntipalkka.
-
-Työntekijän henkilökohtaisen palkan ollessa jo vähintään palkkaliitteen mukai- nen tuntipalkka, hänen palkkauksessaan ei tapahdu muutoksia.
-
-###### *Huolto- ja liikenneaseman ravintolaesihenkilö*
-1. Huolto- ja liikenneasemalla työskentelevän ravintolaesihenkilön sekä alkoho- lilain edellyttämän ja työnantajan määräämän luvanhoitajan edustajan palkka määräytyy palkkaliitteen mukaan.
-
-###### *Huoltoasentajien vaativuustasot*
-1. Huoltoasentajien vaativuustasot ovat töiden pääasiallisuuden perusteella seuraavat:
-
-Huoltoasentaja I: Voitelu-, öljynvaihto- ja alustatyöt, pakoputkiston korjaus- ja rengastyöt sekä auton koriin liittyvät huoltotyöt.
-
-Huoltoasentaja I:n palkkaryhmä on B2 (1.6.2024 alkaen B).
-
-Huoltoasentaja II: Määräaikais- ja merkkihuoltojen suorittaminen, jarru-, kytkin- ja ohjauslaitetyöt sekä ns. testaukset ja niiden aiheuttamat säätötyöt. Huoltoasentaja II:n palkkaryhmä on C1 (1.6.2024 alkaen C).
-
-Huoltoasentaja III: Vaativat asennustyöt, esimerkiksi moottorin ja voimansiirtolaitteiden sekä diesellaitteiden korjaus.
-
-Huoltoasentaja III:n palkkaryhmä on C2 (1.6.2024 alkaen C).
-
-1. #### § Lisät
-   1. Huolto- ja liikenneasema, jossa alle 2 000 artikkelin päivittäistavarakauppa tai jossa ei päivittäistavarakauppaa
-
-B
-0. ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.068.png)<a name="4 § lisät"></a><a name="_bookmark72"></a>Kello 18.00–24.00 tehdystä työstä maksetaan palkkaliitteen mukainen *iltalisä*. Lisä maksetaan kaksinkertaisena sunnuntaina sekä kirkollisena juhla-, vapun- ja itsenäisyyspäivänä.
-
-Ammattiryhmäpöytäkirjat
-0. ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.069.png)Kello 00.00–06.00 tehdystä työstä maksetaan palkkaliitteen mukainen *yölisä*. Lisä maksetaan yksinkertaisena sunnuntaina sekä kirkollisena juhla-, vapun- ja itsenäisyyspäivänä.
-
-1. Huolto- ja liikenneasema, jossa vähintään 2000 artikkelin päivittäistavara- kauppa ja jonka päivittäistavarakaupan myyntipinta-ala enintään 400 m²
-
-   0. Kello 18.00–24.00 tehdystä työstä maksetaan palkkaliitteen mukainen *iltalisä*. Lisä maksetaan kaksinkertaisena sunnuntaina sekä kirkollisena juhla-, vapun- ja itsenäisyyspäivänä.
-   0. Kello 00.00–06.00 tehdystä työstä maksetaan palkkaliitteen mukainen *yölisä*. Lisä maksetaan yksinkertaisena sunnuntaina sekä kirkollisena juhla-, vapun- ja itsenäisyyspäivänä.
-
-1. Huolto- ja liikenneasema, jossa yli 400 m² päivittäistavarakauppa.
-
-   0. Päivittäistavarakaupassa tehdystä työstä lisät maksetaan työehto- sopimuksen 12 §:n mukaan.
-   0. Muusta kuin päivittäistavarakaupassa tehdystä työstä lisät maksetaan
-      1. kohdan mukaan.
-
-###### *Hälytysraha*
-1. Hälytysraha maksetaan työntekijän poistuttua työpaikalta ja hänen tullessa hälytyskutsusta työhön saman vuorokauden aikana säännöllisen työajan ulkopuolella.
-
-Hälytysraha on 2 tunnin palkka muun hälytystyöstä maksettavan palkan lisäksi.
-
-1. #### § Työasut
-   1. Työnantaja hankkii työntekijälle työasun.
-
-1. Työnantaja huoltaa työasun, ellei työntekijän kanssa korvausta vastaan toi- sin sovita.
-
-1. Työnantaja hankkii huoltoasentajalle, autonpesijälle ja alustasuojaajalle suoja- vaatteet ja -jalkineet.
-
-B
-# ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.072.png)<a name="3 §  ilta- ja yölisä"></a><a name="ilta- ja yölisät sunnuntaina"></a><a name="2 § palkat "></a><a name="kioskimyyjät"></a><a name="_bookmark73"></a>KIOSKIMYYJÄT
-
-1. #### § Ulottuvuus
-Ammattiryhmäpöytäkirjat
-   1. ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.073.png)Pöytäkirja koskee kiinteissä tai niihin rinnastettavissa kioskeissa työskenteleviä kioskimyyjiä.
-
-Kioski- ja siihen verrattavalla kaupalla tarkoitetaan kauppaa, jota harjoitetaan liikehuoneistosta, jossa kioskikaupan vakinainen liiketoimintakäytössä oleva myyntipinta-ala on enintään 100 neliömetriä.
-
-1. Pöytäkirja ei koske ns. katukeittiöiden työntekijöitä.
-
-1. Pöytäkirjan soveltamispiiriin kuuluviin kioskimyyjiin noudatetaan soveltuvin osin työehtosopimuksen määräyksiä alla esitetyin poikkeuksin.
-
-1. #### § Palkat
-   1. Kioskimyyjän palkkaryhmä on B1 (1.6.2024 alkaen B).
-
-1. #### § Ilta- ja yölisä
-
-###### *Iltalisä*
-1. Kello 18.00–23.00 tehdystä työstä maksetaan palkkaliitteen mukainen iltalisä.
-
-###### *Yölisä*
-1. Kello 23.00–06.00 tehdystä työstä maksetaan palkkaliitteen mukainen yölisä.
-
-###### *Ilta- ja yölisät sunnuntaina*
-1. Ilta- ja yölisät maksetaan yksinkertaisena sunnuntaina sekä kirkollisena juhla-, vapun- ja itsenäisyyspäivänä tehdystä työstä.
-
-B
-1. #### ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.068.png)<a name="5 § sunnuntaityö"></a><a name="4 § työaika"></a><a name="_bookmark74"></a>§ Työaika
-Työsopimuksessa sovitaan viikkotyöpäivien määrä.
-
-Ammattiryhmäpöytäkirjat
-1. #### ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.069.png)§ Sunnuntaityö
-Sunnuntaityö määräytyy työaikalain 17 §:n mukaan.
-
-Sunnuntaina tai kirkollisena juhla-, itsenäisyys- ja vapunpäivänä tehdystä sään- nöllisestä työstä maksetaan kaksinkertainen palkka.
-
-Sunnuntaityökorvausta laskettaessa työaikalisiä ei oteta huomioon peruspalkassa.
-
-Sunnuntaityökorvaus vanhenee työaikalain 40 §:n mukaan (kuten lisä- ja ylityö- korvaukset, ks. työehtosopimus 9 § 20. kohta).
-
-B
-# ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.072.png)<a name="2 § keskimääräinen päiväpalkka"></a><a name="1 §  henkilökohtainen provisiopalkka"></a><a name="provisiopalkkaiset myyjät"></a><a name="_bookmark75"></a>PROVISIOPALKKAISET MYYJÄT
-
-1. #### § Henkilökohtainen provisiopalkka
-Provision osalta noudatetaan seuraavaa:
-
-Ammattiryhmäpöytäkirjat
-
-0. ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.073.png)Provisio maksetaan täysimääräisenä huolimatta kaupan jälkeen tava- rassa ilmenneestä virheestä, jos virhe on syntynyt tavaran valmistuksen tai
-
-kuljetuksen aikana eikä se ole ollut tiedossa kauppaa tehtäessä.
-
-0. Myyjällä on oikeus työsuhteen päättymisen jälkeen erääntyviin provisioihin samojen periaatteiden mukaan kuin työsuhteen jatkuessa.
-0. Siirrettäessä myyjä työsopimuksen mukaisesta työstä olennaisesti poikke- avaan työhön siirron vaikutus provision kertymään selvitetään.
-
-1. #### § Keskimääräinen päiväpalkka
-1. Keskimääräinen päiväpalkka provision osalta lasketaan 2 kertaa kalenterivuo- dessa 12 edellisen kalenterikuukauden (laskenta-aika) ansion perusteella.
-
-Laskenta-aikana säännölliseltä työajalta maksettu ja maksettavaksi erääntynyt provisio jaetaan laskenta-ajan todellisilla työpäivillä.
-
-Tuntipalkka lasketaan jakamalla päiväpalkka työpäivän keskimääräisillä tunneilla.
-
-1. Liitot suosittelevat laskenta-ajoiksi 1.4.–31.3. ja 1.10.–30.9. välisiä aikoja.
-
-1. Työsuhteen alkaessa kesken kalenterivuotta käytetään laskentaperusteena työsuhteeseen sisältyneiden kalenterikuukausien keskimääräistä ansiota.
-
-Muilta osin noudatetaan 1. kohtaa.
-
-B
-# ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.068.png)<a name="2 §  työpalkat"></a><a name="somistajat"></a><a name="_bookmark76"></a>SOMISTAJAT
-
-1. #### § Ulottuvuus
-Ammattiryhmäpöytäkirjat
-   1. ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.069.png)Pöytäkirja koskee somistajia ja somistajaharjoittelijoita.
-
-1. Somistajiin ja somistajaharjoittelijoihin noudatetaan työehtosopimuksen mää- räyksiä alla esitetyin poikkeuksin.
-
-1. #### § Työpalkat
-
-###### *Palvelusaika*
-1. Palvelusaikaan lasketaan tämän pöytäkirjan tarkoittamassa ammatissa työs- kennelty aika.
-
-Palvelusaika tarkoittaa kyseisessä vaativuustasossa työskenneltyä aikaa.
-
-1. Siirto vaativuustasossa määräytyy työehtosopimuksen 11 §:n 7. kohdan mukaan.
+> 1\. 1 750--2 050 euroa
+>
+> 2\. 1 900--2 350 euroa
+>
+> 3\. 2 150--2 600 euroa
+>
+> Ohjeelliset ansioluvut eivät ole sitovia vähimmäispalkkoja.
 
 ###### *Vaativuustasot*
-1. Vaativuustasot ovat Somistaja I ja Somistaja II.
 
-Somistaja kuuluu Somistaja I:een, elleivät työtehtävät edellytä hänen kuulu- mistaan Somistaja II:een.
+2.  Vaativuustasot ovat:
 
-Somistaja II:een kuuluu somistaja, joka itsenäisesti runko-ohjeen mukaan suunnittelee ja tekee ikkunoiden, myyntipisteiden tai shoppien somistuksia tai hoitaa lehti-ilmoituksia.
+    1.  taso
 
-B
-###### ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.072.png)<a name="3 § työasut"></a><a name="erityisen vaativa somistus"></a><a name="työkohtaisuuslisä"></a><a name="_bookmark77"></a>*Erityisen vaativa somistus*
-1. Somistajan tehdessä erityisen vaativaa somistusta hänelle maksetaan vähin- tään Somistaja II:n palkkaa 20 %:lla korotettuna.
+        -   pääosin rutiininomaiset asennus-, kokoonpano- ja
+            kaapelointityöt
 
-Erityisen vaativaa somistusta on esimerkiksi:
+        -   helpohkot laitteiden ja koneiden huolto- ja korjaustyöt
 
-Ammattiryhmäpöytäkirjat
+        -   määräaikaishuolto-, puhdistus-, testaus- ja säätötyöt
 
-0. ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.073.png)sarjamainosteiden suunnittelu
-0. myymälöiden ja tavaratalojen vaativat mainonnalliset sisustusratkaisut
-0. messu- tai näyttelyosastojen suunnittelu
-0. näytöksien showtekniikan järjestely.
+    2.  taso
+
+        -   rutiininomaista vaativammat, itsenäisesti hoidettavat
+            asennus- ja kokoonpanotyöt
+
+        -   ohjauksen alaisena hoidettavat vaativat asennus- ja
+            kokoonpanotyöt
+
+        -   itsenäisesti hoidettavat laitteiden ja koneiden huolto- ja
+            korjaustyöt
+
+    3.  taso
+
+        -   itsenäisesti hoidettavat vaativat asennus- ja kokoonpanotyöt
+
+        -   itsenäisesti hoidettavat vaativat laitteiden, koneiden ja
+            järjestelmien asia- kaspalvelu-, käyttöönotto- ja
+            ylläpitotyöt.
+
+> Kunkin vaativuustason sisällä työsuorituksen, ammattitaidon ja
+> henkilökoh- taisten ominaisuuksien tulisi vaikuttaa palkkauksen
+> suuruuteen, esimerkiksi:
+
+-   työsuoritus
+
+> määrä, nopeus, laatu ja tulos
+
+-   ammattitaito
+
+> koulutuksella ja kokemuksella hankitut taidot ja tiedot suhteessa työn
+> vaatimiin taitoihin ja tietoihin, ammattitaidon käytettävyys ja
+> monipuoli- suus, ammattitaidon kehittäminen ja ylläpitäminen
+
+-   henkilökohtaiset ominaisuudet
+
+> luotettavuus, täsmällisyys, aloitteellisuus ja työtehtäviin liittyvä
+> kielitaito.
+
+###### *Vähimmäispalkka*
+
+3.  Asentajan ja huoltomiehen vähimmäispalkat ovat palkkaliitteessä.
+
+```{=html}
+<!-- -->
+```
+3.  #### § Matkakustannukset
+
+    1.  Kilometri- tai vastaavia korvauksia maksetaan asunnon ja
+        työkohteen väliseltä matkalta tämän ollessa olennaisesti pitempi
+        kuin asunnon ja varsinaisen työ- paikan välinen matka.
+
+    2.  Sen lisäksi mitä ateriakorvauksesta on sovittu
+        työehtosopimuksessa, ateria- korvausta ei makseta henkilölle,
+        jos hänellä on oikeus saada ruokailulipuke joko luontoisetuna
+        tai maksamalla siitä verotusarvo.
+
+    3.  Muutoin noudatetaan työehtosopimuksen 22 §:n määräyksiä.
+
+4.  #### § Lomaraha
+
+    1.  Lomaraha voidaan vaihtaa vastaavaan vapaa-aikaan paikallisesti
+        sopimalla.
+
+    2.  Muutoin noudatetaan työehtosopimuksen 21 §:n määräyksiä lukuun
+        ottamatta
+
+> 8\. kohtaa.
+
+# HUOLTO- JA LIIKENNEASEMATYÖNTEKIJÄT
+
+1.  #### § Ulottuvuus
+
+    1.  Pöytäkirja koskee kaikkia huolto- ja liikenneasemien
+        työntekijöitä.
+
+    2.  Työntekijöihin noudatetaan työehtosopimuksen määräyksiä alla
+        esitetyin poikkeuksin.
+
+2.  #### § Sunnuntaityö
+
+    1.  Sunnuntaityö määräytyy työaikalain 17 §:n mukaan.
+
+> Sunnuntaina tai kirkollisena juhla-, itsenäisyys- ja vapunpäivänä
+> tehdystä säännöllisestä työstä maksetaan kaksinkertainen palkka.
+>
+> Sunnuntaityökorvausta laskettaessa työaikalisiä ei oteta huomioon
+> peruspal- kassa. Sunnuntaityökorvaus vanhenee työaikalain 40 §:n
+> mukaan (kuten lisä- ja ylityökorvaukset, ks. työehtosopimus 9 § 20.
+> kohta).
+
+#### § Palkat
+
+###### *Harjoitteluaika*
+
+1.  Harjoitteluaika on 1 vuosi.
+
+> Autonpesijä sekä huolto- ja liikenneaseman siivooja ovat heti 1.
+> vuoden työntekijöitä.
+>
+> Harjoittelijan palkka on 85 % kunkin ammatin alimman palkkaryhmän 1.
+> vuo- den palkasta.
+
+###### *Palkkaryhmät*
+
+2.  Palkkaryhmät:
+
++-----------------------------------+----------------+----------------+
+| > TES-nimike                      | > Palkkaryhmä  | > Palkkaryhmä  |
+|                                   | > 31.5.2024    | > 1.6.2024     |
+|                                   | > asti         | > alk.         |
++===================================+================+================+
+| Huolto- ja                        | > A            | > A            |
+| liikenneasematyöntekijä I         |                |                |
++-----------------------------------+----------------+----------------+
+| Huolto- ja                        | > B1           | > B            |
+| liikenneasematyöntekijä II        |                |                |
++-----------------------------------+----------------+----------------+
+| > Huoltoasentaja I                | > B2           | > B            |
++-----------------------------------+----------------+----------------+
+| > Huoltoasentaja II               | > C1           | > C            |
++-----------------------------------+----------------+----------------+
+| > Huoltoasentaja III              | > C2           | > C            |
++-----------------------------------+----------------+----------------+
+
+> Palkkaryhmä määräytyy sen mukaan, mitä työtä työntekijä tekee pääosan
+> työajastaan.
+>
+> Huolto- ja liikenneasematyöntekijä kuuluu palkkaryhmään B1 (1.6.2024
+> al- kaen palkkaryhmään B) hänen työskennellessä sellaisella huolto-
+> tai liikenne- asemalla, jossa on:
+
+-   vähintään 2 000 artikkelin päivittäistavarakauppa tai
+
+-   sellainen kahvila/ravintola, jossa omassa keittiössä valmistetaan
+    > lounas- tai vastaavia ruoka-annoksia ja anniskellaan enintään 5,5
+    > tilavuusprosent- tia etyylialkoholia sisältäviä alkoholijuomia.
+
+> Muuten työntekijä kuuluu palkkaryhmään A.
+>
+> Työntekijän tehdessä pääosan työajastaan avustavaa työtä hän kuuluu
+> palkka- ryhmään A.
+
+###### *Huolto- ja liikenneaseman ravintolatyöntekijä*
+
+3.  Huolto- ja liikenneaseman ravintolatyöntekijällä tarkoitetaan
+    työntekijää, joka työskentelee pääasiallisesti huolto- ja
+    liikenneasemalla toimivassa ravinto- lassa, jossa anniskellaan yli
+    5,5 tilavuusprosenttia etyylialkoholia sisältäviä alkoholijuomia.
+
+> []{#_bookmark71 .anchor}Ravintolatyöntekijän palkka määräytyy
+> palkkaliitteen mukaan.
+
+###### *Luvanhaltijan edustajan sijainen*
+
+4.  Huolto- ja liikenneaseman ravintolatyöntekijälle, joka työskentelee
+    työnantajan määräämänä luvanhaltijan edustajan sijaisena yli 5,5
+    tilavuusprosenttia etyy- lialkoholia sisältäviä alkoholijuomia
+    anniskelevassa ravintolassa, maksetaan sijaisuustunneilta
+    palkkaliitteen mukainen tuntipalkka.
+
+> Työntekijän henkilökohtaisen palkan ollessa jo vähintään
+> palkkaliitteen mukai- nen tuntipalkka, hänen palkkauksessaan ei
+> tapahdu muutoksia.
+
+###### *Huolto- ja liikenneaseman ravintolaesihenkilö*
+
+5.  Huolto- ja liikenneasemalla työskentelevän ravintolaesihenkilön sekä
+    alkoho- lilain edellyttämän ja työnantajan määräämän luvanhoitajan
+    edustajan palkka määräytyy palkkaliitteen mukaan.
+
+###### *Huoltoasentajien vaativuustasot*
+
+6.  Huoltoasentajien vaativuustasot ovat töiden pääasiallisuuden
+    perusteella seuraavat:
+
+> Huoltoasentaja I: Voitelu-, öljynvaihto- ja alustatyöt, pakoputkiston
+> korjaus- ja rengastyöt sekä auton koriin liittyvät huoltotyöt.
+>
+> Huoltoasentaja I:n palkkaryhmä on B2 (1.6.2024 alkaen B).
+>
+> Huoltoasentaja II: Määräaikais- ja merkkihuoltojen suorittaminen,
+> jarru-, kytkin- ja ohjauslaitetyöt sekä ns. testaukset ja niiden
+> aiheuttamat säätötyöt. Huoltoasentaja II:n palkkaryhmä on C1 (1.6.2024
+> alkaen C).
+>
+> Huoltoasentaja III: Vaativat asennustyöt, esimerkiksi moottorin ja
+> voimansiirtolaitteiden sekä diesellaitteiden korjaus.
+>
+> Huoltoasentaja III:n palkkaryhmä on C2 (1.6.2024 alkaen C).
+
+4.  #### § Lisät
+
+    1.  Huolto- ja liikenneasema, jossa alle 2 000 artikkelin
+        päivittäistavarakauppa tai jossa ei päivittäistavarakauppaa
+
+        -   []{#_bookmark72 .anchor}Kello 18.00--24.00 tehdystä työstä
+            > maksetaan palkkaliitteen mukainen *iltalisä*. Lisä
+            > maksetaan kaksinkertaisena sunnuntaina sekä kirkollisena
+            > juhla-, vapun- ja itsenäisyyspäivänä.
+
+        -   Kello 00.00--06.00 tehdystä työstä maksetaan palkkaliitteen
+            > mukainen *yölisä*. Lisä maksetaan yksinkertaisena
+            > sunnuntaina sekä kirkollisena juhla-, vapun- ja
+            > itsenäisyyspäivänä.
+
+    2.  Huolto- ja liikenneasema, jossa vähintään 2000 artikkelin
+        päivittäistavara- kauppa ja jonka päivittäistavarakaupan
+        myyntipinta-ala enintään 400 m²
+
+        -   Kello 18.00--24.00 tehdystä työstä maksetaan palkkaliitteen
+            > mukainen *iltalisä*. Lisä maksetaan kaksinkertaisena
+            > sunnuntaina sekä kirkollisena juhla-, vapun- ja
+            > itsenäisyyspäivänä.
+
+        -   Kello 00.00--06.00 tehdystä työstä maksetaan palkkaliitteen
+            > mukainen *yölisä*. Lisä maksetaan yksinkertaisena
+            > sunnuntaina sekä kirkollisena juhla-, vapun- ja
+            > itsenäisyyspäivänä.
+
+    3.  Huolto- ja liikenneasema, jossa yli 400 m²
+        päivittäistavarakauppa.
+
+        -   Päivittäistavarakaupassa tehdystä työstä lisät maksetaan
+            > työehto- sopimuksen 12 §:n mukaan.
+
+        -   Muusta kuin päivittäistavarakaupassa tehdystä työstä lisät
+            > maksetaan
+
+            1.  kohdan mukaan.
+
+###### *Hälytysraha* {#hälytysraha-3}
+
+4.  Hälytysraha maksetaan työntekijän poistuttua työpaikalta ja hänen
+    tullessa hälytyskutsusta työhön saman vuorokauden aikana
+    säännöllisen työajan ulkopuolella.
+
+> Hälytysraha on 2 tunnin palkka muun hälytystyöstä maksettavan palkan
+> lisäksi.
+
+5.  #### § Työasut
+
+    1.  Työnantaja hankkii työntekijälle työasun.
+
+    2.  Työnantaja huoltaa työasun, ellei työntekijän kanssa korvausta
+        vastaan toi- sin sovita.
+
+    3.  Työnantaja hankkii huoltoasentajalle, autonpesijälle ja
+        alustasuojaajalle suoja- vaatteet ja -jalkineet.
+
+# KIOSKIMYYJÄT
+
+1.  #### § Ulottuvuus
+
+    1.  Pöytäkirja koskee kiinteissä tai niihin rinnastettavissa
+        kioskeissa työskenteleviä kioskimyyjiä.
+
+> Kioski- ja siihen verrattavalla kaupalla tarkoitetaan kauppaa, jota
+> harjoitetaan liikehuoneistosta, jossa kioskikaupan vakinainen
+> liiketoimintakäytössä oleva myyntipinta-ala on enintään 100
+> neliömetriä.
+
+2.  Pöytäkirja ei koske ns. katukeittiöiden työntekijöitä.
+
+3.  Pöytäkirjan soveltamispiiriin kuuluviin kioskimyyjiin noudatetaan
+    soveltuvin osin työehtosopimuksen määräyksiä alla esitetyin
+    poikkeuksin.
+
+```{=html}
+<!-- -->
+```
+2.  #### § Palkat
+
+    1.  Kioskimyyjän palkkaryhmä on B1 (1.6.2024 alkaen B).
+
+3.  #### § Ilta- ja yölisä
+
+###### *Iltalisä*
+
+1.  Kello 18.00--23.00 tehdystä työstä maksetaan palkkaliitteen mukainen
+    iltalisä.
+
+###### *Yölisä*
+
+2.  Kello 23.00--06.00 tehdystä työstä maksetaan palkkaliitteen mukainen
+    yölisä.
+
+###### *Ilta- ja yölisät sunnuntaina*
+
+3.  Ilta- ja yölisät maksetaan yksinkertaisena sunnuntaina sekä
+    kirkollisena juhla-, vapun- ja itsenäisyyspäivänä tehdystä työstä.
+
+#### § Työaika
+
+> Työsopimuksessa sovitaan viikkotyöpäivien määrä.
+
+#### § Sunnuntaityö
+
+> Sunnuntaityö määräytyy työaikalain 17 §:n mukaan.
+>
+> Sunnuntaina tai kirkollisena juhla-, itsenäisyys- ja vapunpäivänä
+> tehdystä sään- nöllisestä työstä maksetaan kaksinkertainen palkka.
+>
+> Sunnuntaityökorvausta laskettaessa työaikalisiä ei oteta huomioon
+> peruspalkassa.
+>
+> Sunnuntaityökorvaus vanhenee työaikalain 40 §:n mukaan (kuten lisä- ja
+> ylityö- korvaukset, ks. työehtosopimus 9 § 20. kohta).
+
+# PROVISIOPALKKAISET MYYJÄT
+
+#### § Henkilökohtainen provisiopalkka
+
+> Provision osalta noudatetaan seuraavaa:
+
+-   Provisio maksetaan täysimääräisenä huolimatta kaupan jälkeen tava-
+    rassa ilmenneestä virheestä, jos virhe on syntynyt tavaran
+    valmistuksen tai
+
+> kuljetuksen aikana eikä se ole ollut tiedossa kauppaa tehtäessä.
+
+-   Myyjällä on oikeus työsuhteen päättymisen jälkeen erääntyviin
+    provisioihin samojen periaatteiden mukaan kuin työsuhteen jatkuessa.
+
+-   Siirrettäessä myyjä työsopimuksen mukaisesta työstä olennaisesti
+    poikke- avaan työhön siirron vaikutus provision kertymään
+    selvitetään.
+
+#### § Keskimääräinen päiväpalkka
+
+1.  Keskimääräinen päiväpalkka provision osalta lasketaan 2 kertaa
+    kalenterivuo- dessa 12 edellisen kalenterikuukauden (laskenta-aika)
+    ansion perusteella.
+
+> Laskenta-aikana säännölliseltä työajalta maksettu ja maksettavaksi
+> erääntynyt provisio jaetaan laskenta-ajan todellisilla työpäivillä.
+>
+> Tuntipalkka lasketaan jakamalla päiväpalkka työpäivän keskimääräisillä
+> tunneilla.
+
+2.  Liitot suosittelevat laskenta-ajoiksi 1.4.--31.3. ja 1.10.--30.9.
+    välisiä aikoja.
+
+3.  Työsuhteen alkaessa kesken kalenterivuotta käytetään
+    laskentaperusteena työsuhteeseen sisältyneiden kalenterikuukausien
+    keskimääräistä ansiota.
+
+> Muilta osin noudatetaan 1. kohtaa.
+
+# SOMISTAJAT
+
+1.  #### § Ulottuvuus
+
+    1.  Pöytäkirja koskee somistajia ja somistajaharjoittelijoita.
+
+    2.  Somistajiin ja somistajaharjoittelijoihin noudatetaan
+        työehtosopimuksen mää- räyksiä alla esitetyin poikkeuksin.
+
+2.  #### § Työpalkat
+
+###### *Palvelusaika*
+
+1.  Palvelusaikaan lasketaan tämän pöytäkirjan tarkoittamassa ammatissa
+    työs- kennelty aika.
+
+> Palvelusaika tarkoittaa kyseisessä vaativuustasossa työskenneltyä
+> aikaa.
+
+2.  Siirto vaativuustasossa määräytyy työehtosopimuksen 11 §:n 7. kohdan
+    mukaan.
+
+###### *Vaativuustasot*
+
+3.  Vaativuustasot ovat Somistaja I ja Somistaja II.
+
+> Somistaja kuuluu Somistaja I:een, elleivät työtehtävät edellytä hänen
+> kuulu- mistaan Somistaja II:een.
+>
+> Somistaja II:een kuuluu somistaja, joka itsenäisesti runko-ohjeen
+> mukaan suunnittelee ja tekee ikkunoiden, myyntipisteiden tai shoppien
+> somistuksia tai hoitaa lehti-ilmoituksia.
+
+###### *Erityisen vaativa somistus*
+
+4.  Somistajan tehdessä erityisen vaativaa somistusta hänelle maksetaan
+    vähin- tään Somistaja II:n palkkaa 20 %:lla korotettuna.
+
+> Erityisen vaativaa somistusta on esimerkiksi:
+
+-   sarjamainosteiden suunnittelu
+
+-   myymälöiden ja tavaratalojen vaativat mainonnalliset
+    sisustusratkaisut
+
+-   messu- tai näyttelyosastojen suunnittelu
+
+-   näytöksien showtekniikan järjestely.
 
 ###### *Työskentely vaativammassa tehtävässä*
-1. Lisä määräytyy työehtosopimuksen 11 §:n 5. kohdan mukaan. Työskentely vaativammassa tehtävässä huomioidaan työehtosopimuksen 11 §:n 5. koh- dan mukaan.
 
-Vaativammaksi voidaan katsoa myös tehtävä, jossa
+5.  Lisä määräytyy työehtosopimuksen 11 §:n 5. kohdan mukaan.
+    Työskentely vaativammassa tehtävässä huomioidaan työehtosopimuksen
+    11 §:n 5. koh- dan mukaan.
 
-0. toimitaan työnantajan nimeämänä työryhmän vanhimpana
-0. työskennellään toistuvasti likaisissa, raskaissa tai muuten poikkeukselli- sissa olosuhteissa.
+> Vaativammaksi voidaan katsoa myös tehtävä, jossa
 
-1. #### § Työasut
-1. Työnantaja hankkii vakinaiselle somistajalle käyttökelpoisen työasun.
+-   toimitaan työnantajan nimeämänä työryhmän vanhimpana
 
-1. Työnantaja omistaa ja huoltaa työasun, ellei työntekijän kanssa korvausta vas- taan toisin sovita.
+-   työskennellään toistuvasti likaisissa, raskaissa tai muuten
+    poikkeukselli- sissa olosuhteissa.
 
-B
-# ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.068.png)<a name="2 §  vaativuustasot"></a><a name="tukkumyyjät ja ostajat"></a><a name="_bookmark78"></a>TUKKUMYYJÄT JA OSTAJAT
+#### § Työasut
 
-1. #### § Ulottuvuus
-Ammattiryhmäpöytäkirjat
-   1. ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.069.png)Pöytäkirja koskee tukkukaupan tukkumyyjiä ja myyntityöhön liittyvässä asia- kasneuvonnassa työskenteleviä.
+1.  Työnantaja hankkii vakinaiselle somistajalle käyttökelpoisen
+    työasun.
 
-1. Pöytäkirja ei koske tukkumyyjää, joka saa osan tai koko palkan provisiona.
+2.  Työnantaja omistaa ja huoltaa työasun, ellei työntekijän kanssa
+    korvausta vas- taan toisin sovita.
 
-1. #### § Vaativuustasot
-   1. Vaativuustasoihin sijoittelussa otetaan huomioon mm. seuraavia vaativuus- tekijöitä:
+# TUKKUMYYJÄT JA OSTAJAT
 
-      0. tehtävän edellyttämä aktiivisuus ja itsenäisyys
-      0. vastuu ja itsenäisen päätöksenteon laajuus
-      0. tehtävän edellyttämä erityisasiantuntemus
-      0. liiketaloudellisten tekijöiden hallinta
-      0. suunnittelutehtävät
-      0. uusien asiakkaiden hankinta
-      0. ohjaus- ja esihenkilötehtävät.
-   1. Tukkumyyjien vaativuustasot ovat seuraavat:
+1.  #### § Ulottuvuus
 
-Tukkumyyjä I
+    1.  Pöytäkirja koskee tukkukaupan tukkumyyjiä ja myyntityöhön
+        liittyvässä asia- kasneuvonnassa työskenteleviä.
 
-Normaali myyntityö, jolle on tyypillistä:
+    2.  Pöytäkirja ei koske tukkumyyjää, joka saa osan tai koko palkan
+        provisiona.
 
-0. myynti ja tarjonta ohjeiden mukaan
-0. tilausten vastaanotto
-0. myyntimatkat ohjeiden mukaan
-0. täydennystilaukset
-0. vastaavan tasoinen ostotyö ohjeiden mukaan. Tukkumyyjä I:n palkkaryhmä on D.
+2.  #### § Vaativuustasot
 
-B
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.072.png)<a name="3 § muut määräykset"></a><a name="_bookmark79"></a>Tukkumyyjä II
+    1.  Vaativuustasoihin sijoittelussa otetaan huomioon mm. seuraavia
+        vaativuus- tekijöitä:
 
-Vaativa myyntityö, jolle on tyypillistä:
+        -   tehtävän edellyttämä aktiivisuus ja itsenäisyys
 
-- vastuu tavararyhmän kaikkien artikkeleiden tarjonnasta ja myynnistä
-- osallistuminen myös ostotoimintaan
-- asiakkaiden ohjaus ja neuvonta
+        -   vastuu ja itsenäisen päätöksenteon laajuus
 
-Ammattiryhmäpöytäkirjat
-- ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.073.png)myynnin edistäminen
-- myyntimatkat ohjeiden mukaan
-- vastaavan tasoinen ostotyö.
+        -   tehtävän edellyttämä erityisasiantuntemus
 
-Tukkumyyjä III
+        -   liiketaloudellisten tekijöiden hallinta
 
-Erittäin vaativa myyntityö, jolle on tyypillistä:
+        -   suunnittelutehtävät
 
-- tehtävien itsenäisyys, esimerkiksi vuosisopimusten, asiakkaiden ja tarjo- usten suhteen
-- vaativien markkinointitehtävien itsenäinen suunnittelu, toteutus ja seuranta
-- vastaavan tasoinen ostotyö.
+        -   uusien asiakkaiden hankinta
 
-Tukkumyyjä II:n ja III:n taulukkopalkat ovat palkkaliitteessä.
+        -   ohjaus- ja esihenkilötehtävät.
 
-1. #### § Muut määräykset
-Muuten noudatetaan työehtosopimuksen ja sen toimihenkilöiden työehtomääräyksiä.
+    2.  Tukkumyyjien vaativuustasot ovat seuraavat:
 
-B
-# ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.068.png)<a name="1 §  suorituspalkkaus"></a><a name="varastotyöntekijä"></a><a name="_bookmark80"></a>LOGISTIIKKATYÖNTEKIJÄT
+> Tukkumyyjä I
+>
+> Normaali myyntityö, jolle on tyypillistä:
 
-1. #### § Suorituspalkkaus
-Ammattiryhmäpöytäkirjat
-   1. ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.069.png)Suorituspalkka muodostuu kiinteästä ja muuttuvasta palkanosasta. Muuttuva palkanosa perustuu pääasiallisesti työsuorituksen määrän ja laadun mittaami- seen, joko yksilöllisesti tai ryhmäkohtaisesti. Suorituspalkalla ei tarkoiteta palk- kiopalkkaa eikä tulos- ja voittopalkkioita.
+-   myynti ja tarjonta ohjeiden mukaan
 
-1. Suorituspalkkatyön tarkoituksena on työntekijän ansion nousu työehtosopi- muksen mukaista palkkaa korkeammaksi tavanomaista tehokkaamman ja laa- dukkaamman työskentelyn johdosta.
+-   tilausten vastaanotto
 
-1. Työntekijällä on oikeus ennen työn aloittamista saada tiedot suorituspalkka- työn palkkaperusteista. Olennaiset muutokset työsuoritukseen vaikuttavissa tekijöissä tulee viipymättä ottaa huomioon palkkaperusteissa, muutoin ne pysyvät ennallaan.
+-   myyntimatkat ohjeiden mukaan
 
-1. Työn keskeytyessä työntekijästä riippumattomasta syystä pyritään hänelle järjestämään muuta suorituspalkkatyötä. Tämän ollessa mahdotonta työnte- kijälle maksetaan työehtosopimuksen mukainen palkka ilman suoritetta ottaen huomioon työsopimuslain 2:12 §:n säännökset.
+-   täydennystilaukset
 
-1. Suorite otetaan huomioon sairausajan ja vuosiloma-ajan palkoissa, jos sitä ei muutoin makseta näiltä ajoilta. Maksettaessa lisä- ja ylityöltä suoritetta se ote- taan huomioon lisä- ja ylityökorvauksissa.
+-   vastaavan tasoinen ostotyö ohjeiden mukaan. Tukkumyyjä I:n
+    palkkaryhmä on D.
 
-Edellä esitetystä voidaan työpaikkakohtaisesti (työehtosopimuksen 23 §:n mukaisesti) sopia toisin. Jos työpaikalla on luottamusmies, asiasta sovitaan hänen kanssaan.
+> []{#_bookmark79 .anchor}Tukkumyyjä II
+>
+> Vaativa myyntityö, jolle on tyypillistä:
 
-1. Suorituspalkkatyöhön liittyvät työntutkimukset tehdään avoimesti. Muuten niihin noudatetaan soveltuvin osin yhteistoimintasopimuksen 4:2 §:n mää- räyksiä. Työntutkimusten tulokset otetaan huomioon suorituspalkkausta kehitettäessä.
+-   vastuu tavararyhmän kaikkien artikkeleiden tarjonnasta ja myynnistä
 
-1. Luottamusmies voi perustellusta syystä pyytää suorituspalkkatyön palkkape- rusteiden tarkistamista. Tähän liittyvät selvitykset ja mahdolliset muutokset tehdään viivytyksettä, kuitenkin viimeistään 2 kuukauden kuluessa.
+-   osallistuminen myös ostotoimintaan
 
-Luottamusmiehen koulutustarve suorituspalkkausasioissa tulee ottaa huo- mioon järjestettäessä koulutussopimuksen mukaista ay- ja yhteistä koulutusta.
+-   asiakkaiden ohjaus ja neuvonta
 
-B
-1. #### ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.072.png)<a name="4 § sairauspoissaolojen määrän tarkastel"></a><a name="3 § eräistä määräyksistä toisin sopimine"></a><a name="2 § yleiskorotus suorituspalkassa"></a><a name="_bookmark81"></a>§ Yleiskorotus suorituspalkassa
-Liittojen välillä sovittavat yleiskorotukset vaikuttavat logistiikkatyöntekijöiden palkankorotuksiin suoritteiden osalta niissä yrityksissä, joissa on käytössä suo- ritejärjestelmä palkankorotushetkellä.
+-   myynnin edistäminen
 
-Ammattiryhmäpöytäkirjat
+-   myyntimatkat ohjeiden mukaan
 
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.073.png)Palkankorotus suoritteiden osalta toteutetaan näissä yrityksissä työnantajan päättämällä tavalla jommallakummalla alla olevista malleista.
+-   vastaavan tasoinen ostotyö.
 
-Vaihtoehtoisesti suoritteen korotusosan laskemisesta, jakamisesta tai korvaa- misesta voidaan työpaikkakohtaisesti (työehtosopimuksen 23 §:n mukaisesti) sopia toisin.
+> Tukkumyyjä III
+>
+> Erittäin vaativa myyntityö, jolle on tyypillistä:
 
-1. Työntekijän keskimääräisestä suorituspalkasta lasketaan yleiskorotuspro- sentin mukainen osuus. Näin saadulla euromäärällä korotetaan työntekijän henkilökohtaista kuukausipalkkaa tai tuntipalkkaa seuraavana palkkapäivänä.
-1. Yleiskorotuksella korotetaan suoritteen yksikköhintoja, suoritekertoimia tai niihin verrattavia suorite-elementtejä siten, että vastaava työsuoritus tuot- taa aiempaan verrattuna yleiskorotuksen verran suuremman suorituspalkan.
+-   tehtävien itsenäisyys, esimerkiksi vuosisopimusten, asiakkaiden ja
+    tarjo- usten suhteen
 
-1. #### § Eräistä määräyksistä toisin sopiminen
-   1. Suorituspalkan ja työaikalisien vaihtamisesta vastaavaksi vapaaksi voivat työn- antaja ja logistiikkatyöntekijä sopia työpaikkakohtaisesti (työehtosopimuksen 23 §:n mukaisesti). Vapaan vaihtamiseen ja pitämiseen sovelletaan lomaraha- vapaata ja työaikapankkivapaata koskevia määräyksiä.
-   1. Työehtosopimuksen 7 §:n 3. kohdan 3. kappaleen määräyksestä, jonka mukaan työvuoroluetteloa laadittaessa vapaapäivien välissä voi olla enintään 8 työpäivää, voidaan työpaikkakohtaisesti (työehtosopimuksen 23 §:n mukaisesti) sopia toisin.
-   1. Työehtosopimuksen 6 §:n 5. kohdan määräyksestä, jonka mukaan tasoittumis- jakso voi olla enintään 26 viikkoa, voidaan työpaikkakohtaisesti (työehtosopi- muksen 23 §:n mukaisesti) sopia toisin. Tasoittumisjakso voi olla toisin sopi- malla kuitenkin enintään 52 viikkoa.
+-   vaativien markkinointitehtävien itsenäinen suunnittelu, toteutus ja
+    seuranta
 
-Työehtosopimuksen 6 §:n 6. kohdan määräykset eivät koske logistiikka- työntekijöitä.
+-   vastaavan tasoinen ostotyö.
 
-1. #### § Sairauspoissaolojen määrän tarkastelu ja vähentäminen
-   1. Työnantaja ja logistiikkatyöntekijät sitoutuvat säännöllisesti tarkastelemaan sairauspoissaoloja sekä kehittämään ja toteuttamaan keinoja niiden määrän vähentämiseksi.
+> Tukkumyyjä II:n ja III:n taulukkopalkat ovat palkkaliitteessä.
 
-C
-# ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.074.png)<a name="arkipyhäjärjestelmä"></a><a name="arkipyhäjärjestelmän käyttöönotto"></a><a name="arkipyhäviikon työajan lyhennys"></a><a name="työaikapöytäkirjat"></a><a name="_bookmark82"></a>TYÖAIKAPÖYTÄKIRJAT ARKIPYHÄJÄRJESTELMÄ
+#### § Muut määräykset
+
+> Muuten noudatetaan työehtosopimuksen ja sen toimihenkilöiden
+> työehtomääräyksiä.
+
+# LOGISTIIKKATYÖNTEKIJÄT
+
+1.  #### § Suorituspalkkaus
+
+    1.  Suorituspalkka muodostuu kiinteästä ja muuttuvasta palkanosasta.
+        Muuttuva palkanosa perustuu pääasiallisesti työsuorituksen
+        määrän ja laadun mittaami- seen, joko yksilöllisesti tai
+        ryhmäkohtaisesti. Suorituspalkalla ei tarkoiteta palk-
+        kiopalkkaa eikä tulos- ja voittopalkkioita.
+
+    2.  Suorituspalkkatyön tarkoituksena on työntekijän ansion nousu
+        työehtosopi- muksen mukaista palkkaa korkeammaksi tavanomaista
+        tehokkaamman ja laa- dukkaamman työskentelyn johdosta.
+
+    3.  Työntekijällä on oikeus ennen työn aloittamista saada tiedot
+        suorituspalkka- työn palkkaperusteista. Olennaiset muutokset
+        työsuoritukseen vaikuttavissa tekijöissä tulee viipymättä ottaa
+        huomioon palkkaperusteissa, muutoin ne pysyvät ennallaan.
+
+    4.  Työn keskeytyessä työntekijästä riippumattomasta syystä pyritään
+        hänelle järjestämään muuta suorituspalkkatyötä. Tämän ollessa
+        mahdotonta työnte- kijälle maksetaan työehtosopimuksen mukainen
+        palkka ilman suoritetta ottaen huomioon työsopimuslain 2:12 §:n
+        säännökset.
+
+    5.  Suorite otetaan huomioon sairausajan ja vuosiloma-ajan
+        palkoissa, jos sitä ei muutoin makseta näiltä ajoilta.
+        Maksettaessa lisä- ja ylityöltä suoritetta se ote- taan huomioon
+        lisä- ja ylityökorvauksissa.
+
+> Edellä esitetystä voidaan työpaikkakohtaisesti (työehtosopimuksen 23
+> §:n mukaisesti) sopia toisin. Jos työpaikalla on luottamusmies,
+> asiasta sovitaan hänen kanssaan.
+
+6.  Suorituspalkkatyöhön liittyvät työntutkimukset tehdään avoimesti.
+    Muuten niihin noudatetaan soveltuvin osin yhteistoimintasopimuksen
+    4:2 §:n mää- räyksiä. Työntutkimusten tulokset otetaan huomioon
+    suorituspalkkausta kehitettäessä.
+
+7.  Luottamusmies voi perustellusta syystä pyytää suorituspalkkatyön
+    palkkape- rusteiden tarkistamista. Tähän liittyvät selvitykset ja
+    mahdolliset muutokset tehdään viivytyksettä, kuitenkin viimeistään 2
+    kuukauden kuluessa.
+
+> Luottamusmiehen koulutustarve suorituspalkkausasioissa tulee ottaa
+> huo- mioon järjestettäessä koulutussopimuksen mukaista ay- ja yhteistä
+> koulutusta.
+
+#### § Yleiskorotus suorituspalkassa
+
+> Liittojen välillä sovittavat yleiskorotukset vaikuttavat
+> logistiikkatyöntekijöiden palkankorotuksiin suoritteiden osalta niissä
+> yrityksissä, joissa on käytössä suo- ritejärjestelmä
+> palkankorotushetkellä.
+>
+> Palkankorotus suoritteiden osalta toteutetaan näissä yrityksissä
+> työnantajan päättämällä tavalla jommallakummalla alla olevista
+> malleista.
+>
+> Vaihtoehtoisesti suoritteen korotusosan laskemisesta, jakamisesta tai
+> korvaa- misesta voidaan työpaikkakohtaisesti (työehtosopimuksen 23 §:n
+> mukaisesti) sopia toisin.
+
+A.  Työntekijän keskimääräisestä suorituspalkasta lasketaan
+    yleiskorotuspro- sentin mukainen osuus. Näin saadulla euromäärällä
+    korotetaan työntekijän henkilökohtaista kuukausipalkkaa tai
+    tuntipalkkaa seuraavana palkkapäivänä.
+
+B.  Yleiskorotuksella korotetaan suoritteen yksikköhintoja,
+    suoritekertoimia tai niihin verrattavia suorite-elementtejä siten,
+    että vastaava työsuoritus tuot- taa aiempaan verrattuna
+    yleiskorotuksen verran suuremman suorituspalkan.
+
+```{=html}
+<!-- -->
+```
+3.  #### § Eräistä määräyksistä toisin sopiminen
+
+    1.  Suorituspalkan ja työaikalisien vaihtamisesta vastaavaksi
+        vapaaksi voivat työn- antaja ja logistiikkatyöntekijä sopia
+        työpaikkakohtaisesti (työehtosopimuksen 23 §:n mukaisesti).
+        Vapaan vaihtamiseen ja pitämiseen sovelletaan lomaraha- vapaata
+        ja työaikapankkivapaata koskevia määräyksiä.
+
+    2.  Työehtosopimuksen 7 §:n 3. kohdan 3. kappaleen määräyksestä,
+        jonka mukaan työvuoroluetteloa laadittaessa vapaapäivien välissä
+        voi olla enintään 8 työpäivää, voidaan työpaikkakohtaisesti
+        (työehtosopimuksen 23 §:n mukaisesti) sopia toisin.
+
+    3.  Työehtosopimuksen 6 §:n 5. kohdan määräyksestä, jonka mukaan
+        tasoittumis- jakso voi olla enintään 26 viikkoa, voidaan
+        työpaikkakohtaisesti (työehtosopi- muksen 23 §:n mukaisesti)
+        sopia toisin. Tasoittumisjakso voi olla toisin sopi- malla
+        kuitenkin enintään 52 viikkoa.
+
+> Työehtosopimuksen 6 §:n 6. kohdan määräykset eivät koske logistiikka-
+> työntekijöitä.
+
+4.  #### § Sairauspoissaolojen määrän tarkastelu ja vähentäminen
+
+    1.  Työnantaja ja logistiikkatyöntekijät sitoutuvat säännöllisesti
+        tarkastelemaan sairauspoissaoloja sekä kehittämään ja
+        toteuttamaan keinoja niiden määrän vähentämiseksi.
+
+# TYÖAIKAPÖYTÄKIRJAT ARKIPYHÄJÄRJESTELMÄ
+
 ###### *Arkipyhäjärjestelmän käyttöönotto*
-Työaikapöytäkirjat
-1. ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.075.png)Vuosivapaajärjestelmän sijaan voidaan yrityksessä tai sen osassa ottaa käyttöön arkipyhäjärjestelmä. Valittua järjestelmää ei voida vaihtaa kesken kalenterivuoden.
-1. Tämän pöytäkirjan arkipyhälyhennyksiä koskevat kohdat 3.–7. korvaavat työ- ehtosopimuksen 7 §:n vuosivapaita koskevat kohdat 4.–9.
+
+1.  Vuosivapaajärjestelmän sijaan voidaan yrityksessä tai sen osassa
+    ottaa käyttöön arkipyhäjärjestelmä. Valittua järjestelmää ei voida
+    vaihtaa kesken kalenterivuoden.
+
+2.  Tämän pöytäkirjan arkipyhälyhennyksiä koskevat kohdat 3.--7.
+    korvaavat työ- ehtosopimuksen 7 §:n vuosivapaita koskevat kohdat
+    4.--9.
 
 ###### *Arkipyhäviikon työajan lyhennys*
-1. Työaikaa lyhentävä arkipyhä vähentää kyseisen viikon tai tasoittumisjärjes- telmän työpäivien määrää 1:llä ja työtuntien määrää 7,5 tunnilla (7 tunnilla 30 minuutilla).
-1. Työajan lyhennys toteutetaan antamalla vapaapäivä:
 
-   0. arkipyhäviikolla
-   0. 2 edeltävänä viikkona
-   0. 2 seuraavana viikkona tai
-   0. tasoittumisjärjestelmässä.
+3.  Työaikaa lyhentävä arkipyhä vähentää kyseisen viikon tai
+    tasoittumisjärjes- telmän työpäivien määrää 1:llä ja työtuntien
+    määrää 7,5 tunnilla (7 tunnilla 30 minuutilla).
 
-Toimihenkilön työajan lyhennys tasoittumisjärjestelmässä edellyttää työpaik- kakohtaista sopimista (työehtosopimuksen 23 §:n mukaisesti), ellei kyseessä ole työehtosopimuksen 7 §:n 1. kohdassa määritelty yrityksen liiketoiminnasta johtuva perusteltu syy.
+4.  Työajan lyhennys toteutetaan antamalla vapaapäivä:
 
-Lauantain ollessa kiinteä vapaapäivä se on vapaa myös arkipyhäviikolla.
+    -   arkipyhäviikolla
 
-Esimerkki 45
+    -   2 edeltävänä viikkona
 
-*Yritys ei käytä työajan tasoittumisjärjestelmää:*
+    -   2 seuraavana viikkona tai
 
-Myyjän keskimääräinen viikkotyöaika on 37,5 tuntia. Arkipyhäviikko on viikolla 14. Työajan lyhennys voidaan toteuttaa viikoilla 12–16 lyhentämällä valitun viikon työpäivien määrää 1:llä ja viikkotyöaikaa 7,5 tunnilla (7 tun- nilla 30 minuutilla). Lyhennysviikolla työpäiviä on 4 ja viikkotyöaika on
+    -   tasoittumisjärjestelmässä.
 
-30 tuntia (30 tuntia).
+> Toimihenkilön työajan lyhennys tasoittumisjärjestelmässä edellyttää
+> työpaik- kakohtaista sopimista (työehtosopimuksen 23 §:n mukaisesti),
+> ellei kyseessä ole työehtosopimuksen 7 §:n 1. kohdassa määritelty
+> yrityksen liiketoiminnasta johtuva perusteltu syy.
+>
+> Lauantain ollessa kiinteä vapaapäivä se on vapaa myös
+> arkipyhäviikolla.
+>
+> Esimerkki 46
+>
+> *Yritys käyttää työajan tasoittumisjärjestelmää:*
+>
+> Myyjän keskimääräinen viikkotyöaika on 37,5 tuntia. Arkipyhäviikko on
+> 6 viikon tasoittumisjärjestelmän 3. viikolla.
 
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.076.png)
+6.  viikon tasoittumisjärjestelmä:
 
+Viikko 1 2 3 4 5 6 Työtuntien määrä
 
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.077.png)Esimerkki 46
+225 -- 7,5 = 217,5t
 
-*Yritys käyttää työajan tasoittumisjärjestelmää:*
+> Arkipyhäviikko (217 tuntia 30 minuuttia)
+>
+> Lyhennys toteutetaan vähentämällä minkä tahansa viikon työpäivien mää-
+> rää 1:llä ja jakson työtuntien määrää 7,5 tunnilla (7 tunnilla 30
+> minuutilla). Jakson normaali työpäivien määrä on 6 x 5 = 30 työpäivää.
+> Jakson nor- maali tuntimäärä on 6 x 37,5 tuntia = 225 tuntia. Lyhennys
+> toteutuu teet- tämällä jaksossa 29 työpäivää ja 217,5 tuntia (217
+> tuntia 30 minuuttia).
+
+1.  Työaikaa lyhentävät:
+
+    -   pitkäperjantai
+
+    -   pääsiäismaanantai
+
+    -   helatorstai
+
+    -   juhannuspäivä.
+
+> Työaikaa lyhentävät myös maanantaista perjantaihin sijoittuvat:
+
+-   uudenvuodenpäivä
+
+-   loppiainen
+
+-   vapunpäivä
+
+-   itsenäisyyspäivä
+
+-   jouluaatto
+
+-   tapaninpäivä.
+
+2.  Työntekijä on oikeutettu arkipyhälyhennykseen edellyttäen, että
+    työsuhde ennen arkipyhää on kestänyt vähintään kuukauden. Työsuhteen
+    kestoa kos- keva ehto ei koske itsenäisyyspäivästä johtuvaa työajan
+    lyhennystä.
+
+3.  Alle 37,5 tuntia tekevälle annetaan arkipyhäviikon työajan lyhennys:
+
+    -   rahakorvauksena tehtyjen työtuntien lisäksi lyhennysjakson
+        > tilissä tai
+
+    -   palkallisena vapaana lyhennysjakson aikana.
+
+> Rahakorvaus tai työajan lyhennys lasketaan jakamalla työsopimuksessa
+> sovittu viikkotyöaika 5:llä.
+
+###### *Lisä- ja ylityö*
+
+4.  Lisä- ja ylityön osalta noudatetaan työehtosopimuksen 9 §:n
+    määräyksiä.
+
+###### *Korotettu palkka*
+
+5.  Korotetun palkan laskennan osalta noudatetaan työehtosopimuksen 9
+    §:n määräyksiä.
+
+> Kokoaikatyöntekijälle maksetaan arkipyhäviikon enimmäistyöajan
+> ylittävästä työstä 50 %:lla korotettu palkka.
+>
+> Kokoaikatyöntekijällä arkipyhäviikon enimmäistyöaika on 30 tuntia 1
+> arkipy- hän lyhentäessä työaikaa ja 22,5 tuntia (22 tuntia 30
+> minuuttia) 2 arkipyhän lyhentäessä työaikaa.
+
+6.  Laskettaessa korotettua palkkaa tasoittumisjaksossa, tulee
+    tasoittumisjakso- jen viikkojen enimmäistyöajasta vähentää
+    kokoaikatyöntekijän arkipyhälyhen- nysten lukumäärä x 7,5 tuntia.
+
+> Esimerkki 49
+>
+> *37,5 tuntia tekevä työntekijä, yritys käyttää
+> tasoittumisjärjestelmää*
+>
+> Työpaikalla on käytössä 12 viikon tasoittumisjärjestelmä, jolloin
+> jakson viik- kojen enimmäistyöaika on (12 x 37,5) 450 tuntia. Jaksoon
+> sisältyy 1 arkipyhä.
+>
+> Työntekijä on tehnyt jakson aikana 500 tuntia, joista 10 tuntia
+> vuorokau- dessa ylittäviä tunteja on 15. Tehdyistä tunneista
+> vähennetään erikseen 50 %:lla korvattavat 10 tuntia ylittävät tunnit
+> (500 -- 15), jolloin tunteja jää
+>
+> 485\. Tästä tuntimäärästä vähennetään kyseisen jakson viikkojen
+> enimmäis- työaika 12 x 37,5 -- 7,5 = 442,5 tuntia (442 tuntia 30
+> minuuttia), jolloin
+>
+> 50 %:lla korvataan 42,5 tuntia (42 tuntia 30 minuuttia).
+>
+> Työntekijälle maksetaan normaalin palkan lisäksi 50 %:lla korotettu
+> palkka yhteensä (15 + 42,5) 57,5 tunnilta (57 tunnilta 30 minuutilta).
+>
+> Ylityökirjanpitoon kirjataan tasoittumisjaksossa keskimäärin 40 tuntia
+> vii- kossa ylittävä työ eli 20 tuntia (500 tuntia -- 12 x 40 tuntia).
+>
+> Esimerkki 50
+>
+> *Alle 37,5 tuntia tekevä tuntipalkkainen, yritys käyttää
+> tasoittumisjärjestelmää*
+>
+> Alle 37,5 tuntia tekevän sovittu viikkotyöaika on 30 tuntia.
+> Työpaikalla on käy- tössä 12 viikon tasoittumisjärjestelmä. Jakson
+> suunniteltu tuntimäärä on (12 x 30) 360 tuntia. Jaksoon sisältyy 1
+> arkipyhä, josta maksetaan rahakorvaus.
+>
+> Työntekijä on tehnyt jakson aikana 500 tuntia, joista 10 tuntia
+> vuorokau- dessa ylittäviä tunteja on 15. Tehdyistä tunneista
+> vähennetään erikseen 50 %:lla korvattavat 10 tuntia ylittävät tunnit
+> (500 -- 15), jolloin tunteja jää
+>
+> 485\. Tästä tuntimäärästä vähennetään jakson viikkojen enimmäistyöaika
+> 450 tuntia (12 x 37,5), jolloin 50 %:lla korvattavia tunteja jää 35.
+>
+> Kyseiseltä tasoittumisjaksolta työntekijälle maksetaan yksinkertainen
+> tun- tipalkka suunnitelluista 360 tunnista ja jakson viikkojen
+> enimmäistyöajan ja suunnitellun työajan erotuksesta (450 -- 360) 90
+> tunnista. Yksinkertainen tuntipalkka maksetaan yhteensä 450 tunnista
+> (360 + 90). Työntekijä saa jaksolta 50 %:lla korotetun palkan 50
+> tunnilta (15 + 35). Lisäksi hänelle mak- setaan arkipyhäviikon
+> lyhennyskorvauksena 6 tunnin palkka.
+>
+> Ylityökirjanpitoon kirjataan tasoittumisjaksossa keskimäärin 40 tuntia
+> vii- kossa ylittävä työ eli 20 tuntia (500 tuntia -- 12 x 40 tuntia).
+
+# VUOSITYÖAJAN LYHENNYS
 
-C
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.078.png)Myyjän keskimääräinen viikkotyöaika on 37,5 tuntia. Arkipyhäviikko on 6 viikon tasoittumisjärjestelmän 3. viikolla.
-
-1. viikon tasoittumisjärjestelmä:
-
-Työaikapöytäkirjat
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.079.png)Viikko	1	2	3	4	5	6	Työtuntien määrä
-
-225 – 7,5 = 217,5t
-
-Arkipyhäviikko	(217 tuntia 30 minuuttia)
-
-Lyhennys toteutetaan vähentämällä minkä tahansa viikon työpäivien mää- rää 1:llä ja jakson työtuntien määrää 7,5 tunnilla (7 tunnilla 30 minuutilla). Jakson normaali työpäivien määrä on 6 x 5 = 30 työpäivää. Jakson nor- maali tuntimäärä on 6 x 37,5 tuntia = 225 tuntia. Lyhennys toteutuu teet- tämällä jaksossa 29 työpäivää ja 217,5 tuntia (217 tuntia 30 minuuttia).
-
-
-1. Työaikaa lyhentävät:
-
-   0. pitkäperjantai
-   0. pääsiäismaanantai
-   0. helatorstai
-   0. juhannuspäivä.
-
-Työaikaa lyhentävät myös maanantaista perjantaihin sijoittuvat:
-
-0. uudenvuodenpäivä
-0. loppiainen
-0. vapunpäivä
-0. itsenäisyyspäivä
-0. jouluaatto
-0. tapaninpäivä.
-
-1. Työntekijä on oikeutettu arkipyhälyhennykseen edellyttäen, että työsuhde ennen arkipyhää on kestänyt vähintään kuukauden. Työsuhteen kestoa kos- keva ehto ei koske itsenäisyyspäivästä johtuvaa työajan lyhennystä.
-
-Esimerkki 47
-
-Työsuhde on alkanut 24.11. Työsuhde on kestänyt jouluaattoon mennessä 1 kuukauden, joten työntekijä saa maanantaista perjantaille sijoittuvalta jouluaatolta arkipyhälyhennyksen.
-
-Lisäksi työntekijä saa maanantaista perjantaihin sijoittuvalta itsenäisyys- päivältä työajan lyhennyksen.
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.080.png)
-
-C
-
-Työaikapöytäkirjat
-1. ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.074.png)![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.075.png)Alle 37,5 tuntia tekevälle annetaan arkipyhäviikon työajan lyhennys:
-
-   0. rahakorvauksena tehtyjen työtuntien lisäksi lyhennysjakson tilissä tai
-   0. palkallisena vapaana lyhennysjakson aikana.
-
-Rahakorvaus tai työajan lyhennys lasketaan jakamalla työsopimuksessa sovittu viikkotyöaika 5:llä.
-
-Esimerkki 48
-
-Työntekijän sovittu keskimääräinen viikkotyöaika on 20 tuntia.
-
-Arkipyhäviikon (esim. juhannusviikon) työajan lyhennys (4 tuntia) voidaan antaa kahdella tavalla:
-
-- *rahana*
-
-Työntekijä tekee kyseisellä viikolla sovitun 20 tuntia ja saa palkan 24 tunnilta.
-
-tai
-
-- *työajan lyhennyksenä*
-
-Työntekijä tekee kyseisellä viikolla 16 tuntia ja saa palkan 20 tunnilta.
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.081.png)
-
-###### <a name="lisä- ja ylityö"></a><a name="_bookmark83"></a>*Lisä- ja ylityö*
-1. Lisä- ja ylityön osalta noudatetaan työehtosopimuksen 9 §:n määräyksiä.
-
-C
-###### ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.078.png)*Korotettu palkka*
-1. Korotetun palkan laskennan osalta noudatetaan työehtosopimuksen 9 §:n määräyksiä.
-
-Työaikapöytäkirjat
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.079.png)Kokoaikatyöntekijälle maksetaan arkipyhäviikon enimmäistyöajan ylittävästä työstä 50 %:lla korotettu palkka.
-
-Kokoaikatyöntekijällä arkipyhäviikon enimmäistyöaika on 30 tuntia 1 arkipy- hän lyhentäessä työaikaa ja 22,5 tuntia (22 tuntia 30 minuuttia) 2 arkipyhän lyhentäessä työaikaa.
-
-1. Laskettaessa korotettua palkkaa tasoittumisjaksossa, tulee tasoittumisjakso- jen viikkojen enimmäistyöajasta vähentää kokoaikatyöntekijän arkipyhälyhen- nysten lukumäärä x 7,5 tuntia.
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.082.png)Esimerkki 49
-
-*37,5 tuntia tekevä työntekijä, yritys käyttää tasoittumisjärjestelmää*
-
-Työpaikalla on käytössä 12 viikon tasoittumisjärjestelmä, jolloin jakson viik- kojen enimmäistyöaika on (12 x 37,5) 450 tuntia. Jaksoon sisältyy 1 arkipyhä.
-
-Työntekijä on tehnyt jakson aikana 500 tuntia, joista 10 tuntia vuorokau- dessa ylittäviä tunteja on 15. Tehdyistä tunneista vähennetään erikseen 50 %:lla korvattavat 10 tuntia ylittävät tunnit (500 – 15), jolloin tunteja jää
-
-485\. Tästä tuntimäärästä vähennetään kyseisen jakson viikkojen enimmäis- työaika 12 x 37,5 – 7,5 = 442,5 tuntia (442 tuntia 30 minuuttia), jolloin
-
-50 %:lla korvataan 42,5 tuntia (42 tuntia 30 minuuttia).
-
-Työntekijälle maksetaan normaalin palkan lisäksi 50 %:lla korotettu palkka yhteensä (15 + 42,5) 57,5 tunnilta (57 tunnilta 30 minuutilta).
-
-Ylityökirjanpitoon kirjataan tasoittumisjaksossa keskimäärin 40 tuntia vii- kossa ylittävä työ eli 20 tuntia (500 tuntia – 12 x 40 tuntia).
-
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.083.png)Esimerkki 50
-
-C
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.074.png)*Alle 37,5 tuntia tekevä tuntipalkkainen, yritys käyttää tasoittumisjärjestelmää*
-
-Alle 37,5 tuntia tekevän sovittu viikkotyöaika on 30 tuntia. Työpaikalla on käy- tössä 12 viikon tasoittumisjärjestelmä. Jakson suunniteltu tuntimäärä on (12 x 30) 360 tuntia. Jaksoon sisältyy 1 arkipyhä, josta maksetaan rahakorvaus.
-
-Työaikapöytäkirjat
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.075.png)Työntekijä on tehnyt jakson aikana 500 tuntia, joista 10 tuntia vuorokau- dessa ylittäviä tunteja on 15. Tehdyistä tunneista vähennetään erikseen 50 %:lla korvattavat 10 tuntia ylittävät tunnit (500 – 15), jolloin tunteja jää
-
-485\. Tästä tuntimäärästä vähennetään jakson viikkojen enimmäistyöaika 450 tuntia (12 x 37,5), jolloin 50 %:lla korvattavia tunteja jää 35.
-
-Kyseiseltä tasoittumisjaksolta työntekijälle maksetaan yksinkertainen tun- tipalkka suunnitelluista 360 tunnista ja jakson viikkojen enimmäistyöajan ja suunnitellun työajan erotuksesta (450 – 360) 90 tunnista. Yksinkertainen tuntipalkka maksetaan yhteensä 450 tunnista (360 + 90). Työntekijä saa jaksolta 50 %:lla korotetun palkan 50 tunnilta (15 + 35). Lisäksi hänelle mak- setaan arkipyhäviikon lyhennyskorvauksena 6 tunnin palkka.
-
-Ylityökirjanpitoon kirjataan tasoittumisjaksossa keskimäärin 40 tuntia vii- kossa ylittävä työ eli 20 tuntia (500 tuntia – 12 x 40 tuntia).
-
-# <a name="vuosityöajan lyhennys"></a><a name="soveltamisala"></a><a name="lyhennysmallit"></a><a name="lyhennys paikallisesti sopien"></a><a name="_bookmark84"></a>VUOSITYÖAJAN LYHENNYS
 ###### *Soveltamisala*
-C
-1. ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.078.png)Vuosityöajan lyhentäminen 116 tunnilla koskee työaikamuotoja, joissa sään- nöllinen viikkotyöaika on keskimäärin 40 tuntia.
 
-Työaikapöytäkirjat
-1. ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.079.png)Lyhennystä vähentävät paikalliseen sopimukseen tai käytäntöön perustuvat työaikaa lyhentävät:
+1.  Vuosityöajan lyhentäminen 116 tunnilla koskee työaikamuotoja, joissa
+    sään- nöllinen viikkotyöaika on keskimäärin 40 tuntia.
 
-   0. vuosittain säännöllisesti toistuvat vapaat
-   0. lomat jotka perustuvat yli 2,5 päivän ansaintaan lomanmääräytymis- kuukaudessa.
+2.  Lyhennystä vähentävät paikalliseen sopimukseen tai käytäntöön
+    perustuvat työaikaa lyhentävät:
+
+    -   vuosittain säännöllisesti toistuvat vapaat
+
+    -   lomat jotka perustuvat yli 2,5 päivän ansaintaan
+        lomanmääräytymis- kuukaudessa.
 
 ###### *Lyhennysmallit*
-1. Työajan lyhennys voidaan toteuttaa kalenterivuosittain:
 
-   0. lyhentämällä keskimääräinen viikkotyöaika työehtosopimuksen 6 §:n mukaisesti 37,5 tuntiin
-   0. antamalla lyhennys vapaapäivinä (= Pekkaspäivinä)
-   0. tai sopimalla paikallisesti muusta lyhennystavasta.
+3.  Työajan lyhennys voidaan toteuttaa kalenterivuosittain:
+
+    -   lyhentämällä keskimääräinen viikkotyöaika työehtosopimuksen 6
+        §:n mukaisesti 37,5 tuntiin
+
+    -   antamalla lyhennys vapaapäivinä (= Pekkaspäivinä)
+
+    -   tai sopimalla paikallisesti muusta lyhennystavasta.
 
 ###### *Lyhennys paikallisesti sopien*
-1. Paikallisessa sopimisessa:
 
-   0. sopimus on tehtävä kirjallisesti
-   0. jos työpaikalla on luottamusmies, asiasta sovitaan hänen kanssaan
-   0. sopimus voi koskea koko yritystä, yrityksen toimipaikkaa, osastoa tai muuta yksikköä
-   0. sopimus on voimassa kalenterivuoden, ellei toisin sovita.
+4.  Paikallisessa sopimisessa:
 
-###### <a name="pekkaspäivien ansainta"></a><a name="pekkaspäivien antaminen"></a><a name="poissaolot ja vuosiloma"></a><a name="_bookmark85"></a>*Pekkaspäivien ansainta*
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.084.png)Kokoaikatyöntekijä ansaitsee Pekkaspäiviä kalenterivuotta kohti seuraavasti:
+    -   sopimus on tehtävä kirjallisesti
 
-Työsuhteen kesto
+    -   jos työpaikalla on luottamusmies, asiasta sovitaan hänen
+        kanssaan
 
-Pekkaspäivien lukumäärä
+    -   sopimus voi koskea koko yritystä, yrityksen toimipaikkaa,
+        osastoa tai muuta yksikköä
 
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.085.png)![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.086.png)
+    -   sopimus on voimassa kalenterivuoden, ellei toisin sovita.
 
-2–4 kuukautta	3 päivää
+###### *Pekkaspäivien ansainta*
 
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.021.png)
+> Kokoaikatyöntekijä ansaitsee Pekkaspäiviä kalenterivuotta kohti
+> seuraavasti:
+>
+> 2--4 kuukautta 3 päivää
+>
+> 5--7 kuukautta 7 päivää
+>
+> 8--10 kuukautta 11 päivää
+>
+> 11--12 kuukautta 14 päivää
+>
+> Edellä oleviin kuukausiin lasketaan vähintään 14 työpäivää sisältävät
+> kuukaudet.
 
-C
+5.  Työpäivien veroisiksi päiviksi lasketaan:
 
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.019.png)![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.074.png)5–7 kuukautta	7 päivää
+    -   vuosilomalain 7 §:n mukaiset päivät lukuun ottamatta ko. lain 7
+        > §:n
 
-8–10 kuukautta	11 päivää
+> 2\. momentin 1, 7. ja 8. kohdan mukaisia päiviä.
 
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.021.png)
-
-Työaikapöytäkirjat
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.075.png)11–12 kuukautta	14 päivää
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.020.png)
-
-Edellä oleviin kuukausiin lasketaan vähintään 14 työpäivää sisältävät kuukaudet.
-
-1. Työpäivien veroisiksi päiviksi lasketaan:
-
-   0. vuosilomalain 7 §:n mukaiset päivät lukuun ottamatta ko. lain 7 §:n
-
-2\. momentin 1, 7. ja 8. kohdan mukaisia päiviä.
-
-0. työehtosopimuksen 17 §:n mukaiset päivät lukuun ottamatta vaikeasti sai- raan lapsen hoitopäiviä.
+-   työehtosopimuksen 17 §:n mukaiset päivät lukuun ottamatta vaikeasti
+    > sai- raan lapsen hoitopäiviä.
 
 ###### *Pekkaspäivien antaminen*
-1. Pekkaspäivät annetaan viimeistään ansaintavuotta seuraavan huhtikuun lop- puun mennessä.
 
-Pekkaspäivät annetaan:
+6.  Pekkaspäivät annetaan viimeistään ansaintavuotta seuraavan huhtikuun
+    lop- puun mennessä.
 
-0. erikseen tai yhdistämällä yhdeksi tai useammaksi yhdenjaksoiseksi vapaaksi
-0. yhdistämällä työehtosopimuksen mukaiseen vapaapäivään. Pekkaspäivistä ilmoitetaan työehtosopimuksen 6 §:n 7. kohdan mukaan.
+> Pekkaspäivät annetaan:
+
+-   erikseen tai yhdistämällä yhdeksi tai useammaksi yhdenjaksoiseksi
+    > vapaaksi
+
+-   yhdistämällä työehtosopimuksen mukaiseen vapaapäivään.
+    Pekkaspäivistä ilmoitetaan työehtosopimuksen 6 §:n 7. kohdan mukaan.
+
 ###### *Poissaolot ja vuosiloma*
-1. Poissaolot eivät aiheuta muutoksia työvuoroluetteloon merkittyihin Pekkas- päiviin.
 
-Pekkaspäivät kerryttävät vuosilomaa.
+7.  Poissaolot eivät aiheuta muutoksia työvuoroluetteloon merkittyihin
+    Pekkas- päiviin.
 
-###### <a name="pekkaspäivät työsuhteen päättyessä"></a><a name="pekkaspäivät ja vuosivapaajärjestelmä"></a><a name="_bookmark86"></a>*Pekkaspäivät työsuhteen päättyessä*
-1. Työsuhteen päättyessä:
+> Pekkaspäivät kerryttävät vuosilomaa.
 
-C
+###### *Pekkaspäivät työsuhteen päättyessä*
 
-   0. ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.078.png)pitämättömät Pekkaspäivät korvataan peruspalkalla
-   0. liikaa annettuja Pekkaspäiviä vastaava palkka vähennetään palkkaennak- kona lopputilistä ilman työsopimuslain 2:17 §:n mukaista kuittausrajoitusta.
+8.  Työsuhteen päättyessä:
 
-Työaikapöytäkirjat
-###### ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.079.png)*Pekkaspäivät ja vuosivapaajärjestelmä*
-1. Vuosivapaajärjestelmä määräytyy työehtosopimuksen 7 §:n 4.–9. kohtien mukaan seuraavin poikkeuksin:
+    -   pitämättömät Pekkaspäivät korvataan peruspalkalla
 
-Työntekijä ansaitsee vuosivapaita alla olevan taulukon mukaisesti:
+    -   liikaa annettuja Pekkaspäiviä vastaava palkka vähennetään
+        palkkaennak- kona lopputilistä ilman työsopimuslain 2:17 §:n
+        mukaista kuittausrajoitusta.
 
+###### *Pekkaspäivät ja vuosivapaajärjestelmä*
 
-|Kertyneiden tuntien määrä|Vuosivapaiden määrä|Vuosivapaatuntien määrä|
-| :- | :- | :- |
-|200|1|8|
-|400|2|16|
-|600|3|24|
-|800|4|32|
-|1 000|5|40|
-|1 150|6|48|
-|1 300|7|56|
-|1 430|8|64|
-|1 560|9|72|
+9.  Vuosivapaajärjestelmä määräytyy työehtosopimuksen 7 §:n 4.--9.
+    kohtien mukaan seuraavin poikkeuksin:
 
-Vuosivapaa annetaan 8 tunnin pituisena työpäivänä 7,5 tunnin sijasta.
+> Työntekijä ansaitsee vuosivapaita alla olevan taulukon mukaisesti:
 
++--------------------+-----------------------+-------------------------+
+| > Kertyneiden      | > Vuosivapaiden määrä | > Vuosivapaatuntien     |
+| > tuntien määrä    |                       | > määrä                 |
++====================+=======================+=========================+
+| > 200              | > 1                   | > 8                     |
++--------------------+-----------------------+-------------------------+
+| > 400              | > 2                   | > 16                    |
++--------------------+-----------------------+-------------------------+
+| > 600              | > 3                   | > 24                    |
++--------------------+-----------------------+-------------------------+
+| > 800              | > 4                   | > 32                    |
++--------------------+-----------------------+-------------------------+
+| > 1 000            | > 5                   | > 40                    |
++--------------------+-----------------------+-------------------------+
+| > 1 150            | > 6                   | > 48                    |
++--------------------+-----------------------+-------------------------+
+| > 1 300            | > 7                   | > 56                    |
++--------------------+-----------------------+-------------------------+
+| > 1 430            | > 8                   | > 64                    |
++--------------------+-----------------------+-------------------------+
+| > 1 560            | > 9                   | > 72                    |
++--------------------+-----------------------+-------------------------+
 
-Esimerkki 51
+> Vuosivapaa annetaan 8 tunnin pituisena työpäivänä 7,5 tunnin sijasta.
 
-*40 tuntia tekevä, yritys ei käytä työajan tasoittumisjärjestelmää*
+###### *Pekkaspäivät ja arkipyhäjärjestelmä*
 
-Työntekijälle annetaan 1 vuosivapaa 8 tunnin pituisena työpäivänä. Viikon muina 4 työpäivänä hän on töissä yhteensä 32 tuntia.
-
-Vuosivapaita kerryttäviksi tunneiksi kirjataan 32 tuntia.
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.087.png)
-
-
-<a name="pekkaspäivät ja arkipyhäjärjestelmä"></a><a name="_bookmark87"></a>Esimerkki 52
-
-*40 tuntia tekevä, yritys käyttää työajan tasoittumisjärjestelmää*
-
-Työpaikalla on käytössä 12 viikon tasoittumisjärjestelmä. Jakson enim- mäistyöaika on 480 tuntia (12 x 40). Jakson aikana on annettu 2 vuosi- vapaata 8 tunnin pituisina työpäivinä. Vuosivapaatunteja on annettu 16.
-
-Vuosivapaita kerryttäviksi tunneiksi kirjataan 464 tuntia.
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.088.png)
-
-C
-
-Työaikapöytäkirjat
-###### ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.074.png)![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.075.png)*Pekkaspäivät ja arkipyhäjärjestelmä*
-1. Arkipyhäjärjestelmä määräytyy työehtosopimuksen osana olevan pöytäkirjan ”Arkipyhäjärjestelmä” (s. 108) mukaan seuraavin poikkeuksin.
+10. Arkipyhäjärjestelmä määräytyy työehtosopimuksen osana olevan
+    pöytäkirjan "Arkipyhäjärjestelmä" (s. 108) mukaan seuraavin
+    poikkeuksin.
 
 ###### *Arkipyhäviikon työajan lyhennys*
-1. Työaikaa lyhentävä arkipyhä vähentää kyseisen viikon tai tasoittumisjärjestel- män työpäivien määrää 1:llä ja työtuntien määrää 8:lla tunnilla.
 
-Esimerkki 53
+11. Työaikaa lyhentävä arkipyhä vähentää kyseisen viikon tai
+    tasoittumisjärjestel- män työpäivien määrää 1:llä ja työtuntien
+    määrää 8:lla tunnilla.
 
-*Yritys ei käytä työajan tasoittumisjärjestelmää*
-
-Myyjän keskimääräinen viikkotyöaika on 40 tuntia. Arkipyhäviikko on viikolla 14. Työajan lyhennys voidaan toteuttaa viikoilla 12–16 lyhentämällä valitun viikon työpäivien määrää 1:llä ja viikkotyöaikaa 8 tunnilla. Lyhennys- viikolla työpäiviä on 4 ja viikkotyöaika on 32 tuntia.
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.089.png)
-
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.090.png)<a name="lisä- ja ylityö sekä korotettu palkka"></a><a name="_bookmark88"></a>Esimerkki 54
-
-C
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.078.png)*Yritys käyttää työajan tasoittumisjärjestelmää*
-
-Myyjän keskimääräinen viikkotyöaika on 40 tuntia. Arkipyhäviikko on 6 viikon tasoittumisjärjestelmän 3. viikolla.
-
-Työaikapöytäkirjat
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.079.png)6 viikon tasoittumisjärjestelmä:
-
-Viikko	1	2	3	4	5	6	Työtuntien määrä
-
-Arkipyhäviikko
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.091.png)240 – 8 = 232 tuntia
-
-
-
-Lyhennys toteutetaan vähentämällä minkä tahansa viikon työpäivien mää- rää 1:llä ja jakson työtuntien määrää 8 tunnilla. Jakson normaali työpäivien määrä on 6 x 5 = 30 työpäivää. Jakson normaali tuntimäärä on 6 x 40 tun- tia = 240 tuntia. Lyhennys toteutuu teettämällä jaksossa 29 työpäivää
-
-ja 232 tuntia.
-
+> []{#_bookmark88 .anchor}Esimerkki 54
+>
+> *Yritys käyttää työajan tasoittumisjärjestelmää*
+>
+> Myyjän keskimääräinen viikkotyöaika on 40 tuntia. Arkipyhäviikko on 6
+> viikon tasoittumisjärjestelmän 3. viikolla.
+>
+> 6 viikon tasoittumisjärjestelmä:
+>
+> Viikko 1 2 3 4 5 6 Työtuntien määrä
+>
+> 240 -- 8 = 232 tuntia
+>
+> Lyhennys toteutetaan vähentämällä minkä tahansa viikon työpäivien mää-
+> rää 1:llä ja jakson työtuntien määrää 8 tunnilla. Jakson normaali
+> työpäivien määrä on 6 x 5 = 30 työpäivää. Jakson normaali tuntimäärä
+> on 6 x 40 tun- tia = 240 tuntia. Lyhennys toteutuu teettämällä
+> jaksossa 29 työpäivää
+>
+> ja 232 tuntia.
 
 ###### *Lisä- ja ylityö sekä korotettu palkka*
-1. Lisä- ja ylityön osalta noudatetaan työehtosopimuksen 9 §:n määräyksiä. Työehtosopimuksen 9 §:n kohdissa 6, 7, 9 sekä 14.–16. käytetään 37,5 tunnin
 
-sijasta 40 tuntia.
+12. Lisä- ja ylityön osalta noudatetaan työehtosopimuksen 9 §:n
+    määräyksiä. Työehtosopimuksen 9 §:n kohdissa 6, 7, 9 sekä 14.--16.
+    käytetään 37,5 tunnin
 
-Jos yrityksessä on käytössä arkipyhäjärjestelmä, sovelletaan lisäksi alla ole- via kohtia:
+> sijasta 40 tuntia.
+>
+> Jos yrityksessä on käytössä arkipyhäjärjestelmä, sovelletaan lisäksi
+> alla ole- via kohtia:
 
-1. Kokoaikatyöntekijälle maksetaan arkipyhäviikon enimmäistyöajan ylittävästä työstä 50 %:lla korotettu palkka.
+13. Kokoaikatyöntekijälle maksetaan arkipyhäviikon enimmäistyöajan
+    ylittävästä työstä 50 %:lla korotettu palkka.
 
-Kokoaikatyöntekijällä arkipyhäviikon enimmäistyöaika on 32 tuntia 1 arkipyhän lyhentäessä työaikaa ja 24 tuntia 2 arkipyhän lyhentäessä työaikaa.
+> Kokoaikatyöntekijällä arkipyhäviikon enimmäistyöaika on 32 tuntia 1
+> arkipyhän lyhentäessä työaikaa ja 24 tuntia 2 arkipyhän lyhentäessä
+> työaikaa.
 
-1. Laskettaessa korotettua palkkaa tasoittumisjaksossa, tulee tasoittumisjak- sojen viikkojen enimmäistyöajasta vähentää kokoaikatyöntekijän arkipyhä- lyhennysten lukumäärä x 8 tuntia.
+14. Laskettaessa korotettua palkkaa tasoittumisjaksossa, tulee
+    tasoittumisjak- sojen viikkojen enimmäistyöajasta vähentää
+    kokoaikatyöntekijän arkipyhä- lyhennysten lukumäärä x 8 tuntia.
 
+> Esimerkki 55
+>
+> *40 tuntia tekevä, yritys käyttää tasoittumisjärjestelmää*
+>
+> Työpaikalla on käytössä 12 viikon tasoittumisjärjestelmä, jolloin
+> jakson viik- kojen enimmäistyöaika on (12 x 40) 480 tuntia. Jaksoon
+> sisältyy 1 arkipyhä.
+>
+> Työntekijä on tehnyt jakson aikana 500 tuntia, joista 10 tuntia
+> vuorokau- dessa ylittäviä tunteja on 10. Tehdyistä tunneista
+> vähennetään erikseen 50 %:lla korvattavat 10 tuntia ylittävät tunnit
+> (500 -- 10), jolloin tunteja jää
+>
+> 490\. Tästä tuntimäärästä vähennetään kyseisen jakson viikkojen
+> enimmäis- työaika 12 x 40 -- 8 = 472 tuntia, jolloin 50 %:lla
+> korvataan 18 tuntia.
+>
+> Työntekijälle maksetaan normaalin palkan lisäksi 50 %:lla korotettu
+> palkka yhteensä (10 + 18) 28 tunnilta.
+>
+> Ylityökirjanpitoon kirjataan tasoittumisjaksossa keskimäärin 40 tuntia
+> viikossa ylittävä työ eli 20 tuntia (500 tuntia -- 12 x 40).
 
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.092.png)Esimerkki 55
+# JOUSTAVA KOKOAIKATYÖ
 
-C
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.074.png)*40 tuntia tekevä, yritys käyttää tasoittumisjärjestelmää*
-
-Työpaikalla on käytössä 12 viikon tasoittumisjärjestelmä, jolloin jakson viik- kojen enimmäistyöaika on (12 x 40) 480 tuntia. Jaksoon sisältyy 1 arkipyhä.
-
-Työaikapöytäkirjat
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.075.png)Työntekijä on tehnyt jakson aikana 500 tuntia, joista 10 tuntia vuorokau- dessa ylittäviä tunteja on 10. Tehdyistä tunneista vähennetään erikseen 50 %:lla korvattavat 10 tuntia ylittävät tunnit (500 – 10), jolloin tunteja jää
-
-490\. Tästä tuntimäärästä vähennetään kyseisen jakson viikkojen enimmäis- työaika 12 x 40 – 8 = 472 tuntia, jolloin 50 %:lla korvataan 18 tuntia.
-
-Työntekijälle maksetaan normaalin palkan lisäksi 50 %:lla korotettu palkka yhteensä (10 + 18) 28 tunnilta.
-
-Ylityökirjanpitoon kirjataan tasoittumisjaksossa keskimäärin 40 tuntia viikossa ylittävä työ eli 20 tuntia (500 tuntia – 12 x 40).
-
-# <a name=" joustava kokoaikatyö"></a><a name="joustavan kokoaikatyön tarkoitus"></a><a name="järjestelmän käyttöönotto ja irtisanomin"></a><a name="joustavasta kokoaikatyöstä sopiminen ja "></a><a name="_bookmark89"></a>JOUSTAVA KOKOAIKATYÖ
 ###### *Joustavan kokoaikatyön tarkoitus*
-C
 
-Työaikapöytäkirjat
-1. ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.078.png)![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.079.png)Joustavalla kokoaikatyöllä tarkoitetaan menettelyä, jossa alle 37,5 tunnin sopi- muksella työskentelevälle työntekijälle maksetaan täyttä kuukausipalkkaa. Kuukausipalkan vastineeksi työntekijä sitoutuu ottamaan vastaan työvuoro- listalle etukäteen merkittyjen työvuorojen lisäksi ns. joustotunteja siten, että tunnit yhteensä vastaavat kokoaikatyötä.
+1.  Joustavalla kokoaikatyöllä tarkoitetaan menettelyä, jossa alle 37,5
+    tunnin sopi- muksella työskentelevälle työntekijälle maksetaan
+    täyttä kuukausipalkkaa. Kuukausipalkan vastineeksi työntekijä
+    sitoutuu ottamaan vastaan työvuoro- listalle etukäteen merkittyjen
+    työvuorojen lisäksi ns. joustotunteja siten, että tunnit yhteensä
+    vastaavat kokoaikatyötä.
 
-Järjestelyn tarkoitus on lisätä kokoaikatyön määrää. Joustavan kokoaikatyön ei ole tarkoitus korvata ns. tavanomaista kokoaikatyötä. Joustavan kokoai- katyön järjestelyyn kuuluva työntekijä ei ole työajan tarkastelun piirissä (TES 6 §). Joustavaa kokoaikatyötä tekevällä työntekijällä on kuitenkin saman- lainen oikeus toistaiseksi voimassa oleviin työsopimustuntien nostoihin kuin muutenkin.
+> Järjestelyn tarkoitus on lisätä kokoaikatyön määrää. Joustavan
+> kokoaikatyön ei ole tarkoitus korvata ns. tavanomaista kokoaikatyötä.
+> Joustavan kokoai- katyön järjestelyyn kuuluva työntekijä ei ole
+> työajan tarkastelun piirissä (TES 6 §). Joustavaa kokoaikatyötä
+> tekevällä työntekijällä on kuitenkin saman- lainen oikeus toistaiseksi
+> voimassa oleviin työsopimustuntien nostoihin kuin muutenkin.
 
 ###### *Järjestelmän käyttöönotto ja irtisanominen*
-1. Joustava kokoaikatyö voidaan ottaa käyttöön työpaikkakohtaisesti sopien (23 §:n mukaisesti). Jos työpaikalla on luottamusmies, sovitaan käyttöön- otosta hänen kanssaan.
 
-1. Sopimus voidaan irtisanoa kolmen (3) kuukauden irtisanomisaikaa noudat- taen. Tällöin sopimus päättyy sen tasoittumisjakson lopussa, jonka kuluessa irtisanomisaika päättyy.
+2.  Joustava kokoaikatyö voidaan ottaa käyttöön työpaikkakohtaisesti
+    sopien (23 §:n mukaisesti). Jos työpaikalla on luottamusmies,
+    sovitaan käyttöön- otosta hänen kanssaan.
+
+3.  Sopimus voidaan irtisanoa kolmen (3) kuukauden irtisanomisaikaa
+    noudat- taen. Tällöin sopimus päättyy sen tasoittumisjakson lopussa,
+    jonka kuluessa irtisanomisaika päättyy.
 
 ###### *Joustavasta kokoaikatyöstä sopiminen ja sopimuksen irtisanominen*
-1. Tämän lisäksi työnantaja ja työntekijä sopivat joustavasta kokoaikatyöstä työ- paikkakohtaisesti (23 §:n mukaisesti). Sopimus voidaan tehdä alle 37,5 tun- tia tekevän työntekijän kanssa ja aikaisintaan koeajan päättymisen jälkeen. Järjestelmän piirissä olevan työntekijän tasoittumisjakso voi olla enintään 26 viikkoa pitkä.
 
-1. Sopimus voidaan irtisanoa päättymään yhden (1) kuukauden irtisanomisaikaa noudattaen. Sopimus päättyy sen tasoittumisjakson lopussa, jonka kuluessa irtisanomisaika päättyy.
+4.  Tämän lisäksi työnantaja ja työntekijä sopivat joustavasta
+    kokoaikatyöstä työ- paikkakohtaisesti (23 §:n mukaisesti). Sopimus
+    voidaan tehdä alle 37,5 tun- tia tekevän työntekijän kanssa ja
+    aikaisintaan koeajan päättymisen jälkeen. Järjestelmän piirissä
+    olevan työntekijän tasoittumisjakso voi olla enintään 26 viikkoa
+    pitkä.
 
-Irtisanomisaikaa ei tarvitse noudattaa, mikäli osapuolella on järjestelyn lopet- tamiseen ennalta-arvaamaton ja olennaisesti hänen olosuhteitaan muuttava syy, jota ei ole voitu ottaa huomioon sopimusta tehdessä.
+5.  Sopimus voidaan irtisanoa päättymään yhden (1) kuukauden
+    irtisanomisaikaa noudattaen. Sopimus päättyy sen tasoittumisjakson
+    lopussa, jonka kuluessa irtisanomisaika päättyy.
 
-<a name="joustavaa kokoaikatyötä koskevassa paika"></a><a name="työntekijän kieltäytymisoikeus joustotun"></a><a name="_bookmark90"></a>Sopimuksen päättymisen jälkeen työntekijä palaa työsopimuksensa mukai- seen tuntimäärään.
+> Irtisanomisaikaa ei tarvitse noudattaa, mikäli osapuolella on
+> järjestelyn lopet- tamiseen ennalta-arvaamaton ja olennaisesti hänen
+> olosuhteitaan muuttava syy, jota ei ole voitu ottaa huomioon sopimusta
+> tehdessä.
+>
+> []{#_bookmark90 .anchor}Sopimuksen päättymisen jälkeen työntekijä
+> palaa työsopimuksensa mukai- seen tuntimäärään.
 
-C
-###### ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.074.png)*Joustavaa kokoaikatyötä koskevassa paikallisessa sopimuksessa sovittavat asiat*
-1. Työnantaja ja työntekijä sopivat seuraavista asioista:
+###### *Joustavaa kokoaikatyötä koskevassa paikallisessa sopimuksessa* sovittavat asiat
 
-Työaikapöytäkirjat
-1. ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.075.png)työvuorolistaan etukäteen suunniteltavien työtuntien määrä. Etukäteen julkaistavaan työvuoroluetteloon tulee kuitenkin merkitä vähintään 22,5 tuntia viikkoa kohti (ns. listatunnit). Työnantaja ja työntekijä voivat tapaus- kohtaisesti sopien poiketa vähimmäismäärästä.
+6.  Työnantaja ja työntekijä sopivat seuraavista asioista:
 
-1. menettelyt, joilla joustotunteja tarjotaan. Työvuorolistan täydentäminen joustotunneilla tulee ilmoittaa viimeistään 24 tuntia ennen kyseisen työ- vuoron alkamista.
+    1.  työvuorolistaan etukäteen suunniteltavien työtuntien määrä.
+        > Etukäteen julkaistavaan työvuoroluetteloon tulee kuitenkin
+        > merkitä vähintään 22,5 tuntia viikkoa kohti (ns. listatunnit).
+        > Työnantaja ja työntekijä voivat tapaus- kohtaisesti sopien
+        > poiketa vähimmäismäärästä.
 
-1. ajankohdat, joina työntekijä on halukas tekemään joustotunteja. Työnantajan on pyrittävä tarjoamaan joustotunteja ensisijaisesti näinä ajankohtina.
+    2.  menettelyt, joilla joustotunteja tarjotaan. Työvuorolistan
+        > täydentäminen joustotunneilla tulee ilmoittaa viimeistään 24
+        > tuntia ennen kyseisen työ- vuoron alkamista.
+
+    3.  ajankohdat, joina työntekijä on halukas tekemään joustotunteja.
+        > Työnantajan on pyrittävä tarjoamaan joustotunteja
+        > ensisijaisesti näinä ajankohtina.
 
 ###### *Työntekijän kieltäytymisoikeus joustotunneista*
 
-1. Työntekijällä on velvollisuus tehdä joustotunnit, mikäli ne on tarjottu aikaisem- min kuin 24 tuntia ennen työskentelyn aloittamista, ellei sopimuksessa ole sovittu pitemmästä ajanjaksosta ('aikaraja'). Tarjousta ei kuitenkaan tule lähet- tää klo 22 ja klo 06 välillä ('rauhoitusaika'), ellei työntekijän kanssa sovita toisin.
+7.  Työntekijällä on velvollisuus tehdä joustotunnit, mikäli ne on
+    tarjottu aikaisem- min kuin 24 tuntia ennen työskentelyn
+    aloittamista, ellei sopimuksessa ole sovittu pitemmästä ajanjaksosta
+    (\'aikaraja\'). Tarjousta ei kuitenkaan tule lähet- tää klo 22 ja
+    klo 06 välillä (\'rauhoitusaika\'), ellei työntekijän kanssa sovita
+    toisin.
 
-Mikäli työntekijä kieltäytyy näistä tunneista ilman 9. kohdassa mainittua syytä, tunnit voidaan vähentää palkasta. Tasoittumisjaksoa käytettäessä vähennys on tehtävä viimeistään tasoittumisjakson päättymistä seuraavana palkanmak- supäivänä. Työnantaja voi myös käyttää palkan vähentämisen sijasta vuosiva- paatunteja työntekijää kuultuaan.
+> Mikäli työntekijä kieltäytyy näistä tunneista ilman 9. kohdassa
+> mainittua syytä, tunnit voidaan vähentää palkasta. Tasoittumisjaksoa
+> käytettäessä vähennys on tehtävä viimeistään tasoittumisjakson
+> päättymistä seuraavana palkanmak- supäivänä. Työnantaja voi myös
+> käyttää palkan vähentämisen sijasta vuosiva- paatunteja työntekijää
+> kuultuaan.
 
-1. Työntekijällä ei ole velvollisuutta tehdä joustotunteja, mikäli niitä ei ole tarjottu aikarajaa noudattaen.
+8.  Työntekijällä ei ole velvollisuutta tehdä joustotunteja, mikäli
+    niitä ei ole tarjottu aikarajaa noudattaen.
 
-1. Työntekijällä on oikeus kieltäytyä tarjotuista joustotunneista kuukausipalkkaa vähentämättä seuraavissa tilanteissa, vaikka ne tarjotaan aikarajaa noudattaen ennen työvuoron alkua:
-- sovellettavat lepoaika- ja vapaapäivämääräykset eivät toteudu
-- työntekijän kanssa on sovittu vapaasta
+9.  Työntekijällä on oikeus kieltäytyä tarjotuista joustotunneista
+    kuukausipalkkaa vähentämättä seuraavissa tilanteissa, vaikka ne
+    tarjotaan aikarajaa noudattaen ennen työvuoron alkua:
 
-- <a name="muut työehdot"></a><a name="_bookmark91"></a>työntekijällä on oikeus työehtosopimuksen 17 §:n mukaiseen tilapäiseen poissaoloon
-- työntekijä on poissa vuosiloman, sairauden taikka perhevapaan vuoksi.
+-   sovellettavat lepoaika- ja vapaapäivämääräykset eivät toteudu
 
-C
-1. ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.078.png)Tarjoamatta jääneitä tunteja ei voida vähentää palkasta.
+-   työntekijän kanssa on sovittu vapaasta
 
-1. Muutoin joustavassa kokoaikatyössä noudatetaan työvuorosuunnittelua kos- kevia säännöksiä ja määräyksiä.
+-   []{#_bookmark91 .anchor}työntekijällä on oikeus työehtosopimuksen 17
+    §:n mukaiseen tilapäiseen poissaoloon
 
-Työaikapöytäkirjat
-###### ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.079.png)*Muut työehdot*
-1. Lomapalkka lasketaan työehtosopimuksen 20 § 8.-11. kohtien mukaisesti eli prosentuaalisena lomanmääräytymisvuoden ansiosta. Mikäli työntekijä on työskennellyt koko lomanmääräytymisvuoden joustavalla kokoaikatyöllä, voi- daan työntekijän kanssa sopia, että lomapalkka määräytyy kuukausipalkkaisen laskentasäännön mukaisesti.
+-   työntekijä on poissa vuosiloman, sairauden taikka perhevapaan
+    vuoksi.
 
-1. Sairausajan palkka maksetaan työehtosopimuksen mukaisesti. Sairausajan palkka maksetaan kuitenkin vähintään työsopimuksen mukaisilta tunneilta. Joka tapauksessa sairausajan palkan perusteena tulee olla vähintään 22,5 tuntia viikossa, mikäli työvuoroluetteloa ei ole laadittu kyseiselle ajanjaksolle.
+10. Tarjoamatta jääneitä tunteja ei voida vähentää palkasta.
 
-# <a name="lisätyön tarjoaminen"></a><a name="_bookmark92"></a>LISÄTYÖN TARJOAMINEN
+11. Muutoin joustavassa kokoaikatyössä noudatetaan työvuorosuunnittelua
+    kos- kevia säännöksiä ja määräyksiä.
 
-C
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.074.png)Liittyen työsopimuslain 2 luvun 5 §:n mukaiseen velvollisuuteen tarjota lisätyötä yrityksen työntekijöille, liitot suosittelevat, että yrityksessä otetaan käyttöön lisä- työn tarjoamiseen liittyvä järjestely.
+###### *Muut työehdot*
 
-Työaikapöytäkirjat
-1. ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.075.png)Yrityskohtaisen järjestelyn tavoitteena on tehostaa tilapäisen tai ennakoimat- toman lisätyön kohdentumista yrityksen omalle henkilöstölle. Tällaisella lisä- työllä tarkoitetaan sellaista tilapäistä työtä, jota voidaan suunnitella valmiiksi työvuoroluetteloon tai ennakoimatonta lisätyötä, jota ei ole voitu ottaa huo- mioon työvuorosuunnittelussa. Lisätyön tarjoamisessa hyödynnetään tyypil- lisesti esimerkiksi digitaalisia kanavia.
+12. Lomapalkka lasketaan työehtosopimuksen 20 § 8.-11. kohtien
+    mukaisesti eli prosentuaalisena lomanmääräytymisvuoden ansiosta.
+    Mikäli työntekijä on työskennellyt koko lomanmääräytymisvuoden
+    joustavalla kokoaikatyöllä, voi- daan työntekijän kanssa sopia, että
+    lomapalkka määräytyy kuukausipalkkaisen laskentasäännön mukaisesti.
 
-1. Yrityskohtaisella järjestelyllä sovitaan siitä, miten lisätyön tarjoaminen yrityksessä järjestetään.
+13. Sairausajan palkka maksetaan työehtosopimuksen mukaisesti.
+    Sairausajan palkka maksetaan kuitenkin vähintään työsopimuksen
+    mukaisilta tunneilta. Joka tapauksessa sairausajan palkan perusteena
+    tulee olla vähintään 22,5 tuntia viikossa, mikäli työvuoroluetteloa
+    ei ole laadittu kyseiselle ajanjaksolle.
 
-1. Työvuoroluetteloon suunniteltujen tuntien ja ennakoimattomien lisätyötun- tien yhteismäärä on enintään 10 tuntia vuorokaudessa ja 37,5 tuntia viikossa tai käytettäessä työajan tasoittumisjärjestelmää keskimäärin enintään 37,5 tuntia viikossa.
+# LISÄTYÖN TARJOAMINEN
 
-1. Työnantaja tiedustelee jokaiselta alle 37,5 tuntia tekevältä, mistä toimi- paikoista hän on valmis vastaanottamaan isätyötunteja.
+> Liittyen työsopimuslain 2 luvun 5 §:n mukaiseen velvollisuuteen
+> tarjota lisätyötä yrityksen työntekijöille, liitot suosittelevat, että
+> yrityksessä otetaan käyttöön lisä- työn tarjoamiseen liittyvä
+> järjestely.
 
-Työntekijällä on oikeus tulla milloin tahansa tietyn toimipaikan lisätyö- ilmoituksen piiriin tai jäädä siitä pois.
+1.  Yrityskohtaisen järjestelyn tavoitteena on tehostaa tilapäisen tai
+    ennakoimat- toman lisätyön kohdentumista yrityksen omalle
+    henkilöstölle. Tällaisella lisä- työllä tarkoitetaan sellaista
+    tilapäistä työtä, jota voidaan suunnitella valmiiksi
+    työvuoroluetteloon tai ennakoimatonta lisätyötä, jota ei ole voitu
+    ottaa huo- mioon työvuorosuunnittelussa. Lisätyön tarjoamisessa
+    hyödynnetään tyypil- lisesti esimerkiksi digitaalisia kanavia.
 
-1. Tietyn toimipaikan lisätyötunteja tarjotaan niille alle 37,5 tuntia tekeville, jotka ovat ilmoittaneet halustaan lisätyöhön ko. toimipaikassa.
+2.  Yrityskohtaisella järjestelyllä sovitaan siitä, miten lisätyön
+    tarjoaminen yrityksessä järjestetään.
 
-Saatuaan lisätyötarjouksen ja ollessaan valmis tekemään tarjotun työn työn- tekijän ilmoittautuu sovitulla tavalla.
+3.  Työvuoroluetteloon suunniteltujen tuntien ja ennakoimattomien
+    lisätyötun- tien yhteismäärä on enintään 10 tuntia vuorokaudessa ja
+    37,5 tuntia viikossa tai käytettäessä työajan
+    tasoittumisjärjestelmää keskimäärin enintään 37,5 tuntia viikossa.
 
-Vastatessaan lisätyötarjoukseen työntekijän on ilmoitettava, jos työntekijän työvuoroluetteloon suunniteltujen ja tarjottujen lisätyötuntien yhteismäärä ylittää 10 tuntia vuorokaudessa tai keskimäärin enintään 37,5 tuntia viikossa.
+4.  Työnantaja tiedustelee jokaiselta alle 37,5 tuntia tekevältä, mistä
+    toimi- paikoista hän on valmis vastaanottamaan isätyötunteja.
 
-1. Lisätyön antamisessa pyritään tasapuolisuuteen ottaen erityisesti huomioon työntekijän ammattitaito, osaaminen, kokemus ja soveltuvuus tehtävään.
+> Työntekijällä on oikeus tulla milloin tahansa tietyn toimipaikan
+> lisätyö- ilmoituksen piiriin tai jäädä siitä pois.
 
-Lisätyötä tarjotaan mahdollisuuksien mukaan ensin lisätyötä tarvitsevan toi- mipaikan omille työntekijöille, sen jälkeen yrityksen muille työntekijöille ja vii- meisenä yrityksen ulkopuolisille työntekijöille.
+5.  Tietyn toimipaikan lisätyötunteja tarjotaan niille alle 37,5 tuntia
+    tekeville, jotka ovat ilmoittaneet halustaan lisätyöhön ko.
+    toimipaikassa.
 
-C
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.078.png)<a name="sopimus"></a><a name="_bookmark93"></a>Lisätyötuntien kohdentuminen oman yrityksen ja työpaikan työntekijöille par- haimmillaan varmistaa työnantajalle ammattitaitoisen ja osaavan henkilökun- nan. Samalla se on viesti henkilökunnalle, että heidän työtään ja ammattitai- toaan arvostetaan, joka edelleen edistää työntekijöiden motivoituneisuutta ja sitoutumista työhönsä.
+> Saatuaan lisätyötarjouksen ja ollessaan valmis tekemään tarjotun työn
+> työn- tekijän ilmoittautuu sovitulla tavalla.
+>
+> Vastatessaan lisätyötarjoukseen työntekijän on ilmoitettava, jos
+> työntekijän työvuoroluetteloon suunniteltujen ja tarjottujen
+> lisätyötuntien yhteismäärä ylittää 10 tuntia vuorokaudessa tai
+> keskimäärin enintään 37,5 tuntia viikossa.
 
-Työaikapöytäkirjat
-1. ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.079.png)Työnantajalla on oikeus poistaa työntekijä lisätyöilmoituksen saajien piiristä uuden tasoittumisjakson alkamiseen asti, jos hänen tasoittumisjakson työtun- tien määrä on ylittämässä keskimäärin 37,5 viikkotyötuntia.
+6.  Lisätyön antamisessa pyritään tasapuolisuuteen ottaen erityisesti
+    huomioon työntekijän ammattitaito, osaaminen, kokemus ja soveltuvuus
+    tehtävään.
+
+> Lisätyötä tarjotaan mahdollisuuksien mukaan ensin lisätyötä
+> tarvitsevan toi- mipaikan omille työntekijöille, sen jälkeen yrityksen
+> muille työntekijöille ja vii- meisenä yrityksen ulkopuolisille
+> työntekijöille.
+>
+> []{#_bookmark93 .anchor}Lisätyötuntien kohdentuminen oman yrityksen ja
+> työpaikan työntekijöille par- haimmillaan varmistaa työnantajalle
+> ammattitaitoisen ja osaavan henkilökun- nan. Samalla se on viesti
+> henkilökunnalle, että heidän työtään ja ammattitai- toaan arvostetaan,
+> joka edelleen edistää työntekijöiden motivoituneisuutta ja
+> sitoutumista työhönsä.
+
+7.  Työnantajalla on oikeus poistaa työntekijä lisätyöilmoituksen
+    saajien piiristä uuden tasoittumisjakson alkamiseen asti, jos hänen
+    tasoittumisjakson työtun- tien määrä on ylittämässä keskimäärin 37,5
+    viikkotyötuntia.
 
 ###### *Sopimus*
-1. Yrityskohtaisen järjestelyn käyttöönotosta ja toteuttamisesta sovitaan työ- paikkakohtaisesti (työehtosopimuksen 23 §:n mukaisesti). Jos työpaikalla on luottamusmies, asiasta sovitaan hänen kanssaan.
 
-1. Sopimuksessa yrityskohtaisesta järjestelystä on sovittava ainakin seuraavista asioista:
+8.  Yrityskohtaisen järjestelyn käyttöönotosta ja toteuttamisesta
+    sovitaan työ- paikkakohtaisesti (työehtosopimuksen 23 §:n
+    mukaisesti). Jos työpaikalla on luottamusmies, asiasta sovitaan
+    hänen kanssaan.
 
-   0. miten työntekijä ilmoittaa halustaan tulla tietyn toimipaikan lisätyöilmoi- tuksen piiriin tai jäädä siitä pois
-   0. miten työnantaja ilmoittaa lisätyötunneista ja mitä tietoja lisätyöstä ilmoi- tuksessa tulee olla
-   0. miten työntekijä ilmoittaa halukkuudestaan ottaa vastaan tarjotut lisätyö- tunnit
-   0. minkä ajan kuluessa työntekijä ilmoittaa halukkuutensa ottaa vastaan tar- jotut lisätyötunnit eri tilanteissa
-   0. miten työnantaja ilmoittaa, kenelle tarjotut lisätyötunnit annetaan.
-1. Yrityskohtaisesta järjestelystä sopineella luottamusmiehellä on oikeus pyyn- nöstä saada tiedot:
+9.  Sopimuksessa yrityskohtaisesta järjestelystä on sovittava ainakin
+    seuraavista asioista:
 
-   0. järjestelyyn ilmoittautuneiden määrästä
-   0. lisätyötuntien jakautumisesta järjestelyyn ilmoittautuneiden ja yrityksen ulkopuolisten työntekijöiden kesken.
+    -   miten työntekijä ilmoittaa halustaan tulla tietyn toimipaikan
+        lisätyöilmoi- tuksen piiriin tai jäädä siitä pois
 
-# <a name="kokoaikatyön tarjoaminen"></a><a name="_bookmark94"></a>KOKOAIKATYÖN TARJOAMINEN
+    -   miten työnantaja ilmoittaa lisätyötunneista ja mitä tietoja
+        lisätyöstä ilmoi- tuksessa tulee olla
 
-C
+    -   miten työntekijä ilmoittaa halukkuudestaan ottaa vastaan
+        tarjotut lisätyö- tunnit
 
-Työaikapöytäkirjat
-1. ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.074.png)![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.075.png)Kokoaikatyön tarjoamista koskevan mallin käyttöönotosta ja toteuttamisesta sovitaan työpaikkakohtaisesti (23 §:n mukaisesti) tässä mainituin poikkeuksin. Työntekijöiden osalta sopijapuolena toimii luottamusmies tai asianomainen henkilöstöryhmä. Jos työpaikalla on luottamusmies, asiasta sovitaan hänen kanssaan. Henkilöstöryhmän tapauksessa sopimuksen syntyminen edellyttää kyseisen henkilöstöryhmän keskuudessaan tekemää päätöstä.
+    -   minkä ajan kuluessa työntekijä ilmoittaa halukkuutensa ottaa
+        vastaan tar- jotut lisätyötunnit eri tilanteissa
 
-1. Mikäli työnantaja sitoutuu työntekijän pyynnöstä tarjoamaan kokoaikatyötä kaikille sitä haluaville työntekijöille, joiden työsuhde on kestänyt vähintään 12 kuukautta, ei sopimuksen voimassaoloaikana tarvitse noudattaa seuraavia velvollisuuksia.
+    -   miten työnantaja ilmoittaa, kenelle tarjotut lisätyötunnit
+        annetaan.
 
-   0. Kaupan työehtosopimuksen 6 §:n määräys alle 37,5 tuntia tekevän työn- tekijän työajan tarkastelusta
-   0. Työsopimuslain 2 luvun 5 §.
-1. Sopimuksessa on sovittava seuraavista asioista:
+10. Yrityskohtaisesta järjestelystä sopineella luottamusmiehellä on
+    oikeus pyyn- nöstä saada tiedot:
 
-   0. Menettelyt, joiden avulla huolehditaan työntekijöiden asianmukaisesti tie- dottamisesta tämän mallin mukaisesta oikeudesta saada kokoaikatyötä
-   0. Menettely kokoaikaisen työn pyytämiseksi
-   0. Kohtuullinen aika, jonka kuluessa työnantajan on käsiteltävä ja hyväksyt- tävä työntekijöiden kokoaikatyötä koskevat pyynnöt. Jos muuta ei sovita, kohtuullinen aika on 2 viikkoa
-   0. Työntekopaikat, joista kokoaikatyötä on otettava vastaan. Jos muuta ei sovita, noudatetaan työsopimuksen mukaista työssäkäyntialuetta
-   0. Sopimuksen soveltamisalue. Sopimus voi koskea yrityksen koko Kaupan työehtosopimuksen alaista henkilöstöä, tai sitä voidaan rajoittaa ammat- tiryhmäkohtaisesti, alueellisesti ja/tai toimipaikkakohtaisesti. Jos muuta ei sovita, sopimuksen soveltamisalaan kuuluvat ne työntekijät, jotka työs- kentelevät vähintään 50 % työajastaan sopimuksen piiriin kuuluvalla toi- mipaikalla / alueella
-   0. Yksittäisten lisätyövuorojen tarjoamismenettely työntekijöille
-   0. Sopimuksen irtisanomisaika. Ellei toisin sovita, työnantajan noudattama irtisanomisaika on 3 kuukautta ja työntekijäosapuolen 12 kuukautta
+    -   järjestelyyn ilmoittautuneiden määrästä
 
-C
-0. ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.078.png)Menettely ja toimenpiteet sopimuksen päättyessä. Työehtosopimuksen 6 §:n määräyksen mukainen tarkastelujakso alle 37,5 tuntia tekevän työn- tekijän työtunneista alkaa sopimuksen päättymishetkestä. Tarkastelu on kuitenkin tehtävä taannehtivasti, mikäli sopimus päättyy työnantajan te- kemien ratkaisujen johdosta alle kuudessa kuukaudessa sen voimaantu- losta, ellei toisin sovita.
+    -   lisätyötuntien jakautumisesta järjestelyyn ilmoittautuneiden ja
+        yrityksen ulkopuolisten työntekijöiden kesken.
 
-Työaikapöytäkirjat
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.093.png)![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.079.png)Sopimuksessa voidaan myös sopia kaiken lisätyön tarjoamis- ja vastaanotto- velvollisuuden poistamisesta yhdessä.
+# KOKOAIKATYÖN TARJOAMINEN
 
+1.  Kokoaikatyön tarjoamista koskevan mallin käyttöönotosta ja
+    toteuttamisesta sovitaan työpaikkakohtaisesti (23 §:n mukaisesti)
+    tässä mainituin poikkeuksin. Työntekijöiden osalta sopijapuolena
+    toimii luottamusmies tai asianomainen henkilöstöryhmä. Jos
+    työpaikalla on luottamusmies, asiasta sovitaan hänen kanssaan.
+    Henkilöstöryhmän tapauksessa sopimuksen syntyminen edellyttää
+    kyseisen henkilöstöryhmän keskuudessaan tekemää päätöstä.
 
-Esimerkki 56
+2.  Mikäli työnantaja sitoutuu työntekijän pyynnöstä tarjoamaan
+    kokoaikatyötä kaikille sitä haluaville työntekijöille, joiden
+    työsuhde on kestänyt vähintään 12 kuukautta, ei sopimuksen
+    voimassaoloaikana tarvitse noudattaa seuraavia velvollisuuksia.
 
-Kokoaikaisen työn tarjoamista koskeva sitoumus koskee Kauppa Oy:n Hämeentien myymälässä pääsääntöisesti työskenteleviä myyjän tehtävässä toimivia työntekijöitä.
+    -   Kaupan työehtosopimuksen 6 §:n määräys alle 37,5 tuntia tekevän
+        > työn- tekijän työajan tarkastelusta
 
-Työtä on otettava vastaan Kauppa Oy:n Tampereella sijaitsevista myymälöistä.
+    -   Työsopimuslain 2 luvun 5 §.
 
-Kokoaikaisen työn pyytämisessä noudatetaan seuraavaa menettelyä:
+3.  Sopimuksessa on sovittava seuraavista asioista:
 
-1. Työntekijä esittää kirjallisen pyynnön kokoaikatyöstä.
+    -   Menettelyt, joiden avulla huolehditaan työntekijöiden
+        > asianmukaisesti tie- dottamisesta tämän mallin mukaisesta
+        > oikeudesta saada kokoaikatyötä
 
-1. Työnantaja vastaa kahden viikon kuluessa työntekijän pyyntöön.
+    -   Menettely kokoaikaisen työn pyytämiseksi
 
-1. Jos työnantaja hyväksyy työntekijän pyynnön kokoaikatyöstä, korotetut sopimustunnit otetaan huomioon seuraavaksi suunniteltavan viikon tiedoissa.
+    -   Kohtuullinen aika, jonka kuluessa työnantajan on käsiteltävä ja
+        > hyväksyt- tävä työntekijöiden kokoaikatyötä koskevat pyynnöt.
+        > Jos muuta ei sovita, kohtuullinen aika on 2 viikkoa
 
+    -   Työntekopaikat, joista kokoaikatyötä on otettava vastaan. Jos
+        > muuta ei sovita, noudatetaan työsopimuksen mukaista
+        > työssäkäyntialuetta
 
-1. Kun työnantaja hyväksyy työntekijän pyynnön kokoaikatyöstä, korotetut sopi- mustunnit otetaan huomioon seuraavaksi suunniteltavan viikon tiedoissa, ellei toisin sovita. Tuntien korottamista ei kuitenkaan ole velvollisuutta toteuttaa tasoittumisjaksoa käytettäessä siten, että se johtaisi korotettuun palkkaan. Siten velvollisuutta tarjota kokoaikatyötä tasoittumisjakson aikana ei ole, mikäli työntekijän tasoittumisjaksolla toteutuneet tunnit sopimuksen koko- aikaiseksi muuttumisen hetkellä ylittäisivät keskimäärin 37,5 tuntia viikossa. Velvollisuutta ei ole myöskään silloin, mikäli kuluvalla tasoittumisjaksolla ei voitaisi noudattaa lepoaika- tai vapaapäivämääräyksiä korotettujen tuntien vuoksi.
+    -   Sopimuksen soveltamisalue. Sopimus voi koskea yrityksen koko
+        > Kaupan työehtosopimuksen alaista henkilöstöä, tai sitä voidaan
+        > rajoittaa ammat- tiryhmäkohtaisesti, alueellisesti ja/tai
+        > toimipaikkakohtaisesti. Jos muuta ei sovita, sopimuksen
+        > soveltamisalaan kuuluvat ne työntekijät, jotka työs-
+        > kentelevät vähintään 50 % työajastaan sopimuksen piiriin
+        > kuuluvalla toi- mipaikalla / alueella
 
+    -   Yksittäisten lisätyövuorojen tarjoamismenettely työntekijöille
 
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.094.png)Esimerkki 57
+    -   Sopimuksen irtisanomisaika. Ellei toisin sovita, työnantajan
+        > noudattama irtisanomisaika on 3 kuukautta ja
+        > työntekijäosapuolen 12 kuukautta
 
-C
+    -   Menettely ja toimenpiteet sopimuksen päättyessä.
+        Työehtosopimuksen 6 §:n määräyksen mukainen tarkastelujakso alle
+        37,5 tuntia tekevän työn- tekijän työtunneista alkaa sopimuksen
+        päättymishetkestä. Tarkastelu on kuitenkin tehtävä
+        taannehtivasti, mikäli sopimus päättyy työnantajan te- kemien
+        ratkaisujen johdosta alle kuudessa kuukaudessa sen voimaantu-
+        losta, ellei toisin sovita.
 
-Työaikapöytäkirjat
+> Sopimuksessa voidaan myös sopia kaiken lisätyön tarjoamis- ja
+> vastaanotto- velvollisuuden poistamisesta yhdessä.
+>
+> Esimerkki 56
+>
+> Kokoaikaisen työn tarjoamista koskeva sitoumus koskee Kauppa Oy:n
+> Hämeentien myymälässä pääsääntöisesti työskenteleviä myyjän tehtävässä
+> toimivia työntekijöitä.
+>
+> Työtä on otettava vastaan Kauppa Oy:n Tampereella sijaitsevista
+> myymälöistä.
+>
+> Kokoaikaisen työn pyytämisessä noudatetaan seuraavaa menettelyä:
 
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.074.png)![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.075.png)Työntekijä on 10 viikon tasoittumisjakson piirissä. Hän esittää pyynnön kokoaikaistamisesta jakson neljännen viikon keskiviikkona. Työnantajan tulee siten hyväksyä kokoaikatyön tarjoaminen viimeistään jakson kuudennen vii- kon keskiviikkona (ellei toisin sovita tai tilanteeseen sovellu jokin ohjeessa mai- nittu poikkeus). Mikäli työvuorolistan julkaisussa noudatetaan kahden viikon aikaa, työsuhde muuttuu kokoaikaiseksi tasoittumisjakson yhdeksännen viikon alusta. Velvollisuutta tuntien nostamiseen jakson aikana ei kuitenkaan ole, mikäli työvuorolistan julkaisuhetkellä on tiedossa, että keskimääräinen työaika jakson kahdeksannen viikon lopussa ylittää keskimäärin 37,5 tuntia viikossa. Tällöin työsuhde muuttuu kokoaikaiseksi seuraavan tasoittumisjakson alusta lukien.
+1.  Työntekijä esittää kirjallisen pyynnön kokoaikatyöstä.
 
-Esimerkki 58
+2.  Työnantaja vastaa kahden viikon kuluessa työntekijän pyyntöön.
 
-Työntekijä on 10 viikon tasoittumisjakson piirissä. Työntekijän toteutunut työaika jakson viikoilla 1-6 on 216 tuntia. Viikkojen 7-8 työaika on 6 viikon lopussa olevien tietojen perusteella 72 tuntia. Kokoaikaisen työntekijän koko- naistyöaika  kahdeksalle viikolle (ilman arkipyhälyhennyksiä) olisi 8 \* 37,5
+3.  Jos työnantaja hyväksyy työntekijän pyynnön kokoaikatyöstä,
+    korotetut sopimustunnit otetaan huomioon seuraavaksi suunniteltavan
+    viikon tiedoissa.
 
-= 300 tuntia.  Ensimmäisen kahdeksan viikon työaika on 216 + 72 = 288 tuntia ja alittaa siten 8 viikon jakson kokonaistyöajan 300 tuntia. Näin ollen sopimustunnit on nostettava kokoaikaisiksi jakson yhdeksännen viikon alusta.
+4.  Kun työnantaja hyväksyy työntekijän pyynnön kokoaikatyöstä,
+    korotetut sopi- mustunnit otetaan huomioon seuraavaksi
+    suunniteltavan viikon tiedoissa, ellei toisin sovita. Tuntien
+    korottamista ei kuitenkaan ole velvollisuutta toteuttaa
+    tasoittumisjaksoa käytettäessä siten, että se johtaisi korotettuun
+    palkkaan. Siten velvollisuutta tarjota kokoaikatyötä
+    tasoittumisjakson aikana ei ole, mikäli työntekijän
+    tasoittumisjaksolla toteutuneet tunnit sopimuksen koko- aikaiseksi
+    muuttumisen hetkellä ylittäisivät keskimäärin 37,5 tuntia viikossa.
+    Velvollisuutta ei ole myöskään silloin, mikäli kuluvalla
+    tasoittumisjaksolla ei voitaisi noudattaa lepoaika- tai
+    vapaapäivämääräyksiä korotettujen tuntien vuoksi.
 
+> Esimerkki 57
+>
+> Työntekijä on 10 viikon tasoittumisjakson piirissä. Hän esittää
+> pyynnön kokoaikaistamisesta jakson neljännen viikon keskiviikkona.
+> Työnantajan tulee siten hyväksyä kokoaikatyön tarjoaminen viimeistään
+> jakson kuudennen vii- kon keskiviikkona (ellei toisin sovita tai
+> tilanteeseen sovellu jokin ohjeessa mai- nittu poikkeus). Mikäli
+> työvuorolistan julkaisussa noudatetaan kahden viikon aikaa, työsuhde
+> muuttuu kokoaikaiseksi tasoittumisjakson yhdeksännen viikon alusta.
+> Velvollisuutta tuntien nostamiseen jakson aikana ei kuitenkaan ole,
+> mikäli työvuorolistan julkaisuhetkellä on tiedossa, että
+> keskimääräinen työaika jakson kahdeksannen viikon lopussa ylittää
+> keskimäärin 37,5 tuntia viikossa. Tällöin työsuhde muuttuu
+> kokoaikaiseksi seuraavan tasoittumisjakson alusta lukien.
+>
+> Esimerkki 58
+>
+> Työntekijä on 10 viikon tasoittumisjakson piirissä. Työntekijän
+> toteutunut työaika jakson viikoilla 1-6 on 216 tuntia. Viikkojen 7-8
+> työaika on 6 viikon lopussa olevien tietojen perusteella 72 tuntia.
+> Kokoaikaisen työntekijän koko- naistyöaika kahdeksalle viikolle (ilman
+> arkipyhälyhennyksiä) olisi 8 \* 37,5
+>
+> = 300 tuntia. Ensimmäisen kahdeksan viikon työaika on 216 + 72 = 288
+> tuntia ja alittaa siten 8 viikon jakson kokonaistyöajan 300 tuntia.
+> Näin ollen sopimustunnit on nostettava kokoaikaisiksi jakson
+> yhdeksännen viikon alusta.
+>
+> Mikäli työntekijä on poissa korotettujen sopimustuntien tullessa
+> voimaan, nostetaan työsopimustunteja aikaisintaan työhönpaluusta
+> alkaen.
 
-Mikäli työntekijä on poissa korotettujen sopimustuntien tullessa voimaan, nostetaan työsopimustunteja aikaisintaan työhönpaluusta alkaen.
+5.  Mikäli työnantaja ei halua hyväksyä pyyntöä, työnantaja ilmoittaa
+    siitä työn- tekijälle. Jos pyyntöä ei toteuteta, tämä sopimus ja sen
+    vaikutukset päättyvät tuosta hetkestä eteenpäin. Sopimus ei
+    kuitenkaan pääty, mikäli työnantaja voi osoittaa, että tunteja
+    voidaan nostaa kohtuullisen ajan kuluessa ja syy viivästy- miselle
+    johtuu siitä, että tunteja ei voida nostaa juuri sillä hetkellä.
+    Kohtuullisen ajan pituus riippuu käsillä olevista olosuhteista.
+    Työnantaja selvittää tässä tar- koitetun perusteen sopimuksen
+    tehneelle osapuolelle sekä työntekijälle, jonka työsopimustuntien
+    nostaminen tästä syystä viivästyy.
 
-1. Mikäli työnantaja ei halua hyväksyä pyyntöä, työnantaja ilmoittaa siitä työn- tekijälle. Jos pyyntöä ei toteuteta, tämä sopimus ja sen vaikutukset päättyvät tuosta hetkestä eteenpäin. Sopimus ei kuitenkaan pääty, mikäli työnantaja voi osoittaa, että tunteja voidaan nostaa kohtuullisen ajan kuluessa ja syy viivästy- miselle johtuu siitä, että tunteja ei voida nostaa juuri sillä hetkellä. Kohtuullisen ajan pituus riippuu käsillä olevista olosuhteista. Työnantaja selvittää tässä tar- koitetun perusteen sopimuksen tehneelle osapuolelle sekä työntekijälle, jonka työsopimustuntien nostaminen tästä syystä viivästyy.
+> Sopimus ei pääty myöskään silloin, mikäli tunteja ei voitu nostaa
+> työnantajaa koskevan työn tarjoamisvelvoitteen vuoksi.
+>
+> Muissa tapauksissa sopimus päättyy siitä hetkestä lukien, kun
+> työnantaja ilmoittaa kokoaikatyön tarjoamista koskevan sitoumuksen
+> päättyvän.
+>
+> Sopimuksen päättymisellä ei ole vaikutusta sopimuksen voimassa ollessa
+> tehtyihin työsopimustuntien korotuksiin.
 
-Sopimus ei pääty myöskään silloin, mikäli tunteja ei voitu nostaa työnantajaa koskevan työn tarjoamisvelvoitteen vuoksi.
+# TYÖAIKAPANKKI
 
-Muissa tapauksissa sopimus päättyy siitä hetkestä lukien, kun työnantaja ilmoittaa kokoaikatyön tarjoamista koskevan sitoumuksen päättyvän.
+1.  Työpaikalla voidaan työpaikkakohtaisella sopimuksella
+    (työehtosopimuksen 23 §:n mukaisesti) ottaa käyttöön työaikapankki.
 
-Sopimuksen päättymisellä ei ole vaikutusta sopimuksen voimassa ollessa tehtyihin työsopimustuntien korotuksiin.
+> Työnantaja ja työntekijä sopivat erikseen työaikapankkiin
+> siirrettävistä tunneista.
 
-# <a name="työaikapankki"></a><a name="siirrettävät työtunnit"></a><a name="työaikapankkivapaan pitäminen"></a><a name="_bookmark95"></a>TYÖAIKAPANKKI
-C
-1. ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.078.png)Työpaikalla voidaan työpaikkakohtaisella sopimuksella (työehtosopimuksen 23 §:n mukaisesti) ottaa käyttöön työaikapankki.
+###### *Siirrettävät työtunnit*
 
-Työnantaja ja työntekijä sopivat erikseen työaikapankkiin siirrettävistä tunneista.
+2.  Työaikapankkiin voidaan siirtää seuraavia tunteja:
 
-Työaikapöytäkirjat
-###### ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.079.png)*Siirrettävät työtunnit*
-1. Työaikapankkiin voidaan siirtää seuraavia tunteja:
+    -   lisä- ja ylityötunteja
 
-   0. lisä- ja ylityötunteja
-   0. sunnuntaityön korotustunteja
-   0. tes-vapaapäivänä tehtyjä työtunteja
-   0. arkipyhälyhennyspäivänä tehtyjä työtunteja
-   0. työaikalain mukaisena vapaapäivänä tehtyjä työtunteja
-   0. Pekkaspäivänä tehtyjä työtunteja
-   0. liukuvan työajan plussaldotunteja työntekijän pyynnöstä
-   0. vuosivapaatunteja.
-1. Työnantajan aloitteesta tehtävät ja korotetulla palkalla maksettavat työtunnit siirretään työaikapankkiin vastaavasti korotettuina.
+    -   sunnuntaityön korotustunteja
 
-Työntekijän aloitteesta tehtävät tunnit siirretään työaikapankkiin korotta- mattomina.
+    -   tes-vapaapäivänä tehtyjä työtunteja
 
-1. Työnantaja ja työntekijä sopivat siirrettävien työtuntien määrästä.
+    -   arkipyhälyhennyspäivänä tehtyjä työtunteja
 
-Työaikapankissa saa kokoaikatyöntekijällä olla enintään 75 tuntia ja alle 37,5 tuntia tekevällä enintään 2 kertaa työsopimuksessa sovittu viikkotyöaika.
+    -   työaikalain mukaisena vapaapäivänä tehtyjä työtunteja
+
+    -   Pekkaspäivänä tehtyjä työtunteja
+
+    -   liukuvan työajan plussaldotunteja työntekijän pyynnöstä
+
+    -   vuosivapaatunteja.
+
+3.  Työnantajan aloitteesta tehtävät ja korotetulla palkalla maksettavat
+    työtunnit siirretään työaikapankkiin vastaavasti korotettuina.
+
+> Työntekijän aloitteesta tehtävät tunnit siirretään työaikapankkiin
+> korotta- mattomina.
+
+4.  Työnantaja ja työntekijä sopivat siirrettävien työtuntien määrästä.
+
+> Työaikapankissa saa kokoaikatyöntekijällä olla enintään 75 tuntia ja
+> alle 37,5 tuntia tekevällä enintään 2 kertaa työsopimuksessa sovittu
+> viikkotyöaika.
 
 ###### *Työaikapankkivapaan pitäminen*
-1. Työnantaja ja työntekijä pyrkivät sopimaan työaikapankkiin kertyneen vapaan antamisajankohdan. Muussa tapauksessa työnantaja määrää työaikapankki- vapaan antamisajankohdan.
 
-Työaikapankkivapaan antamisajankohdasta on ilmoitettava työntekijälle hyvissä ajoin, kuitenkin vähintään 2 viikkoa etukäteen.
+5.  Työnantaja ja työntekijä pyrkivät sopimaan työaikapankkiin kertyneen
+    vapaan antamisajankohdan. Muussa tapauksessa työnantaja määrää
+    työaikapankki- vapaan antamisajankohdan.
 
-1. <a name="työkyvyttömyys ja vapaa"></a><a name="kirjanpito"></a><a name="työsuhteen päättyminen"></a><a name="_bookmark96"></a>Työaikapankkivapaa annetaan kokonaisina vapaapäivinä, ellei toisin sovita. Työaikapankkivapaa pyritään antamaan muiden vapaapäivien tai vuosiloman yhteydessä.
+> Työaikapankkivapaan antamisajankohdasta on ilmoitettava työntekijälle
+> hyvissä ajoin, kuitenkin vähintään 2 viikkoa etukäteen.
 
-C
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.074.png)Työaikapankkivapaa on pidettävä viimeistään kertymisvuotta seuraavan kalen- terivuoden aikana, ellei hyväksyttävän poissaolon takia muuta sovita.
+6.  []{#_bookmark96 .anchor}Työaikapankkivapaa annetaan kokonaisina
+    vapaapäivinä, ellei toisin sovita. Työaikapankkivapaa pyritään
+    antamaan muiden vapaapäivien tai vuosiloman yhteydessä.
 
-Työaikapöytäkirjat
-1. ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.075.png)Työnantajan tai työntekijän irtisanoessa työaikapankkisopimuksen pidetään työaikapankkiin siirretyt työtunnit vapaana kuten kohdissa 5. ja 6. on todettu.
+> Työaikapankkivapaa on pidettävä viimeistään kertymisvuotta seuraavan
+> kalen- terivuoden aikana, ellei hyväksyttävän poissaolon takia muuta
+> sovita.
+
+7.  Työnantajan tai työntekijän irtisanoessa työaikapankkisopimuksen
+    pidetään työaikapankkiin siirretyt työtunnit vapaana kuten
+    kohdissa 5. ja 6. on todettu.
 
 ###### *Työkyvyttömyys ja vapaa*
-1. Työntekijän ollessa työkyvytön ennen työaikapankkivapaan alkamista tai työ- kyvyttömyyden alkaessa työaikapankkivapaan aikana noudatetaan vuosilo- malain säännöksiä.
 
-Työaikapankkivapaat kerryttävät vuosilomaa.
+8.  Työntekijän ollessa työkyvytön ennen työaikapankkivapaan alkamista
+    tai työ- kyvyttömyyden alkaessa työaikapankkivapaan aikana
+    noudatetaan vuosilo- malain säännöksiä.
+
+> Työaikapankkivapaat kerryttävät vuosilomaa.
 
 ###### *Kirjanpito*
-1. Työaikapankista on kirjattava:
 
-   0. milloin työ on tehty
-   0. kumman aloitteesta
-   0. montako tuntia tehty ja montako siirretty pankkiin
-   0. työaikapankkivapaan ajankohta ja montako tuntia pankista otetaan.
+9.  Työaikapankista on kirjattava:
+
+    -   milloin työ on tehty
+
+    -   kumman aloitteesta
+
+    -   montako tuntia tehty ja montako siirretty pankkiin
+
+    -   työaikapankkivapaan ajankohta ja montako tuntia pankista
+        > otetaan.
 
 ###### *Työsuhteen päättyminen*
-1. Työsuhteen päättyessä pitämätön työaikapankkivapaa korvataan peruspalkalla.
 
-# <a name="2 §  torjunta ja jälkihoito"></a><a name="1 §  arviointi"></a><a name="väkivallan uhka"></a><a name="_bookmark97"></a>VÄKIVALLAN UHKA
+10. Työsuhteen päättyessä pitämätön työaikapankkivapaa korvataan
+    peruspalkalla.
 
-C
-1. #### ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.078.png)§ Arviointi
-   1. Työnantajan työturvallisuuslain mukainen vaaran arviointi tulee palvelutyöteh- tävissä sisältää myös työpaikkaan kohdistuvan väkivallan uhan arvioinnin, joka päivitetään vähintään kerran kalenterivuodessa.
+# VÄKIVALLAN UHKA
 
-Työaikapöytäkirjat
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.079.png)Arvioinnissa otetaan huomioon mm.:
+1.  #### § Arviointi
 
-0. työskentely yksin, varsinkin ilta- ja yöaikaan
-0. työpaikkaan kohdistuneet ja työpaikan lähiympäristössä sattuneet väkivalta- tapaukset
-0. rahan tai arvokkaan omaisuuden käsittely.
+    1.  Työnantajan työturvallisuuslain mukainen vaaran arviointi tulee
+        palvelutyöteh- tävissä sisältää myös työpaikkaan kohdistuvan
+        väkivallan uhan arvioinnin, joka päivitetään vähintään kerran
+        kalenterivuodessa.
 
-Arvioidun vaaran perusteella työnantajan tulee järjestää työ ja työolosuhteet siten, että väkivallan uhkaa voidaan torjua tai vähentää.
+> Arvioinnissa otetaan huomioon mm.:
 
-1. #### § Torjunta ja jälkihoito
-   1. Työsopimusta tehtäessä työntekijälle selvitetään työhön sisältyvä mahdol- linen yksintyöskentely ja sen työturvallisuusriskit.
+-   työskentely yksin, varsinkin ilta- ja yöaikaan
 
-2. Väkivallan uhkaa tulee torjua mm.:
+-   työpaikkaan kohdistuneet ja työpaikan lähiympäristössä sattuneet
+    väkivalta- tapaukset
 
-   0. laatimalla menettelytapaohjeet väkivaltatilanteen varalle
-   0. antamalla työntekijälle riittävä opastus tai koulutus käytössä oleviin turva- ja hälytysjärjestelmiin
-   0. suunnittelemalla työpisteet rakenteellisesti turvallisiksi
-   0. arvioinnissa todetun väkivallan uhan huomioiminen työvoiman mitoituk- sessa sekä työvuoro- ja työaikasuunnittelussa
-   0. varmistamalla yhteydensaanti poliisiin tai vartiointiliikkeeseen, esimerkiksi puhelimella.
+-   rahan tai arvokkaan omaisuuden käsittely.
 
-2. Työnantaja selvittää jälkihoitoon liittyvät mahdollisuudet ja järjestelyt.
+> Arvioidun vaaran perusteella työnantajan tulee järjestää työ ja
+> työolosuhteet siten, että väkivallan uhkaa voidaan torjua tai
+> vähentää.
 
-1. #### <a name="3 §  yksintyöskentely"></a><a name="_bookmark98"></a>§ Yksintyöskentely
-Yksintyöskentely on asiakaspalvelutyötä:
+2.  #### § Torjunta ja jälkihoito
 
-C
+    1.  Työsopimusta tehtäessä työntekijälle selvitetään työhön
+        sisältyvä mahdol- linen yksintyöskentely ja sen
+        työturvallisuusriskit.
 
-- ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.074.png)jota myyjä tekee yksin myymälässä, kioskissa, myymälän tai tavaratalon yhdessä kerroksessa tai huolto- ja liikenneasemalla ja
-- joissa toiminta on järjestetty siten, että aukioloaikana työskentelee tavalli- sesti 1 työntekijä kerrallaan.
+```{=html}
+<!-- -->
+```
+2.  Väkivallan uhkaa tulee torjua mm.:
 
-Työaikapöytäkirjat
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.075.png)Työ ja työolosuhteet tulee järjestää siten, että väkivallan uhkaa myös yksintyös- kentelyssä voidaan torjua tai vähentää.
+    -   laatimalla menettelytapaohjeet väkivaltatilanteen varalle
 
-Ruoka- ja kahvitaukoja annettaessa työnantajan on huolehdittava, että ne voidaan käytännössä pitää.
+    -   antamalla työntekijälle riittävä opastus tai koulutus käytössä
+        oleviin turva- ja hälytysjärjestelmiin
 
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.095.png)
+    -   suunnittelemalla työpisteet rakenteellisesti turvallisiksi
 
+    -   arvioinnissa todetun väkivallan uhan huomioiminen työvoiman
+        mitoituk- sessa sekä työvuoro- ja työaikasuunnittelussa
 
+    -   varmistamalla yhteydensaanti poliisiin tai
+        vartiointiliikkeeseen, esimerkiksi puhelimella.
 
+3.  Työnantaja selvittää jälkihoitoon liittyvät mahdollisuudet ja
+    järjestelyt.
 
+#### § Yksintyöskentely
 
+> Yksintyöskentely on asiakaspalvelutyötä:
 
+-   jota myyjä tekee yksin myymälässä, kioskissa, myymälän tai
+    > tavaratalon yhdessä kerroksessa tai huolto- ja liikenneasemalla ja
 
+-   joissa toiminta on järjestetty siten, että aukioloaikana
+    > työskentelee tavalli- sesti 1 työntekijä kerrallaan.
 
+> Työ ja työolosuhteet tulee järjestää siten, että väkivallan uhkaa myös
+> yksintyös- kentelyssä voidaan torjua tai vähentää.
+>
+> Ruoka- ja kahvitaukoja annettaessa työnantajan on huolehdittava, että
+> ne voidaan käytännössä pitää.
+>
+> Sopimukset
 
-
-
-
-
-
-
-
-
-Sopimukset
-
-
-# <a name="johdanto"></a><a name="luottamusmiessopimus"></a><a name="_bookmark99"></a>LUOTTAMUSMIESSOPIMUS
+# LUOTTAMUSMIESSOPIMUS
 
 #### Johdanto
-D
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.096.png)Luottamusmiessopimuksen tarkoitus on edistää työnantajan ja työntekijöiden välistä yhteistoimintaa yrityksen eri osa-alueilla ja ennaltaehkäistä ongelmien syntymistä.
 
-Sopimukset
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.097.png)Toimintaympäristön nopeat muutokset korostavat yhteistoiminnan ja paikallisen sopimisen tärkeyttä. Työnantajilta ja luottamusmiehiltä vaaditaan ennakkoluulo- tonta suhtautumista ajan haasteisiin.
+> Luottamusmiessopimuksen tarkoitus on edistää työnantajan ja
+> työntekijöiden välistä yhteistoimintaa yrityksen eri osa-alueilla ja
+> ennaltaehkäistä ongelmien syntymistä.
+>
+> Toimintaympäristön nopeat muutokset korostavat yhteistoiminnan ja
+> paikallisen sopimisen tärkeyttä. Työnantajilta ja luottamusmiehiltä
+> vaaditaan ennakkoluulo- tonta suhtautumista ajan haasteisiin.
+>
+> On tärkeää, että luottamusmiehet ymmärtävät riittävästi yrityksen
+> liiketoimintaa ja muuttuvaa toimintaympäristöä sekä pystyvät yhdessä
+> työnantajan kanssa toi- mimaan tämän sopimuksen mukaisissa tehtävissä.
+>
+> Muutosten johdosta luottamusmiestehtävien hoidossa korostuu
+> luottamus-mie- hen yhteistyökumppanin rooli yrityksen ja sen
+> henkilöstön erilaisissa kehittämis- hankkeissa sekä parannettaessa
+> yrityksen tuottavuutta ja työhyvinvointia.
+>
+> Kaupan tulevaisuuden haasteet, yhteiset kehittämishankkeet ja
+> paikallinen sopi- minen edellyttävät riittävän kattavaa
+> luottamusmiesjärjestelmää, jossa luotta- musmiehillä on tarvittavat
+> tiedot ja taidot tehtäviensä hoitamiseen.
+>
+> Yhteistyön ja paikallisen sopimisen edistämiseksi työnantaja ja
+> pääluottamusmies selvittävät käytännön tarpeet ja sopivat
+> järjestelyistä koskien:
 
-On tärkeää, että luottamusmiehet ymmärtävät riittävästi yrityksen liiketoimintaa ja muuttuvaa toimintaympäristöä sekä pystyvät yhdessä työnantajan kanssa toi- mimaan tämän sopimuksen mukaisissa tehtävissä.
+-   yrityksen sisäisten viestintäjärjestelmien käyttämistä
+    > luottamusmiehen tiedottamisessa,
 
-Muutosten johdosta luottamusmiestehtävien hoidossa korostuu luottamus-mie- hen yhteistyökumppanin rooli yrityksen ja sen henkilöstön erilaisissa kehittämis- hankkeissa sekä parannettaessa yrityksen tuottavuutta ja työhyvinvointia.
+-   yrityksen luottamusmiesten keskinäistä yhteydenpitoa ja
+    > kokoontumisia,
 
-Kaupan tulevaisuuden haasteet, yhteiset kehittämishankkeet ja paikallinen sopi- minen edellyttävät riittävän kattavaa luottamusmiesjärjestelmää, jossa luotta- musmiehillä on tarvittavat tiedot ja taidot tehtäviensä hoitamiseen.
+-   luottamusmiesten verkko-opetusmahdollisuuksia sekä
 
-Yhteistyön ja paikallisen sopimisen edistämiseksi työnantaja ja pääluottamusmies selvittävät käytännön tarpeet ja sopivat järjestelyistä koskien:
+-   luottamusmiesten liiketoimintaosaamisen kehittämistä.
 
-- yrityksen sisäisten viestintäjärjestelmien käyttämistä luottamusmiehen tiedottamisessa,
-- yrityksen luottamusmiesten keskinäistä yhteydenpitoa ja kokoontumisia,
-- luottamusmiesten verkko-opetusmahdollisuuksia sekä
-- luottamusmiesten liiketoimintaosaamisen kehittämistä.
+#### § Sopimuksen soveltamisala
 
-Kaupan työehtosopimus 1.2.2023–31.1.2025
+> Sopimusta noudatetaan Kaupan liiton jäsenyrityksissä.
 
-159
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.011.png)![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.098.png)
-1. #### <a name="3 §  luottamusmiehen valinta"></a><a name="yleistä"></a><a name="2 § luottamusmiehen tehtävät"></a><a name="1 § sopimuksen soveltamisala"></a><a name="_bookmark100"></a>§ Sopimuksen soveltamisala
-Sopimusta noudatetaan Kaupan liiton jäsenyrityksissä.
+#### § Luottamusmiehen tehtävät
 
-D
-1. #### ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.099.png)![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.100.png)§ Luottamusmiehen tehtävät
-Luottamusmiehen tehtävänä on:
+> Luottamusmiehen tehtävänä on:
 
-0. kehittää työnantajan ja työntekijöiden välistä yhteistyötä
+-   kehittää työnantajan ja työntekijöiden välistä yhteistyötä
 
-Sopimukset
-0. ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.101.png)osallistua paikallisten sopimusten tekemiseen
-0. olla aktiivi kumppani yhteisissä tuottavuus- ja kehittämishankkeissa
-0. osallistua henkilöstön ammatillisen koulutuksen kehittämiseen
-0. edustaa toimialueensa järjestäytyneitä työntekijöitä
-0. edustaa yrityksessä työskenteleviä vuokratyöntekijöitä erimielisyyksien selvittämisessä siten kuin tilaajavastuulaissa säädetään
-0. antaa palautetta työntekijöiltä työnantajalle
-0. valvoa työehtosopimusten ja työlainsäädännön noudattamista
-0. osallistua paikallisten erimielisyyksien selvittämiseen
-0. pyrkiä edistämään työnantajan ja työntekijöiden välisiä suhteita ja työ- rauhan säilymistä työpaikalla aktiivisesti ja oikea-aikaisesti sekä puuttu- maan uhkaaviin työtaistelutoimenpiteisiin ennaltaehkäisevästi.
+-   osallistua paikallisten sopimusten tekemiseen
 
-1. #### § Luottamusmiehen valinta
+-   olla aktiivi kumppani yhteisissä tuottavuus- ja kehittämishankkeissa
+
+-   osallistua henkilöstön ammatillisen koulutuksen kehittämiseen
+
+-   edustaa toimialueensa järjestäytyneitä työntekijöitä
+
+-   edustaa yrityksessä työskenteleviä vuokratyöntekijöitä
+    erimielisyyksien selvittämisessä siten kuin tilaajavastuulaissa
+    säädetään
+
+-   antaa palautetta työntekijöiltä työnantajalle
+
+-   valvoa työehtosopimusten ja työlainsäädännön noudattamista
+
+-   osallistua paikallisten erimielisyyksien selvittämiseen
+
+-   pyrkiä edistämään työnantajan ja työntekijöiden välisiä suhteita ja
+    työ- rauhan säilymistä työpaikalla aktiivisesti ja oikea-aikaisesti
+    sekä puuttu- maan uhkaaviin työtaistelutoimenpiteisiin
+    ennaltaehkäisevästi.
+
+#### § Luottamusmiehen valinta
 
 ###### *Yleistä*
-1. Palvelualojen ammattiliittoon järjestäytyneet yrityksen työntekijät valitsevat luottamusmiehen.
-1. Luottamusmies on PAMin ammattiosaston jäsen ja yrityksen työntekijä.
-1. Järjestäytyneiden työntekijöiden valitsema vaalitoimikunta huolehtii luotta- musmiesvalinnan käytännön järjestelyistä. Työnantaja varaa tilaisuuden vaa- lien toimittamiseksi.
 
-1. Luottamusmiesvalinnan järjestämisestä työpaikalla on ilmoitettava työnanta- jalle 7 päivää ennen valinnan toimittamista.
+1.  Palvelualojen ammattiliittoon järjestäytyneet yrityksen työntekijät
+    valitsevat luottamusmiehen.
 
-###### <a name="luottamusmiehet"></a><a name="_bookmark101"></a>*Luottamusmiehet*
-1. Luottamusmiehiä voidaan valita seuraavasti:
+2.  Luottamusmies on PAMin ammattiosaston jäsen ja yrityksen työntekijä.
 
-*Yrityksen luottamusmies*
+3.  Järjestäytyneiden työntekijöiden valitsema vaalitoimikunta huolehtii
+    luotta- musmiesvalinnan käytännön järjestelyistä. Työnantaja varaa
+    tilaisuuden vaa- lien toimittamiseksi.
 
-D
+4.  Luottamusmiesvalinnan järjestämisestä työpaikalla on ilmoitettava
+    työnanta- jalle 7 päivää ennen valinnan toimittamista.
 
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.096.png)Yritykseen voidaan valita luottamusmies. Vähintään 30 työntekijän yritykseen valittu luottamusmies on tämän sopimuksen tarkoittama pääluottamusmies.
+###### *Luottamusmiehet*
 
-*Luottamusmiesorganisaatio*
+5.  Luottamusmiehiä voidaan valita seuraavasti:
 
-Sopimukset
+> *Yrityksen luottamusmies*
+>
+> Yritykseen voidaan valita luottamusmies. Vähintään 30 työntekijän
+> yritykseen valittu luottamusmies on tämän sopimuksen tarkoittama
+> pääluottamusmies.
+>
+> *Luottamusmiesorganisaatio*
+>
+> Yrityksessä, jossa on valtakunnallisesti laaja luottamusmiesorganisaa-
+> tio tai jonka palveluksessa on yli 700 työntekijää, tulee työnantajan
+> ja pää- luottamusmiehen paikallisen vuorovaikutuksen lisäämiseksi
+> neuvotella luottamusmiesorganisaatiosta..
+>
+> Neuvotteluissa on käsiteltävä muun muassa seuraavat asiat:
 
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.097.png)Yrityksessä, jossa on valtakunnallisesti laaja luottamusmiesorganisaa- tio tai jonka palveluksessa on yli 700 työntekijää, tulee työnantajan ja pää- luottamusmiehen paikallisen vuorovaikutuksen lisäämiseksi neuvotella luottamusmiesorganisaatiosta..
+-   yrityksen toiminnan luonne sekä organisaatio- ja
+    > päätöksentekorakenne
 
-Neuvotteluissa on käsiteltävä muun muassa seuraavat asiat:
+-   hallinnollinen itsenäisyys ja erillisyys
 
-0. yrityksen toiminnan luonne sekä organisaatio- ja päätöksentekorakenne
-0. hallinnollinen itsenäisyys ja erillisyys
-0. alueellinen kattavuus sekä toimipaikkojen lukumäärä ja etäisyydet
-0. henkilöstömäärä ja -jakauma
-0. työmenetelmien ja -välineiden hyödyntäminen toiminnassa, luottamus- henkilöiden yhteydenpidossa ja viestinnässä
-0. yhteistyön,	paikallisen	sopimisen	ja	neuvottelujärjestelmän kehittämistarpeet
-0. luottamusmiesten toimivalta ja sopimisoikeudet
-0. paikallisen sopimisen laatu ja laajuus
-0. henkilöstön ja työntekomuotojen moninaisuus
-0. vapautusajat ja korvaukset
-0. tiedonsaantioikeudet ja -vastuut.
+-   alueellinen kattavuus sekä toimipaikkojen lukumäärä ja etäisyydet
 
-Luottamusmiesorganisaatiosta sovittaessa on sopimus tehtävä kirjallisesti.
+-   henkilöstömäärä ja -jakauma
 
-Mikäli luottamusmiesorganisaatiosta ei päästä yhteisymmärrykseen, voidaan asia jommankumman osapuolen pyynnöstä siirtää työmarkkinaosapuolten käsiteltäväksi.
+-   työmenetelmien ja -välineiden hyödyntäminen toiminnassa, luottamus-
+    > henkilöiden yhteydenpidossa ja viestinnässä
 
-*Toimipaikan luottamusmies*
+-   yhteistyön, paikallisen sopimisen ja neuvottelujärjestelmän
+    > kehittämistarpeet
 
-Yrityksen luottamusmiehen lisäksi voidaan valita toimipaikan luottamusmies, jos asiasta sovitaan kirjallisesti ennen vaalijärjestelyjä.
+-   luottamusmiesten toimivalta ja sopimisoikeudet
 
-*Alueluottamusmies*
+-   paikallisen sopimisen laatu ja laajuus
 
-D
+-   henkilöstön ja työntekomuotojen moninaisuus
 
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.099.png)![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.100.png)Yritykseen, jolla on valtakunnallisesti laaja alueorganisaatio, voidaan valita alueluottamusmiehiä, jos asiasta sovitaan kirjallisesti ennen vaalijärjestelyjä.
+-   vapautusajat ja korvaukset
 
-Sopimukset
+-   tiedonsaantioikeudet ja -vastuut.
 
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.101.png)Jos yritykseen on valittu useita alueluottamusmiehiä, toimii 1 heistä yrityksen pääluottamusmiehenä tehtävänään järjestää myös koko yritystä koskevien yhteisten asioiden käsittely.
+> Luottamusmiesorganisaatiosta sovittaessa on sopimus tehtävä
+> kirjallisesti.
+>
+> Mikäli luottamusmiesorganisaatiosta ei päästä yhteisymmärrykseen,
+> voidaan asia jommankumman osapuolen pyynnöstä siirtää
+> työmarkkinaosapuolten käsiteltäväksi.
+>
+> *Toimipaikan luottamusmies*
+>
+> Yrityksen luottamusmiehen lisäksi voidaan valita toimipaikan
+> luottamusmies, jos asiasta sovitaan kirjallisesti ennen
+> vaalijärjestelyjä.
+>
+> *Alueluottamusmies*
+>
+> Yritykseen, jolla on valtakunnallisesti laaja alueorganisaatio,
+> voidaan valita alueluottamusmiehiä, jos asiasta sovitaan kirjallisesti
+> ennen vaalijärjestelyjä.
+>
+> Jos yritykseen on valittu useita alueluottamusmiehiä, toimii 1 heistä
+> yrityksen pääluottamusmiehenä tehtävänään järjestää myös koko yritystä
+> koskevien yhteisten asioiden käsittely.
+>
+> *Toimipaikan tai alueluottamusmiehen valitseminen*
+>
+> Työnantajan ja pääluottamusmiehen sopiessa yrityksen toimipaikan tai
+> alue- luottamusmiehen valitsemisesta on otettava huomioon seuraavaa:
 
-*Toimipaikan tai alueluottamusmiehen valitseminen*
+-   yrityksen organisaatio- ja päätöksentekorakenne
 
-Työnantajan ja pääluottamusmiehen sopiessa yrityksen toimipaikan tai alue- luottamusmiehen valitsemisesta on otettava huomioon seuraavaa:
+-   hallinnollinen itsenäisyys ja erillisyys
 
-- yrityksen organisaatio- ja päätöksentekorakenne
-- hallinnollinen itsenäisyys ja erillisyys
-- henkilöstömäärä ja -jakauma
-- yhteistyön, paikallisen sopimisen ja neuvottelujärjestelmän kehittämis tarpeet.
+-   henkilöstömäärä ja -jakauma
 
-Toimipaikan luottamusmies voidaan valita yrityksen itsenäiseen toimintayk- sikköön, jossa työnantajan edustajalla on itsenäinen neuvotteluoikeus, vastuu yksikön tuloksesta ja henkilöstöstä. Itsenäisiä toimintayksikköjä ovat esimer- kiksi yrityksen hankinta- ja jakelukeskus, tavaratalo tai muu erillinen toimipiste.
+-   yhteistyön, paikallisen sopimisen ja neuvottelujärjestelmän
+    kehittämis tarpeet.
 
-Alueluottamusmies voidaan valita alueelle, jossa työnantajan edustajalla on itsenäinen neuvotteluoikeus ja että neuvottelujärjestelmän mukainen asioiden käsittely voidaan alueella järjestää tehokkaasti ja toimivasti.
-
-*Esihenkilöiden luottamusmies*
-
-Esihenkilöasemassa olevat toimihenkilöt, joihin noudatetaan Vähittäiskaupan esihenkilöiden työehtosopimusta tai Kaupan logistiikan esihenkilöiden työeh- tosopimusta voivat valita keskuudestaan luottamusmiehen.
-
-<a name="ilmoitukset työnantajalle"></a><a name="muutostilanteet"></a><a name="_bookmark102"></a>Jos esihenkilöt eivät ole valinneet itselleen luottamusmiestä, heitä edustaa työntekijöiden keskuudestaan valitsema luottamusmies. Tällöin myös esihen- kilöillä on oikeus äänestää työntekijöiden luottamusmiesvaaleissa.
-
-*Varaluottamusmies*
-
-D
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.096.png)Luottamusmiehelle voidaan valita varamies. Varamiehen toimimisesta luot- tamus-miehenä on ilmoitettava työnantajalle kirjallisesti. Luottamusmiehenä toimiessaan varamiehellä on luottamusmiehen oikeudet ja velvollisuudet.
-
-Sopimukset
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.097.png)Jollei paikallisesti toisin sovita, varaluottamusmiehen toimiessa yrityksen luot- tamusmiehenä hänellä on oikeus työstävapautusaikaan sekä luottamusmies- korvaukseen. Työstävapautusaikaa annetaan ja luottamusmieskorvausta mak- setaan, mikäli yrityksen luottamusmies on estynyt hoitamasta luottamusteh- täväänsä yhdenjaksoisesti vähintään viikon ajan. Korvaus sijaistamisen ajalta lasketaan käyttäen osakuukauden palkanlaskentasääntöä.
+> Toimipaikan luottamusmies voidaan valita yrityksen itsenäiseen
+> toimintayk- sikköön, jossa työnantajan edustajalla on itsenäinen
+> neuvotteluoikeus, vastuu yksikön tuloksesta ja henkilöstöstä.
+> Itsenäisiä toimintayksikköjä ovat esimer- kiksi yrityksen hankinta- ja
+> jakelukeskus, tavaratalo tai muu erillinen toimipiste.
+>
+> Alueluottamusmies voidaan valita alueelle, jossa työnantajan
+> edustajalla on itsenäinen neuvotteluoikeus ja että
+> neuvottelujärjestelmän mukainen asioiden käsittely voidaan alueella
+> järjestää tehokkaasti ja toimivasti.
+>
+> *Esihenkilöiden luottamusmies*
+>
+> Esihenkilöasemassa olevat toimihenkilöt, joihin noudatetaan
+> Vähittäiskaupan esihenkilöiden työehtosopimusta tai Kaupan logistiikan
+> esihenkilöiden työeh- tosopimusta voivat valita keskuudestaan
+> luottamusmiehen.
+>
+> []{#_bookmark102 .anchor}Jos esihenkilöt eivät ole valinneet itselleen
+> luottamusmiestä, heitä edustaa työntekijöiden keskuudestaan valitsema
+> luottamusmies. Tällöin myös esihen- kilöillä on oikeus äänestää
+> työntekijöiden luottamusmiesvaaleissa.
+>
+> *Varaluottamusmies*
+>
+> Luottamusmiehelle voidaan valita varamies. Varamiehen toimimisesta
+> luot- tamus-miehenä on ilmoitettava työnantajalle kirjallisesti.
+> Luottamusmiehenä toimiessaan varamiehellä on luottamusmiehen oikeudet
+> ja velvollisuudet.
+>
+> Jollei paikallisesti toisin sovita, varaluottamusmiehen toimiessa
+> yrityksen luot- tamusmiehenä hänellä on oikeus työstävapautusaikaan
+> sekä luottamusmies- korvaukseen. Työstävapautusaikaa annetaan ja
+> luottamusmieskorvausta mak- setaan, mikäli yrityksen luottamusmies on
+> estynyt hoitamasta luottamusteh- täväänsä yhdenjaksoisesti vähintään
+> viikon ajan. Korvaus sijaistamisen ajalta lasketaan käyttäen
+> osakuukauden palkanlaskentasääntöä.
 
 ###### *Ilmoitukset työnantajalle*
-1. Valituista luottamusmiehistä varamiehineen sekä luottamusmiestehtävien päättymisistä on ilmoitettava välittömästi ja kirjallisesti työnantajalle.
 
-Luottamusmiehen jatkaessa tehtävissä ilman vaaleja siitä on ilmoitettava työn- antajalle välittömästi vaalikauden päättymisen jälkeen.
+6.  Valituista luottamusmiehistä varamiehineen sekä
+    luottamusmiestehtävien päättymisistä on ilmoitettava välittömästi ja
+    kirjallisesti työnantajalle.
 
-Saatuaan tiedon uusista luottamusmiehistä työnantajan on ilmoitettava vas- taava työnantajan edustaja välittömästi ja kirjallisesti luottamusmiehelle.
-
-Tehtävästä luopuva luottamusmies ja työnantaja perehdyttävät uuden luottamusmiehen yrityksen paikallisiin sopimuksiin ja käytäntöihin. Perehdytyksen menettelytavoista ja aikataulusta sovitaan työnantajan kanssa. Luottamusmiehet osallistuvat perehdytykseen ilman ansionmenetystä.
+> Luottamusmiehen jatkaessa tehtävissä ilman vaaleja siitä on
+> ilmoitettava työn- antajalle välittömästi vaalikauden päättymisen
+> jälkeen.
+>
+> Saatuaan tiedon uusista luottamusmiehistä työnantajan on ilmoitettava
+> vas- taava työnantajan edustaja välittömästi ja kirjallisesti
+> luottamusmiehelle.
+>
+> Tehtävästä luopuva luottamusmies ja työnantaja perehdyttävät uuden
+> luottamusmiehen yrityksen paikallisiin sopimuksiin ja käytäntöihin.
+> Perehdytyksen menettelytavoista ja aikataulusta sovitaan työnantajan
+> kanssa. Luottamusmiehet osallistuvat perehdytykseen ilman
+> ansionmenetystä.
 
 ###### *Muutostilanteet*
-1. Yrityksen tai sen osan toiminnan olennaisesti supistuessa tai laajentuessa tai liikkeen luovutuksen, sulautumisen tai niihin verrattavan organisaatiomuu- toksen johdosta paikalliset osapuolet saattavat luottamusmiesorganisaation mahdollisimman pian vastaamaan yrityksen tai sen osan muuttunutta kokoa ja rakennetta.
 
-1. #### <a name="4 § luottamusmiehelle annettavat tiedot"></a><a name="_bookmark103"></a>§ Luottamusmiehelle annettavat tiedot
-1. Luottamusmiehelle annetaan kaikki tarvittavat työpaikkakohtaiseen sopimi- seen vaikuttavat tiedot.
+7.  Yrityksen tai sen osan toiminnan olennaisesti supistuessa tai
+    laajentuessa tai liikkeen luovutuksen, sulautumisen tai niihin
+    verrattavan organisaatiomuu- toksen johdosta paikalliset osapuolet
+    saattavat luottamusmiesorganisaation mahdollisimman pian vastaamaan
+    yrityksen tai sen osan muuttunutta kokoa ja rakennetta.
 
-D
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.099.png)![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.100.png)Syntyessä epäselvyyttä tai erimielisyyttä työntekijöiden palkasta tai työsuh- teeseen liittyvien lakien tai sopimusten soveltamisesta luottamusmiehelle annetaan kaikki tapauksen selvittämiseen vaikuttavat tiedot.
+#### § Luottamusmiehelle annettavat tiedot
 
-Sopimukset
-1. ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.101.png)Yrityksen luottamusmiehellä on oikeus pyynnöstä saada työehtosopimusten piiriin kuuluvista yrityksen työntekijöistä seuraavat tiedot:
+1.  Luottamusmiehelle annetaan kaikki tarvittavat työpaikkakohtaiseen
+    sopimi- seen vaikuttavat tiedot.
 
-*Kerran vuodessa*
+> Syntyessä epäselvyyttä tai erimielisyyttä työntekijöiden palkasta tai
+> työsuh- teeseen liittyvien lakien tai sopimusten soveltamisesta
+> luottamusmiehelle annetaan kaikki tapauksen selvittämiseen vaikuttavat
+> tiedot.
 
-0. suku- ja etunimet
-0. alle 37,5 tuntia työskentelevien sekä määräaikaisten työntekijöiden määrät alueellisesti, toimipaikkakohtaisesti tai muutoin työnantajan kannalta tar- koituksenmukainen kokonaisuus huomioiden. Tietoja, jotka koskevat alle 6 henkilöä pienempiä työntekijäryhmiä, ei anneta.
-0. palkkaryhmä tai vastaava, johon työntekijä tai hänen suorittamansa työ kuuluu
-0. työntekijöiden lukumäärä sekä vuoden aikana työssä olleiden erikseen työ- hön kutsuttavien tai muun tilapäisen henkilöstön lukumäärä
-0. työpaikkakohtaisesti työehtosopimuksen (23 §:n mukaisesti) toisin sovitut asiakokonaisuudet ilman yksilöitäviä henkilötietoja.
+2.  Yrityksen luottamusmiehellä on oikeus pyynnöstä saada
+    työehtosopimusten piiriin kuuluvista yrityksen työntekijöistä
+    seuraavat tiedot:
 
-*Kuukauden kuluessa työsuhteiden alkamisesta*
+> *Kerran vuodessa*
 
-0. uusien työntekijöiden suku- ja etunimet sekä palvelukseen tuloaika.
-1. Pääluottamusmiehellä on oikeus pyynnöstä saada lisäksi seuraavat ryhmäkoh- taiset tiedot toimialueensa työntekijöistä edellyttäen, että tiedot perustuvat yrityksen muun toiminnan yhteydessä syntyvään tietoaineistoon:
+-   suku- ja etunimet
 
-   0. keskimääräinen kuukausi- tai tuntipalkka ilman lisiä
-   0. keskimääräinen kuukausi- tai tuntipalkka lisineen
-   0. työtuntien määrä ja ylityötuntien osuus tehdyistä työtunneista.
+-   alle 37,5 tuntia työskentelevien sekä määräaikaisten työntekijöiden
+    määrät alueellisesti, toimipaikkakohtaisesti tai muutoin työnantajan
+    kannalta tar- koituksenmukainen kokonaisuus huomioiden. Tietoja,
+    jotka koskevat alle 6 henkilöä pienempiä työntekijäryhmiä, ei
+    anneta.
 
-Pääluottamusmiehellä on oikeus saada edellä mainitut tiedot kerran vuodessa noudattaen työehtosopimusten ammattiryhmittelyä. Tietoja, jotka koskevat 6 henkilöä pienempiä työntekijäryhmiä, ei anneta.
+-   palkkaryhmä tai vastaava, johon työntekijä tai hänen suorittamansa
+    työ kuuluu
 
-1. <a name="5 § luottamusmiehen kanssa käsiteltävät "></a><a name="_bookmark104"></a>Luottamusmiehelle annetaan pyynnöstä selvitys siitä, millaisia tietoja työ- hönoton yhteydessä kerätään.
+-   työntekijöiden lukumäärä sekä vuoden aikana työssä olleiden erikseen
+    työ- hön kutsuttavien tai muun tilapäisen henkilöstön lukumäärä
 
-1. Luottamusmiehellä on oikeus perehtyä hätä- ja ylityöstä ja niistä maksetusta korotetusta palkasta laadittuun luetteloon.
+-   työpaikkakohtaisesti työehtosopimuksen (23 §:n mukaisesti) toisin
+    sovitut asiakokonaisuudet ilman yksilöitäviä henkilötietoja.
 
-D
-1. ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.096.png)Vuokratyöstä tai alihankinnasta tehdystä sopimuksesta on tilaajavastuulain mukaisesti pyynnöstä ilmoitettava luottamusmiehelle. Asiasta ilmoitettaessa on selvitettävä vuokratyön käytön syy, käytettävän työvoiman määrä, yrityk- sen yksilöintitiedot, työkohde, työtehtävät, sopimuksen kesto ja sovellettava työehtosopimus tai keskeiset työehdot.
+> *Kuukauden kuluessa työsuhteiden alkamisesta*
 
-Sopimukset
-1. ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.097.png)Luottamusmiehen on pidettävä tehtäviensä hoitamista varten saamansa tie- dot luottamuksellisina. Luottamusmiehen on kaikessa toiminnassaan huomi- oitava kulloinkin voimassa oleva tietosuojalainsäädäntö.
+-   uusien työntekijöiden suku- ja etunimet sekä palvelukseen tuloaika.
 
-1. #### § Luottamusmiehen kanssa käsiteltävät asiat
-1. Työnantaja ja luottamusmies käsittelevät vuosittain seuraavat asiat:
+3.  Pääluottamusmiehellä on oikeus pyynnöstä saada lisäksi seuraavat
+    ryhmäkoh- taiset tiedot toimialueensa työntekijöistä edellyttäen,
+    että tiedot perustuvat yrityksen muun toiminnan yhteydessä syntyvään
+    tietoaineistoon:
 
-   0. Yrityksen koko henkilöstön rakenne ja määrä sekä arvion niiden kehittymisestä.
-   0. Työajan suunnittelussa ja lisätyön tarjoamisessa käytettävät periaatteet ja niiden toimivuus.
-   0. Alueellisesti, toimipaikkakohtaisesti tai muutoin työnantajan kannalta tar- koituksenmukainen kokonaisuus huomioiden alle 37,5 tuntia työskente- levän henkilöstön rakenne ja sen kehitys sekä arvion sen kehittymisestä.
-   0. Alueellisesti, toimipaikkakohtaisesti tai muutoin työnantajan kannalta tarkoituksenmukainen kokonaisuus huomioiden työsopimustuntien ja tehtyjen työtuntien määrä ja suhde sekä niiden kehitys ja arvio niiden kehittymisestä.
-   0. Mahdollisuudet käyttää joustavan kokoaikatyön järjestelyä
-   0. Muut mahdolliset toimenpiteet, joilla on pyritty lisäämään työn teettämistä kokoaikaisin tai lähes kokoaikaisin työtunnein.
+    -   keskimääräinen kuukausi- tai tuntipalkka ilman lisiä
 
-Käsittelyn tarkoituksena on edesauttaa lisätyöntarjoamisvelvollisuuden sekä työehtosopimuksen 6 § toteutumista.
+    -   keskimääräinen kuukausi- tai tuntipalkka lisineen
 
-1. #### <a name="6 § työstävapautus ja työskentelypuittee"></a><a name="työstävapautus"></a><a name="työstävapautusaika ja ajankäyttö"></a><a name="_bookmark105"></a>§ Työstävapautus ja työskentelypuitteet
+    -   työtuntien määrä ja ylityötuntien osuus tehdyistä työtunneista.
+
+> Pääluottamusmiehellä on oikeus saada edellä mainitut tiedot kerran
+> vuodessa noudattaen työehtosopimusten ammattiryhmittelyä. Tietoja,
+> jotka koskevat 6 henkilöä pienempiä työntekijäryhmiä, ei anneta.
+
+4.  []{#_bookmark104 .anchor}Luottamusmiehelle annetaan pyynnöstä
+    selvitys siitä, millaisia tietoja työ- hönoton yhteydessä kerätään.
+
+5.  Luottamusmiehellä on oikeus perehtyä hätä- ja ylityöstä ja niistä
+    maksetusta korotetusta palkasta laadittuun luetteloon.
+
+6.  Vuokratyöstä tai alihankinnasta tehdystä sopimuksesta on
+    tilaajavastuulain mukaisesti pyynnöstä ilmoitettava
+    luottamusmiehelle. Asiasta ilmoitettaessa on selvitettävä vuokratyön
+    käytön syy, käytettävän työvoiman määrä, yrityk- sen
+    yksilöintitiedot, työkohde, työtehtävät, sopimuksen kesto ja
+    sovellettava työehtosopimus tai keskeiset työehdot.
+
+7.  Luottamusmiehen on pidettävä tehtäviensä hoitamista varten saamansa
+    tie- dot luottamuksellisina. Luottamusmiehen on kaikessa
+    toiminnassaan huomi- oitava kulloinkin voimassa oleva
+    tietosuojalainsäädäntö.
+
+#### § Luottamusmiehen kanssa käsiteltävät asiat
+
+1.  Työnantaja ja luottamusmies käsittelevät vuosittain seuraavat asiat:
+
+    -   Yrityksen koko henkilöstön rakenne ja määrä sekä arvion niiden
+        > kehittymisestä.
+
+    -   Työajan suunnittelussa ja lisätyön tarjoamisessa käytettävät
+        > periaatteet ja niiden toimivuus.
+
+    -   Alueellisesti, toimipaikkakohtaisesti tai muutoin työnantajan
+        > kannalta tar- koituksenmukainen kokonaisuus huomioiden alle
+        > 37,5 tuntia työskente- levän henkilöstön rakenne ja sen
+        > kehitys sekä arvion sen kehittymisestä.
+
+    -   Alueellisesti, toimipaikkakohtaisesti tai muutoin työnantajan
+        > kannalta tarkoituksenmukainen kokonaisuus huomioiden
+        > työsopimustuntien ja tehtyjen työtuntien määrä ja suhde sekä
+        > niiden kehitys ja arvio niiden kehittymisestä.
+
+    -   Mahdollisuudet käyttää joustavan kokoaikatyön järjestelyä
+
+    -   Muut mahdolliset toimenpiteet, joilla on pyritty lisäämään työn
+        > teettämistä kokoaikaisin tai lähes kokoaikaisin työtunnein.
+
+> Käsittelyn tarkoituksena on edesauttaa lisätyöntarjoamisvelvollisuuden
+> sekä työehtosopimuksen 6 § toteutumista.
+
+#### § Työstävapautus ja työskentelypuitteet
 
 ###### *Työstävapautus*
-D
-1. ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.099.png)![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.100.png)Luottamusmiehellä on oikeus riittävään työstävapautukseen luottamusmies- tehtävien hoitamista varten.
 
-Työstävapautuksen määrässä otetaan huomioon mm. työntekijöiden ja toimi- paikkojen lukumäärä, toimipaikan sijainti ja yrityksen toiminnan luonne.
+1.  Luottamusmiehellä on oikeus riittävään työstävapautukseen
+    luottamusmies- tehtävien hoitamista varten.
 
-Sopimukset
-###### ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.101.png)*Työstävapautusaika ja ajankäyttö*
-1. Alla esitetyn taulukon mukainen työstävapautusaika annetaan ainoastaan yri- tyksen luottamusmiehelle, ellei yrityskohtaisesti toisin sovita.
+> Työstävapautuksen määrässä otetaan huomioon mm. työntekijöiden ja
+> toimi- paikkojen lukumäärä, toimipaikan sijainti ja yrityksen
+> toiminnan luonne.
 
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.102.png)Yrityksen luottamusmiehelle annetaan työstävapautusaikaa hänen toimialu- eeseen kuuluvien työntekijöiden lukumäärän perusteella (riippumatta järjes- täytyneisyydestä) seuraavasti:
+###### *Työstävapautusaika ja ajankäyttö*
 
-Työntekijöiden lukumäärä
+2.  Alla esitetyn taulukon mukainen työstävapautusaika annetaan
+    ainoastaan yri- tyksen luottamusmiehelle, ellei yrityskohtaisesti
+    toisin sovita.
 
-Työstävapautusaika tuntia / viikko
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.103.png)![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.104.png)
-
-20–49	3
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.021.png)
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.019.png)50–99	5
-
-100–149	7,5
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.021.png)
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.019.png)150–299	15
-
-300–499	22,5
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.021.png)
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.019.png)500–699	30
-
-vähintään 700	kokonaan työstä vapaa
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.020.png)
-
-Muiden kuin työntekijämäärän perusteella kokonaan työstä vapautettujen luottamusmiesten työstävapautusaikaa korotetaan lisäksi vähintään 7,5 tun- nilla/viikko, jos luottamusmiehen toimipisteiden lukumäärä on vähintään 30 ja luottamusmiehen toimialue kattaa koko maan.
-
-Luottamusmiehen työsopimuksessa olevan viikkotyöajan alittaessa edellä mainituilla perusteilla määräytyvän työstävapautusajan sopimustunnit noste- taan henkilöstömäärää vastaavaan taulukon mukaiseen vapautusaikaan luot- tamusmieskauden ajaksi.
-
-
-<a name="työskentelypuitteet"></a><a name="_bookmark106"></a>Esimerkki 59
-
-Työntekijän työsopimustunnit ovat 25 t / viikko. Työntekijöiden lukumäärä on 550. Sopimustunnit nostetaan luottamusmieskauden ajaksi 30 t/ viikko.
-
-Esimerkki 60
-
-Työntekijän työsopimustunnit ovat 30 t / viikko. Työntekijöiden lukumäärä on yli 700. Sopimustunnit nostetaan luottamusmieskauden ajaksi 37,5 t / viikko.
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.105.png)
-
-D
-
-Sopimukset
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.096.png)![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.097.png)Luottamusmiestehtävän hoitamista varten sovittuja viikkoaikoja voidaan myös yhdistää.
-
-Luottamusmiehen tulee tehdä ajankäyttösuunnitelma, josta käy ilmi luotta- musmiestehtävän hoitamiseen käytettävä aika pääaiheittain.
-
-Luottamusmiehellä on lisäksi oikeus kerran vuodessa käydä toimialaansa kuu- luvissa toimipaikoissa työnantajan kanssa sovittavana aikana.
-
-Toimipaikkojen väliseen matkaan käytettyä aikaa ei lueta em. vapautusaikaan.
-
-Työntekijämäärän ollessa vähemmän kuin 20, selvitetään kussakin tapauk- sessa erikseen, milloin on tarkoituksenmukaista sopia kiinteästä työstä- vapautusajasta.
-
-Ellei paikallisesti toisin sovita, todetaan työntekijämäärä puolivuosittain.
+> Yrityksen luottamusmiehelle annetaan työstävapautusaikaa hänen
+> toimialu- eeseen kuuluvien työntekijöiden lukumäärän perusteella
+> (riippumatta järjes- täytyneisyydestä) seuraavasti:
+>
+> 20--49 3
+>
+> 50--99 5
+>
+> 100--149 7,5
+>
+> 150--299 15
+>
+> 300--499 22,5
+>
+> 500--699 30
+>
+> vähintään 700 kokonaan työstä vapaa
+>
+> Muiden kuin työntekijämäärän perusteella kokonaan työstä vapautettujen
+> luottamusmiesten työstävapautusaikaa korotetaan lisäksi vähintään 7,5
+> tun- nilla/viikko, jos luottamusmiehen toimipisteiden lukumäärä on
+> vähintään 30 ja luottamusmiehen toimialue kattaa koko maan.
+>
+> Luottamusmiehen työsopimuksessa olevan viikkotyöajan alittaessa edellä
+> mainituilla perusteilla määräytyvän työstävapautusajan sopimustunnit
+> noste- taan henkilöstömäärää vastaavaan taulukon mukaiseen
+> vapautusaikaan luot- tamusmieskauden ajaksi.
+>
+> Luottamusmiestehtävän hoitamista varten sovittuja viikkoaikoja voidaan
+> myös yhdistää.
+>
+> Luottamusmiehen tulee tehdä ajankäyttösuunnitelma, josta käy ilmi
+> luotta- musmiestehtävän hoitamiseen käytettävä aika pääaiheittain.
+>
+> Luottamusmiehellä on lisäksi oikeus kerran vuodessa käydä toimialaansa
+> kuu- luvissa toimipaikoissa työnantajan kanssa sovittavana aikana.
+>
+> Toimipaikkojen väliseen matkaan käytettyä aikaa ei lueta em.
+> vapautusaikaan.
+>
+> Työntekijämäärän ollessa vähemmän kuin 20, selvitetään kussakin
+> tapauk- sessa erikseen, milloin on tarkoituksenmukaista sopia
+> kiinteästä työstä- vapautusajasta.
+>
+> Ellei paikallisesti toisin sovita, todetaan työntekijämäärä
+> puolivuosittain.
 
 ###### *Työskentelypuitteet*
-Luottamusmiehelle annetaan työpaikan olosuhteet huomioon ottaen riit- tävästi säilytystilaa hänen tarvitsemilleen asiakirjoille ja tarvittaessa oikeus käyttää työnantajan hallinnassa olevaa tarkoituksenmukaista toimistotilaa ja tavanomaisia toimistovälineitä. Luottamusmies voi toimittaa ammattiliittonsa aineistoa työntekijöille.
 
-<a name="7 § ansionmenetyksen korvaus"></a><a name="ansionmenetys"></a><a name="matkakustannukset"></a><a name="luottamusmieskorvaus"></a><a name="_bookmark107"></a>Tavanomaisten toimistovälineiden käsitteen piiriin kuuluvat myös yrityksessä yleisesti käytössä olevat atk-laitteet ja niihin liittyvät ohjelmat sekä interne- tyhteys (sähköposti). Arvioinnissa voidaan ottaa huomioon mm. yrityksen koko, luottamusmiehen tehtävien laajuus ja edellyttämä tarve sekä ajankäytön määrä. Käytännön järjestelyistä sovitaan paikallisesti.
+> Luottamusmiehelle annetaan työpaikan olosuhteet huomioon ottaen riit-
+> tävästi säilytystilaa hänen tarvitsemilleen asiakirjoille ja
+> tarvittaessa oikeus käyttää työnantajan hallinnassa olevaa
+> tarkoituksenmukaista toimistotilaa ja tavanomaisia toimistovälineitä.
+> Luottamusmies voi toimittaa ammattiliittonsa aineistoa työntekijöille.
+>
+> []{#_bookmark107 .anchor}Tavanomaisten toimistovälineiden käsitteen
+> piiriin kuuluvat myös yrityksessä yleisesti käytössä olevat
+> atk-laitteet ja niihin liittyvät ohjelmat sekä interne- tyhteys
+> (sähköposti). Arvioinnissa voidaan ottaa huomioon mm. yrityksen koko,
+> luottamusmiehen tehtävien laajuus ja edellyttämä tarve sekä ajankäytön
+> määrä. Käytännön järjestelyistä sovitaan paikallisesti.
+>
+> Luottamusmiehelle annetaan tarvittaessa mahdollisuus työnohjaukseen
+> tai muihin työpaikalla käytössä oleviin työn kuormituksen
+> ehkäisemiseen tarkoi- tettuihin keinoihin.
 
-D
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.099.png)![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.100.png)Luottamusmiehelle annetaan tarvittaessa mahdollisuus työnohjaukseen tai muihin työpaikalla käytössä oleviin työn kuormituksen ehkäisemiseen tarkoi- tettuihin keinoihin.
-
-Sopimukset
-1. #### ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.101.png)§ Ansionmenetyksen korvaus
+#### § Ansionmenetyksen korvaus
 
 ###### *Ansionmenetys*
-1. Työnantaja maksaa luottamusmiehelle luottamusmiestehtävän hoitamisesta aiheutuneen säännöllisen työajan ansiomenetyksen.
 
-Jos luottamusmies olisi säännöllisenä työaikanaan ansainnut työvuoroluet- telon mukaan ilta-, yö- ja lauantailisiä, ne maksetaan, ellei paikallisesti toisin sovita.
+1.  Työnantaja maksaa luottamusmiehelle luottamusmiestehtävän
+    hoitamisesta aiheutuneen säännöllisen työajan ansiomenetyksen.
 
-Luottamusmiehen tehdessä työnantajan kanssa sovittuja tehtäviä säännölli- sen työajan ulkopuolella maksetaan lisä- tai ylityökorvaukset, ellei toisin sovita.
+> Jos luottamusmies olisi säännöllisenä työaikanaan ansainnut
+> työvuoroluet- telon mukaan ilta-, yö- ja lauantailisiä, ne maksetaan,
+> ellei paikallisesti toisin sovita.
+>
+> Luottamusmiehen tehdessä työnantajan kanssa sovittuja tehtäviä
+> säännölli- sen työajan ulkopuolella maksetaan lisä- tai
+> ylityökorvaukset, ellei toisin sovita.
 
 ###### *Matkakustannukset*
-1. Luottamusmiehen matkustaessa työnantajan kanssa sovittujen luottamus- miestehtävien takia maksetaan matkakorvaukset yrityksessä noudatettavan käytännön mukaan, kuten muissakin työtehtävissä.
 
-Luottamusmiehen käyttäessä matkustamiseen työnantajan suostumuksella omaa autoa maksetaan kilometrikorvaus..
+2.  Luottamusmiehen matkustaessa työnantajan kanssa sovittujen
+    luottamus- miestehtävien takia maksetaan matkakorvaukset yrityksessä
+    noudatettavan käytännön mukaan, kuten muissakin työtehtävissä.
+
+> Luottamusmiehen käyttäessä matkustamiseen työnantajan suostumuksella
+> omaa autoa maksetaan kilometrikorvaus..
 
 ###### *Luottamusmieskorvaus*
-1. Luottamusmiestehtävien hoitamisesta maksetaan luottamusmieskorvausta ainoastaan yrityksen luottamusmiehelle, ellei yrityskohtaisesti toisin sovita.
 
-Yrityksen luottamusmiehelle maksetaan luottamusmieskorvausta hänen toi- mialueeseensa kuuluvien työntekijöiden lukumäärän perusteella (riippumatta järjestäytyneisyydestä) seuraavasti:
+3.  Luottamusmiestehtävien hoitamisesta maksetaan luottamusmieskorvausta
+    ainoastaan yrityksen luottamusmiehelle, ellei yrityskohtaisesti
+    toisin sovita.
 
-<a name="9 § työsuhdeturva"></a><a name="syrjintäkielto"></a><a name="8 § luottamusmiehen koulutus"></a><a name="pääluottamusmiehen ansiokehitys"></a><a name="_bookmark108"></a>Korvaus euroa / kk
-
-Työntekijöiden määrä
-
-Luottamusmieskorvaukset 1.6.2023 alkaen:
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.106.png)
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.107.png)20–49	47
-
-50–149	83
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.108.png)
-
-D
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.107.png)![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.096.png)150–299	117
-
-300–499	177
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.108.png)
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.107.png)500–799	225
-
-vähintään 800	sovitaan paikallisesti
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.109.png)
-
-Sopimukset
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.097.png)Ellei paikallisesti toisin sovita, todetaan työntekijämäärä puolivuosittain.
+> Yrityksen luottamusmiehelle maksetaan luottamusmieskorvausta hänen
+> toi- mialueeseensa kuuluvien työntekijöiden lukumäärän perusteella
+> (riippumatta järjestäytyneisyydestä) seuraavasti:
+>
+> 20--49 47
+>
+> 50--149 83
+>
+> 150--299 117
+>
+> 300--499 177
+>
+> 500--799 225
+>
+> vähintään 800 sovitaan paikallisesti
+>
+> Ellei paikallisesti toisin sovita, todetaan työntekijämäärä
+> puolivuosittain.
 
 ###### *Pääluottamusmiehen ansiokehitys*
-1. Pääluottamusmiehen ansiokehityksen tulee vastata vähintään yrityksen asianomaisen ammattiryhmän vastaavien työntekijöiden keskimääräistä ansiokehitystä..
 
-Pääluottamusmiehen ansiokehitysvertailuryhmänä pidetään sitä yrityksen ammattiryhmää, johon pääluottamusmies kuuluu.
+4.  Pääluottamusmiehen ansiokehityksen tulee vastata vähintään yrityksen
+    asianomaisen ammattiryhmän vastaavien työntekijöiden keskimääräistä
+    ansiokehitystä..
 
-1. #### § Luottamusmiehen koulutus
-1. Luottamusmiehellä on oikeus osallistua koulutussopimuksen mukaiseen koulutukseen.
+> Pääluottamusmiehen ansiokehitysvertailuryhmänä pidetään sitä yrityksen
+> ammattiryhmää, johon pääluottamusmies kuuluu.
 
-Uuden luottamusmiehen koulutus käsitellään työnantajan kanssa 2 kuukau- den aikana valinnasta.
+#### § Luottamusmiehen koulutus
 
-1. Pääluottamusmiestehtävän päättymisen jälkeen pääluottamusmies ja työnan- taja selvittävät yhdessä, edellyttääkö työntekijän ammattitaidon ylläpitäminen entisessä tai vastaavassa työssä ammatillista koulutusta.
+1.  Luottamusmiehellä on oikeus osallistua koulutussopimuksen mukaiseen
+    koulutukseen.
 
-Työnantaja järjestää selvityksen edellyttämän koulutuksen.
+> Uuden luottamusmiehen koulutus käsitellään työnantajan kanssa 2
+> kuukau- den aikana valinnasta.
 
-Työnantaja ja pääluottamusmies selvittävät luottamusmiestehtävän aikana, edellyttääkö ammattitaidon ylläpitäminen, joko entiseen tai vastaavaan työ- hön, sellaisen ammatillisen koulutuksen antamista, jota järjestetään myös muille työntekijöille.
+2.  Pääluottamusmiestehtävän päättymisen jälkeen pääluottamusmies ja
+    työnan- taja selvittävät yhdessä, edellyttääkö työntekijän
+    ammattitaidon ylläpitäminen entisessä tai vastaavassa työssä
+    ammatillista koulutusta.
 
-1. #### <a name="taloudelliset ja tuotannolliset irtisano"></a><a name="yksilösuoja"></a><a name="ehdokassuoja"></a><a name="_bookmark109"></a>§ Työsuhdeturva
+> Työnantaja järjestää selvityksen edellyttämän koulutuksen.
+>
+> Työnantaja ja pääluottamusmies selvittävät luottamusmiestehtävän
+> aikana, edellyttääkö ammattitaidon ylläpitäminen, joko entiseen tai
+> vastaavaan työ- hön, sellaisen ammatillisen koulutuksen antamista,
+> jota järjestetään myös muille työntekijöille.
+
+#### § Työsuhdeturva
+
 ###### *Syrjintäkielto*
-1. Luottamusmiestä ei saa luottamusmiestehtävän takia erottaa työstä eikä muutoinkaan syrjiä.
 
-D
-1. ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.099.png)![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.100.png)Luottamusmiestä ei saa luottamusmiestehtävän aikana tai sen johdosta siir- tää alempipalkkaiseen tai vähempiarvoiseen työhön, kuin missä hän oli vali- tuksi tullessa.
+1.  Luottamusmiestä ei saa luottamusmiestehtävän takia erottaa työstä
+    eikä muutoinkaan syrjiä.
 
-Sopimukset
-1. ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.101.png)Varsinaisen työn vaikeuttaessa pääluottamusmiehen tehtävien hoitamista hänelle on järjestettävä muuta työtä ottaen huomioon yrityksen tai sen osan olosuhteet sekä hänen ammattitaitonsa. Tällainen järjestely ei saa aiheuttaa ansioiden alentumista.
+2.  Luottamusmiestä ei saa luottamusmiestehtävän aikana tai sen johdosta
+    siir- tää alempipalkkaiseen tai vähempiarvoiseen työhön, kuin missä
+    hän oli vali- tuksi tullessa.
+
+3.  Varsinaisen työn vaikeuttaessa pääluottamusmiehen tehtävien
+    hoitamista hänelle on järjestettävä muuta työtä ottaen huomioon
+    yrityksen tai sen osan olosuhteet sekä hänen ammattitaitonsa.
+    Tällainen järjestely ei saa aiheuttaa ansioiden alentumista.
 
 ###### *Taloudelliset ja tuotannolliset irtisanomisperusteet*
-1. Irtisanottaessa tai lomautettaessa yrityksen henkilöstöä taloudellisilla tai tuo- tannollisilla perusteilla ei tällaista toimenpidettä saa kohdistaa pääluottamus- mieheen, ellei yrityksen tai pääluottamusmiehen toimialueena olevan yrityk- sen osan toimintaa keskeytetä kokonaan.
 
-Yhteisesti todettaessa tai työnantajan muutoin näissä neuvotteluissa yksi- löidysti osoittaessa, ettei pääluottamusmiehelle voida tarjota hänen ammat- tiaan vastaavaa tai hänelle muutoin sopivaa työtä, edellä esitetystä voidaan poiketa.
+4.  Irtisanottaessa tai lomautettaessa yrityksen henkilöstöä
+    taloudellisilla tai tuo- tannollisilla perusteilla ei tällaista
+    toimenpidettä saa kohdistaa pääluottamus- mieheen, ellei yrityksen
+    tai pääluottamusmiehen toimialueena olevan yrityk- sen osan
+    toimintaa keskeytetä kokonaan.
 
-Pääluottamusmiehen riitauttaessa irtisanomisen liittojen väliset neuvottelut on käytävä irtisanomisajan kuluessa.
+> Yhteisesti todettaessa tai työnantajan muutoin näissä neuvotteluissa
+> yksi- löidysti osoittaessa, ettei pääluottamusmiehelle voida tarjota
+> hänen ammat- tiaan vastaavaa tai hänelle muutoin sopivaa työtä, edellä
+> esitetystä voidaan poiketa.
+>
+> Pääluottamusmiehen riitauttaessa irtisanomisen liittojen väliset
+> neuvottelut on käytävä irtisanomisajan kuluessa.
 
-1. Luottamusmies voidaan irtisanoa tai lomauttaa hänen työnsä päättyessä kokonaan, jos:
+5.  Luottamusmies voidaan irtisanoa tai lomauttaa hänen työnsä
+    päättyessä kokonaan, jos:
 
-   0. työnantaja ei voi järjestää hänelle ammattitaitoa vastaavaa tai muutoin sopivaa työtä tai
-   0. työnantaja ei voi kouluttaa häntä muuhun työhön työsopimuslain 7:4 §:ssä tarkoitetulla tavalla.
+    -   työnantaja ei voi järjestää hänelle ammattitaitoa vastaavaa tai
+        muutoin sopivaa työtä tai
 
-###### <a name="11 § sopimuksen voimassaolo"></a><a name="10 § neuvottelujärjestys"></a><a name="jälkisuoja"></a><a name="pääluottamusmies ja liikeen luovutus"></a><a name="_bookmark110"></a>*Yksilösuoja*
-1. Luottamusmiestä ei saa irtisanoa hänestä johtuvasta syystä ilman edustami- ensa työntekijöiden suostumusta (työsopimuslain 7:10 § 1 momentti).
+    -   työnantaja ei voi kouluttaa häntä muuhun työhön työsopimuslain
+        7:4 §:ssä tarkoitetulla tavalla.
 
-D
-1. ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.096.png)Luottamusmiehen työsopimusta ei saa purkaa tai käsitellä purkautuneena vastoin työsopimuslain 8:1–3 §:n säännöksiä.
+###### *Yksilösuoja*
 
-Sopimukset
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.097.png)Luottamusmiehen työsopimus voidaan purkaa järjestysmääräyksien rikkomi- sen takia vain, jos luottamusmies on toistuvasti ja olennaisesti sekä varoituk- sesta huolimatta jättänyt työvelvoitteensa täyttämättä.
+6.  Luottamusmiestä ei saa irtisanoa hänestä johtuvasta syystä ilman
+    edustami- ensa työntekijöiden suostumusta (työsopimuslain 7:10 § 1
+    momentti).
+
+7.  Luottamusmiehen työsopimusta ei saa purkaa tai käsitellä
+    purkautuneena vastoin työsopimuslain 8:1--3 §:n säännöksiä.
+
+> Luottamusmiehen työsopimus voidaan purkaa järjestysmääräyksien
+> rikkomi- sen takia vain, jos luottamusmies on toistuvasti ja
+> olennaisesti sekä varoituk- sesta huolimatta jättänyt työvelvoitteensa
+> täyttämättä.
 
 ###### *Ehdokassuoja*
-1. Työsuhdeturvamääräyksiä noudatetaan pääluottamusmiesehdokkaaseen, jonka asettamisesta on ilmoitettu työnantajalle kirjallisesti.
 
-Ehdokassuoja alkaa aikaisintaan 3 kuukautta ennen pääluottamusmiehen toi- mikauden alkua. Ehdokassuoja päättyy muiden kuin valituksi tulleen osalta vaalin järjestäjän todettua vaalituloksen.
+8.  Työsuhdeturvamääräyksiä noudatetaan pääluottamusmiesehdokkaaseen,
+    jonka asettamisesta on ilmoitettu työnantajalle kirjallisesti.
+
+> Ehdokassuoja alkaa aikaisintaan 3 kuukautta ennen pääluottamusmiehen
+> toi- mikauden alkua. Ehdokassuoja päättyy muiden kuin valituksi
+> tulleen osalta vaalin järjestäjän todettua vaalituloksen.
 
 ###### *Jälkisuoja*
-1. Työsuhdeturvamääräyksiä noudatetaan 6 kuukautta pääluottamusmies- tehtävän päättymisestä.
+
+9.  Työsuhdeturvamääräyksiä noudatetaan 6 kuukautta pääluottamusmies-
+    tehtävän päättymisestä.
 
 ###### *Pääluottamusmies ja liikeen luovutus*
-1. Luovutetun liikkeen tai sen osan säilyttäessä itsenäisyytensä pääluottamus- miehen asema jatkuu sellaisenaan.
 
-Luovutetun liikkeen tai sen osan menettäessä itsenäisyytensä pääluottamus- miehellä on 9. kohdan mukainen jälkisuoja liikkeen luovutuksesta johtuneen toimikauden päättymisestä alkaen.
-
-###### <a name="2 §  yhteistoiminta työsuojelussa"></a><a name="2.1 työpaikkakäsite "></a><a name="2.2 työsuojeluyhteistoiminta "></a><a name="2.3 yhteinen työpaikka "></a><a name="1 § soveltamisala"></a><a name="työsuojelun yhteistoimintasopimus "></a><a name="_bookmark111"></a>*Korvaukset*
-1. Päätettäessä luottamusmiehen työsopimus tämän sopimuksen vastaisesti työnantajan on maksettava korvauksena vähintään 10 kuukauden ja enintään 30 kuukauden palkka.
-
-D
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.099.png)![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.100.png)Korvausperusteet määräytyvät työsopimuslain 12:2 §:n 2. momentin mukaan ottaen huomioon työntekijän luottamusmiesasema.
-
-Sopimukset
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.101.png)Liitot voivat yksittäistapauksissa sopia pienemmästä korvauksesta kuin 10 kuukauden palkka.
-
-1. #### § Neuvottelujärjestys
-1. Neuvottelujärjestys määräytyy työehtosopimuksen 26 §:n mukaan.
-1. Työnantajan harkitessa luottamus- tai varaluottamusmiehen työsuhteen päättämistä, hänen on ennen toimenpiteeseen ryhtymistä oltava yhteydessä työnantajaliittoonsa. Työnantajaliiton saatua yhteydenoton sen tulee ryhtyä välittömästi asian edellyttämiin toimenpiteisiin.
-
-1. Paikalliset- ja liittoneuvottelut aloitetaan ja käydään viivytyksettä.
-
-1. #### § Sopimuksen voimassaolo
-1. Tämä sopimus on voimassa toistaiseksi.
-1. Irtisanomisaika on 1 kuukausi.
-
-# <a name="2.4 työsuojelupäällikkö "></a><a name="2.5 työsuojeluvaltuutettu "></a><a name="_bookmark112"></a>TYÖSUOJELUN YHTEISTOIMINTASOPIMUS
-
-1. #### § Soveltamisala
-D
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.096.png)Kaupan liiton ja Palvelualojen ammattiliiton välistä työsuojelun yhteistoimintaso- pimusta noudatetaan Kaupan liiton jäsenyrityksissä.
-
-Sopimukset
-1. #### ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.097.png)§ Yhteistoiminta työsuojelussa
-
-1. ###### *Työpaikkakäsite*
-Työpaikalla tarkoitetaan Kaupan liiton jäsenyritystä tai sen osaa, joka muodos- taa alueellisen ja/tai toiminnallisen kokonaisuuden. Työpaikkakäsite määritellään paikallisesti.
-
-1. ###### *Työsuojeluyhteistoiminta*
-Työsuojelumääräyksiä noudatetaan toimialoittain. Jos monitoimialayrityksessä toimialat eivät ole selvästi eroteltavissa, noudatetaan sen toimialan työsuojelu- määräyksiä, johon enemmistö työntekijöistä kuuluu.
-
-Paikallisesti sopien työsuojeluyhteistoiminta voidaan toteuttaa työsuojelutoimi- kunnan sijasta myös muulla tavoin. Tällöin noudatetaan työsuojelun yhteistoiminta- sopimuksen 2.10.3 määräyksiä työsuojelutoimikunnan tehtävistä sekä työsuojelun valvonnasta ja työpaikan työsuojeluyhteistoiminnasta annetun lain 26 §:n säännöksiä.
-
-Työsuojeluvaltuutetun tulee olla mukana yhteistyössä.
-
-1. ###### *Yhteinen työpaikka*
-Yhteiseksi työpaikaksi on määritelty työturvallisuuslain 49 §:n mukaisesti sellai- nen työpaikka, jolla yksi työnantaja käyttää pääasiallista määräysvaltaa ja jolla samanaikaisesti tai peräkkäin toimii useampi kuin 1 työnantaja tai korvausta vas- taan työskentelevä itsenäinen työnsuorittaja siten, että työ voi vaikuttaa toisten työntekijöiden turvallisuuteen tai terveyteen.
-
-<a name="2.6 päätyösuojeluvaltuutettu "></a><a name="_bookmark113"></a>Työsuojelun yhteistoiminnan osapuolet yhteisellä työpaikalla ovat pääasiallista määräysvaltaa käyttävä työnantaja sekä tämän palveluksessa olevat työsuojeluval- tuutetut. Nämä työsuojeluvaltuutetut edustavat myös työpaikalla työskentelevien ulkopuolisten työnantajien työntekijöitä asioissa, jotka liittyvät työolosuhteisiin.
-
-D
-
-Sopimukset
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.099.png)![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.100.png)![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.101.png)Muut työsuojelun yhteistoimintaasiat käsitellään asianomaisen työnantajan ja hänen palveluksessaan olevan työsuojeluvaltuutetun kesken. Ulkoisen työn- antajan palveluksessa olevalla työsuojeluvaltuutetulla on tehtävänsä hoita- miseksi oltava kulkuyhteydet yhteisellä työpaikalla samoilla edellytyksillä kuin hänen edustamillaan työntekijöillä ottaen huomioon työpaikan yleiset kulku- ja turvallisuusmääräykset.
-
-1. ###### *Työsuojelupäällikkö*
-Työnantajan on nimettävä työsuojeluyhteistoimintaa varten työsuojelupäällikkö, ellei hän itse toimi työsuojelupäällikkönä. Usealle työpaikalle voidaan nimetä 1 yhteinen työsuojelupäällikkö, jos työsuojelun tarkoituksenmukainen järjestämi- nen sitä vaatii.
-
-Työsuojelupäällikkö vastaa työnantajan edustajana yhteistoiminnasta työsuojelu- asioissa sekä työsuojeluasioiden hoidosta siten kuin työsuojelun valvontalain 28 §:ssä on säädetty.
-
-Työsuojelupäällikön tulee olla huomioon ottaen työpaikan laatu ja laajuus riittä- vän perehtynyt työpaikan työsuojelukysymyksiin. Hänellä tulee olla tehtäviensä hoitamista varten riittävät tiedot ja toimintaedellytykset.
-
-1. ###### *Työsuojeluvaltuutettu*
-Työsuojeluvaltuutetun ja hänelle 2 varavaltuutettua valitsee henkilöstö sel- laiselle työpaikalle, jonka henkilöstön määrä on säännöllisesti vähintään 10. Pienemmällekin työpaikalle henkilöstöllä on oikeus valita em. valtuutetut.
-
-Työsuojeluvaltuutettu edustaa työntekijöitä työpaikan turvallisuutta ja terveelli- syyttä koskevissa asioissa.
-
-Työsuojeluvaltuutetun tehtävät on määritelty työsuojelun valvontalain 31 §:ssä. Tämän lisäksi työsuojeluvaltuutetun tehtäviin kuuluu osallistua työsuojelutoimi- kunnassa tai vastaavassa työsuojeluyhteistoimintaelimessä käsiteltävien suunni- telmien sekä muiden työsuojelua koskevien asioiden valmisteluun.
-
-D
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.096.png)<a name="2.7 alueorganisaatio "></a><a name="_bookmark114"></a>Työsuojeluvaltuutetun ollessa estynyt hoitamasta työsuojeluvaltuutetun tehtä- viä toimii hänen sijallaan I varavaltuutettu ja tämänkin ollessa estyneenä II vara- valtuutettu. Varavaltuutetun sijaan tulo ei kuitenkaan ole tarkoituksenmukaista, jos työsuojeluvaltuutetun este kestää vain lyhyehkön ajan. Työsuojeluvaltuutetun esteestä ja sen kestosta tulee ilmoittaa työsuojelupäällikölle. Jos tämä ei ole tavoi- tettavissa, ilmoitus tehdään ilmoittajan esihenkilölle. Ilmoituksen tekee työsuo- jeluvaltuutettu, ellei hän ole tähänkin estynyt. Varavaltuutetun hoitaessa työ- suojeluvaltuutetun tehtäviä hänellä on samat oikeudet ja velvollisuudet kuin työsuojeluvaltuutetulla.
-
-Sopimukset
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.097.png)Jollei paikallisesti toisin sovita, varatyösuojeluvaltuutetun toimiessa yrityksen työsuojeluvaltuutettuna hänellä on oikeus työstävapautusaikaan sekä työsuo- jeluvaltuutetun korvaukseen. Työstävapautusaikaa annetaan ja työsuojeluval- tuutetun korvausta maksetaan, mikäli yrityksen työsuojeluvaltuutettu on esty- nyt hoitamasta työsuojelunvaltuutetun tehtäväänsä yhdenjaksoisesti vähin- tään viikon ajan. Korvaus sijaistamisen ajalta lasketaan käyttäen osakuukauden palkanlaskentasääntöä.
-
-Työsuojeluvaltuutettua valittaessa työntekijöihin luetaan sekä työntekijät että toimihenkilöt.
-
-Työsuojeluvaltuutettu ja luottamusmies voivat olla sama henkilö.
-
-Esihenkilöasemassa olevat toimihenkilöt voivat valita keskuudestaan oman työ- suojeluvaltuutetun ja hänelle 2 varavaltuutettua.
-
-Jos esihenkilöt eivät ole valinneet itselleen työsuojeluvaltuutettua, heitä edustaa työntekijöiden keskuudestaan valitsema työsuojeluvaltuutettu. Tällöin myös esi- henkilöillä on oikeus äänestää työsuojeluvaltuutetun vaaleissa.
-
-1. ###### *Päätyösuojeluvaltuutettu*
-Vähintään 30 työntekijän yritykseen valittu työsuojeluvaltuutettu on asemaltaan tässä sopimuksessa tarkoitettu päätyösuojeluvaltuutettu.
-
-Jos vähintään 30 työntekijän yritykseen on valittu useita työsuojeluvaltuutettuja, nimeävät he tarvittaessa keskuudestaan yhden tämän sopimuksen mukaiseksi päätyösuojeluvaltuutetuksi. Päätyösuojeluvaltuutetun ja työsuojeluvaltuutetun toimikausi on sama. Päätyösuojeluvaltuutetun nimeämisestä on ilmoitettava kir- jallisesti työnantajalle.
-
-Päätyösuojeluvaltuutettu ja pääluottamusmies voivat olla sama henkilö.
-
-<a name="2.8 työsuojeluasiamies"></a><a name="_bookmark115"></a>Päätyösuojeluvaltuutettuun noudatetaan työsuojeluvaltuutetun tehtäviä ja työs- kentelytiloja koskevia määräyksiä.
-
-Päätyösuojeluvaltuutetun ansiokehityksen tulee vastata yrityksen sen ammatti- ryhmän ansiokehitystä, johon hän kuuluu.
-
-D
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.099.png)![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.100.png)Työsuojeluvaltuutetulle annetaan tarvittaessa mahdollisuus työnohjaukseen tai muihin työpaikalla käytössä oleviin työn kuormituksen ehkäisemiseen tarkoitet- tuihin keinoihin.
-
-Sopimukset
-1. ###### ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.101.png)*Työsuojelun yhteistoiminta-alue*
-Yritys, jossa on valtakunnallisesti laaja alueorganisaatio tai jonka palveluksessa on yli 700 työntekijää, tulee työnantajan ja päätyösuojeluvaltuutetun paikallisen vuorovaikutuksen lisäämiseksi neuvotella työsuojelun yhteistoiminta-alueesta.
-
-Neuvotteluissa on keskusteltava muun muassa seuraavat asiat:
-
-0. yrityksen toiminnan luonne sekä organisaatio- ja päätöksentekorakenne
-0. hallinnollinen itsenäisyys ja erillisyys
-0. alueellinen kattavuus sekä toimipaikkojen lukumäärä ja etäisyydet
-0. tarvittaessa työsuojeluasiamiesten valinta
-0. henkilöstömäärä ja –jakauma
-0. työmenetelmien ja -välineiden hyödyntäminen toiminnassa, työsuojelu- henkilöiden yhteydenpidossa ja viestinnässä
-0. yhteistyön ja työsuojelujärjestelmän kehittämistarpeet
-0. työsuojeluvaltuutettujen toimivalta ja sopimisoikeudet
-0. vapautusajat ja korvaukset
-0. paikallisen sopimisen laatu ja laajuus
-0. henkilöstön ja työntekomuotojen moninaisuus
-0. tiedonsaantioikeudet ja -vastuut.
-
-Työsuojeluvaltuutettuorganisaatiosta sovittaessa on sopimus tehtävä kirjallisesti. Mikäli työsuojeluvaltuutettuorganisaatiosta ei päästä yhteisymmärrykseen, voi- daan asia jommankumman osapuolen pyynnöstä siirtää työmarkkinaosapuolten käsiteltäväksi.
-
-1. ###### <a name="2.9 työsuhdeturva"></a><a name="_bookmark116"></a>*Työsuojeluasiamies*
-1. Jos paikallisesti on sovittu työsuojeluasiamiesten valitsemisesta, noudatetaan seuraavaa:
-
-   0. työsuojeluasiamiehen toimialueena voi olla yrityksen toimipaikka tai tietty osa, esimerkiksi myymälä, varasto tai konttori
-
-D
-   0. ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.096.png)työsuojeluasiamiehen toimialueena voi olla myös tietty ammattiryhmä, esi- merkiksi myyjät, logistiikkatyöntekijät tai toimihenkilöt
-   0. työsuojeluasiamiehen ja työsuojeluvaltuutetun toimikausi on sama
-
-Sopimukset
-   0. ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.097.png)työsuojeluasiamiehen tehtävän hoitamiseen tarvitsemasta työstävapau- tusajasta sovitaan paikallisesti
-   0. työnantaja huolehtii siitä, että työsuojeluasiamiehellä on tarvittaessa käy- tettävissä tämän tehtävän hoitamista varten välttämättömät lait, asetuk- set, työsuojelumääräykset ja -ohjeet.
-
-1. Työsuojeluasiamiehen tehtävänä on toimialueellaan mm.
-
-   0. osallistua työsuojelua koskevaan tarkastukseen
-   0. osallistua tutkimukseen, jonka toimeenpano johtuu tapaturman tai ammat- titaudin vaarasta tai sattuneen tapaturman laadusta taikka sen mahdolli- sesta vaikutuksesta työsuojelutyön suunnitteluun ja toteuttamiseen
-   0. tarkkailla työsuojelumääräysten noudattamista ja huomauttaa niiden rikkomisesta
-   0. ilmoittaa havaitsemistaan epäkohdista ensi sijassa asianomaiselle esihen- kilölle ja milloin se on asian laatuun nähden tarpeellista, työsuojeluvaltuu- tetulle, sekä huomauttaa työsuojelumääräysten noudattamisesta ja havai- tuista vaaratekijöistä työntekijöille
-   0. tehdä aloitteita työsuojeluvaltuutetulle toimialueensa työsuojelun kehittä- misestä ja olla yhteydessä toimialueensa asioista työsuojeluvaltuutettuun.
-
-1. ###### *Työsuhdeturva*
-1. Työsuojeluvaltuutetulla on työsopimuslain 7:10 §:n mukainen irtisanomissuoja ja vastaava irtisanomisperusteinen lomautussuoja.
-
-<a name="2.10 työsuojelutoimikunta "></a><a name="_bookmark117"></a>*Syrjintäkielto*
-
-1. Työsuojeluvaltuutettua tai työsuojeluasiamiestä ei saa valtuutetun tai asiamie- hen tehtävien hoitamisen takia erottaa työstä.
-
-D
-1. ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.099.png)![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.100.png)Työsuojeluvaltuutettua tai työsuojeluasiamiestä ei saa valtuutetun tai asiamie- hen tehtävän aikana tai sen johdosta siirtää alempipalkkaiseen tai vähempiar- voiseen työhön kuin missä hän oli valituksi tullessa.
-
-Työsuojeluvaltuutetun ansio ei myöskään saa alentua, jos hänet on valtuutetun tehtäviensä vuoksi kokonaan vapautettu työnteosta.
-
-Sopimukset
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.101.png)Työsuojeluvaltuutetun mahdollisuuksia kehittyä ja edetä ammatissaan ei saa heikentää valtuutetun tehtävien takia.
-
-1. Varsinaisen työn vaikeuttaessa työsuojeluvaltuutetun tehtävien hoitamista on hänelle järjestettävä muuta työtä ottaen huomioon yrityksen tai sen osan olosuhteet sekä valtuutetun ammattitaito. Tällainen järjestely ei saa aiheuttaa ansioiden alentumista.
-
-*Yksilösuoja*
-
-1. Työsopimusta ei saa purkaa vastoin työsopimuslain 8:1–3 §:n säännöksiä.
-
-Työsopimuksen purkaminen järjestysmääräyksien rikkomisen takia on mah- dollista vain, jos työsuojeluvaltuutettu on toistuvasti ja olennaisesti sekä varoi- tuksesta huolimatta jättänyt työvelvoitteensa täyttämättä.
-
-*Päätyösuojeluvaltuutetun suoja*
-
-1. Päätyösuojeluvaltuutettuun noudatetaan hänen nimeämisestään lähtien sekä 6 kuukautta hänen tehtävänsä päättymisen jälkeen työsuojeluvaltuutetun työsuhdeturvamääräyksiä.
-
-Irtisanottaessa tai lomautettaessa yrityksen henkilöstöä taloudellisilla tai tuo- tannollisilla perusteilla ei tällaista toimenpidettä saa kohdistaa päätyösuojelu- valtuutettuun, ellei yrityksen tai päätyösuojeluvaltuutetun toimialueena olevan yrityksen osan toimintaa keskeytetä kokonaan.
-
-Yhteisesti todettaessa tai työnantajan muutoin näissä neuvotteluissa yksi- löidysti osoittaessa, ettei päätyösuojeluvaltuutetulle voida tarjota hänen am- mattiaan vastaavaa tai hänelle muutoin sopivaa työtä, voidaan edellä esite- tystä poiketa.
-
-1. Päätyösuojeluvaltuutetun tehtävän päättymisen jälkeen työnantaja ja valtuu- tettu selvittävät yhdessä, edellyttääkö työntekijän ammattitaidon ylläpito enti- sessä tai vastaavassa työssä ammatillista koulutusta. Työnantaja järjestää sel- vityksen edellyttämän koulutuksen.
-
-D
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.096.png)*Korvaukset*
-
-Sopimukset
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.097.png)Päätettäessä päätyösuojelu- tai työsuojeluvaltuutetun työsopimus tämän sopimuksen vastaisesti, työnantajan on maksettava korvauksena vähintään 10 kuukauden ja enintään 30 kuukauden palkka. Korvausperusteet määräyty- vät työsopimuslain 12:2 §:n 2. momentin mukaan. Korvausta lisäävänä tekijänä otetaan huomioon tämän sopimuksen rikkominen.
-
-Liitot voivat sopia yksittäistapauksissa 10 kuukauden palkkaa pienemmästä korvauksesta.
-
-1. ###### *Työsuojelutoimikunta*
-1. Työsuojelutoimikunnan jäsenten lukumäärä on:
-
-Työntekijöitä	Jäseniä
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.110.png)
-
-enintään 150	4
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.021.png)
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.019.png)151–500	8
-
-yli 500	12
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.020.png)
-
-1. Toimikunnan jäsenistä 25 % edustaa työnantajaa ja 75 % työntekijöitä.
-
-1. Työsuojelutoimikunnalle tai sitä korvaavalle yhteistoimintaelimelle kuuluvat
-
-mm. seuraavat tehtävät:
-
-0. laatia itselleen toiminnassaan noudatettavaksi vuosittainen toimintasuun- nitelma, jossa otetaan huomioon myös työnantajan ehdotus työsuojelun kehittämistavoitteiksi kustannusarvioineen
-0. käsitellä turvallisuuteen ja terveyteen sekä työntekijöiden työkyvyn ylläpi- tämiseen liittyviä toimia, sekä työympäristön tilaa ja tasoa, työtapaturmia ja henkilöstöön kohdistuvia mahdollisia väkivaltatapauksia
-0. käsitellä yhteistyössä työterveyshenkilöstön kanssa päihdekuntoutusta
-
-0. <a name="2.11 yksintyöskentely "></a><a name="2.12 työsuojelu ja häirintä"></a><a name="2.13 työsuojeluvaltuutetun työstävapautu"></a><a name="_bookmark118"></a>käsitellä vuosittain työsuojelua koskevan yhteistyökoulutuksen tarve ja laatia tämän perusteella ehdotus yrityksen koulutussuunnitelman ja talousarvion valmistamista varten
-
-D
-0. ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.099.png)![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.100.png)käsitellä työterveyshuollon toimintasuunnitelma ja työterveyshuollon kor- vaushakemus. Jos työsuojelutoimikuntaa ei ole valittu, korvaushakemus käsitellään työsuojeluvaltuutetun kanssa.
-
-*Työsuojelutoimikunnan kokoukset*
-
-Sopimukset
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.101.png)Työsuojelutoimikunta kokoontuu niin usein kuin sille tässä sopimuksessa ja lain- säädännössä asetetut tehtävät edellyttävät. Puheenjohtajan tai hänen ollessaan estynyt varapuheenjohtajan tehtävänä on kutsua toimikunta koolle. Lisäksi toi- mikunta on kutsuttava koolle, kun työsuojelupäällikkö tai valtuutettu tai vähin- tään neljännes toimikunnan jäsenistä pyytää sitä ilmoittamaansa asiaa varten.
-
-Työsuojelutoimikunnan kokoukset pidetään, mikäli mahdollista työaikana ja siten, että mahdollisimman moni voi osallistua kokouksiin.
-
-1. Kokouksissa käsiteltävä kirjallinen aineisto toimitetaan toimikunnan jäsenille jo kokouskutsun yhteydessä tai muutoin ennen kokousta, mikäli se on mahdol- lista. Ennen asian käsittelyä kokouksessa annetaan jäsenille asian käsittelyn kan- nalta tarpeelliset tiedot. Henkilöstön edustajille järjestetään mahdollisuus ennen kokousta tai sen aikana valmistautua keskenään käsiteltävään asiaan siten kuin työnantajan edustaja ja työsuojeluvaltuutettu siitä sopivat.
-
-1. Työsuojeluvaltuutetun tehtävänä toimikunnassa on mm. osallistua työkykyä ylläpitävän toiminnan suunnitteluun työterveyshuollon toimintasuunnitelmaa ja yksilöllistä toimenpidesuunnitelmaa laadittaessa sekä osallistua suunnitel- mien toteuttamiseen ja seurantaan.
-
-1. Työnantaja hankkii työsuojeluvaltuutetulle tämän tehtävän hoitamista varten tarpeelliset lait, asetukset ja muut työsuojelun määräykset sekä ohjeet. Lisäksi näitä asiakirjoja on tarvittaessa hankittava myös muiden työsuojeluelimien käyt- töön siten kuin työsuojeluyhteistoimintaorganisaatiossa on yhteisesti todettu.
-
-1. ###### *Yksintyöskentely*
-Työsuojeluosapuolten tulee lisäksi ottaa toiminnassaan huomioon liittojen välisen Väkivallan uhka -pöytäkirjan 3 §:n määräykset.
-
-1. ###### <a name="2.14 työsuojeluvaltuutetun korvaus "></a><a name="_bookmark119"></a>*Työsuojelu ja häirintä*
-Työnantajan laatiessa työturvallisuuslain mukainen työsuojelun toimintaohjelma on lisäksi huomioitava menettelytapaohjeet häirinnän ja seksuaalisen häirinnän varalta. Menettelytapaohjeiden tulee kattaa työyhteisön sisäisen toiminnan lisäksi ohjeet asiakkaiden taholta tapahtuvan häirinnän käsittelyyn.
-
-D
-1. ###### ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.096.png)*Työsuojeluvaltuutetun työstävapautusaika*
-Sopimukset
-1. ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.097.png)Työsuojeluvaltuutetun työstävapautusaikaa määrättäessä otetaan huomioon tämän edustamien työntekijöiden lukumäärä, työpaikan alueellinen laajuus, työskentelypaikkojen lukumäärä ja niissä suoritettavan työn luonne, töiden järjestelystä johtuvat työsuojeluvaltuutetun tehtävien määrään vaikutta- vat tekijät sekä muut työntekijöiden turvallisuuteen ja fyysiseen ja psyykki- seen terveyteen vaikuttavat työturvallisuuslaissa tarkoitetut haitta-, vaara- ja kuormitustekijät.
-
-1. Työsuojeluvaltuutetulle annetaan työstävapautusaikaa työpaikan työntekijöi- den lukumäärän perusteella (riippumatta järjestäytyneisyydestä) seuraavasti:
-
-Työntekijöiden lukumäärä
-
-Työstävapautusaika tuntia / viikko
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.111.png)
-
-10–19	2
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.021.png)
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.019.png)20–49	3
-
-50–99	5
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.021.png)
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.019.png)100-149	7,5
-
-150–299	15
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.021.png)
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.019.png)300–499	22,5
-
-500–699	30
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.021.png)
-
-Vähintään 700	Kokonaan työstä vapaa
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.020.png)
-
-Muiden kuin työntekijämäärän perusteella kokonaan työstä vapautettujen työ- suojeluvaltuutettujen työstävapautusaikaa korotetaan lisäksi vähintään 7,5 tunnilla/viikko, jos työsuojeluvaltuutetun toimipisteiden lukumäärä on vähin- tään 30 ja työsuojeluvaltuutetun toimialue kattaa koko maan.
-
-Työsuojeluvaltuutetun työsopimuksessa olevan viikkotyöajan alittaessa edellä mainituilla perusteilla määräytyvän työstävapautusajan sopimustunnit noste- taan henkilöstömäärää vastaavaan taulukon mukaiseen vapautusaikaan työ- suojeluvaltuutetun toimikauden ajaksi.
-
-Esimerkki 61
-
-Työntekijän työsopimustunnit ovat 25 tuntia viikossa. Työntekijöiden luku- määrä on 550. Sopimustunnit nostetaan työsuojeluvaltuutetun toimikauden ajaksi 30 tuntiin viikossa.
-
-D
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.112.png)![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.100.png)
-
-Sopimukset
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.099.png)![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.101.png)Ellei paikallisesti toisin sovita, todetaan työntekijämäärä puolivuosittain.
-
-1. Alueellisesti laajan yrityksen eri toimipaikkojen väliseen matkustamiseen käy- tettävästä työstävapautusajasta sovitaan paikallisesti. Tämä ei vähennä taulu- kon mukaista vapautusaikaa.
-
-Työsuojeluvaltuutetun osallistuessa koulutussopimuksen mukaiseen koulu- tukseen tämä ei vähennä taulukon mukaista vapautusaikaa.
-
-1. Paikallisesti sopien voidaan työstävapautusaikoja yhdistää.
-
-Työsuojeluvaltuutetun tulee ilmoittaa säännöllisistä vastaanottoajoistaan.
-
-1. ###### *Työsuojeluvaltuutetun korvaus*
-1. Työnantaja korvaa päätyösuojeluvaltuutetulle, työsuojeluvaltuutetulle, työsuo- jeluasiamiehelle sekä työsuojelutoimikunnan jäsenille ja sihteerille työsuoje- lutehtävän hoitamisesta aiheutuneen säännöllisen työajan ansiomenetyksen. Ansiomenetys määritellään sen ansion mukaan, jonka työntekijä olisi ansain- nut työssä ollessaan.
-
-Jos työsuojeluvaltuutettu olisi säännöllisenä työaikanaan ansainnut työvuo- roluettelon mukaan ilta-, yö- ja lauantailisiä, ne maksetaan, ellei paikallisesti toisin sovita.
-
-1. Työnantaja maksaa komiteapalkkion suuruisen korvauksen työajan ulkopuo- lella tehdystä työnantajan edellyttämästä työsuojelutyöstä ja työsuojelutoi- mikunnan kokoukseen osallistumisesta, ellei muusta korvauksesta erikseen sovita.
-
-1. <a name="5 § voimassaolo"></a><a name="4 § neuvottelujärjestys"></a><a name="3 § tietojen salassapitovelvollisuus"></a><a name="_bookmark120"></a>Yrityksen työsuojeluvaltuutetulle maksetaan työsuojelutehtävien hoitami- sesta korvausta hänen toimialueeseensa kuuluvien työntekijöiden lukumää- rän perusteella (riippumatta järjestäytyneisyydestä) seuraavasti:
-
-Työsuojeluvaltuutetun korvaukset 1.6.2023 alkaen:
-
-Korvaus euroa / kk
-
-Työntekijöiden lukumäärä
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.113.png)
-
-20–49	47
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.108.png)
-
-D
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.107.png)![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.096.png)50–149	83
-
-150–299	117
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.108.png)
-
-Sopimukset
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.107.png)![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.097.png)300–499	177
-
-500–699	225
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.108.png)
-
-vähintään 700	sovitaan paikallisesti
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.109.png)
-
-Jos yritykseen on valittu useita työsuojeluvaltuutettuja, korvaus maksetaan vain päätyösuojeluvaltuutetulle (ks. kohta 2.6.), ellei yrityskohtaisesti toisin sovita.
-
-Yrityksen toimipaikan työsuojeluvaltuutetulle maksetaan kuitenkin edellä esi- tetyn taulukon mukaan korvaus, jos hänen toimialueeseensa kuuluu vähintään 80 työntekijää (riippumatta järjestäytyneisyydestä).
-
-Yrityksen toimipaikan työsuojeluvaltuutetun toimialueeseen kuuluvien työn- tekijöiden lukumäärää ei oteta huomioon laskettaessa päätyösuojeluvaltuu- tetun korvausta.
-
-Esimerkki 62
-
-Yrityksessä on 3. kohdan mukaisia työntekijöitä 350. Yritykseen on valittu 1 työsuojeluvaltuutettu. Hänelle maksetaan korvausta 177 euroa kuukaudessa.
-
-Yrityksessä on 3. kohdan mukaisia työntekijöitä 350. Yritykseen on valittu 2 työsuojeluvaltuutettua, joista toinen on päätyösuojeluvaltuutettu.
-
-Yrityksen toimipaikan työsuojeluvaltuutettu työskentelee 130 työnteki- jän toimipaikassa. Hänelle maksetaan korvausta 83 euroa kuukaudessa.
-
-Päätyösuojeluvaltuutetulle maksetaan korvausta (350 – 130 = 220) 117 euroa kuukaudessa.
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.114.png)
-
-Ellei paikallisesti toisin sovita, todetaan työntekijämäärä puolivuosittain.
-
-1. #### <a name="2 §  ammattiyhdistyskoulutus"></a><a name="kurssien hyväksyminen"></a><a name="osallistumisoikeus"></a><a name="1 § koulutustyöryhmä"></a><a name="koulutussopimus"></a><a name="_bookmark121"></a>§ Tietojen salassapitovelvollisuus
-Ennen kuin työnantaja ilmoittaa kysymyksessä olevan liike- tai ammattisalaisuu- den, salassapidon perusteet selvitetään asianomaiselle henkilöstölle tai henkilös- tön edustajalle.
-
-D
-
-Sopimukset
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.099.png)![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.100.png)![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.101.png)Ilmoittaessaan salassapitovelvollisuudesta työnantajan tulee yksilöidä, mitkä tie- dot salassapitovelvollisuus käsittää ja mikä on tietojen salassapitoaika. Salassa pidettäviä tietoja saadaan käsitellä, ellei työnantajan ja tiedonsaantiin oikeutettu- jen välillä muuta sovita, vain niiden henkilöiden tai henkilöstön edustajien kesken, joita asia koskee.
-
-Asianomaisen henkilön kirjallisella luvalla saadut tiedot, jotka koskevat henki- lön taloudellista asemaa, terveyden tilaa tai muutoin häntä henkilökohtaisesti on pidettävä salassa, jollei tietojen ilmaisemiseen ole saatu asianomaisen henkilön lupaa.
-
-Työsuojeluvaltuutetun on kaikessa toiminnassaan huomioitava kulloinkin voi- massa oleva tietosuojalainsäädäntö.
-
-Salassapitovelvollisuudesta määrätään myös laissa työsuojelun valvonnasta ja työpaikan työsuojeluyhteistoiminnasta 43 §:ssä.
-
-1. #### § Neuvottelujärjestys
-Erimielisyyden koskiessa työsuojelu- tai päätyösuojeluvaltuutetun työsuhteen päättämistä paikallis- ja liittoneuvottelut käydään viipymättä.
-
-1. #### § Voimassaolo
-Sopimus on voimassa Kaupan työehtosopimuksen osana sen 28 §:n mukaisesti.
-
-# <a name="ilmoitusvelvollisuus"></a><a name="_bookmark122"></a>KOULUTUSSOPIMUS
-
-1. #### § Koulutustyöryhmä
-D
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.096.png)Tämän sopimuksen mukaista koulutusta varten on liittojen yhteinen koulutus- työryhmä.
-
-1. #### § Ammattiyhdistyskoulutus
-Sopimukset
-###### ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.097.png)*Kurssien hyväksyminen*
-1. Koulutustyöryhmä hyväksyy työnantajan tuen piiriin kuuluvat kurssit seuraa- vasti:
-
-   0. hyväksymisen edellytyksenä on yhteisesti todettu koulutustarve
-   0. kurssit hyväksytään kalenterivuodeksi kerrallaan
-   0. tarvittaessa kursseja voidaan hyväksyä kalenterivuoden aikana
-   0. ennen hyväksymistä työryhmälle annetaan selvitys kurssin
-   0. tavoitteista, opetusohjelmasta, ajankohdasta, järjestämispaikasta ja kohderyhmästä
-   0. hyväksyttyjen kurssien joukossa tulee olla myös viikkoa lyhyempiä ja pai- kallisia kursseja.
-
-Liitot tiedottavat kursseista viimeistään 2 kuukautta ennen ensimmäisen kurs- sin alkua. Koulutustyöryhmä voi seurata kurssien opetusta.
+10. Luovutetun liikkeen tai sen osan säilyttäessä itsenäisyytensä
+    pääluottamus- miehen asema jatkuu sellaisenaan.
+
+> Luovutetun liikkeen tai sen osan menettäessä itsenäisyytensä
+> pääluottamus- miehellä on 9. kohdan mukainen jälkisuoja liikkeen
+> luovutuksesta johtuneen toimikauden päättymisestä alkaen.
+
+###### *Korvaukset*
+
+11. Päätettäessä luottamusmiehen työsopimus tämän sopimuksen vastaisesti
+    työnantajan on maksettava korvauksena vähintään 10 kuukauden ja
+    enintään 30 kuukauden palkka.
+
+> Korvausperusteet määräytyvät työsopimuslain 12:2 §:n 2. momentin
+> mukaan ottaen huomioon työntekijän luottamusmiesasema.
+>
+> Liitot voivat yksittäistapauksissa sopia pienemmästä korvauksesta kuin
+> 10 kuukauden palkka.
+
+#### § Neuvottelujärjestys
+
+1.  Neuvottelujärjestys määräytyy työehtosopimuksen 26 §:n mukaan.
+
+2.  Työnantajan harkitessa luottamus- tai varaluottamusmiehen työsuhteen
+    päättämistä, hänen on ennen toimenpiteeseen ryhtymistä oltava
+    yhteydessä työnantajaliittoonsa. Työnantajaliiton saatua
+    yhteydenoton sen tulee ryhtyä välittömästi asian edellyttämiin
+    toimenpiteisiin.
+
+3.  Paikalliset- ja liittoneuvottelut aloitetaan ja käydään
+    viivytyksettä.
+
+#### § Sopimuksen voimassaolo
+
+1.  Tämä sopimus on voimassa toistaiseksi.
+
+2.  Irtisanomisaika on 1 kuukausi.
+
+# TYÖSUOJELUN YHTEISTOIMINTASOPIMUS
+
+#### § Soveltamisala
+
+> Kaupan liiton ja Palvelualojen ammattiliiton välistä työsuojelun
+> yhteistoimintaso- pimusta noudatetaan Kaupan liiton jäsenyrityksissä.
+
+2.  #### § Yhteistoiminta työsuojelussa
+
+    1.  ###### *Työpaikkakäsite*
+
+> Työpaikalla tarkoitetaan Kaupan liiton jäsenyritystä tai sen osaa,
+> joka muodos- taa alueellisen ja/tai toiminnallisen kokonaisuuden.
+> Työpaikkakäsite määritellään paikallisesti.
+
+###### *Työsuojeluyhteistoiminta*
+
+> Työsuojelumääräyksiä noudatetaan toimialoittain. Jos
+> monitoimialayrityksessä toimialat eivät ole selvästi eroteltavissa,
+> noudatetaan sen toimialan työsuojelu- määräyksiä, johon enemmistö
+> työntekijöistä kuuluu.
+>
+> Paikallisesti sopien työsuojeluyhteistoiminta voidaan toteuttaa
+> työsuojelutoimi- kunnan sijasta myös muulla tavoin. Tällöin
+> noudatetaan työsuojelun yhteistoiminta- sopimuksen 2.10.3 määräyksiä
+> työsuojelutoimikunnan tehtävistä sekä työsuojelun valvonnasta ja
+> työpaikan työsuojeluyhteistoiminnasta annetun lain 26 §:n säännöksiä.
+>
+> Työsuojeluvaltuutetun tulee olla mukana yhteistyössä.
+
+###### *Yhteinen työpaikka*
+
+> Yhteiseksi työpaikaksi on määritelty työturvallisuuslain 49 §:n
+> mukaisesti sellai- nen työpaikka, jolla yksi työnantaja käyttää
+> pääasiallista määräysvaltaa ja jolla samanaikaisesti tai peräkkäin
+> toimii useampi kuin 1 työnantaja tai korvausta vas- taan työskentelevä
+> itsenäinen työnsuorittaja siten, että työ voi vaikuttaa toisten
+> työntekijöiden turvallisuuteen tai terveyteen.
+>
+> []{#_bookmark113 .anchor}Työsuojelun yhteistoiminnan osapuolet
+> yhteisellä työpaikalla ovat pääasiallista määräysvaltaa käyttävä
+> työnantaja sekä tämän palveluksessa olevat työsuojeluval- tuutetut.
+> Nämä työsuojeluvaltuutetut edustavat myös työpaikalla työskentelevien
+> ulkopuolisten työnantajien työntekijöitä asioissa, jotka liittyvät
+> työolosuhteisiin.
+>
+> Muut työsuojelun yhteistoimintaasiat käsitellään asianomaisen
+> työnantajan ja hänen palveluksessaan olevan työsuojeluvaltuutetun
+> kesken. Ulkoisen työn- antajan palveluksessa olevalla
+> työsuojeluvaltuutetulla on tehtävänsä hoita- miseksi oltava
+> kulkuyhteydet yhteisellä työpaikalla samoilla edellytyksillä kuin
+> hänen edustamillaan työntekijöillä ottaen huomioon työpaikan yleiset
+> kulku- ja turvallisuusmääräykset.
+
+###### *Työsuojelupäällikkö*
+
+> Työnantajan on nimettävä työsuojeluyhteistoimintaa varten
+> työsuojelupäällikkö, ellei hän itse toimi työsuojelupäällikkönä.
+> Usealle työpaikalle voidaan nimetä 1 yhteinen työsuojelupäällikkö, jos
+> työsuojelun tarkoituksenmukainen järjestämi- nen sitä vaatii.
+>
+> Työsuojelupäällikkö vastaa työnantajan edustajana yhteistoiminnasta
+> työsuojelu- asioissa sekä työsuojeluasioiden hoidosta siten kuin
+> työsuojelun valvontalain 28 §:ssä on säädetty.
+>
+> Työsuojelupäällikön tulee olla huomioon ottaen työpaikan laatu ja
+> laajuus riittä- vän perehtynyt työpaikan työsuojelukysymyksiin.
+> Hänellä tulee olla tehtäviensä hoitamista varten riittävät tiedot ja
+> toimintaedellytykset.
+
+###### *Työsuojeluvaltuutettu*
+
+> Työsuojeluvaltuutetun ja hänelle 2 varavaltuutettua valitsee
+> henkilöstö sel- laiselle työpaikalle, jonka henkilöstön määrä on
+> säännöllisesti vähintään 10. Pienemmällekin työpaikalle henkilöstöllä
+> on oikeus valita em. valtuutetut.
+>
+> Työsuojeluvaltuutettu edustaa työntekijöitä työpaikan turvallisuutta
+> ja terveelli- syyttä koskevissa asioissa.
+>
+> Työsuojeluvaltuutetun tehtävät on määritelty työsuojelun valvontalain
+> 31 §:ssä. Tämän lisäksi työsuojeluvaltuutetun tehtäviin kuuluu
+> osallistua työsuojelutoimi- kunnassa tai vastaavassa
+> työsuojeluyhteistoimintaelimessä käsiteltävien suunni- telmien sekä
+> muiden työsuojelua koskevien asioiden valmisteluun.
+>
+> []{#_bookmark114 .anchor}Työsuojeluvaltuutetun ollessa estynyt
+> hoitamasta työsuojeluvaltuutetun tehtä- viä toimii hänen sijallaan I
+> varavaltuutettu ja tämänkin ollessa estyneenä II vara- valtuutettu.
+> Varavaltuutetun sijaan tulo ei kuitenkaan ole tarkoituksenmukaista,
+> jos työsuojeluvaltuutetun este kestää vain lyhyehkön ajan.
+> Työsuojeluvaltuutetun esteestä ja sen kestosta tulee ilmoittaa
+> työsuojelupäällikölle. Jos tämä ei ole tavoi- tettavissa, ilmoitus
+> tehdään ilmoittajan esihenkilölle. Ilmoituksen tekee työsuo-
+> jeluvaltuutettu, ellei hän ole tähänkin estynyt. Varavaltuutetun
+> hoitaessa työ- suojeluvaltuutetun tehtäviä hänellä on samat oikeudet
+> ja velvollisuudet kuin työsuojeluvaltuutetulla.
+>
+> Jollei paikallisesti toisin sovita, varatyösuojeluvaltuutetun
+> toimiessa yrityksen työsuojeluvaltuutettuna hänellä on oikeus
+> työstävapautusaikaan sekä työsuo- jeluvaltuutetun korvaukseen.
+> Työstävapautusaikaa annetaan ja työsuojeluval- tuutetun korvausta
+> maksetaan, mikäli yrityksen työsuojeluvaltuutettu on esty- nyt
+> hoitamasta työsuojelunvaltuutetun tehtäväänsä yhdenjaksoisesti vähin-
+> tään viikon ajan. Korvaus sijaistamisen ajalta lasketaan käyttäen
+> osakuukauden palkanlaskentasääntöä.
+>
+> Työsuojeluvaltuutettua valittaessa työntekijöihin luetaan sekä
+> työntekijät että toimihenkilöt.
+>
+> Työsuojeluvaltuutettu ja luottamusmies voivat olla sama henkilö.
+>
+> Esihenkilöasemassa olevat toimihenkilöt voivat valita keskuudestaan
+> oman työ- suojeluvaltuutetun ja hänelle 2 varavaltuutettua.
+>
+> Jos esihenkilöt eivät ole valinneet itselleen työsuojeluvaltuutettua,
+> heitä edustaa työntekijöiden keskuudestaan valitsema
+> työsuojeluvaltuutettu. Tällöin myös esi- henkilöillä on oikeus
+> äänestää työsuojeluvaltuutetun vaaleissa.
+
+###### *Päätyösuojeluvaltuutettu*
+
+> Vähintään 30 työntekijän yritykseen valittu työsuojeluvaltuutettu on
+> asemaltaan tässä sopimuksessa tarkoitettu päätyösuojeluvaltuutettu.
+>
+> Jos vähintään 30 työntekijän yritykseen on valittu useita
+> työsuojeluvaltuutettuja, nimeävät he tarvittaessa keskuudestaan yhden
+> tämän sopimuksen mukaiseksi päätyösuojeluvaltuutetuksi.
+> Päätyösuojeluvaltuutetun ja työsuojeluvaltuutetun toimikausi on sama.
+> Päätyösuojeluvaltuutetun nimeämisestä on ilmoitettava kir- jallisesti
+> työnantajalle.
+>
+> Päätyösuojeluvaltuutettu ja pääluottamusmies voivat olla sama henkilö.
+>
+> []{#_bookmark115 .anchor}Päätyösuojeluvaltuutettuun noudatetaan
+> työsuojeluvaltuutetun tehtäviä ja työs- kentelytiloja koskevia
+> määräyksiä.
+>
+> Päätyösuojeluvaltuutetun ansiokehityksen tulee vastata yrityksen sen
+> ammatti- ryhmän ansiokehitystä, johon hän kuuluu.
+>
+> Työsuojeluvaltuutetulle annetaan tarvittaessa mahdollisuus
+> työnohjaukseen tai muihin työpaikalla käytössä oleviin työn
+> kuormituksen ehkäisemiseen tarkoitet- tuihin keinoihin.
+
+###### *Työsuojelun yhteistoiminta-alue*
+
+> Yritys, jossa on valtakunnallisesti laaja alueorganisaatio tai jonka
+> palveluksessa on yli 700 työntekijää, tulee työnantajan ja
+> päätyösuojeluvaltuutetun paikallisen vuorovaikutuksen lisäämiseksi
+> neuvotella työsuojelun yhteistoiminta-alueesta.
+>
+> Neuvotteluissa on keskusteltava muun muassa seuraavat asiat:
+
+-   yrityksen toiminnan luonne sekä organisaatio- ja
+    päätöksentekorakenne
+
+-   hallinnollinen itsenäisyys ja erillisyys
+
+-   alueellinen kattavuus sekä toimipaikkojen lukumäärä ja etäisyydet
+
+-   tarvittaessa työsuojeluasiamiesten valinta
+
+-   henkilöstömäärä ja --jakauma
+
+-   työmenetelmien ja -välineiden hyödyntäminen toiminnassa, työsuojelu-
+    henkilöiden yhteydenpidossa ja viestinnässä
+
+-   yhteistyön ja työsuojelujärjestelmän kehittämistarpeet
+
+-   työsuojeluvaltuutettujen toimivalta ja sopimisoikeudet
+
+-   vapautusajat ja korvaukset
+
+-   paikallisen sopimisen laatu ja laajuus
+
+-   henkilöstön ja työntekomuotojen moninaisuus
+
+-   tiedonsaantioikeudet ja -vastuut.
+
+> Työsuojeluvaltuutettuorganisaatiosta sovittaessa on sopimus tehtävä
+> kirjallisesti. Mikäli työsuojeluvaltuutettuorganisaatiosta ei päästä
+> yhteisymmärrykseen, voi- daan asia jommankumman osapuolen pyynnöstä
+> siirtää työmarkkinaosapuolten käsiteltäväksi.
+
+###### *Työsuojeluasiamies*
+
+1.  Jos paikallisesti on sovittu työsuojeluasiamiesten valitsemisesta,
+    noudatetaan seuraavaa:
+
+    -   työsuojeluasiamiehen toimialueena voi olla yrityksen toimipaikka
+        > tai tietty osa, esimerkiksi myymälä, varasto tai konttori
+
+    -   työsuojeluasiamiehen toimialueena voi olla myös tietty
+        > ammattiryhmä, esi- merkiksi myyjät, logistiikkatyöntekijät tai
+        > toimihenkilöt
+
+    -   työsuojeluasiamiehen ja työsuojeluvaltuutetun toimikausi on sama
+
+    -   työsuojeluasiamiehen tehtävän hoitamiseen tarvitsemasta
+        > työstävapau- tusajasta sovitaan paikallisesti
+
+    -   työnantaja huolehtii siitä, että työsuojeluasiamiehellä on
+        > tarvittaessa käy- tettävissä tämän tehtävän hoitamista varten
+        > välttämättömät lait, asetuk- set, työsuojelumääräykset ja
+        > -ohjeet.
+
+2.  Työsuojeluasiamiehen tehtävänä on toimialueellaan mm.
+
+    -   osallistua työsuojelua koskevaan tarkastukseen
+
+    -   osallistua tutkimukseen, jonka toimeenpano johtuu tapaturman tai
+        > ammat- titaudin vaarasta tai sattuneen tapaturman laadusta
+        > taikka sen mahdolli- sesta vaikutuksesta työsuojelutyön
+        > suunnitteluun ja toteuttamiseen
+
+    -   tarkkailla työsuojelumääräysten noudattamista ja huomauttaa
+        > niiden rikkomisesta
+
+    -   ilmoittaa havaitsemistaan epäkohdista ensi sijassa
+        > asianomaiselle esihen- kilölle ja milloin se on asian laatuun
+        > nähden tarpeellista, työsuojeluvaltuu- tetulle, sekä
+        > huomauttaa työsuojelumääräysten noudattamisesta ja havai-
+        > tuista vaaratekijöistä työntekijöille
+
+    -   tehdä aloitteita työsuojeluvaltuutetulle toimialueensa
+        > työsuojelun kehittä- misestä ja olla yhteydessä toimialueensa
+        > asioista työsuojeluvaltuutettuun.
+
+    1.  ###### *Työsuhdeturva*
+
+```{=html}
+<!-- -->
+```
+1.  Työsuojeluvaltuutetulla on työsopimuslain 7:10 §:n mukainen
+    irtisanomissuoja ja vastaava irtisanomisperusteinen lomautussuoja.
+
+> []{#_bookmark117 .anchor}*Syrjintäkielto*
+
+2.  Työsuojeluvaltuutettua tai työsuojeluasiamiestä ei saa valtuutetun
+    tai asiamie- hen tehtävien hoitamisen takia erottaa työstä.
+
+3.  Työsuojeluvaltuutettua tai työsuojeluasiamiestä ei saa valtuutetun
+    tai asiamie- hen tehtävän aikana tai sen johdosta siirtää
+    alempipalkkaiseen tai vähempiar- voiseen työhön kuin missä hän oli
+    valituksi tullessa.
+
+> Työsuojeluvaltuutetun ansio ei myöskään saa alentua, jos hänet on
+> valtuutetun tehtäviensä vuoksi kokonaan vapautettu työnteosta.
+>
+> Työsuojeluvaltuutetun mahdollisuuksia kehittyä ja edetä ammatissaan ei
+> saa heikentää valtuutetun tehtävien takia.
+
+4.  Varsinaisen työn vaikeuttaessa työsuojeluvaltuutetun tehtävien
+    hoitamista on hänelle järjestettävä muuta työtä ottaen huomioon
+    yrityksen tai sen osan olosuhteet sekä valtuutetun ammattitaito.
+    Tällainen järjestely ei saa aiheuttaa ansioiden alentumista.
+
+> *Yksilösuoja*
+
+5.  Työsopimusta ei saa purkaa vastoin työsopimuslain 8:1--3 §:n
+    säännöksiä.
+
+> Työsopimuksen purkaminen järjestysmääräyksien rikkomisen takia on mah-
+> dollista vain, jos työsuojeluvaltuutettu on toistuvasti ja
+> olennaisesti sekä varoi- tuksesta huolimatta jättänyt työvelvoitteensa
+> täyttämättä.
+>
+> *Päätyösuojeluvaltuutetun suoja*
+
+6.  Päätyösuojeluvaltuutettuun noudatetaan hänen nimeämisestään lähtien
+    sekä 6 kuukautta hänen tehtävänsä päättymisen jälkeen
+    työsuojeluvaltuutetun työsuhdeturvamääräyksiä.
+
+> Irtisanottaessa tai lomautettaessa yrityksen henkilöstöä
+> taloudellisilla tai tuo- tannollisilla perusteilla ei tällaista
+> toimenpidettä saa kohdistaa päätyösuojelu- valtuutettuun, ellei
+> yrityksen tai päätyösuojeluvaltuutetun toimialueena olevan yrityksen
+> osan toimintaa keskeytetä kokonaan.
+>
+> Yhteisesti todettaessa tai työnantajan muutoin näissä neuvotteluissa
+> yksi- löidysti osoittaessa, ettei päätyösuojeluvaltuutetulle voida
+> tarjota hänen am- mattiaan vastaavaa tai hänelle muutoin sopivaa
+> työtä, voidaan edellä esite- tystä poiketa.
+
+7.  Päätyösuojeluvaltuutetun tehtävän päättymisen jälkeen työnantaja ja
+    valtuu- tettu selvittävät yhdessä, edellyttääkö työntekijän
+    ammattitaidon ylläpito enti- sessä tai vastaavassa työssä
+    ammatillista koulutusta. Työnantaja järjestää sel- vityksen
+    edellyttämän koulutuksen.
+
+> *Korvaukset*
+>
+> Päätettäessä päätyösuojelu- tai työsuojeluvaltuutetun työsopimus tämän
+> sopimuksen vastaisesti, työnantajan on maksettava korvauksena
+> vähintään 10 kuukauden ja enintään 30 kuukauden palkka.
+> Korvausperusteet määräyty- vät työsopimuslain 12:2 §:n 2. momentin
+> mukaan. Korvausta lisäävänä tekijänä otetaan huomioon tämän sopimuksen
+> rikkominen.
+>
+> Liitot voivat sopia yksittäistapauksissa 10 kuukauden palkkaa
+> pienemmästä korvauksesta.
+
+###### *Työsuojelutoimikunta*
+
+1.  Työsuojelutoimikunnan jäsenten lukumäärä on:
+
+> enintään 150 4
+>
+> 151--500 8
+>
+> yli 500 12
+
+2.  Toimikunnan jäsenistä 25 % edustaa työnantajaa ja 75 %
+    työntekijöitä.
+
+3.  Työsuojelutoimikunnalle tai sitä korvaavalle yhteistoimintaelimelle
+    kuuluvat
+
+> mm\. seuraavat tehtävät:
+
+-   laatia itselleen toiminnassaan noudatettavaksi vuosittainen
+    > toimintasuun- nitelma, jossa otetaan huomioon myös työnantajan
+    > ehdotus työsuojelun kehittämistavoitteiksi kustannusarvioineen
+
+-   käsitellä turvallisuuteen ja terveyteen sekä työntekijöiden työkyvyn
+    > ylläpi- tämiseen liittyviä toimia, sekä työympäristön tilaa ja
+    > tasoa, työtapaturmia ja henkilöstöön kohdistuvia mahdollisia
+    > väkivaltatapauksia
+
+-   käsitellä yhteistyössä työterveyshenkilöstön kanssa
+    > päihdekuntoutusta
+
+-   []{#_bookmark118 .anchor}käsitellä vuosittain työsuojelua koskevan
+    yhteistyökoulutuksen tarve ja laatia tämän perusteella ehdotus
+    yrityksen koulutussuunnitelman ja talousarvion valmistamista varten
+
+-   käsitellä työterveyshuollon toimintasuunnitelma ja työterveyshuollon
+    kor- vaushakemus. Jos työsuojelutoimikuntaa ei ole valittu,
+    korvaushakemus käsitellään työsuojeluvaltuutetun kanssa.
+
+> *Työsuojelutoimikunnan kokoukset*
+>
+> Työsuojelutoimikunta kokoontuu niin usein kuin sille tässä
+> sopimuksessa ja lain- säädännössä asetetut tehtävät edellyttävät.
+> Puheenjohtajan tai hänen ollessaan estynyt varapuheenjohtajan
+> tehtävänä on kutsua toimikunta koolle. Lisäksi toi- mikunta on
+> kutsuttava koolle, kun työsuojelupäällikkö tai valtuutettu tai vähin-
+> tään neljännes toimikunnan jäsenistä pyytää sitä ilmoittamaansa asiaa
+> varten.
+>
+> Työsuojelutoimikunnan kokoukset pidetään, mikäli mahdollista työaikana
+> ja siten, että mahdollisimman moni voi osallistua kokouksiin.
+
+4.  Kokouksissa käsiteltävä kirjallinen aineisto toimitetaan toimikunnan
+    jäsenille jo kokouskutsun yhteydessä tai muutoin ennen kokousta,
+    mikäli se on mahdol- lista. Ennen asian käsittelyä kokouksessa
+    annetaan jäsenille asian käsittelyn kan- nalta tarpeelliset tiedot.
+    Henkilöstön edustajille järjestetään mahdollisuus ennen kokousta tai
+    sen aikana valmistautua keskenään käsiteltävään asiaan siten kuin
+    työnantajan edustaja ja työsuojeluvaltuutettu siitä sopivat.
+
+5.  Työsuojeluvaltuutetun tehtävänä toimikunnassa on mm. osallistua
+    työkykyä ylläpitävän toiminnan suunnitteluun työterveyshuollon
+    toimintasuunnitelmaa ja yksilöllistä toimenpidesuunnitelmaa
+    laadittaessa sekä osallistua suunnitel- mien toteuttamiseen ja
+    seurantaan.
+
+6.  Työnantaja hankkii työsuojeluvaltuutetulle tämän tehtävän hoitamista
+    varten tarpeelliset lait, asetukset ja muut työsuojelun määräykset
+    sekä ohjeet. Lisäksi näitä asiakirjoja on tarvittaessa hankittava
+    myös muiden työsuojeluelimien käyt- töön siten kuin
+    työsuojeluyhteistoimintaorganisaatiossa on yhteisesti todettu.
+
+    1.  ###### *Yksintyöskentely*
+
+> Työsuojeluosapuolten tulee lisäksi ottaa toiminnassaan huomioon
+> liittojen välisen Väkivallan uhka -pöytäkirjan 3 §:n määräykset.
+
+###### *Työsuojelu ja häirintä*
+
+> Työnantajan laatiessa työturvallisuuslain mukainen työsuojelun
+> toimintaohjelma on lisäksi huomioitava menettelytapaohjeet häirinnän
+> ja seksuaalisen häirinnän varalta. Menettelytapaohjeiden tulee kattaa
+> työyhteisön sisäisen toiminnan lisäksi ohjeet asiakkaiden taholta
+> tapahtuvan häirinnän käsittelyyn.
+
+###### *Työsuojeluvaltuutetun työstävapautusaika*
+
+1.  Työsuojeluvaltuutetun työstävapautusaikaa määrättäessä otetaan
+    huomioon tämän edustamien työntekijöiden lukumäärä, työpaikan
+    alueellinen laajuus, työskentelypaikkojen lukumäärä ja niissä
+    suoritettavan työn luonne, töiden järjestelystä johtuvat
+    työsuojeluvaltuutetun tehtävien määrään vaikutta- vat tekijät sekä
+    muut työntekijöiden turvallisuuteen ja fyysiseen ja psyykki- seen
+    terveyteen vaikuttavat työturvallisuuslaissa tarkoitetut haitta-,
+    vaara- ja kuormitustekijät.
+
+2.  Työsuojeluvaltuutetulle annetaan työstävapautusaikaa työpaikan
+    työntekijöi- den lukumäärän perusteella (riippumatta
+    järjestäytyneisyydestä) seuraavasti:
+
+> 10--19 2
+>
+> 20--49 3
+>
+> 50--99 5
+>
+> 100-149 7,5
+>
+> 150--299 15
+>
+> 300--499 22,5
+>
+> 500--699 30
+>
+> Vähintään 700 Kokonaan työstä vapaa
+>
+> Muiden kuin työntekijämäärän perusteella kokonaan työstä vapautettujen
+> työ- suojeluvaltuutettujen työstävapautusaikaa korotetaan lisäksi
+> vähintään 7,5 tunnilla/viikko, jos työsuojeluvaltuutetun
+> toimipisteiden lukumäärä on vähin- tään 30 ja työsuojeluvaltuutetun
+> toimialue kattaa koko maan.
+>
+> Työsuojeluvaltuutetun työsopimuksessa olevan viikkotyöajan alittaessa
+> edellä mainituilla perusteilla määräytyvän työstävapautusajan
+> sopimustunnit noste- taan henkilöstömäärää vastaavaan taulukon
+> mukaiseen vapautusaikaan työ- suojeluvaltuutetun toimikauden ajaksi.
+>
+> Ellei paikallisesti toisin sovita, todetaan työntekijämäärä
+> puolivuosittain.
+
+3.  Alueellisesti laajan yrityksen eri toimipaikkojen väliseen
+    matkustamiseen käy- tettävästä työstävapautusajasta sovitaan
+    paikallisesti. Tämä ei vähennä taulu- kon mukaista vapautusaikaa.
+
+> Työsuojeluvaltuutetun osallistuessa koulutussopimuksen mukaiseen
+> koulu- tukseen tämä ei vähennä taulukon mukaista vapautusaikaa.
+
+4.  Paikallisesti sopien voidaan työstävapautusaikoja yhdistää.
+
+> Työsuojeluvaltuutetun tulee ilmoittaa säännöllisistä
+> vastaanottoajoistaan.
+
+###### *Työsuojeluvaltuutetun korvaus*
+
+1.  Työnantaja korvaa päätyösuojeluvaltuutetulle,
+    työsuojeluvaltuutetulle, työsuo- jeluasiamiehelle sekä
+    työsuojelutoimikunnan jäsenille ja sihteerille työsuoje- lutehtävän
+    hoitamisesta aiheutuneen säännöllisen työajan ansiomenetyksen.
+    Ansiomenetys määritellään sen ansion mukaan, jonka työntekijä olisi
+    ansain- nut työssä ollessaan.
+
+> Jos työsuojeluvaltuutettu olisi säännöllisenä työaikanaan ansainnut
+> työvuo- roluettelon mukaan ilta-, yö- ja lauantailisiä, ne maksetaan,
+> ellei paikallisesti toisin sovita.
+
+2.  Työnantaja maksaa komiteapalkkion suuruisen korvauksen työajan
+    ulkopuo- lella tehdystä työnantajan edellyttämästä työsuojelutyöstä
+    ja työsuojelutoi- mikunnan kokoukseen osallistumisesta, ellei muusta
+    korvauksesta erikseen sovita.
+
+3.  []{#_bookmark120 .anchor}Yrityksen työsuojeluvaltuutetulle maksetaan
+    työsuojelutehtävien hoitami- sesta korvausta hänen toimialueeseensa
+    kuuluvien työntekijöiden lukumää- rän perusteella (riippumatta
+    järjestäytyneisyydestä) seuraavasti:
+
+> 20--49 47
+>
+> 50--149 83
+>
+> 150--299 117
+>
+> 300--499 177
+>
+> 500--699 225
+>
+> vähintään 700 sovitaan paikallisesti
+>
+> Jos yritykseen on valittu useita työsuojeluvaltuutettuja, korvaus
+> maksetaan vain päätyösuojeluvaltuutetulle (ks. kohta 2.6.), ellei
+> yrityskohtaisesti toisin sovita.
+>
+> Yrityksen toimipaikan työsuojeluvaltuutetulle maksetaan kuitenkin
+> edellä esi- tetyn taulukon mukaan korvaus, jos hänen toimialueeseensa
+> kuuluu vähintään 80 työntekijää (riippumatta järjestäytyneisyydestä).
+>
+> Yrityksen toimipaikan työsuojeluvaltuutetun toimialueeseen kuuluvien
+> työn- tekijöiden lukumäärää ei oteta huomioon laskettaessa
+> päätyösuojeluvaltuu- tetun korvausta.
+>
+> Ellei paikallisesti toisin sovita, todetaan työntekijämäärä
+> puolivuosittain.
+
+#### § Tietojen salassapitovelvollisuus
+
+> Ennen kuin työnantaja ilmoittaa kysymyksessä olevan liike- tai
+> ammattisalaisuu- den, salassapidon perusteet selvitetään
+> asianomaiselle henkilöstölle tai henkilös- tön edustajalle.
+>
+> Ilmoittaessaan salassapitovelvollisuudesta työnantajan tulee
+> yksilöidä, mitkä tie- dot salassapitovelvollisuus käsittää ja mikä on
+> tietojen salassapitoaika. Salassa pidettäviä tietoja saadaan
+> käsitellä, ellei työnantajan ja tiedonsaantiin oikeutettu- jen välillä
+> muuta sovita, vain niiden henkilöiden tai henkilöstön edustajien
+> kesken, joita asia koskee.
+>
+> Asianomaisen henkilön kirjallisella luvalla saadut tiedot, jotka
+> koskevat henki- lön taloudellista asemaa, terveyden tilaa tai muutoin
+> häntä henkilökohtaisesti on pidettävä salassa, jollei tietojen
+> ilmaisemiseen ole saatu asianomaisen henkilön lupaa.
+>
+> Työsuojeluvaltuutetun on kaikessa toiminnassaan huomioitava kulloinkin
+> voi- massa oleva tietosuojalainsäädäntö.
+>
+> Salassapitovelvollisuudesta määrätään myös laissa työsuojelun
+> valvonnasta ja työpaikan työsuojeluyhteistoiminnasta 43 §:ssä.
+
+#### § Neuvottelujärjestys
+
+> Erimielisyyden koskiessa työsuojelu- tai päätyösuojeluvaltuutetun
+> työsuhteen päättämistä paikallis- ja liittoneuvottelut käydään
+> viipymättä.
+
+#### § Voimassaolo
+
+> Sopimus on voimassa Kaupan työehtosopimuksen osana sen 28 §:n
+> mukaisesti.
+
+# KOULUTUSSOPIMUS
+
+#### § Koulutustyöryhmä
+
+> Tämän sopimuksen mukaista koulutusta varten on liittojen yhteinen
+> koulutus- työryhmä.
+
+#### § Ammattiyhdistyskoulutus
+
+###### *Kurssien hyväksyminen*
+
+1.  Koulutustyöryhmä hyväksyy työnantajan tuen piiriin kuuluvat kurssit
+    seuraa- vasti:
+
+    -   hyväksymisen edellytyksenä on yhteisesti todettu koulutustarve
+
+    -   kurssit hyväksytään kalenterivuodeksi kerrallaan
+
+    -   tarvittaessa kursseja voidaan hyväksyä kalenterivuoden aikana
+
+    -   ennen hyväksymistä työryhmälle annetaan selvitys kurssin
+
+    -   tavoitteista, opetusohjelmasta, ajankohdasta,
+        > järjestämispaikasta ja kohderyhmästä
+
+    -   hyväksyttyjen kurssien joukossa tulee olla myös viikkoa
+        > lyhyempiä ja pai- kallisia kursseja.
+
+> Liitot tiedottavat kursseista viimeistään 2 kuukautta ennen
+> ensimmäisen kurs- sin alkua. Koulutustyöryhmä voi seurata kurssien
+> opetusta.
 
 ###### *Osallistumisoikeus*
-1. Luottamusmies ja työsuojeluvaltuutettu voivat osallistua työsuhteen katkea- matta koulutustyöryhmän hyväksymille kursseille enintään 2 viikon ajan kalen- terivuoden aikana ja varaluottamusmies ja 1. varatyösuojeluvaltuutettu enin- tään 1 viikon ajan kalenterivuoden aikana, jos se ei aiheuta yritykselle tuntu- vaa haittaa.
 
-###### <a name="4 § ammatillinen jatko-, täydennys- ja u"></a><a name="3 § yhteinen koulutus"></a><a name="muut edut"></a><a name="_bookmark123"></a>*Ilmoitusvelvollisuus*
-1. Työntekijän on ilmoitettava osallistumisestaan kurssille mahdollisimman aikaisin.
+2.  Luottamusmies ja työsuojeluvaltuutettu voivat osallistua työsuhteen
+    katkea- matta koulutustyöryhmän hyväksymille kursseille enintään 2
+    viikon ajan kalen- terivuoden aikana ja varaluottamusmies ja 1.
+    varatyösuojeluvaltuutettu enin- tään 1 viikon ajan kalenterivuoden
+    aikana, jos se ei aiheuta yritykselle tuntu- vaa haittaa.
 
-D
+###### *Ilmoitusvelvollisuus*
 
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.099.png)![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.100.png)Enintään viikon pituisesta kurssista on ilmoitettava vähintään 3 viikkoa ennen sen alkua ja yli viikon pituisesta kurssista vähintään 6 viikkoa ennen sen alkua.
+3.  Työntekijän on ilmoitettava osallistumisestaan kurssille
+    mahdollisimman aikaisin.
 
-Työnantajan on ilmoitettava henkilöstön edustajalle mahdollisimman aikaisin, kuitenkin viimeistään 10 päivää ennen kurssin alkua syy, miksi kurssille osal- listuminen aiheuttaisi yritykselle tuntuvaa haittaa.
+> Enintään viikon pituisesta kurssista on ilmoitettava vähintään 3
+> viikkoa ennen sen alkua ja yli viikon pituisesta kurssista vähintään 6
+> viikkoa ennen sen alkua.
+>
+> Työnantajan on ilmoitettava henkilöstön edustajalle mahdollisimman
+> aikaisin, kuitenkin viimeistään 10 päivää ennen kurssin alkua syy,
+> miksi kurssille osal- listuminen aiheuttaisi yritykselle tuntuvaa
+> haittaa.
 
-Sopimukset
-###### ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.101.png)*Korvaukset*
-1. Henkilöstön edustajat voivat osallistua koulutustyöryhmän hyväksymille kursseille ilman ansiomenetystä seuraavasti:
+###### *Korvaukset*
 
-   0. luottamusmiehen ja työsuojeluvaltuutetun ansionmenetys korvataan enin- tään 2 viikon ajalta
-   0. 1. varatyösuojeluvaltuutetun ja varaluottamusmiehen ansionmenetys kor- vataan enintään 1 viikon ajalta.
+4.  Henkilöstön edustajat voivat osallistua koulutustyöryhmän
+    hyväksymille kursseille ilman ansiomenetystä seuraavasti:
 
-edellyttäen että kurssi liittyy osanottajan yhteistyötehtävään yrityksessä. Ansiomenetys korvataan työntekijän peruspalkan mukaan.
+    -   luottamusmiehen ja työsuojeluvaltuutetun ansionmenetys korvataan
+        enin- tään 2 viikon ajalta
 
-Ilta- ja yölisiä sekä muita mahdollisia tuntikohtaisia lisiä ei korvata. Kuukausikohtaiset lisät korvataan.
+    -   1\. varatyösuojeluvaltuutetun ja varaluottamusmiehen
+        ansionmenetys kor- vataan enintään 1 viikon ajalta.
+
+> edellyttäen että kurssi liittyy osanottajan yhteistyötehtävään
+> yrityksessä. Ansiomenetys korvataan työntekijän peruspalkan mukaan.
+>
+> Ilta- ja yölisiä sekä muita mahdollisia tuntikohtaisia lisiä ei
+> korvata. Kuukausikohtaiset lisät korvataan.
 
 ###### *Muut edut*
-1. Osallistuminen tämän pykälän mukaiseen koulutukseen ei vähennä vuosi- loma-, eläke- tai näihin verrattavia etuuksia.
 
-1. #### <a name="_bookmark124"></a>§ Yhteinen koulutus
-   1. Yhteistä koulutusta annetaan pääsääntöisesti työpaikkakohtaisesti.
+5.  Osallistuminen tämän pykälän mukaiseen koulutukseen ei vähennä
+    vuosi- loma-, eläke- tai näihin verrattavia etuuksia.
 
-1. Koulutukseen osallistumisesta sovitaan työnantajan ja työntekijän tai luotta- musmiehen kanssa tai muulla paikallisesti sovittavalla tavalla.
+```{=html}
+<!-- -->
+```
+3.  #### § Yhteinen koulutus
 
-D
-1. ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.096.png)Yhteistä koulutusta ovat esimerkiksi:
+    1.  Yhteistä koulutusta annetaan pääsääntöisesti
+        työpaikkakohtaisesti.
 
-   0. yhteistoimintasopimukseen
-   0. osallistumisjärjestelmiin ja
+    2.  Koulutukseen osallistumisesta sovitaan työnantajan ja
+        työntekijän tai luotta- musmiehen kanssa tai muulla
+        paikallisesti sovittavalla tavalla.
 
-Sopimukset
-   0. ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.097.png)työsuojeluyhteistyöhön liittyvä koulutus.
-1. Korvaukset määräytyvät 4 §:n mukaan.
+    3.  Yhteistä koulutusta ovat esimerkiksi:
 
-1. #### § Ammatillinen jatko-, täydennys- ja uudelleenkoulutus
-   1. Työnantajan antaessa työntekijälle ammatillista koulutusta tai työnantajan lähettäessä hänet ammatilliseen koulutukseen työnantaja korvaa koulutus- kustannukset ja ansiomenetyksen.
+        -   yhteistoimintasopimukseen
 
-1. Säännöllisen työajan ansiomenetys korvataan työntekijän peruspalkan mukaan.
+        -   osallistumisjärjestelmiin ja
 
-Ilta- ja yölisiä sekä muita tuntikohtaisia lisiä ei korvata. Kuukausikohtaiset lisät korvataan.
+        -   työsuojeluyhteistyöhön liittyvä koulutus.
 
-Matkakustannukset korvataan halvimman kulkuneuvon mukaan.
+    4.  Korvaukset määräytyvät 4 §:n mukaan.
 
-1. Koulutuksen tapahtuessa työajan ulkopuolella työntekijälle korvataan siitä joh- tuvat suoranaiset kustannukset.
+4.  #### § Ammatillinen jatko-, täydennys- ja uudelleenkoulutus
 
-1. Ennen koulutukseen ilmoittautumista todetaan, onko kysymyksessä tämän pykälän mukainen koulutus.
+    1.  Työnantajan antaessa työntekijälle ammatillista koulutusta tai
+        työnantajan lähettäessä hänet ammatilliseen koulutukseen
+        työnantaja korvaa koulutus- kustannukset ja ansiomenetyksen.
 
-1. #### § Voimassaolo
-Sopimus on voimassa toistaiseksi 3 kuukauden irtisanomisajalla.
+    2.  Säännöllisen työajan ansiomenetys korvataan työntekijän
+        peruspalkan mukaan.
 
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.115.png)
+> Ilta- ja yölisiä sekä muita tuntikohtaisia lisiä ei korvata.
+> Kuukausikohtaiset lisät korvataan.
+>
+> Matkakustannukset korvataan halvimman kulkuneuvon mukaan.
 
+3.  Koulutuksen tapahtuessa työajan ulkopuolella työntekijälle korvataan
+    siitä joh- tuvat suoranaiset kustannukset.
 
+4.  Ennen koulutukseen ilmoittautumista todetaan, onko kysymyksessä
+    tämän pykälän mukainen koulutus.
 
+#### § Voimassaolo
 
-
-
-
-
-
-
-
-
-
-
-
-
+> Sopimus on voimassa toistaiseksi 3 kuukauden irtisanomisajalla.
 
 ## Lomakkeet
 
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.116.png)
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.117.png)![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.118.png)**ERIMIELISYYSMUISTIO**
-
-
-Yritys
-
-......................................................................................................................................................................................................................................................................
-
-Toimipaikka
-
-......................................................................................................................................................................................................................................................................
-
-Työnantaja tai työnantajan edustaja, joka on hoitanut työpaikalla erimielisyyttä
-
-.....................................................................................................................................................................................................................................................................
-
-Työnantajan edustajan asema yrityksessä
-
-.....................................................................................................................................................................................................................................................................
-
-Puhelin
-
-E
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.119.png).....................................................................................................................................................................................................................................................................
-
-Sähköpostiosoite
-
-.....................................................................................................................................................................................................................................................................
-
-
-Työntekijä, jota erimielisyys koskee
-
-.....................................................................................................................................................................................................................................................................
-
-Työntekijän tehtävä yrityksessä
-
-Lomakkeet
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.120.png)......................................................................................................................................................................................................................................................................
-
-Puhelin
-
-.....................................................................................................................................................................................................................................................................
-
-Sähköpostiosoite
-
-.....................................................................................................................................................................................................................................................................
-
-Työntekijää on edustanut neuvotteluissa luottamusmies /pääluottamusmies
-
-......................................................................................................................................................................................................................................................................
-
-Puhelin
-
-.....................................................................................................................................................................................................................................................................
-
-Sähköpostiosoite
-
-.....................................................................................................................................................................................................................................................................
-
-
-Erimielisyyden aihe
-
-......................................................................................................................................................................................................................................................................
-
-......................................................................................................................................................................................................................................................................
-
-......................................................................................................................................................................................................................................................................
-
-......................................................................................................................................................................................................................................................................
-
-......................................................................................................................................................................................................................................................................
-
-......................................................................................................................................................................................................................................................................
-
-......................................................................................................................................................................................................................................................................
-
-......................................................................................................................................................................................................................................................................
-
-......................................................................................................................................................................................................................................................................
-
-......................................................................................................................................................................................................................................................................
-
-......................................................................................................................................................................................................................................................................
-
-......................................................................................................................................................................................................................................................................
-
-......................................................................................................................................................................................................................................................................
-
-......................................................................................................................................................................................................................................................................
-
-
-Paikalliset neuvottelut erimielisyydestä käyty   .	.20 
-
-
-Neuvottelijat
-
-......................................................................................................................................................................................................................................................................
-
-......................................................................................................................................................................................................................................................................
-
-......................................................................................................................................................................................................................................................................
-
-......................................................................................................................................................................................................................................................................
-
-
-Erimielisyydestä on oltu yhteydessä Kaupan liittoon
-
-Palvelualojen ammattiliittoon
-
-
-Osapuolet ovat paikallisesti neuvotelleet erimielisyydestä. Erimielisyyden ratkaisemisesta ei ole päästy yksimielisyyteen. Sen vuoksi asia on päätetty siirtää liittojen välillä neuvoteltavaksi.
-
-Kaupan työehtosopimus 1.2.2023–31.1.2025
-
-169
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.011.png)![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.121.png)
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.122.png)
-
-Yhteisesti todettu tapahtumien kulku. Siihen liittyvät dokumentit ovat muistion liitteinä.
-
-......................................................................................................................................................................................................................................................................
-
-......................................................................................................................................................................................................................................................................
-
-......................................................................................................................................................................................................................................................................
-
-......................................................................................................................................................................................................................................................................
-
-......................................................................................................................................................................................................................................................................
-
-......................................................................................................................................................................................................................................................................
-
-......................................................................................................................................................................................................................................................................
-
-......................................................................................................................................................................................................................................................................
-
-......................................................................................................................................................................................................................................................................
-
-......................................................................................................................................................................................................................................................................
-
-E
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.123.png)......................................................................................................................................................................................................................................................................
-
-......................................................................................................................................................................................................................................................................
-
-
-Työntekijän vaatimus (tarvittaessa voidaan käyttää erillistä liitettä).
-
-......................................................................................................................................................................................................................................................................
-
-......................................................................................................................................................................................................................................................................
-
-......................................................................................................................................................................................................................................................................
-
-Lomakkeet
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.124.png)......................................................................................................................................................................................................................................................................
-
-......................................................................................................................................................................................................................................................................
-
-......................................................................................................................................................................................................................................................................
-
-......................................................................................................................................................................................................................................................................
-
-......................................................................................................................................................................................................................................................................
-
-
-Työntekijän perustelut vaatimukselle (työehtosopimuksen / lain kohdat).
-
-......................................................................................................................................................................................................................................................................
-
-......................................................................................................................................................................................................................................................................
-
-......................................................................................................................................................................................................................................................................
-
-......................................................................................................................................................................................................................................................................
-
-......................................................................................................................................................................................................................................................................
-
-
-Työnantajan vastaus ja perustelut (työehtosopimuksen / lain kohdat). Tarvittaessa voidaan käyttää erillistä liitettä).
-
-......................................................................................................................................................................................................................................................................
-
-......................................................................................................................................................................................................................................................................
-
-......................................................................................................................................................................................................................................................................
-
-......................................................................................................................................................................................................................................................................
-
-......................................................................................................................................................................................................................................................................
-
-......................................................................................................................................................................................................................................................................
-
-......................................................................................................................................................................................................................................................................
-
-......................................................................................................................................................................................................................................................................
-
-
-Paikka	Aika
-
-
-...........................................................................................................................	...........................................................................................................................
-
-Työnantajan / työnantajan edustajan allekirjoitus ja nimen selvennys	Työntekijän / työntekijän edustajan allekirjoitus ja nimen selvennys
-
-
-...........................................................................................................................	...........................................................................................................................
-
-Nimen selvennys	Nimen selvennys
-
-
-...........................................................................................................................	...........................................................................................................................
-
-
-Tätä muistiota on tehty kaksi samansisältöistä kappaletta. Työnantaja toimittaa toisen Kaupan liittoon ja työntekijä toisen Palvelualojen ammattiliittoon.
-
-
-Liitteet 	 kpl
-
-
-Luettelo liitteistä
-
-......................................................................................................................................................................................................................................................................
-
-......................................................................................................................................................................................................................................................................
-
-......................................................................................................................................................................................................................................................................
-
-......................................................................................................................................................................................................................................................................
-
-......................................................................................................................................................................................................................................................................
-
-......................................................................................................................................................................................................................................................................
-
-# <a name="yhteisesti todettu tapahtumien kulku"></a><a name="erimielisyyden aihe"></a><a name="erimielisyysmuistion täyttöohjeet"></a><a name="_bookmark125"></a>ERIMIELISYYSMUISTION TÄYTTÖOHJEET
+> ![](vertopal_57578efb67f74166a98baf273d8e9dc8/media/image2.png){width="0.2949420384951881in"
+> height="0.2601629483814523in"}![](vertopal_57578efb67f74166a98baf273d8e9dc8/media/image3.png){width="0.20214129483814522in"
+> height="0.11284011373578302in"}**ERIMIELISYYSMUISTIO**
+>
+> Yritys
+>
+> \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\....
+>
+> Toimipaikka
+>
+> \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\....
+>
+> Työnantaja tai työnantajan edustaja, joka on hoitanut työpaikalla
+> erimielisyyttä
+>
+> \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...
+>
+> Työnantajan edustajan asema yrityksessä
+>
+> \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...
+>
+> Puhelin
+>
+> \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...
+>
+> Sähköpostiosoite
+>
+> \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...
+>
+> Työntekijä, jota erimielisyys koskee
+>
+> \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...
+>
+> Työntekijän tehtävä yrityksessä
+>
+> \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\....
+>
+> Puhelin
+>
+> \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...
+>
+> Sähköpostiosoite
+>
+> \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...
+>
+> Työntekijää on edustanut neuvotteluissa luottamusmies
+> /pääluottamusmies
+>
+> \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\....
+>
+> Puhelin
+>
+> \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...
+>
+> Sähköpostiosoite
+>
+> \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...
+>
+> Erimielisyyden aihe
+>
+> \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\....
+>
+> \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\....
+>
+> \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\....
+>
+> \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\....
+>
+> \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\....
+>
+> \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\....
+>
+> \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\....
+>
+> \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\....
+>
+> \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\....
+>
+> \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\....
+>
+> \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\....
+>
+> \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\....
+>
+> \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\....
+>
+> \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\....
+>
+> Paikalliset neuvottelut erimielisyydestä käyty [.]{.underline} .20
+>
+> Neuvottelijat
+>
+> \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\....
+>
+> \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\....
+>
+> \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\....
+>
+> \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\....
+>
+> Erimielisyydestä on oltu yhteydessä Kaupan liittoon
+>
+> Palvelualojen ammattiliittoon
+>
+> Osapuolet ovat paikallisesti neuvotelleet erimielisyydestä.
+> Erimielisyyden ratkaisemisesta ei ole päästy yksimielisyyteen. Sen
+> vuoksi asia on päätetty siirtää liittojen välillä neuvoteltavaksi.
+>
+> Yhteisesti todettu tapahtumien kulku. Siihen liittyvät dokumentit ovat
+> muistion liitteinä.
+>
+> \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\....
+>
+> \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\....
+>
+> \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\....
+>
+> \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\....
+>
+> \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\....
+>
+> \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\....
+>
+> \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\....
+>
+> \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\....
+>
+> \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\....
+>
+> \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\....
+>
+> \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\....
+>
+> \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\....
+>
+> Työntekijän vaatimus (tarvittaessa voidaan käyttää erillistä
+> liitettä).
+>
+> \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\....
+>
+> \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\....
+>
+> \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\....
+>
+> \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\....
+>
+> \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\....
+>
+> \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\....
+>
+> \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\....
+>
+> \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\....
+>
+> Työntekijän perustelut vaatimukselle (työehtosopimuksen / lain
+> kohdat).
+>
+> \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\....
+>
+> \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\....
+>
+> \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\....
+>
+> \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\....
+>
+> \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\....
+>
+> Työnantajan vastaus ja perustelut (työehtosopimuksen / lain kohdat).
+> Tarvittaessa voidaan käyttää erillistä liitettä).
+>
+> \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\....
+>
+> \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\....
+>
+> \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\....
+>
+> \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\....
+>
+> \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\....
+>
+> \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\....
+>
+> \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\....
+>
+> \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\....
+>
+> Paikka Aika
+>
+> \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...
+> \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...
+>
+> Työnantajan / työnantajan edustajan allekirjoitus ja nimen selvennys
+> Työntekijän / työntekijän edustajan allekirjoitus ja nimen selvennys
+>
+> \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...
+> \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...
+>
+> Nimen selvennys Nimen selvennys
+>
+> \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...
+> \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...
+>
+> Tätä muistiota on tehty kaksi samansisältöistä kappaletta. Työnantaja
+> toimittaa toisen Kaupan liittoon ja työntekijä toisen Palvelualojen
+> ammattiliittoon.
+>
+> Liitteet kpl
+>
+> Luettelo liitteistä
+>
+> \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\....
+>
+> \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\....
+>
+> \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\....
+>
+> \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\....
+>
+> \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\....
+>
+> \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\....
+
+# ERIMIELISYYSMUISTION TÄYTTÖOHJEET
 
 #### Yleistä
-Erimielisyysmuistiomenettely koskee vain Kaupan liiton jäsenyritysten palveluk- sessa olevia Palvelualojen ammattiliitto PAM ry:n jäseniä, joiden työsuhteessa nou- datetaan Kaupan työehtosopimusta.
 
-E
-
-Lomakkeet
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.119.png)![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.120.png)Työntekijöiden työ- ja palkkaehtoja koskevat riitaisuudet tulee ensisijaisesti selvit- tää työpaikalla työehtosopimuksen 26 §:n mukaista paikallista neuvottelujärjes- tystä noudattaen. Työpaikkakohtaisissa neuvotteluissa kumpikin osapuoli voi käyt- tää hyväkseen oman liittonsa neuvontapalveluita. Liittojen mahdollisesti antaman tuen ja neuvonnan tarkoituksena on auttaa paikallisten neuvottelujen sujumista ja ratkaisun löytämistä erimielisyyteen jo työpaikalla.
-
-Erimielisyysmuistion laatimiseen tulee ryhtyä vasta riittävän huolellisten paikal- listen neuvottelujen jälkeen, kun osapuolet haluavat saattaa erimielisyyden liitto- tasolla ratkaistavaksi.
+> Erimielisyysmuistiomenettely koskee vain Kaupan liiton jäsenyritysten
+> palveluk- sessa olevia Palvelualojen ammattiliitto PAM ry:n jäseniä,
+> joiden työsuhteessa nou- datetaan Kaupan työehtosopimusta.
+>
+> Työntekijöiden työ- ja palkkaehtoja koskevat riitaisuudet tulee
+> ensisijaisesti selvit- tää työpaikalla työehtosopimuksen 26 §:n
+> mukaista paikallista neuvottelujärjes- tystä noudattaen.
+> Työpaikkakohtaisissa neuvotteluissa kumpikin osapuoli voi käyt- tää
+> hyväkseen oman liittonsa neuvontapalveluita. Liittojen mahdollisesti
+> antaman tuen ja neuvonnan tarkoituksena on auttaa paikallisten
+> neuvottelujen sujumista ja ratkaisun löytämistä erimielisyyteen jo
+> työpaikalla.
+>
+> Erimielisyysmuistion laatimiseen tulee ryhtyä vasta riittävän
+> huolellisten paikal- listen neuvottelujen jälkeen, kun osapuolet
+> haluavat saattaa erimielisyyden liitto- tasolla ratkaistavaksi.
 
 #### Erimielisyyden aihe
-Erimielisyyden aihe ilmaistaan lyhyesti otsikkotasolla, esimerkiksi sairauspoissaolon palkallisuus, olosuhdelisän maksaminen jne.
+
+> Erimielisyyden aihe ilmaistaan lyhyesti otsikkotasolla, esimerkiksi
+> sairauspoissaolon palkallisuus, olosuhdelisän maksaminen jne.
 
 #### Yhteisesti todettu tapahtumien kulku
-Tapahtumien kulkuun kirjataan ne riidattomat tosiasiat, jotka ovat erimielisyyden taustalla. Tämä selvitys nopeuttaa liittokäsittelyä, koska sen perusteella asiaa hoi- tavat henkilöt saavat nopeasti kokonaiskuvan tapahtuneesta ilman lisäselvityspyyn- töjä. Nämä riidattomat taustatiedot on kummankin osapuolen syytä tuoda esille jo pyytäessään oman liittonsa näkemystä tapahtuneesta.
 
-Esimerkiksi, jos kyse olisi työntekijän poissaolon palkallisuudesta alle 10-vuotiaan lapsen äkillisen sairastumisen vuoksi (erimielisyyden aihe) tapahtumien kulku voi- taisiin kirjata seuraavasti: Työntekijä on ollut pois töistä maanantaina 6.10. 3-vuo- tiaan lapsensa flunssan vuoksi. Työntekijä toimitti poissaolosta neuvolan tervey- denhoitajan antaman todistuksen. Todistus erimielisyysmuistion liitteenä nro 1.
-
-<a name="muistion lähettäminen liitolle"></a><a name="paikallisten osapuolten kannat yksityisk"></a><a name="_bookmark126"></a>Yrityksen ohjeistuksessa on todettu, että poissaolon palkanmaksun edellytyksenä on aina lääkärintodistus. Työntekijän kanssa on perehdyttämisvaiheessa käyty läpi ko. pelisääntö. Yrityksen ohjeistus muistion liitteenä nro 2. Työntekijän palkasta on vähennetty yhden työpäivän palkka. Työntekijän kyseisen kuukauden palkkalas- kelma muistion liitteenä nro 3.
+> Tapahtumien kulkuun kirjataan ne riidattomat tosiasiat, jotka ovat
+> erimielisyyden taustalla. Tämä selvitys nopeuttaa liittokäsittelyä,
+> koska sen perusteella asiaa hoi- tavat henkilöt saavat nopeasti
+> kokonaiskuvan tapahtuneesta ilman lisäselvityspyyn- töjä. Nämä
+> riidattomat taustatiedot on kummankin osapuolen syytä tuoda esille jo
+> pyytäessään oman liittonsa näkemystä tapahtuneesta.
+>
+> Esimerkiksi, jos kyse olisi työntekijän poissaolon palkallisuudesta
+> alle 10-vuotiaan lapsen äkillisen sairastumisen vuoksi (erimielisyyden
+> aihe) tapahtumien kulku voi- taisiin kirjata seuraavasti: Työntekijä
+> on ollut pois töistä maanantaina 6.10. 3-vuo- tiaan lapsensa flunssan
+> vuoksi. Työntekijä toimitti poissaolosta neuvolan tervey- denhoitajan
+> antaman todistuksen. Todistus erimielisyysmuistion liitteenä nro 1.
+>
+> []{#_bookmark126 .anchor}Yrityksen ohjeistuksessa on todettu, että
+> poissaolon palkanmaksun edellytyksenä on aina lääkärintodistus.
+> Työntekijän kanssa on perehdyttämisvaiheessa käyty läpi ko.
+> pelisääntö. Yrityksen ohjeistus muistion liitteenä nro 2. Työntekijän
+> palkasta on vähennetty yhden työpäivän palkka. Työntekijän kyseisen
+> kuukauden palkkalas- kelma muistion liitteenä nro 3.
 
 #### Paikallisten osapuolten kannat yksityiskohtaisine perusteluineen
-E
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.123.png)Työntekijän tulee esittää jo paikallisissa neuvotteluissa oma yksilöity vaatimuk- sensa ja perustelut sille. Samoin neuvotteluissa käydään läpi työnantajan vastaus ja sen perustelut.
 
-Lomakkeet
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.124.png)Yllä olevan esimerkkitapauksen osalta työntekijä esittää vaatimuksenaan hänen palkastaan vähennetyn 1 työpäivän palkan xx,xx euron takaisin maksamista.
-
-Vaatimustaan hän perustelee sillä, että kyseessä on tavanomainen infektiosairaus ja hän ei ole saanut vastaanottoaikaa julkisen terveydenhuollon piiriin kuuluvalta lääkäriltä, josta hänellä on esittää todistus (liite nro 4). Hän esittää vaatimuksensa perusteluna työehtosopimuksen 16 §:n 2. kohdan.
-
-Työnantaja tuo vastauksessaan esille sen, että työpaikan ohjeistuksessa on todettu, että alle 10-vuotiaan lapsen äkillisestä sairastumisesta aiheutuvissa poissaoloissa palkanmaksun edellytyksenä on aina jo ensimmäisestä poissaolopäivästä lääkä- rintodistus. Työehtosopimus 17 § 2. kohta. Tästä on myös yhteisissä henkilökunnan palavereissa keskusteltu ja ohjeistusta on johdonmukaisesti noudatettu. Työntekijän perusteluissa esittämää työehtosopimuksen 16 §:n 2. kohta koskee vain työnteki- jän omaa sairastumista.
+> Työntekijän tulee esittää jo paikallisissa neuvotteluissa oma
+> yksilöity vaatimuk- sensa ja perustelut sille. Samoin neuvotteluissa
+> käydään läpi työnantajan vastaus ja sen perustelut.
+>
+> Yllä olevan esimerkkitapauksen osalta työntekijä esittää
+> vaatimuksenaan hänen palkastaan vähennetyn 1 työpäivän palkan xx,xx
+> euron takaisin maksamista.
+>
+> Vaatimustaan hän perustelee sillä, että kyseessä on tavanomainen
+> infektiosairaus ja hän ei ole saanut vastaanottoaikaa julkisen
+> terveydenhuollon piiriin kuuluvalta lääkäriltä, josta hänellä on
+> esittää todistus (liite nro 4). Hän esittää vaatimuksensa perusteluna
+> työehtosopimuksen 16 §:n 2. kohdan.
+>
+> Työnantaja tuo vastauksessaan esille sen, että työpaikan
+> ohjeistuksessa on todettu, että alle 10-vuotiaan lapsen äkillisestä
+> sairastumisesta aiheutuvissa poissaoloissa palkanmaksun edellytyksenä
+> on aina jo ensimmäisestä poissaolopäivästä lääkä- rintodistus.
+> Työehtosopimus 17 § 2. kohta. Tästä on myös yhteisissä henkilökunnan
+> palavereissa keskusteltu ja ohjeistusta on johdonmukaisesti
+> noudatettu. Työntekijän perusteluissa esittämää työehtosopimuksen 16
+> §:n 2. kohta koskee vain työnteki- jän omaa sairastumista.
 
 #### Muistion lähettäminen liitolle
-Jos muistiota ei lähetetä liitoille sähköisesti, kumpikin osapuoli toimittaa muistion liitteineen omalle liitolle.
 
-E
+> Jos muistiota ei lähetetä liitoille sähköisesti, kumpikin osapuoli
+> toimittaa muistion liitteineen omalle liitolle.
+>
+> **KAUPAN ALAN TYÖSOPIMUS**
 
-Lomakkeet
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.119.png)![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.120.png)**KAUPAN ALAN TYÖSOPIMUS**
++-----------+-----------------------+--------------+-------------------+
+| > 1\.     | > Työnantaja          |              | > Liike- tai      |
+| > T       |                       |              | > kotipaikka      |
+| YÖSUHTEEN |                       |              |                   |
+| >         |                       |              |                   |
+| OSAPUOLET |                       |              |                   |
++===========+=======================+==============+===================+
+|           | > Työntekijä          |              | > Henkilötunnus   |
++-----------+-----------------------+--------------+-------------------+
+|           | > Yllä mainittu       |              |                   |
+|           | > työntekijä sitoutuu |              |                   |
+|           | > korvausta vastaan   |              |                   |
+|           | > tekemään yllä       |              |                   |
+|           | > mainitun            |              |                   |
+|           | > työnantajan hänelle |              |                   |
+|           | > osoittamaa työtä    |              |                   |
+|           | > tämän johdon ja     |              |                   |
+|           | > valvonnan alaisena  |              |                   |
+|           | > sekä seuraavin      |              |                   |
+|           | > ehdoin:             |              |                   |
++-----------+-----------------------+--------------+-------------------+
+| > 2\.     | > Työsuhteen alussa   |              |                   |
+| > TYÖS    | > on kuukauden        |              |                   |
+| OPIMUKSEN | > koeaika.            |              |                   |
+| > VO      | >                     |              |                   |
+| IMASSAOLO | > Koeaika kaksitoista |              |                   |
+|           | > kuukautta           |              |                   |
+|           | > lyhyemmässä         |              |                   |
+|           | > työsuhteessa on     |              |                   |
+|           | > enintään puolet     |              |                   |
+|           | > työsopimuksen       |              |                   |
+|           | > kestoajasta,        |              |                   |
+|           | > jolloin koeajan     |              |                   |
+|           | > viimeinen päivä on  |              |                   |
+|           | > .                   |              |                   |
++-----------+-----------------------+--------------+-------------------+
+|           | > toistaiseksi        | > m          |                   |
+|           | > voimassa oleva      | ääräaikainen |                   |
+|           | > työsuhde Työsuhde   | > työsuhde   |                   |
+|           | > kestää toistaiseksi | >            |                   |
+|           | > ja sen alkamis-     | > M          |                   |
+|           | > päivämäärä on       | ääräaikaisen |                   |
+|           |                       | > työsuhteen |                   |
+|           |                       | > alkam      |                   |
+|           |                       | ispäivämäärä |                   |
+|           |                       | > on         |                   |
+|           |                       | >            |                   |
+|           |                       | > ja kesto   |                   |
+|           |                       | > saakka.    |                   |
+|           |                       | >            |                   |
+|           |                       | > M          |                   |
+|           |                       | ääräaikaisen |                   |
+|           |                       | > työsuhteen |                   |
+|           |                       | > peruste:   |                   |
+|           |                       | >            |                   |
+|           |                       | > tai kunnes |                   |
+|           |                       | > seuraava   |                   |
+|           |                       | > yksilöity  |                   |
+|           |                       | > työtehtävä |                   |
+|           |                       | > on         |                   |
+|           |                       | > suoritettu |                   |
+|           |                       | >            |                   |
+|           |                       | > ja sen     |                   |
+|           |                       | > arvioitu   |                   |
+|           |                       | > kesto on   |                   |
+|           |                       | > saakka.    |                   |
++-----------+-----------------------+--------------+-------------------+
+| > 3\.     | > Työaika on          |              |                   |
+| > TYÖAIKA | > keskimäärin 37,5    |              |                   |
+|           | > tuntia viikossa.    |              |                   |
+|           | >                     |              |                   |
+|           | > alle 37,5 tuntia    |              |                   |
+|           | > viikossa, jolloin   |              |                   |
+|           | > keskimääräinen      |              |                   |
+|           | > viikkotyöaika on    |              |                   |
+|           | > tuntia.             |              |                   |
+|           | >                     |              |                   |
+|           | > Työntekijä suostuu  |              |                   |
+|           | > tekemään lisätyötä  |              |                   |
+|           | > laissa säädetyin    |              |                   |
+|           | > edellytyksin,       |              |                   |
+|           | > jolloin siitä       |              |                   |
+|           | > maksetaan           |              |                   |
+|           | > työehtosopimuksen   |              |                   |
+|           | > mukainen korvaus.   |              |                   |
+|           | >                     |              |                   |
+|           | > Työntekijä suostuu  |              |                   |
+|           | > tekemään            |              |                   |
+|           | > tarvittaessa        |              |                   |
+|           | > sunnuntaityötä ei   |              |                   |
+|           | > suostu tekemään     |              |                   |
+|           | > sunnuntaityötä      |              |                   |
+|           | >                     |              |                   |
+|           | > Sunnuntaityöstä     |              |                   |
+|           | > maksetaan           |              |                   |
+|           | > työehtosopimuksen   |              |                   |
+|           | > mukainen korvaus.   |              |                   |
++-----------+-----------------------+--------------+-------------------+
+| > 4\.     | > Työntekijän         |              |                   |
+| > TY      | > työtehtävät (esim.  |              |                   |
+| ÖTEHTÄVÄT | > myyjä,              |              |                   |
+|           | > l                   |              |                   |
+|           | ogistiikkatyöntekijä, |              |                   |
+|           | > toimihenkilö):      |              |                   |
++-----------+-----------------------+--------------+-------------------+
+| > 5\.     | > Työsuhteen alussa   |              |                   |
+| >         | > työntekijän palkka  |              |                   |
+|  PALKKAUS | > määräytyy           |              |                   |
+|           | > seuraavasti:        |              |                   |
+|           | >                     |              |                   |
+|           | > Palkkaryhmä ja      |              |                   |
+|           | > alallaolovuodet:    |              |                   |
+|           | >                     |              |                   |
+|           | > Palkan määrä        |              |                   |
+|           | > kuukaudessa tai     |              |                   |
+|           | > tunnissa:           |              |                   |
++-----------+-----------------------+--------------+-------------------+
+| > 6\.     | > Vuosiloma määräytyy |              |                   |
+| >         | > vuosilomalain ja    |              |                   |
+| VUOSILOMA | > noudatettavan       |              |                   |
+|           | > työehtosopimuksen   |              |                   |
+|           | > mukaan.             |              |                   |
++-----------+-----------------------+--------------+-------------------+
+| > 7\.     | > Irtisanomisaika     |              |                   |
+| > IRTISA  | > määräytyy           |              |                   |
+| NOMISAIKA | > noudatettavan       |              |                   |
+|           | > työehtosopimuksen   |              |                   |
+|           | > mukaan.             |              |                   |
++-----------+-----------------------+--------------+-------------------+
+| > 8\.     | > Työsuhteessa        |              |                   |
+| > TYÖEH   | > noudatetaan         |              |                   |
+| TOSOPIMUS | > työnantajaa sitovaa |              |                   |
+|           | > työehtosopimusta,   |              |                   |
+|           | > voimassa olevia     |              |                   |
+|           | > lakeja ja asetuksia |              |                   |
+|           | > sekä yrityksen      |              |                   |
+|           | > sisäisiä ohjeita ja |              |                   |
+|           | > sääntöjä.           |              |                   |
+|           | > Sairausajan         |              |                   |
+|           | > palkkaa, vuosilomaa |              |                   |
+|           | > ja työaikaa         |              |                   |
+|           | > koskevien           |              |                   |
+|           | > määräysten osalta   |              |                   |
+|           | > noudatetaan         |              |                   |
+|           | > työehtosopimuksen   |              |                   |
+|           | > voimassaoloajan     |              |                   |
+|           | >                     |              |                   |
+|           | > päätyttyä ja ennen  |              |                   |
+|           | > uuden               |              |                   |
+|           | > työehtosopimuksen   |              |                   |
+|           | > voimaanastumista    |              |                   |
+|           | > päättyneen          |              |                   |
+|           | > sopimuksen          |              |                   |
+|           | > määräyksiä.         |              |                   |
++-----------+-----------------------+--------------+-------------------+
+| > 9\.     |                       |              |                   |
+| > MUUT    |                       |              |                   |
+| > EHDOT   |                       |              |                   |
++-----------+-----------------------+--------------+-------------------+
+| > 10\.    | > Tätä sopimusta on   |              |                   |
+| > PÄIVÄYS | > tehty kaksi         |              |                   |
+| > JA      | > yhtäpitävää         |              |                   |
+| > ALLE    | > kappaletta, joista  |              |                   |
+| KIRJOITUS | > yksi annetaan       |              |                   |
+|           | > työntekijälle ja    |              |                   |
+|           | > yksi jää            |              |                   |
+|           | > työnantajalle.      |              |                   |
+|           | > Paikka Aika         |              |                   |
+|           | >                     |              |                   |
+|           | > Työnantajan         |              |                   |
+|           | > allekirjoitus       |              |                   |
+|           | > Työntekijän         |              |                   |
+|           | > allekirjoitus       |              |                   |
+|           | >                     |              |                   |
+|           | > Nimen selvennys     |              |                   |
+|           | > Nimen selvennys     |              |                   |
++-----------+-----------------------+--------------+-------------------+
 
+> SELVITYS:
+>
+> Työsopimuslain 2:4 §:n mukaisesti työnantaja ilmoittaa lisäksi
+> työsuhteen keskeisistä ehdoista seuraavaa:
+>
+> Työn suorittamispaikka: (esimerkiksi yrityksen tietty
+> toimipaikka/-paikat tai yrityksen kaikki toimipaikat tai tietty
+> työnsuorittamisalue/-alueet)
+>
+> Palkanmaksukausi on
+>
+> Työsuhteen alussa työnantajaa sitova työehtosopimus on
+>
+> Muuta:
 
-<table><tr><th colspan="1" rowspan="3" valign="top">1\. TYÖSUHTEEN OSAPUOLET</th><th colspan="2" valign="top">Työnantaja</th><th colspan="1" valign="top">Liike- tai kotipaikka</th></tr>
-<tr><td colspan="2" valign="top">Työntekijä</td><td colspan="1" valign="top">Henkilötunnus</td></tr>
-<tr><td colspan="3" valign="top">Yllä mainittu työntekijä sitoutuu korvausta vastaan tekemään yllä mainitun työnantajan hänelle osoittamaa työtä tämän johdon ja valvonnan alaisena sekä seuraavin ehdoin:</td></tr>
-<tr><td colspan="1" rowspan="2" valign="top"><p></p><p>2\. TYÖSOPIMUKSEN VOIMASSAOLO</p></td><td colspan="3" valign="top"><p></p><p>Työsuhteen alussa on	kuukauden koeaika.</p><p>![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.125.png)![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.126.png)</p><p>Koeaika kaksitoista kuukautta lyhyemmässä työsuhteessa on enintään puolet työsopimuksen kestoajasta, jolloin koeajan viimeinen päivä on	.</p></td></tr>
-<tr><td colspan="1" valign="top"><p></p><p>![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.127.png)![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.128.png)toistaiseksi voimassa oleva työsuhde Työsuhde kestää toistaiseksi ja sen alkamis- päivämäärä on</p></td><td colspan="2" valign="top"><p></p><p>määräaikainen työsuhde</p><p>![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.127.png)Määräaikaisen työsuhteen alkamispäivämäärä on</p><p>![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.129.png)</p><p>ja kesto	saakka.</p><p>![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.130.png)</p><p>Määräaikaisen työsuhteen peruste:</p><p></p><p>![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.131.png)</p><p>tai kunnes seuraava yksilöity työtehtävä on suoritettu</p><p></p><p>![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.131.png)</p><p>![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.132.png)ja sen arvioitu kesto on	saakka.</p></td></tr>
-<tr><td colspan="1" valign="top">3\. TYÖAIKA</td><td colspan="3" valign="top"><p>Työaika on	keskimäärin 37,5 tuntia viikossa.</p><p>![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.133.png)![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.133.png)alle 37,5 tuntia viikossa, jolloin keskimääräinen viikkotyöaika on	tuntia.</p><p>![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.134.png)</p><p>Työntekijä suostuu tekemään lisätyötä laissa säädetyin edellytyksin, jolloin siitä maksetaan työehtosopimuksen mukainen korvaus.</p><p>Työntekijä	suostuu tekemään tarvittaessa sunnuntaityötä ei suostu tekemään sunnuntaityötä</p><p>Sunnuntaityöstä maksetaan työehtosopimuksen mukainen korvaus.</p></td></tr>
-<tr><td colspan="1" valign="top">4\. TYÖTEHTÄVÄT</td><td colspan="3" valign="top">Työntekijän työtehtävät (esim. myyjä, logistiikkatyöntekijä, toimihenkilö):</td></tr>
-<tr><td colspan="1" valign="top">5\. PALKKAUS</td><td colspan="3" valign="top"><p>Työsuhteen alussa työntekijän palkka määräytyy seuraavasti:</p><p></p><p>![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.135.png)</p><p>Palkkaryhmä ja alallaolovuodet:</p><p></p><p>![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.135.png)</p><p>Palkan määrä kuukaudessa tai tunnissa:</p></td></tr>
-<tr><td colspan="1" valign="top">6\. VUOSILOMA</td><td colspan="3" valign="top">Vuosiloma määräytyy vuosilomalain ja noudatettavan työehtosopimuksen mukaan.</td></tr>
-<tr><td colspan="1" valign="top">7\. IRTISANOMISAIKA</td><td colspan="3" valign="top">Irtisanomisaika määräytyy noudatettavan työehtosopimuksen mukaan.</td></tr>
-<tr><td colspan="1" valign="top">8\. TYÖEHTOSOPIMUS</td><td colspan="3" valign="top"><p>Työsuhteessa noudatetaan työnantajaa sitovaa työehtosopimusta, voimassa olevia lakeja ja asetuksia sekä yrityksen sisäisiä ohjeita ja sääntöjä. Sairausajan palkkaa, vuosilomaa ja työaikaa koskevien määräysten osalta noudatetaan työehtosopimuksen voimassaoloajan</p><p>päätyttyä ja ennen uuden työehtosopimuksen voimaanastumista päättyneen sopimuksen määräyksiä.</p></td></tr>
-<tr><td colspan="1" valign="top">9\. MUUT EHDOT</td><td colspan="3" valign="top"></td></tr>
-<tr><td colspan="1" valign="top">10\. PÄIVÄYS JA ALLEKIRJOITUS</td><td colspan="3" valign="top"><p>Tätä sopimusta on tehty kaksi yhtäpitävää kappaletta, joista yksi annetaan työntekijälle ja yksi jää työnantajalle. Paikka	Aika</p><p></p><p>![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.136.png) ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.137.png)</p><p>Työnantajan allekirjoitus	Työntekijän allekirjoitus</p><p></p><p>![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.136.png) ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.138.png)</p><p>Nimen selvennys	Nimen selvennys</p></td></tr>
-</table>
-
-SELVITYS:
-
-Työsopimuslain 2:4 §:n mukaisesti työnantaja ilmoittaa lisäksi työsuhteen keskeisistä ehdoista seuraavaa:
-
-Työn suorittamispaikka: (esimerkiksi yrityksen tietty toimipaikka/-paikat tai yrityksen kaikki toimipaikat tai tietty työnsuorittamisalue/-alueet)
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.139.png)
-
-Palkanmaksukausi on
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.139.png)
-
-Työsuhteen alussa työnantajaa sitova työehtosopimus on
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.139.png)
-
-Muuta:
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.139.png)
-
-# <a name="määräaikainen työsopimus"></a><a name="toistaiseksi voimassa oleva työsopimus"></a><a name="koeaika"></a><a name="työsopimuslomakkeen täyttämisohjeita"></a><a name="_bookmark127"></a>TYÖSOPIMUSLOMAKKEEN TÄYTTÄMISOHJEITA
+# TYÖSOPIMUSLOMAKKEEN TÄYTTÄMISOHJEITA
 
 #### Koeaika
-E
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.123.png)Koeajasta on sovittava työsopimuksessa. Koeajan enimmäispituus on pääsään- töisesti 6 kuukautta. Työntekijään, joka kohtuullisen ajan kuluessa palaa aikaisem- man työnantajansa palvelukseen entisen kaltaiseen työhön, ei koeaikaa sovelleta, ellei siihen ole erityistä syytä, mistä työsuhteen uudelleen alkaessa nimenomaan sovitaan.
 
-Lomakkeet
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.124.png)Jos työntekijä on koeaikana ollut työkyvyttömyyden tai perhevapaan vuoksi poissa työstä, työnantajalla on oikeus pidentää koeaikaa kuukaudella kutakin työkyvyttö- myys- tai perhevapaajaksoihin sisältyvää 30 kalenteripäivää kohden. Työnantajan on ilmoitettava työntekijälle koeajan pidentämisestä ennen koeajan päättymistä.
+> Koeajasta on sovittava työsopimuksessa. Koeajan enimmäispituus on
+> pääsään- töisesti 6 kuukautta. Työntekijään, joka kohtuullisen ajan
+> kuluessa palaa aikaisem- man työnantajansa palvelukseen entisen
+> kaltaiseen työhön, ei koeaikaa sovelleta, ellei siihen ole erityistä
+> syytä, mistä työsuhteen uudelleen alkaessa nimenomaan sovitaan.
+>
+> Jos työntekijä on koeaikana ollut työkyvyttömyyden tai perhevapaan
+> vuoksi poissa työstä, työnantajalla on oikeus pidentää koeaikaa
+> kuukaudella kutakin työkyvyttö- myys- tai perhevapaajaksoihin
+> sisältyvää 30 kalenteripäivää kohden. Työnantajan on ilmoitettava
+> työntekijälle koeajan pidentämisestä ennen koeajan päättymistä.
 
-1. kuukautta lyhyemmässä määräaikaisessa työsuhteessa koeaika saa pidennyksi- neen olla enintään puolet työsopimuksen kestoajasta.
+12. kuukautta lyhyemmässä määräaikaisessa työsuhteessa koeaika saa
+    pidennyksi- neen olla enintään puolet työsopimuksen kestoajasta.
 
 #### Toistaiseksi voimassa oleva työsopimus
-Lähtökohtaisesti työsuhde on voimassa toistaiseksi. Tällöin merkitään rasti ao. kohtaan.
 
-Työsuhteen alkamispäivämääräksi merkitään päivämäärä, jolloin työntekijä aloit- taa työnteon.
+> Lähtökohtaisesti työsuhde on voimassa toistaiseksi. Tällöin merkitään
+> rasti ao. kohtaan.
+>
+> Työsuhteen alkamispäivämääräksi merkitään päivämäärä, jolloin
+> työntekijä aloit- taa työnteon.
 
 #### Määräaikainen työsopimus
-Jos työsuhde on sidottu määräaikaan, merkitään työsuhteen viimeinen kestopäivä lomakkeeseen. Tällöin tulee myös todeta määräaikaisen työsuhteen peruste, esim. raskaus- ja vanhempainvapaasijaisuus, vuosilomasijaisuus tai työntekijän oma pyyntö.
 
-Jos työsopimuksen kestoaika ei ole sidottu kalenteriaikaan, vaan se on riippuvainen tietyn työtehtävän suorittamisesta, yksilöidään ao. tehtävä ja sen suorittamiselle arvioitu kesto sopimuksen tälle asialle varattuun tilaan.
+> Jos työsuhde on sidottu määräaikaan, merkitään työsuhteen viimeinen
+> kestopäivä lomakkeeseen. Tällöin tulee myös todeta määräaikaisen
+> työsuhteen peruste, esim. raskaus- ja vanhempainvapaasijaisuus,
+> vuosilomasijaisuus tai työntekijän oma pyyntö.
+>
+> Jos työsopimuksen kestoaika ei ole sidottu kalenteriaikaan, vaan se on
+> riippuvainen tietyn työtehtävän suorittamisesta, yksilöidään ao.
+> tehtävä ja sen suorittamiselle arvioitu kesto sopimuksen tälle asialle
+> varattuun tilaan.
+>
+> Määräaikainen työsopimus, jonka kestoksi on sovittu 1 vuotta pidempi
+> aika, on teh- tävä kirjallisesti.
 
-Määräaikainen työsopimus, jonka kestoksi on sovittu 1 vuotta pidempi aika, on teh- tävä kirjallisesti.
+#### Työaika
 
-#### <a name="palkkaus"></a><a name="työtehtävät"></a><a name="työaika"></a><a name="_bookmark128"></a>Työaika
-Alle 37,5 tuntia tekevän keskimääräinen viikkotyöaika tulee sopia ja kirjata sii- hen varattuun kohtaan ottaen huomioon työehtosopimuksen 6 §:n 1. kohdan määräykset.
-
-Työntekijän antaessa lisätyösuostumuksen työnantaja voi suunnitella lisätyötä työvuoroluetteloon.
-
-E
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.119.png)Työntekijän suostuessa sunnuntaityöskentelyyn työnantaja ei ole velvollinen hank- kimaan erillistä sunnuntaityösuostumusta työntekijältä yksittäisten sunnuntaipäi- vien tai arkipyhien osalta.
-
-Lomakkeet
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.120.png)Työntekijän kieltäydyttyä sunnuntaityöskentelystä työnantaja ei ole velvollinen tar- joamaan hänelle työtä sunnuntaiksi tai arkipyhäksi.
+> Alle 37,5 tuntia tekevän keskimääräinen viikkotyöaika tulee sopia ja
+> kirjata sii- hen varattuun kohtaan ottaen huomioon työehtosopimuksen 6
+> §:n 1. kohdan määräykset.
+>
+> Työntekijän antaessa lisätyösuostumuksen työnantaja voi suunnitella
+> lisätyötä työvuoroluetteloon.
+>
+> Työntekijän suostuessa sunnuntaityöskentelyyn työnantaja ei ole
+> velvollinen hank- kimaan erillistä sunnuntaityösuostumusta
+> työntekijältä yksittäisten sunnuntaipäi- vien tai arkipyhien osalta.
+>
+> Työntekijän kieltäydyttyä sunnuntaityöskentelystä työnantaja ei ole
+> velvollinen tar- joamaan hänelle työtä sunnuntaiksi tai arkipyhäksi.
 
 #### Työtehtävät
-Työsopimukseen kirjataan työntekijän kanssa sovitut pääasialliset työtehtävät esim. tavaratalomyyjä, logistiikkatyöntekijä, toimihenkilö jne. Jos työntekijän kanssa on sovittu tavanomaista ammattikäsitettä laajemmista työtehtävistä, todetaan se sopimuksessa esim. myyjä/logistiikkatyöntekijä tai osastostaan vastaava ja sitä hoitava myyjä.
+
+> Työsopimukseen kirjataan työntekijän kanssa sovitut pääasialliset
+> työtehtävät esim. tavaratalomyyjä, logistiikkatyöntekijä, toimihenkilö
+> jne. Jos työntekijän kanssa on sovittu tavanomaista ammattikäsitettä
+> laajemmista työtehtävistä, todetaan se sopimuksessa esim.
+> myyjä/logistiikkatyöntekijä tai osastostaan vastaava ja sitä hoitava
+> myyjä.
 
 #### Palkkaus
-Palkkaus määräytyy noudatettavan työehtosopimuksen mukaisesti. Tästä syystä tulee todeta palkan määräytymisperuste ja palkan määrä työsuhteen alkaessa, esim. myyjän osalta B1 (1.1.2024 alkaen B) 3. vuotena, tai toimihenkilön osalta C1 (1.1.2024 alkaen “vaativa ammattitehtävä”) 5. vuotena.
 
-Mikäli yrityksessä on käytössä työehtosopimuksesta poikkeava palkkausjärjes- telmä, käytetään palkkauksen määrittelyn osalta erillistä liitettä.
+> Palkkaus määräytyy noudatettavan työehtosopimuksen mukaisesti. Tästä
+> syystä tulee todeta palkan määräytymisperuste ja palkan määrä
+> työsuhteen alkaessa, esim. myyjän osalta B1 (1.1.2024 alkaen B) 3.
+> vuotena, tai toimihenkilön osalta C1 (1.1.2024 alkaen "vaativa
+> ammattitehtävä") 5. vuotena.
+>
+> Mikäli yrityksessä on käytössä työehtosopimuksesta poikkeava
+> palkkausjärjes- telmä, käytetään palkkauksen määrittelyn osalta
+> erillistä liitettä.
 
 #### Irtisanomisaika
-Määräaikaisessa työsopimuksessa tulee erikseen sopia irtisanomisesta, mikäli määräaikaisen työsopimuksen halutaan olevan irtisanottavissa. Muuten määräai- kainen työsopimus päättyy määräajan jälkeen.
 
-#### <a name="muutoksesta ilmoittaminen"></a><a name="erillinen liite"></a><a name="muut ehdot"></a><a name="_bookmark129"></a>Muut ehdot
-Tähän kohtaan kirjataan esimerkiksi sellaiset sovitut ehdot, joilla poiketaan työehto- sopimuksen vähimmäismääräyksistä. Tällaisia ehtoja voi liittyä palkkaukseen, työ- aikaan tai vapaapäiviin, luontoisetuihin, vuosilomaan jne.
+> Määräaikaisessa työsopimuksessa tulee erikseen sopia irtisanomisesta,
+> mikäli määräaikaisen työsopimuksen halutaan olevan irtisanottavissa.
+> Muuten määräai- kainen työsopimus päättyy määräajan jälkeen.
+
+#### Muut ehdot
+
+> Tähän kohtaan kirjataan esimerkiksi sellaiset sovitut ehdot, joilla
+> poiketaan työehto- sopimuksen vähimmäismääräyksistä. Tällaisia ehtoja
+> voi liittyä palkkaukseen, työ- aikaan tai vapaapäiviin,
+> luontoisetuihin, vuosilomaan jne.
 
 #### Erillinen liite
-E
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.123.png)Mikäli lomakkeen ao. kohdalle varattu tila ei riitä, on mahdollista käyttää erillistä liitettä, johon sopimuskohdassa viitataan.
 
-Lomakkeet
-#### ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.124.png)Muutoksesta ilmoittaminen
-Työsopimuslain 2:4 §:n mukaan työnantaja velvoitetaan antamaan työntekijälle kir- jallisen selvityksen keskeisestä työsuhteen ehdon muutoksesta. Selvitys on annet- tava niin pian kuin mahdollista, viimeistään kuitenkin muutosta seuraavan palkan- maksukauden päättyessä. Selvitystä ei kuitenkaan tarvitse antaa, jos muutos johtuu lainsäädännön tai työehtosopimuksen muuttamisesta. Työnantajan velvollisuudella ilmoittaa muuttuneista sopimusehdoista ei puututa mitenkään niihin edellytyksiin, joilla työnantaja voi yksipuolisesti muuttaa työsopimuksen ehtoja..
+> Mikäli lomakkeen ao. kohdalle varattu tila ei riitä, on mahdollista
+> käyttää erillistä liitettä, johon sopimuskohdassa viitataan.
 
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.140.png)
+#### Muutoksesta ilmoittaminen
 
+> Työsopimuslain 2:4 §:n mukaan työnantaja velvoitetaan antamaan
+> työntekijälle kir- jallisen selvityksen keskeisestä työsuhteen ehdon
+> muutoksesta. Selvitys on annet- tava niin pian kuin mahdollista,
+> viimeistään kuitenkin muutosta seuraavan palkan- maksukauden
+> päättyessä. Selvitystä ei kuitenkaan tarvitse antaa, jos muutos johtuu
+> lainsäädännön tai työehtosopimuksen muuttamisesta. Työnantajan
+> velvollisuudella ilmoittaa muuttuneista sopimusehdoista ei puututa
+> mitenkään niihin edellytyksiin, joilla työnantaja voi yksipuolisesti
+> muuttaa työsopimuksen ehtoja..
+>
+> Palkkaliite 1.6.2023--31.1.2025
 
+# PALKKALIITE 1.6.2023--31.1.2025
 
+### Vuosiportaat
 
+> Kaupan työehtosopimuksen vuosiportaat ovat seuraavat:
 
+### Logistiikkatehtävien ja toimihenkilötehtävien palkkausjärjestelmä (1.1.2024 alkaen)
 
-
-
-
-
-
-
-
-
-
-
-
-
-Palkkaliite 1.6.2023–31.1.2025
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.141.png)
-
-# PALKKALIITE 1.6.2023–31.1.2025
-
-
-
-1. ### **Vuosiportaat**
-F
-
-Palkkaliite
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.142.png)![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.143.png)Kaupan työehtosopimuksen vuosiportaat ovat seuraavat:
-
-8\. vuoden työntekijän
-
-palkka
-
-5\. vuoden työntekijän
-
-palkka
-
-3\. vuoden työntekijän
-
-palkka
-
-1\. vuoden työntekijän
-
-palkka
-
-Palvelusvuodet (tes 11 § 2. kohta)
-
-\>>>
-
-9\.
-
-8\.
-
-7\.
-
-6\.
-
-5\.
-
-4\.
-
-3\.
-
-2\.
-
-1\.
-
-Harjoit- telijan palkka
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.144.png)
-
-Kaupan työehtosopimus 1.2.2023–31.1.2025
-
-187
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.145.png)![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.146.png)
-1. ### **Logistiikkatehtävien ja toimihenkilötehtävien palkkausjärjestelmä (1.1.2024 alkaen)**
-F
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.147.png)Kaupan liitto ja Palvelualojen ammattiliitto PAM ry ovat osana työehtosopimus- neuvotteluja uudistaneet työehtosopimuksen logistiikka- ja toimihenkilöitä kos- kevia palkkamääräyksiä. Uudistuksessa otetaan käyttöön uudet työtehtävien vaa- tivuusluokitukset, jotka tunnistavat alan työtehtäviin kuuluvia vaativuustekijöitä entistä paremmin. Näiden vaativuusluokitusten perusteella määräytyy myös työ- tehtävästä maksettava vähimmäispalkka. Lisäksi liitot ovat päivittäneet työeh- tosopimuksen yleisiä ja ammattiryhmäkohtaisia palkkamääräyksiä uudistuksen edellyttämällä tavalla.
-
-Palkkaliite
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.148.png)Tässä liitteessä kuvataan uudistetun palkkausjärjestelmän keskeiset elementit. Liitot tulevat julkaisemaan yhteiset tarkemmat soveltamisohjeet uuden järjestel- män käyttöönotosta 15.5.2023 mennessä.
+> Kaupan liitto ja Palvelualojen ammattiliitto PAM ry ovat osana
+> työehtosopimus- neuvotteluja uudistaneet työehtosopimuksen
+> logistiikka- ja toimihenkilöitä kos- kevia palkkamääräyksiä.
+> Uudistuksessa otetaan käyttöön uudet työtehtävien vaa-
+> tivuusluokitukset, jotka tunnistavat alan työtehtäviin kuuluvia
+> vaativuustekijöitä entistä paremmin. Näiden vaativuusluokitusten
+> perusteella määräytyy myös työ- tehtävästä maksettava vähimmäispalkka.
+> Lisäksi liitot ovat päivittäneet työeh- tosopimuksen yleisiä ja
+> ammattiryhmäkohtaisia palkkamääräyksiä uudistuksen edellyttämällä
+> tavalla.
+>
+> Tässä liitteessä kuvataan uudistetun palkkausjärjestelmän keskeiset
+> elementit. Liitot tulevat julkaisemaan yhteiset tarkemmat
+> soveltamisohjeet uuden järjestel- män käyttöönotosta 15.5.2023
+> mennessä.
 
 ##### Palkan määräytyminen ja menettely
-Logistiikka- ja toimihenkilötehtävissä työntekijän tehtäväkohtainen palkka mää- räytyy vaativuusluokituksen mukaisen vähimmäispalkan ja muiden työehtoso- pimuksen yleisten tai ammattiryhmäkohtaisten palkkamääräysten perusteella.
 
-Vaativuusluokituksen sijoittamisen kannalta olennaisia vaativuustekijöitä ovat
-
-mm. tehtävässä tarvittava osaaminen, harkinta, työskentelyn itsenäisyys sekä vuorovaikutuksen luonne.
-
-Työ kuuluu siihen vaativuusluokkaan, joka kokonaisuutena parhaiten vastaa työ- tehtävän vaativuutta. Vaativuusluokkaa määriteltäessä arvioidaan työtehtävää, ei työntekijää.
-
-Työpaikalla on laadittava kustakin tehtäväkokonaisuudesta tehtävänkuvaus, josta ilmenevät vaativuusluokkaan sijoittamisessa tarvittavat tiedot. Tehtävän vaati- vuutta tulee arvioida kirjallisen tehtävänkuvauslomakkeen tai muun vastaavan kuvauksen avulla. Tehtävänkuvausten ajantasaisuutta seurataan säännönmu- kaisesti ja tehtävänkuvaus tarkistetaan, jos tehtävä on muuttunut olennaisesti. Työnantaja käy tehtävänkuvauksen läpi yhdessä luottamusmiehen kanssa. Jos luottamusmiestä ei ole valittu, voidaan tehtävänkuvaukset käsitellä muun henki- löstön edustajan/edustajien kanssa.
-
-Tehtävänkuvaus ja palkan määräytymisen perusteet käydään läpi työnanta- jan ja työntekijän välillä. Työnantaja hyväksyy lopullisen tehtävänkuvauksen. Mahdolliset tehtävään tai sitä koskevaan tehtävänkuvaukseen liittyvät kysymyk- set tulee käsitellä viipymättä työntekijän ja esihenkilön kesken.
-
-Työn vaativuuteen perustuva palkan määrittely tehdään uudestaan, jos työnteki- jän työtehtävän vaativuus muuttuu pysyvästi. Uutta palkkaa maksetaan tehtävän muutoksesta seuraavan palkanmaksukauden alusta lukien.
+> Logistiikka- ja toimihenkilötehtävissä työntekijän tehtäväkohtainen
+> palkka mää- räytyy vaativuusluokituksen mukaisen vähimmäispalkan ja
+> muiden työehtoso- pimuksen yleisten tai ammattiryhmäkohtaisten
+> palkkamääräysten perusteella.
+>
+> Vaativuusluokituksen sijoittamisen kannalta olennaisia
+> vaativuustekijöitä ovat
+>
+> mm\. tehtävässä tarvittava osaaminen, harkinta, työskentelyn
+> itsenäisyys sekä vuorovaikutuksen luonne.
+>
+> Työ kuuluu siihen vaativuusluokkaan, joka kokonaisuutena parhaiten
+> vastaa työ- tehtävän vaativuutta. Vaativuusluokkaa määriteltäessä
+> arvioidaan työtehtävää, ei työntekijää.
+>
+> Työpaikalla on laadittava kustakin tehtäväkokonaisuudesta
+> tehtävänkuvaus, josta ilmenevät vaativuusluokkaan sijoittamisessa
+> tarvittavat tiedot. Tehtävän vaati- vuutta tulee arvioida kirjallisen
+> tehtävänkuvauslomakkeen tai muun vastaavan kuvauksen avulla.
+> Tehtävänkuvausten ajantasaisuutta seurataan säännönmu- kaisesti ja
+> tehtävänkuvaus tarkistetaan, jos tehtävä on muuttunut olennaisesti.
+> Työnantaja käy tehtävänkuvauksen läpi yhdessä luottamusmiehen kanssa.
+> Jos luottamusmiestä ei ole valittu, voidaan tehtävänkuvaukset
+> käsitellä muun henki- löstön edustajan/edustajien kanssa.
+>
+> Tehtävänkuvaus ja palkan määräytymisen perusteet käydään läpi
+> työnanta- jan ja työntekijän välillä. Työnantaja hyväksyy lopullisen
+> tehtävänkuvauksen. Mahdolliset tehtävään tai sitä koskevaan
+> tehtävänkuvaukseen liittyvät kysymyk- set tulee käsitellä viipymättä
+> työntekijän ja esihenkilön kesken.
+>
+> Työn vaativuuteen perustuva palkan määrittely tehdään uudestaan, jos
+> työnteki- jän työtehtävän vaativuus muuttuu pysyvästi. Uutta palkkaa
+> maksetaan tehtävän muutoksesta seuraavan palkanmaksukauden alusta
+> lukien.
 
 ##### Vähimmäispalkat
-Vaativuusluokkien vähimmäispalkat ovat palkkaliitteen mukaiset taulukkopalkat.
 
-F
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.142.png)Erityisammattitehtäviä vaativammissa tehtävissä palkka määräytyy sopimuk- sen mukaan. Palkan tulee kuitenkin olla erityisammattitehtävän vähimmäispalk- kaa korkeampi ja johdonmukaisessa suhteessa tehtävän vaativuuteen nähden.
-
-##### <a name="_toc_250011"></a>Vaativuusluokitus
-Logistiikan vaativuusluokat määräytyvät kohdan 3 mukaan.
-
-Palkkaliite
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.143.png)Toimihenkilöiden vaativuusluokat määräytyvät kohdan 4 mukaan. Vaativuus- luokitus korvaa aiemman työehtosopimuksen palkkaliitteen kohdan 3. Konttori- töiden vaativuustasot. Vaativuusluokitusta voidaan soveltaa jo ennen 1.1.2024.
-
-Toimihenkilöiden (kohta 4) vaativuusluokitusta sovelletaan myös sellaisiin työn- tekijöihin, joilla ei ole työehtosopimuksessa taulukkopalkkoja. Vaativuusluokitus korvaa aiemman työehtosopimuksen palkkaliitteen kohdan 2. Vaativuustasojen yleiskuvaus.
-
-##### <a name="_toc_250010"></a>Erimielisyyksien ratkaisumekanismit
-Erimielisyydet ratkaistaan neuvottelujärjestyksen mukaisesti seuraavin tarkennuksin:
-
-Paikallisten osapuolen tulee erimielisyystilanteessa kirjata, miltä osin osapuolten näkemykset ovat yhteneviä ja miltä osin ne eroavat. Tältä pohjalta osapuolten tulee pyrkiä saavuttamaan yhteisymmärrys vaativuusluokittelusta.
-
-Jos ratkaisuun ei päästä, osapuolet kirjaavat perustellut näkemyksensä asiassa ja toimittavat ne työmarkkinaosapuolille konsultaatiota varten.
-
-Työmarkkinaosapuolet sitoutuvat konsultoimaan yhdessä paikallisia osapuolia edistääkseen asian ratkaisemista paikallisella tasolla. Osapuolet voivat hyödyn- tää ulkopuolisen asiantuntijan näkemystä konsultaation tueksi.
-
-1. ### <a name="_toc_250009"></a>**Logistiikkatehtävien vaativuusluokitus ja palkkaryhmät (1.1.2024 alkaen)**
-
-
-
-
-
-
-
-
-
-F
-
-Logistiikka C
-
-Logistiikka B
-
-TES-nimike
-
-VAATIVA AMMATTITEHTÄVÄ
-
-AMMATTI- TEHTÄVÄ
-
-Palkkaliite
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.147.png)![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.149.png)![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.148.png)Kuvaus	Tehtävässä edellytetään tavanomaista ammatillista osaamista ja käytännön työmenetelmien hallintaa, joka voi liittyä tuotteisiin, koneisiin tai prosessiin.
-
-Osaaminen voidaan hankkia (työpaikka)koulutuksella
-
-tai alan työkokemuksella.
-
-Tehtävät toistuvat pääosin samankaltaisina, mutta niihin liittyvät
-
-päätöksentekotilanteet voivat edellyttää harkintaa ohjeiden ja ratkaisumallien puitteissa.
-
-Vuorovaikutustilanteet ovat pääasiassa tietojen välittämistä ja jakamista eri sidosryhmien kanssa.
-
-Tehtävään voi liittyä pienten kokonaisuuksien vastuu.
-
-Tehtävässä edellytetään ammatillista erityis- osaamista, joka voidaan hankkia tehtävään sopivan (työpaikka)koulutuksen ja/tai monipuolisen kokemuksen kautta.
-
-Vaadittavat ammatilliset erityistiedot ja -taidot voivat liittyä esim. tuotteisiin, koneisiin, prosesseihin
-
-tai ohjelmistoihin.
-
-Päätöksentekotilanteet edellyttävät harkintaa yleisluonteisten ohjeiden ja ratkaisumallien puitteissa.
-
-Vuorovaikutus eri sidosryhmien kanssa voi pitää sisällään neuvontaa, ohjaamista ja opastamista.
-
-Tehtävään voi liittyä työn organisointivastuuta.
-
-
-
-
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.150.png)Palkkaryhmä 1.1.2024
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.150.png)![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.151.png)Palkkaryhmä 1.6.2024
-
-
-
-B2	C1
-
-B	C
-
-
-
-
-
-Logistiikka E
-
-Logistiikka D
-
-ASIANTUNTIJA- TEHTÄVÄ
-
-ERITYISAMMATTI- TEHTÄVÄ
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.152.png)
-
-Tehtävä edellyttää laajempaan kokonaisuuteen tai prosessiin liittyvää osaamista. Osaaminen hankitaan tyypillisesti ammatillisen koulutuksen ja/ tai vankan kokemuksen kautta. Tehtävässä edellytetään syvällistä ja/tai laajaa prosesseihin, koneisiin, ohjelmistoihin tai vastaaviin liittyvää erikoisosaamista.
-
-Työ edellyttää itsenäistä päätöksentekokykyä.
-
-Tehtävään liittyvä vuorovaikutus on tyypillisesti vaikuttamista eri tahoihin.
-
-Tehtävään liittyy vastuu laajasta työ- ja
-
-palvelukokonaisuudesta.
-
-Asiantuntijatehtävä, jossa edellytetään tyypillisesti teoreettista koulutusta tai muulla tavoin hankittua vastaavaa osaamista.
-
-F
-
-Palkkaliite
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.142.png)![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.143.png)Työ sisältää itsenäistä ongelmien analysointia ja ratkaisujen tuottamista.
-
-Työtä ohjaa väljästi määritellyt menettelytavat ja päätösten tueksi on haettava, yhdisteltävä ja analysoitava itsenäisesti tietoa. Valmiita ratkaisumalleja ei tyypillisesti ole aina saatavilla.
-
-Vuorovaikutus on luonteeltaan asiantuntijana vaikuttamista
-
-ja työ vaatii tyypillisesti neuvottelutaitoja.
-
-Tehtävässä ollaan vastuussa asioiden valmisteluista ja/tai ratkaisuista ja asiantuntijan näkemyksillä on merkitystä tehtäessä päätöksiä ko. asiakokonaisuuteen liittyen.
-
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.153.png)
-
-D	sopimuspalkka
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.153.png)
-
-D	sopimuspalkka
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.154.png)
-
-1. ### <a name="_toc_250008"></a>**Toimihenkilötehtävien vaativuusluokitus ja palkkaryhmät (1.1.2024 alkaen)**
-
-
-
-
-
-
-
-
-F
-
-Toimihenkilö B
-
-Toimihenkilö A
-
-TES-nimike
-
-AMMATTI- TEHTÄVÄ
-
-SUORITTAVA PERUSTEHTÄVÄ
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.147.png)![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.155.png)Kuvaus	Suorittava rutiinitehtävä, jota voidaan hoitaa ilman aikaisempaa kokemusta lyhyen opastuksen/ perehdytyksen jälkeen.
-
-Palkkaliite
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.148.png)Tehtävät toistuvat saman- kaltaisina. Tehtävä ei sisällä itsenäisiä päätöksenteko- tilanteita ja työhön on olemassa yksityiskohtaiset ohjeet.
-
-Vuorovaikutus on luonteeltaan tehtävään liittyvien tietojen välittämistä ja jakamista.
-
-Tehtävään liittyy vastuu omasta työstä.
-
-Tehtävässä edellytetään tavanomaista ammatillista osaamista, joka voi liittyä tuotteisiin, koneisiin, prosessiin, tietojärjestelmiin, palveluihin tai vuorovaiku- tustilanteisiin. Tehtävän edellyttämä osaaminen voidaan hankkia koulutuksen tai vastaavan kokemuksen kautta.
-
-Tehtävät toistuvat pääosin samankaltaisina, mutta niihin liittyvät päätöksentekotilanteet voivat edellyttää harkintaa
-
-ohjeiden ja ratkaisumallien puitteissa.
-
-Vuorovaikutustilanteet ovat pääasiassa tietojen välittämistä ja jakamista ja voivat edellyttää myös
-
-opastamista tai ohjaamista.
-
-
-
-
-
-
-
-
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.150.png)Palkkaryhmä 1.1.2024
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.150.png)![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.151.png)Palkkaryhmä 1.6.2024
-
-
-
-A	B1
-
-A	B
-
-
-
-
-
-|VAATIVA AMMATTITEHTÄVÄ|ERITYISAMMATTI- TEHTÄVÄ|ASIANTUNTIJA- TEHTÄVÄ|
-| :- | :- | :- |
-|Toimihenkilö C	Toimihenkilö D	Toimihenkilö E|||
-
-Tehtävässä edellytetään ammatillista erityis- osaamista, joka voidaan hankkia tyypillisesti ammatillisen koulutuksen tai vastaavan kokemuksen kautta. Vaadittavat ammatilliset erityistiedot ja -taidot voivat liittyä esim. tuotteisiin, koneisiin, prosessiin,
-
-tietojärjestelmiin, palveluihin tai vuorovaikutustilanteisiin.
-
-Päätöksentekotilanteet ovat vaihtelevia ja ne edellyttävät harkintaa ja tiedon hankintaa, käsittelyä ja yhdistelyä ongelma- tilanteen vaatimalla tavalla.
-
-Päätöksentekotilanteissa voidaan soveltaa aikaisempia ratkaisumalleja.
-
-Vuorovaikutustilanteet voivat edellyttää neuvontaa, ohjaamista ja opastamista.
-
-Tehtävässä edellytetään syvällistä ja/tai laajaa ammatillista erityis- osaamista, joka voidaan hankkia tyypillisesti ammatillisen tai alemman korkeakoulutuksen ja/tai vankan kokemuksen kautta. Vaadittavat ammatilliset erityistiedot ja -taidot voivat liittyä esim. tuotteisiin, koneisiin, prosessiin, tietojärjestelmiin, palveluihin tai vuorovaikutustilanteisiin.
-
-Päätöksentekotilanteet ovat vaihtelevia ja vaativat ongelmien itsenäistä selvittämistä ammatillisen erityisosaamisen pohjalta, ts. valmiita ratkaisumalleja ei välttämättä ole heti saatavilla.
-
-Vuorovaikutuksen tavoit- teena on tyypillisesti vaikuttaa muiden toimintaan ja valintoihin.
-
-Edelliseen vaativuustasoon verrattuna tehtävä voi sisältää esim. asiakas-, prosessi-, tietojärjestelmä- ja/tai taloudellista vastuuta.
-
-Asiantuntijatehtävä, jossa edellytetään tyypillisesti teoreettista koulutusta tai muulla tavoin hankittua vastaavaa osaamista.
-
-F
-
-Palkkaliite
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.142.png)![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.143.png)Työ sisältää itsenäistä ongelmien analysointia ja ratkaisujen tuottamista.
-
-Työtä ohjaa väljästi määritellyt menettely- tavat ja päätösten tueksi on haettava, yhdisteltävä ja analysoitava itsenäisesti tietoa. Valmiita ratkaisu- malleja ei tyypillisesti
-
-ole aina saatavilla
-
-Vuorovaikutus on luonteeltaan asiantuntijana vaikuttamista ja työ vaatii tyypillisesti neuvottelutaitoja.
-
-Tehtävässä ollaan vastuussa asioiden valmisteluista ja/tai ratkaisuista ja asiantuntijan näkemyksillä on merkitystä tehtäessä päätöksiä ko. asia- kokonaisuuteen liittyen.
-
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.156.png)
-
-C1	D	sopimuspalkka
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.156.png)
-
-C	D	sopimuspalkka
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.157.png)
-
-1. ### <a name="_toc_250007"></a>**Palkkaryhmät**
+> Vaativuusluokkien vähimmäispalkat ovat palkkaliitteen mukaiset
+> taulukkopalkat.
+>
+> Erityisammattitehtäviä vaativammissa tehtävissä palkka määräytyy
+> sopimuk- sen mukaan. Palkan tulee kuitenkin olla
+> erityisammattitehtävän vähimmäispalk- kaa korkeampi ja
+> johdonmukaisessa suhteessa tehtävän vaativuuteen nähden.
+
+##### Vaativuusluokitus
+
+> Logistiikan vaativuusluokat määräytyvät kohdan 3 mukaan.
+>
+> Toimihenkilöiden vaativuusluokat määräytyvät kohdan 4 mukaan.
+> Vaativuus- luokitus korvaa aiemman työehtosopimuksen palkkaliitteen
+> kohdan 3. Konttori- töiden vaativuustasot. Vaativuusluokitusta voidaan
+> soveltaa jo ennen 1.1.2024.
+>
+> Toimihenkilöiden (kohta 4) vaativuusluokitusta sovelletaan myös
+> sellaisiin työn- tekijöihin, joilla ei ole työehtosopimuksessa
+> taulukkopalkkoja. Vaativuusluokitus korvaa aiemman työehtosopimuksen
+> palkkaliitteen kohdan 2. Vaativuustasojen yleiskuvaus.
+
+##### Erimielisyyksien ratkaisumekanismit
+
+> Erimielisyydet ratkaistaan neuvottelujärjestyksen mukaisesti seuraavin
+> tarkennuksin:
+>
+> Paikallisten osapuolen tulee erimielisyystilanteessa kirjata, miltä
+> osin osapuolten näkemykset ovat yhteneviä ja miltä osin ne eroavat.
+> Tältä pohjalta osapuolten tulee pyrkiä saavuttamaan yhteisymmärrys
+> vaativuusluokittelusta.
+>
+> Jos ratkaisuun ei päästä, osapuolet kirjaavat perustellut näkemyksensä
+> asiassa ja toimittavat ne työmarkkinaosapuolille konsultaatiota
+> varten.
+>
+> Työmarkkinaosapuolet sitoutuvat konsultoimaan yhdessä paikallisia
+> osapuolia edistääkseen asian ratkaisemista paikallisella tasolla.
+> Osapuolet voivat hyödyn- tää ulkopuolisen asiantuntijan näkemystä
+> konsultaation tueksi.
+
+### Logistiikkatehtävien vaativuusluokitus ja palkkaryhmät (1.1.2024 alkaen)
+
+> Kuvaus Tehtävässä edellytetään tavanomaista ammatillista osaamista ja
+> käytännön työmenetelmien hallintaa, joka voi liittyä tuotteisiin,
+> koneisiin tai prosessiin.
+>
+> Osaaminen voidaan hankkia (työpaikka)koulutuksella
+>
+> tai alan työkokemuksella.
+>
+> Tehtävät toistuvat pääosin samankaltaisina, mutta niihin liittyvät
+>
+> päätöksentekotilanteet voivat edellyttää harkintaa ohjeiden ja
+> ratkaisumallien puitteissa.
+>
+> Vuorovaikutustilanteet ovat pääasiassa tietojen välittämistä ja
+> jakamista eri sidosryhmien kanssa.
+>
+> Tehtävään voi liittyä pienten kokonaisuuksien vastuu.
+>
+> Tehtävässä edellytetään ammatillista erityis- osaamista, joka voidaan
+> hankkia tehtävään sopivan (työpaikka)koulutuksen ja/tai monipuolisen
+> kokemuksen kautta.
+>
+> Vaadittavat ammatilliset erityistiedot ja -taidot voivat liittyä esim.
+> tuotteisiin, koneisiin, prosesseihin
+>
+> tai ohjelmistoihin.
+>
+> Päätöksentekotilanteet edellyttävät harkintaa yleisluonteisten
+> ohjeiden ja ratkaisumallien puitteissa.
+>
+> Vuorovaikutus eri sidosryhmien kanssa voi pitää sisällään neuvontaa,
+> ohjaamista ja opastamista.
+>
+> Tehtävään voi liittyä työn organisointivastuuta.
+>
+> Palkkaryhmä 1.1.2024
+>
+> Palkkaryhmä 1.6.2024
+>
+> B2 C1
+>
+> B C
+>
+> Tehtävä edellyttää laajempaan kokonaisuuteen tai prosessiin liittyvää
+> osaamista. Osaaminen hankitaan tyypillisesti ammatillisen koulutuksen
+> ja/ tai vankan kokemuksen kautta. Tehtävässä edellytetään syvällistä
+> ja/tai laajaa prosesseihin, koneisiin, ohjelmistoihin tai vastaaviin
+> liittyvää erikoisosaamista.
+>
+> Työ edellyttää itsenäistä päätöksentekokykyä.
+>
+> Tehtävään liittyvä vuorovaikutus on tyypillisesti vaikuttamista eri
+> tahoihin.
+>
+> Tehtävään liittyy vastuu laajasta työ- ja
+>
+> palvelukokonaisuudesta.
+>
+> Asiantuntijatehtävä, jossa edellytetään tyypillisesti teoreettista
+> koulutusta tai muulla tavoin hankittua vastaavaa osaamista.
+>
+> Työ sisältää itsenäistä ongelmien analysointia ja ratkaisujen
+> tuottamista.
+>
+> Työtä ohjaa väljästi määritellyt menettelytavat ja päätösten tueksi on
+> haettava, yhdisteltävä ja analysoitava itsenäisesti tietoa. Valmiita
+> ratkaisumalleja ei tyypillisesti ole aina saatavilla.
+>
+> Vuorovaikutus on luonteeltaan asiantuntijana vaikuttamista
+>
+> ja työ vaatii tyypillisesti neuvottelutaitoja.
+>
+> Tehtävässä ollaan vastuussa asioiden valmisteluista ja/tai
+> ratkaisuista ja asiantuntijan näkemyksillä on merkitystä tehtäessä
+> päätöksiä ko. asiakokonaisuuteen liittyen.
+>
+> D sopimuspalkka
+>
+> D sopimuspalkka
+
+### Toimihenkilötehtävien vaativuusluokitus ja palkkaryhmät (1.1.2024 alkaen)
+
+> Kuvaus Suorittava rutiinitehtävä, jota voidaan hoitaa ilman
+> aikaisempaa kokemusta lyhyen opastuksen/ perehdytyksen jälkeen.
+>
+> Tehtävät toistuvat saman- kaltaisina. Tehtävä ei sisällä itsenäisiä
+> päätöksenteko- tilanteita ja työhön on olemassa yksityiskohtaiset
+> ohjeet.
+>
+> Vuorovaikutus on luonteeltaan tehtävään liittyvien tietojen
+> välittämistä ja jakamista.
+>
+> Tehtävään liittyy vastuu omasta työstä.
+>
+> Tehtävässä edellytetään tavanomaista ammatillista osaamista, joka voi
+> liittyä tuotteisiin, koneisiin, prosessiin, tietojärjestelmiin,
+> palveluihin tai vuorovaiku- tustilanteisiin. Tehtävän edellyttämä
+> osaaminen voidaan hankkia koulutuksen tai vastaavan kokemuksen kautta.
+>
+> Tehtävät toistuvat pääosin samankaltaisina, mutta niihin liittyvät
+> päätöksentekotilanteet voivat edellyttää harkintaa
+>
+> ohjeiden ja ratkaisumallien puitteissa.
+>
+> Vuorovaikutustilanteet ovat pääasiassa tietojen välittämistä ja
+> jakamista ja voivat edellyttää myös
+>
+> opastamista tai ohjaamista.
+>
+> Palkkaryhmä 1.1.2024
+>
+> Palkkaryhmä 1.6.2024
+>
+> A B1
+>
+> A B
+
++----------------------------+--------------------+--------------------+
+| > VAATIVA AMMATTITEHTÄVÄ   | > ERITYISAMMATTI-  | > ASIANTUNTIJA-    |
+|                            | > TEHTÄVÄ          | > TEHTÄVÄ          |
++============================+====================+====================+
+| > Toimihenkilö C           |                    |                    |
+| > Toimihenkilö D           |                    |                    |
+| > Toimihenkilö E           |                    |                    |
++----------------------------+--------------------+--------------------+
+
+> Tehtävässä edellytetään ammatillista erityis- osaamista, joka voidaan
+> hankkia tyypillisesti ammatillisen koulutuksen tai vastaavan
+> kokemuksen kautta. Vaadittavat ammatilliset erityistiedot ja -taidot
+> voivat liittyä esim. tuotteisiin, koneisiin, prosessiin,
+>
+> tietojärjestelmiin, palveluihin tai vuorovaikutustilanteisiin.
+>
+> Päätöksentekotilanteet ovat vaihtelevia ja ne edellyttävät harkintaa
+> ja tiedon hankintaa, käsittelyä ja yhdistelyä ongelma- tilanteen
+> vaatimalla tavalla.
+>
+> Päätöksentekotilanteissa voidaan soveltaa aikaisempia ratkaisumalleja.
+>
+> Vuorovaikutustilanteet voivat edellyttää neuvontaa, ohjaamista ja
+> opastamista.
+>
+> Tehtävässä edellytetään syvällistä ja/tai laajaa ammatillista erityis-
+> osaamista, joka voidaan hankkia tyypillisesti ammatillisen tai alemman
+> korkeakoulutuksen ja/tai vankan kokemuksen kautta. Vaadittavat
+> ammatilliset erityistiedot ja -taidot voivat liittyä esim.
+> tuotteisiin, koneisiin, prosessiin, tietojärjestelmiin, palveluihin
+> tai vuorovaikutustilanteisiin.
+>
+> Päätöksentekotilanteet ovat vaihtelevia ja vaativat ongelmien
+> itsenäistä selvittämistä ammatillisen erityisosaamisen pohjalta, ts.
+> valmiita ratkaisumalleja ei välttämättä ole heti saatavilla.
+>
+> Vuorovaikutuksen tavoit- teena on tyypillisesti vaikuttaa muiden
+> toimintaan ja valintoihin.
+>
+> Edelliseen vaativuustasoon verrattuna tehtävä voi sisältää esim.
+> asiakas-, prosessi-, tietojärjestelmä- ja/tai taloudellista vastuuta.
+>
+> Asiantuntijatehtävä, jossa edellytetään tyypillisesti teoreettista
+> koulutusta tai muulla tavoin hankittua vastaavaa osaamista.
+>
+> Työ sisältää itsenäistä ongelmien analysointia ja ratkaisujen
+> tuottamista.
+>
+> Työtä ohjaa väljästi määritellyt menettely- tavat ja päätösten tueksi
+> on haettava, yhdisteltävä ja analysoitava itsenäisesti tietoa.
+> Valmiita ratkaisu- malleja ei tyypillisesti
+>
+> ole aina saatavilla
+>
+> Vuorovaikutus on luonteeltaan asiantuntijana vaikuttamista ja työ
+> vaatii tyypillisesti neuvottelutaitoja.
+>
+> Tehtävässä ollaan vastuussa asioiden valmisteluista ja/tai
+> ratkaisuista ja asiantuntijan näkemyksillä on merkitystä tehtäessä
+> päätöksiä ko. asia- kokonaisuuteen liittyen.
+>
+> C1 D sopimuspalkka
+>
+> C D sopimuspalkka
+
+### Palkkaryhmät
 
 ##### Palkkaryhmät 31.12.2023 asti (A, B1, B2, C1, C2 ja D)
-TES-nimike
 
-Palkkaryhmä
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.158.png)![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.159.png)
-
-Myyjä I	B1
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.160.png)
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.161.png)![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.162.png)Myyjä II	C1
-
-Varastotyöntekijä	B2
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.160.png)
-
-F
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.161.png)![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.147.png)Konttorityöntekijä A	A
-
-Konttorityöntekijä B	B1
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.160.png)
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.161.png)Konttorityöntekijä C	C1
-
-Konttorityöntekijä D	C2
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.160.png)
-
-Palkkaliite
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.161.png)![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.148.png)Konttorityöntekijä E	D
-
-Siivooja	A
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.160.png)
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.161.png)![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.161.png)![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.161.png)Huolto- ja liikenneasematyöntekijä I	A Huolto- ja liikenneasematyöntekijä II	B1 Huoltoasentaja I	B2
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.161.png)Huoltoasentaja II	C1
-
-Huoltoasentaja III	C2
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.160.png)
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.161.png)Tukkumyyjä I	D
-
-Somistaja I	B1
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.160.png)
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.163.png)Somistaja II	C1
-
-##### Palkkaryhmät 1.1.2024–31.5.2024 (A, B1, B2, C1, C2 ja D)
-ja 1.6.2024 alkaen (A, B, C ja D)
-
-
-|TES-nimike|Palkkaryhmä 1.1.2024|Palkkaryhmä 1.6.2024|
-| :- | :- | :- |
-
-F
-
-Palkkaliite
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.142.png)![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.143.png)Myyjä I	B1	B
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.164.png)
-
-Myyjä II	C1	C
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.164.png)
-
-Toimihenkilö A	A	A
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.164.png)
-
-Toimihenkilö B	B1	B
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.164.png)
-
-Toimihenkilö C	C1	C
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.164.png)
-
-Toimihenkilö D	D	D
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.164.png)
-
-Toimihenkilö E	sopimuspalkka	sopimuspalkka
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.164.png)
-
-Logistiikkatyöntekijä B	B2	B
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.164.png)
-
-Logistiikkatyöntekijä C	C1	C
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.164.png)
-
-Logistiikkatyöntekijä D	D	D
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.164.png)
-
-Logistiikkatyöntekijä E	sopimuspalkka	sopimuspalkka
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.164.png)
-
-Siivooja	A	A
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.164.png)
-
-Huolto- ja liikenneasematyöntekijä I	A	A
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.164.png)
-
-Huolto- ja liikenneasematyöntekijä II	B1	B
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.164.png)
-
-Huoltoasentaja I	B2	B
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.164.png)
-
-Huoltoasentaja II	C1	C
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.164.png)
-
-Huoltoasentaja III	C2	C
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.164.png)
-
-Tukkumyyjä I	D	D
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.164.png)
-
-Somistaja I	B1	B
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.164.png)
-
-Somistaja II	C1	C
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.165.png)
+> Myyjä I B1
+>
+> Myyjä II C1
+>
+> Varastotyöntekijä B2
+>
+> Konttorityöntekijä A A
+>
+> Konttorityöntekijä B B1
+>
+> Konttorityöntekijä C C1
+>
+> Konttorityöntekijä D C2
+>
+> Konttorityöntekijä E D
+>
+> Siivooja A
+>
+> Huolto- ja liikenneasematyöntekijä I A Huolto- ja
+> liikenneasematyöntekijä II B1 Huoltoasentaja I B2
+>
+> Huoltoasentaja II C1
+>
+> Huoltoasentaja III C2
+>
+> Tukkumyyjä I D
+>
+> Somistaja I B1
+>
+> Somistaja II C1
+
+##### Palkkaryhmät 1.1.2024--31.5.2024 (A, B1, B2, C1, C2 ja D)
+
+> ja 1.6.2024 alkaen (A, B, C ja D)
+
++-----------------------------------+----------------+----------------+
+| > TES-nimike                      | > Palkkaryhmä  | > Palkkaryhmä  |
+|                                   | > 1.1.2024     | > 1.6.2024     |
++===================================+================+================+
++-----------------------------------+----------------+----------------+
+
+> Myyjä I B1 B
+>
+> Myyjä II C1 C
+>
+> Toimihenkilö A A A
+>
+> Toimihenkilö B B1 B
+>
+> Toimihenkilö C C1 C
+>
+> Toimihenkilö D D D
+>
+> Toimihenkilö E sopimuspalkka sopimuspalkka
+>
+> Logistiikkatyöntekijä B B2 B
+>
+> Logistiikkatyöntekijä C C1 C
+>
+> Logistiikkatyöntekijä D D D
+>
+> Logistiikkatyöntekijä E sopimuspalkka sopimuspalkka
+>
+> Siivooja A A
+>
+> Huolto- ja liikenneasematyöntekijä I A A
+>
+> Huolto- ja liikenneasematyöntekijä II B1 B
+>
+> Huoltoasentaja I B2 B
+>
+> Huoltoasentaja II C1 C
+>
+> Huoltoasentaja III C2 C
+>
+> Tukkumyyjä I D D
+>
+> Somistaja I B1 B
+>
+> Somistaja II C1 C
 
 ##### Huolto- ja liikenneasemien ravintolaesihenkilöiden palkkaryhmät
-F
 
-Palkkaliite
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.147.png)![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.148.png)Huolto- ja liikenneasemien ravintolaesihenkilöiden palkkaryhmät ennen 1.4.2018 määräytyivät 1.2.2017–31.1.2018 voimassa olleen Kaupan työehtosopimuksen mukaan.
-
-
-|Palkkaryhmä 1:|<p>vuoropäällikkö</p><p></p><p>Kahvilat, pikaruokaravintolat sekä ravintolat, joissa ei anniskella lainkaan tai anniskellaan enintään 5,5 tilavuusprosenttia etyylialkoholia sisältäviä alkoholijuomia.</p>|
-| :- | :- |
-|Palkkaryhmä 2:|kerroshoito- ja siivouspäällikkö, baarimestari|
-|Palkkaryhmä 3:|<p>vuoropäällikkö ja -mestari, hovimestari, vastaanottopäällikkö</p><p></p><p>Anniskelupaikoissa, joissa anniskellaan yli 5,5 tilavuusprosenttia etyylialkoholia sisältäviä alkoholijuomia.</p>|
-|Palkkaryhmä 4:|<p>kahvilan päällikkö, henkilöstöravintolan päällikkö</p><p></p><p>Kahvilat, pikaruokaravintolat sekä ravintolat, joissa ei anniskella lainkaan tai anniskellaan enintään 5,5, tilavuusprosenttia etyylialkoholia sisältäviä alkoholijuomia.</p>|
-|Palkkaryhmä 5:|keittiömestari|
-|Palkkaryhmä 6:|<p>ravintolapäällikkö, anniskeluravintolan luvanhaltijan edustaja</p><p></p><p>Anniskelupaikat, joissa anniskellaan yli 5,5 tilavuusprosenttia etyylialkoholia sisältäviä alkoholijuomia.</p>|
-
-Esihenkilön palkkaryhmittelyä sovellettaessa edellytetään henkilön toimivan esi- henkilönä. Palkkaryhmää harkittaessa on ratkaisevaa työ, jota esihenkilö pääasial- lisesti suorittaa.
-
-1. ### <a name="_toc_250006"></a>**Osaamiseen ja suoriutumiseen perustuva palkanosa**
-
-##### <a name="_toc_250005"></a>Järjestelmän käyttöönotto ja siitä irtautuminen
-1. Palvelusajan ja koulutuksen sijasta (jäljempänä vuosiporrasjärjestelmä) voi- daan yrityksessä tai sen osassa käyttää palkkojen porrastamisessa tämän pöytäkirjan mukaista työntekijän osaamisen ja suoriutumisen arviointiin perustuvaa palkanosaa (jäljempänä henkilökohtainen palkanosa), jos asiasta on sovittu työpaikkakohtaisesti luottamusmiehen kanssa.
-
-F
-
-Palkkaliite
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.142.png)![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.143.png)Vaihtoehtoisesti henkilökohtaisen palkanosan käyttöönottamisesta sopimi- seksi ja sen ylläpitämiseksi ja kehittämiseksi voidaan nimetä työpaikkakoh- tainen työryhmä (jäljempänä työryhmä). Työryhmässä on vähintään kaksi työnantajan ja kaksi työntekijöiden edustajaa, joista toinen on luottamusmies. Jos luottamusmiestä ei ole valittuna, valitsevat työntekijät keskuudestaan ryh- mään kaksi jäsentä. Heillä on oikeus riittävään ajankäyttöön sekä liittonsa tar- joamaan koulutukseen ja konsultaatioon.
-
-1. Työpaikkakohtainen sopimus tehdään TES 23 §:n mukaisesti, kuitenkin niin, että sopimus on voimassa toistaiseksi ja irtisanottavissa kuuden (6) kuukau- den irtisanomisaikaa noudattaen, ellei toisin sovita. Ennen irtisanomista on asiasta neuvoteltava ja kirjattava erimielisyyden kohteet. Jommankumman osapuolen aloitteesta voidaan pyytää työmarkkinaosapuolten konsultaatiota. Tällöin irtisanomisaika voi alkaa kulua vasta, kun jompikumpi työmarkkinaosa- puolista toteaa konsultaation päättyneeksi.
-
-1. Tämä pöytäkirja korvaa palvelusaikaa ja koulutusta koskevat TES 11 §:n
-
-2\.–4. kohdat.
-
-1. Henkilökohtaista palkanosaa käytettäessä työntekijän tehtäväpalkka mää- räytyy työehtosopimuksen kulloinkin voimassa olevan palkkaliitteen tarkoit- taman 1. vuoden työntekijän palkan mukaisesti.
-
-1. Osana käyttöönottosopimusta on sovittava koululaisen ja harjoittelijan pal- koista. Koululaisen palkan tulee olla kuitenkin vähintään TES 11 § 11. kohdan mukainen ja harjoittelijan palkka vähintään ao. palkkaryhmän harjoittelijan palkkaa vastaava.
-
-1. Osana sopimista on suositeltavaa käsitellä lisäksi esimerkiksi seuraavia asioita:
-
-
-Esimerkki 63
-
-Harjoittelijapalkka sovitaan osaksi henkilökohtaisen palkanosan järjestel- mää. Tällöin määritellään kohdissa 9. ja 10. kuvattua tasoa ”1. tilaa kehit- tyä” alempi harjoittelijapalkka. Sopimuksessa määritetään palkan määrä (vähintään 85 % as. palkkaryhmän 1. vuosiportaan palkasta), harjoittelu- aika (korkeintaan 12 kuukautta, jos työntekijä ei ole saanut koululais- palkkaa) ja suorituksen arviointi harjoitteluaikana.
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.166.png)
-
-F
-0. ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.147.png)mahdolliset siirtymäajat henkilökohtaisten palkanosien voimaantuloon
-0. mahdolliset osaamisen ja suoriutumisen tasot, jotka ylittävät tason 4.
-
-Palkkaliite
-##### ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.148.png)Osaamisen ja suoriutumisen arviointimalli ja palkkakytkentä
-1. Henkilökohtainen palkanosa määritetään yrityksen toiminnan kannalta merki- tyksellisten tekijöiden perusteella. Arviointitekijöitä ovat 1. työhön liittyvä osaa- minen ja tavoitteiden saavuttaminen, 2. työyhteisö- ja asiakaspalvelutaidot ja 3. työote. Arviointitekijöiden yksityiskohtaisempi sisältö määritetään osana henki- lökohtaisen palkanosan käyttöönottoa koskevassa paikallista sopimusta.
-
-1. Osaaminen ja suoriutuminen arvioidaan neliportaisella asteikolla seuraavasti:
-
-
-
-1\. Tilaa kehittyä
-
-2\. Hyvä, odotuksia vastaava
-
-3\. Erin- omainen, odotukset ylittävä
-
-4\. Poikkeuksel- linen, odotukset merkittävästi
-
-ylittävä
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.167.png) ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.168.png) ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.169.png) ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.170.png)
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.171.png)![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.172.png)![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.171.png)![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.171.png)![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.171.png)Työhön liittyvä osaaminen ja tavoitteiden saavuttaminen
-
-Työyhteisö- ja asiakas- palvelutaidot
-
-
-
-2 pistettä	4 pistettä	6 pistettä	8 pistettä
-
-
-
-1 piste	2 pistettä	3 pistettä	4 pistettä
-
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.173.png)
-
-Työote	1 piste	2 pistettä	3 pistettä	4 pistettä
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.174.png)
-
-Arviointitekijöiden keskinäisestä painotuksesta voidaan sopia toisin osana henkilökohtaisen palkanosan käyttöönottoa koskevaa työpaikkakohtaista sopimusta.
-
-1. ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.175.png)![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.175.png)![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.175.png)Henkilökohtainen palkanosa määräytyy arviointipisteiden kokonaismäärän perusteella prosentteina tehtäväkohtaisesta palkasta ja se maksetaan tehtä- väkohtaisen palkan päälle. Jollei muuta työpaikkakohtaisen sopimuksen osana sovita, henkilökohtaisen palkanosan suuruus on seuraava:
-
-Osaamisen ja suoriutumisen kokonaisarvio
-
-Arvioinnin kokonais- pistemäärä
-
-Henkilökohtaisen palkanosan suuruus
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.176.png)![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.177.png)![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.178.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
-Palkkaliite
-|<p>**Taso 1**</p><p>Tilaa kehittyä</p>|4–6 pistettä|4 %|
-| :- | :- | :- |
-|<p>**Taso 2**</p><p>Hyvä, odotuk-</p>|<p></p><p>7–10 pistettä</p>|<p></p><p>8 %</p>|
-|sia vastaava|||
-|<p>**Taso 3**</p><p>Erinomainen,</p>|<p></p><p>11–14 pistettä</p>|<p></p><p>12 %</p>|
-|odotukset ylittävä|||
-|**Taso 4**|||
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.143.png)![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.179.png)Poikkeuksellinen, odotukset merkit- tävästi ylittävä
-
-
-
-F
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.142.png)15–16 pistettä	16 %
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.180.png)
-
-Henkilökohtaisen palkanosan toimiva käyttö edellyttää sitä, että arviointias- teikko on kattavasti käytössä suhteessa henkilöstön rakenteeseen.
-
-##### <a name="_toc_250004"></a>Palkkojen muuntaminen
-1. Henkilökohtaista palkanosaa käyttöön otettaessa ja sen lakatessa muutoksen vaikutukset palkkoihin ja palkkaperusteisiin on käsiteltävä luottamusmiehen tai työryhmän kanssa. Lisäksi jokaiselle työntekijälle on viestittävä muutoksen palkkavaikutukset perusteineen.
-
-1. Jos henkilökohtaiseen palkanosaan siirryttäessä työntekijän tehtäväpalkan ja osaamisen ja suoriutumisen perusteella määräytyvän palkanosan yhteis- määrä on aiempaa työehtosopimuksen mukaista palkkaa alempi, muodoste- taan näin syntyvästä palkanerästä siirtolisä. Siirtolisää käsitellään palkanluon- teisena lisänä, joka työsuhteen kestäessä voi hävitä tai supistua vain silloin, jos työntekijä siirtyy vaativamman palkkaryhmän mukaisiin tehtäviin tai hänen tämän pöytäkirjan tarkoittama palkanosa kasvaa osaamisen ja suoriutumisen arvioinnin seurauksena. Lisää käsitellään osana peruspalkkaa esim. vuosilo- mapalkkaa, sairausajan palkkaa, prosentuaalisesti määräytyviä palkanlisiä tai palkankorotuksia laskettaessa.
-
-
-F
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.147.png)![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.181.png)Esimerkki 64
-
-Palkkaliite
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.148.png)Ellei toisin sovita, muodostuu henkilökohtainen palkanosa Helsinki, Espoo, Kauniainen, Vantaa -alueella B1-palkkaryhmässä työskentelevän työntekijän osalta 1.6.2023 voimaan tul-
-
-leen palkkataulukon mukaisesti seuraavasti:
-
-
-|**Osaamisen ja suoriutumisen kokonaisarvio**|**Arvioinnin kokonais- pistemäärä**|**Henkilökohtaisen palkanosan suuruus**|**Työntekijän palkkarakenteen mukainen palkka yhteensä**|
-| :- | :- | :- | :- |
-
-
-**Taso 1**
-
-Tilaa kehittyä
-
-4–6 pistettä	4 % = 0,50 €/h	12,62 €/h + 0,50 €/h
-
-= 13,12 €/h
-
-
-
-**Taso 2**
-
-Hyvä, odotuksia vastaava
-
-
-
-7–10 pistettä	8 % = 1,01 €/h
-
-
-
-12,62 €/h + 1,01 €/h
-
-= 13,63 €/h
-
-
-
-**Taso 3** Erinomainen, odotukset ylittävä
-
-
-
-11–14 pistettä	12 % = 1,51 €/h
-
-
-
-12,62 €/h + 1,51 €/h
-
-= 14,13 €/h
-
-
-
-**Taso 4** Poikkeuksellinen, odotukset merkit- tävästi ylittävä
-
-15–16 pistettä	16 % = 2,02 €/h	12,62 €/h + 2,02 €/h
-
-= 14,64 €/h
-
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.182.png)Työntekijä A:n tuntipalkka ennen henkilökohtaisen palkanosan jär- jestelmään siirtymistä on 13,70 €/h. B1-palkkaryhmän 1. vuo-
-
-den palkka on 12,62 €/h. Työntekijän osaaminen ja suoriutumi- nen on arvioitu tasolle 2 (hyvä, odotuksia vastaava), minkä myötä työntekijän henkilökohtaisen palkanosan suuruus on 1,01 €/h.
-
-Henkilökohtaisen palkanosan järjestelmään siirryttä- essä hänen palkkansa muodostuu seuraavasti:
-
-F
-
-- ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.142.png)Tehtäväkohtainen palkka 12,62 €/h (1.6.2023 voimaan tulleen Helsinki, Espoo, Kauniainen, Vantaa -taulukon B1-palkkaryhmän 1. vuosi)
-- Henkilökohtainen palkanosa, taso 2 (hyvä, odotuksia vastaava), 8 % teh- täväkohtaisesta palkasta = 12,62 €/h \* 8 % = 1,01 €/h
-- Palkkarakenteen mukainen palkka on yhteensä 12,62 €/h + 1,01 €/h = 13,63 €/h
-
-Palkkaliite
-- ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.143.png)Koska aiempi palkka 13,70 €/h on suurempi kuin tehtäväpalkka ja henki- lökohtainen palkanosa yhteensä, muodostetaan erotuksesta 13,70 €/h – 13,63 €/h = 0,07 €/h suuruinen siirtolisä. Työntekijän palkka on yhteensä 12,62 €/h + 1,01 €/h + 0,07 €/h = 13,70 €/h.
-
-
-Esimerkki 65
-
-Mikäli esimerkki 2:ssa kuvatun työntekijän osaaminen ja suoriutumien myöhemmin arvioidaan tasolle 3 (erinomainen, odotukset ylittävä), pal- kaksi muodostuu 12,62 €/h + 12,62 €/h \* 12 % = 12,62 €/h + 1,51 €/h
-
-= 14,13 €/h. Koska uusi henkilökohtainen palkanosa 1,51 €/h on suu- rempi kuin aiempi henkilökohtainen palkanosa 1,01 €/h ja siirtolisä 0,07
-
-€/h
-
-yhteensä (1,08 €/h), siirtolisä häviää tuossa vaiheessa kysei-
-
-sen työntekijän kohdalta. Työntekijän palkka on muuttuneen arvi- oinnin jälkeen yhteensä 12,62 €/h + 1,51 € = 14,13 €/h.
-
-1. Jos henkilökohtaisen palkanosan käytöstä luovutaan työpaikkakohtaisen sopi- muksen irtisanomisen seurauksena, sijoittuu työntekijä sille TES 11 § 2. kohdan tarkoittamalle vuosiportaalle, jonka mukainen palkka on hänen siirtymähetken palkkaansa lähinnä pienempi. Siirtymähetken jälkeisiin vuosiportaiden muu- toksiin vaikuttava palvelusaika lasketaan siirtymähetkestä lukien. Jos työn- tekijä on suorittanut TES 11 § 4. kohdassa tarkoitetun koulutuksen, sijoittuu työntekijä kuitenkin vähintään 3. vuosiportaalle.
-
-
-Esimerkki 66
-
-Työntekijän tuntipalkka henkilökohtaisen palkanosan järjestelmän käytön päättyessä on 14,13 €/h. Vuosiporrasjärjestelmässä työn- tekijään tuolloin sovellettava palkka määräytyy 1.6.2023 voimaan tuleen Helsinki, Espoo, Kauniainen, Vantaa -taulukon B1 -palkkaryh- män mukaisesti. Nykyistä palkkaa lähinnä pienempi palkka on taulu- kon 5. vuoden tuntipalkka 13,79 €/h. Työntekijälle maksettava tunti- palkka on edelleen 14,13 €/h, mutta hän sijoittuu vuosiporrasjärjestel- mässä 5. vuodelle. Kolmen vuoden kuluttua vuosiporrasjärjestelmän voimaantulemisesta työntekijä siirtyy 8. vuoden palkalle, jolloin hän on oikeutettu tuolloin voimassa olevaan 8. vuoden taulukkopalkkaan.
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.183.png)
-
-F
-
-Palkkaliite
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.147.png)![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.148.png)Mahdolliset työehtosopimukseen perustuvat yleiskorotukset suoritetaan hen- kilökohtaisen palkanosan järjestelmässä työehtosopimusratkaisun mukaisesti.
-
-##### <a name="_toc_250003"></a>Arviointimenettely
-1. Uuden työntekijän osaaminen ja suoriutuminen arvioidaan viimeistään kuu- den (6) kuukauden kuluessa työsuhteen alkamisesta sekä aina, kun tehtävä muuttuu ja muutoin vähintään kerran kalenterivuodessa. Arviointi perustei- neen ja sen palkkavaikutukset käydään läpi työntekijän kanssa. Tehtävän muu- toksella tarkoitetaan tehtävän muuttumista työsopimuksessa, esimerkiksi siirtymistä myyjän tehtävistä toimihenkilötehtäviin.
-
-Uuden työntekijän osaamisen ja suoriutumisen arviointi
-
-1. Uuden työntekijän osaaminen ja suoriutuminen arvioidaan kuuden (6) kuu- kauden kuluessa työsuhteen alkamisesta.
-
-Palkka tarkistetaan arviointihetkeä seuraavan palkanmaksukauden alusta lukien.
-
-Osaamisen ja suoriutumisen kalenterivuosittainen arviointi
-
-1. Osaaminen ja suoriutuminen arvioidaan vähintään kerran kalenterivuodessa.
-
-Tarkasteluajankohta sovitaan henkilökohtaisen palkanosan käyttöönottoa koskevassa työpaikkakohtaisessa sopimuksessa.
-
-Jos arvioinnin seurauksena osaamisen ja suoriutumisen kokonaisarvio para- nee, tarkistetaan työntekijän palkka arviointia seuraavan palkanmaksukauden alusta lukien alusta lukien.
-
-Esimerkki 67
-
-Osaamisen ja suoriutumisen arviointi tehdään 31.12 mennessä. Sen perusteella työntekijä nousee yhden tason ylöspäin. Uusi palkka on voi- massa seuraavasta palkanmaksukaudesta lukien. Mikäli palkanmak- sukausi on esimerkiksi 15.12.-14.1, ja arviointi on tehty 31.12. mennessä, uusi palkka on voimassa palkanmaksukaudesta 15.1.–14.2 lukien.
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.184.png)
-
-F
-
-Palkkaliite
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.142.png)![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.143.png)Jos kokonaispistemäärä olisi arvioinnin seurauksena pienenemässä, sovitaan esimiehen ja alaisen kesken niistä kehittämistoimenpiteistä, joiden seurauk- sena kokonaispistemäärä voi pysyä ennallaan. Osaaminen ja suoriutuminen arvioidaan tällöin uudelleen kuuden (6) kuukauden kuluttua, jolloin kokonais- pistemäärä voi laskea.
-
-Esimerkki 68
-
-Osaamisen ja suoriutumisen arviointi tehdään 31.12 mennessä. Sen perusteella työntekijän suoriutumisen katsotaan alentuneen tasolta kolme tasolle kaksi. Osana arviointia sovitaan kehittämistoimenpi- teistä, joiden avulla suoriutuminen voitaisiin arvioida tasolle kolme. Heinäkuun alussa tehdään uusi arvio. Mikäli tuolloin todetaan, että suoriutuminen ei ole korjaantunut, henkilökohtainen palkanosa voi alentua tasolle kaksi seuraavasta palkanmaksukaudesta alkaen.
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.185.png)
-
-Kokonaispistemäärä voi kuitenkin laskea vain erityisen painavasta syystä henkilökohtaisen palkanosan käyttöönoton yhteydessä arvioidusta.
-
-
-Esimerkki 69
-
-Työntekijän henkilökohtaista palkanosaa, joka oli voimassa järjes- telmää käyttöön otettaessa, voidaan alentaa vain erityisen paina- vasta syystä. Alentamisessa on noudatettava yllä selostettua kuu- den kuukauden tarkastelujaksoa. Alentamiseen voi olla perusteet ole- massa esimerkiksi silloin, kun työntekijä ei edes pyri varteenotetta- valla tavalla korjaamaan menettelyään. Palkan alennuksen on oltava joka tapauksessa olosuhteisiin nähden määrältään kohtuullinen.
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.186.png)
-
-F
-
-Palkkaliite
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.147.png)![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.148.png)Jos työntekijän osaamisen ja suoriutumisen kokonaispistemäärä ei ole noussut kolmen peräkkäisen arvioinnin tuloksena, on esimiehen perusteltava näkemyk- sensä työntekijälle kirjallisesti.
-
-Osaamisen ja suoriutumisen arviointi tehtävän muuttuessa
-
-1. Osaaminen ja suoriutuminen arvioidaan kuuden (6) kuukauden kuluessa uuteen tehtävään siirtymisestä.
-
-Uusi henkilökohtainen palkanosa lasketaan uudesta tehtäväpalkasta ja sitä maksetaan arviointihetkeä seuraavan palkanmaksukauden alusta lukien. Siihen saakka maksetaan vähintään uuteen tehtävään siirtymistä edeltävää palkkaa.
-
-##### <a name="_toc_250002"></a>Erimielisyyksien ratkaiseminen
-1. Osaamisen ja suoriutumisen arviointiin liittyvä erimielisyydet ratkaistaan neu- vottelujärjestyksen mukaisesti. Luottamusmiehellä tai työryhmällä on oikeus saada kaikki asian selvittämisen kannalta tarpeelliset tiedot.
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.140.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## Taulukkopalkat 1.6.2023–31.5.2024
-
-
-Palkkaliite
-1. ### ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.148.png)<a name="_toc_250001"></a>**Taulukkopalkat 1.6.2023–31.5.2024**
-
-Tätä edeltävät taulukkopalkat ovat olleet voimassa 1.5.2022–31.5.2023.
-
-F
-##### ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.147.png)Kaupan työntekijöiden kuukausi- ja tuntipalkat 1.6.2023–31.5.2024
-
-
-|**TYÖNTEKIJÄT**|||||||||
-| :- | :- | :- | :- | :- | :- | :- | :- | :- |
-|Helsinki, Espoo, Kauniainen, Vantaa|1\. vuotena|3\. vuotena|5\. vuotena|8\. vuotena|||||
-|**A**|1913|11,96|1982|12,39|2088|13,05|2189|13,68|
-|**B1**|2019|12,62|2091|13,07|2207|13,79|2306|14,41|
-|**B2**|2029|12,68|2105|13,16|2223|13,89|2322|14,51|
-|**C1**|2159|13,49|2235|13,97|2380|14,88|2491|15,57|
-|**C2**|2167|13,54|2245|14,03|2395|14,97|2510|15,69|
-|**D**|2281|14,26|2367|14,79|2526|15,79|2718|16,99|
-
-
-|Muu Suomi|1\. vuotena|3\. vuotena|5\. vuotena|8\. vuotena|||||
-| :- | :- | :- | :- | :- | :- | :- | :- | :- |
-|**A**|1838|11,49|1902|11,89|1999|12,49|2090|13,06|
-|**B1**|1939|12,12|2009|12,56|2114|13,21|2202|13,76|
-|**B2**|1950|12,19|2024|12,65|2126|13,29|2218|13,86|
-|**C1**|2068|12,93|2141|13,38|2270|14,19|2371|14,82|
-|**C2**|2074|12,96|2148|13,43|2282|14,26|2387|14,92|
-|**D**|2185|13,66|2288|14,30|2406|15,04|2576|16,10|
-
-e
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.187.png)
-
-**D**	2281	14,26	2367	14,79	2526	15,79	2718	16,99
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.188.png)![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.189.png)Tukkumyyjät II ja III 1.6.2023–31.5.2024
-
-
-
-|**TUKKUMYYJÄT II JA III**|||||
-| :- | :- | :- | :- | :- |
-|Helsinki, Espoo, Kauniainen, Vantaa|1\. vuotena|3\. vuotena|5\. vuotena|8\. vuotena|
-
-
-<table><tr><th colspan="1" valign="top"><b>II</b></th><th colspan="1" valign="top">2541</th><th colspan="1" valign="top">2647</th><th colspan="1" valign="top">2774</th><th colspan="1" valign="top">2913</th><th colspan="2" rowspan="2" valign="top"></th></tr>
-<tr><td colspan="1" valign="top"><b>III</b></td><td colspan="1" valign="top">2949</td><td colspan="1" valign="top">3062</td><td colspan="1" valign="top">3194</td><td colspan="1" valign="top">3346</td></tr>
-<tr><td colspan="1" valign="top"></td><td colspan="1" valign="top"></td><td colspan="1" valign="top"></td><td colspan="1" valign="top"></td><td colspan="1" valign="top"></td><td colspan="1" valign="top"></td><td colspan="1" valign="top"></td></tr>
-<tr><td colspan="1" valign="top"></td><td colspan="1" valign="top"></td><td colspan="1" valign="top"></td><td colspan="1" valign="top"></td><td colspan="1" valign="top"></td><td colspan="1" valign="top"></td><td colspan="1" valign="top">F</td></tr>
-<tr><td colspan="1" valign="top">Muu</td><td colspan="1" valign="top">1\. vuotena</td><td colspan="1" valign="top">3\. vuotena</td><td colspan="1" valign="top">5\. vuotena</td><td colspan="1" valign="top">8\. vuotena</td><td colspan="1" valign="top"></td><td colspan="1" valign="top"></td></tr>
-<tr><td colspan="1" valign="top">Suomi</td><td colspan="1" valign="top"></td><td colspan="1" valign="top"></td><td colspan="1" valign="top"></td><td colspan="1" valign="top"></td><td colspan="1" valign="top"></td><td colspan="1" valign="top"></td></tr>
-<tr><td colspan="1" valign="top"><b>II</b></td><td colspan="1" valign="top">2393</td><td colspan="1" valign="top">2498</td><td colspan="1" valign="top">2616</td><td colspan="1" valign="top">2750</td><td colspan="1" valign="top"></td><td colspan="1" valign="top">Palkk</td></tr>
-<tr><td colspan="1" valign="top"><b>III</b></td><td colspan="1" valign="top">2761</td><td colspan="1" valign="top">2872</td><td colspan="1" valign="top">2977</td><td colspan="1" valign="top">3121</td><td colspan="1" valign="top"></td><td colspan="1" valign="top">aliit</td></tr>
-</table>
-
-
-
-
-
-|**ASENTAJAT JA HUOLTOMIEHET**||
-| :- | :- |
-|Helsinki, Espoo, Kauniainen, Vantaa|1994|
-|Muu Suomi|1916|
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.190.png)Kaupan työehtosopimus 1.2.2023–31.1.2025	191
-
-
-Huolto- ja liikenneasemien ravintolatyöntekijöiden kuukausi- ja tuntipalkat 1.6.2023-31.5.2024
-
-
-|**HUOLTO- JA LIIKENNEASEMIEN RAVINTOLATYÖNTEKIJÄT**|||||||
-| :- | :- | :- | :- | :- | :- | :- |
-||1\. vuotena|5\. vuotena|8\. vuotena||||
-|<p>Helsinki, Espoo,	2049</p><p>Kauniainen, Vantaa</p>|12,81|2105|13,16|2206|13,79||
-|Muu Suomi	2019|12,62|2100|13,13|2148|13,43||
-
-
-F
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.147.png)Huolto- ja liikenneasemaravintola:
-
-Palkkaliite
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.148.png)luvanhaltijan edustajan sijaisen tuntipalkat 1.6.2023–31.5.2024
-
-
-|**HUOLTO- JA LIIKENNEASEMIEN LUVANHALTIJAN EDUSTAJAN SIJAISEN TUNTIPALKKA**||||
-| :- | :- | :- | :- |
-|1\. vuotena|3\. vuotena|5\. vuotena|8\. vuotena|
-
-14,46	14,80	15,17	15,49
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.163.png)
-
-
-Huolto- ja liikenneasemien ravintolaesihenkilöiden kuukausi- ja tuntipalkat 1.6.2023–31.5.2024
-
-
-|**HUOLTO- JA LIIKENNEASEMIEN RAVINTOLAESIHENKILÖT**|||||||||
-| :- | :- | :- | :- | :- | :- | :- | :- | :- |
-||0–2 vuotta|yli 2 vuotta|yli 5 vuotta|yli 10 vuotta|||||
-|**1**|2129|13,31|2177|13,61|2230|13,94|2281|14,62|
-|**2**|2239|13,99|2290|14,31|2346|14,66|2398|14,99|
-|**3**|2314|14,46|2370|14,81|2426|15,16|2480|15,50|
-|**4**|2338|14,61|2391|14,94|2448|15,30|2505|15,66|
-|**5**|2454|15,34|2512|15,70|2575|16,09|2636|16,48|
-|**6**|2575|16,09|2636|16,48|2701|16,88|2767|17,29|
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.140.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## Taulukkopalkat 1.6.2024–31.1.2025
-
-
-Palkkaliite
-|Muu Suomi|1\. vuotena|3\. vuotena|5\. vuotena|8\. vuotena|||||
-| :- | :- | :- | :- | :- | :- | :- | :- | :- |
-|**A**|1877|11,73|1943|12,14|2042|12,76|2135|13,34|
-|**B**|1992|12,45|2067|12,92|2171|13,57|2265|14,16|
-|**C**|2118|13,24|2194|13,71|2331|14,57|2438|15,24|
-|**D**|2232|13,95|2337|14,61|2457|15,36|2631|16,44|
-
-1. ### ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.148.png)![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.191.png)<a name="_toc_250000"></a>**Taulukkopalkat 1.6.2024–31.1.2025**
-
-F
-|**TYÖNTEKIJÄT**|||||||||
-| :- | :- | :- | :- | :- | :- | :- | :- | :- |
-|Helsinki, Espoo, Kauniainen, Vantaa|1\. vuotena|3\. vuotena|5\. vuotena|8\. vuotena|||||
-|**A**|1954|12,21|2024|12,65|2133|13,33|2236|13,98|
-|**B**|2072|12,95|2150|13,44|2271|14,19|2372|14,83|
-|**C**|2213|13,83|2293|14,33|2446|15,29|2564|16,03|
-|**D**|2330|14,56|2418|15,11|2580|16,13|2776|17,35|
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.147.png)![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.192.png)Kaupan työntekijöiden kuukausi- ja tuntipalkat 1.6.2024–31.1.2025
-
-Tukkumyyjät II ja III 1.6.2024–31.1.2025
-
-
-|**TUKKUMYYJÄT II JA III**|||||
-| :- | :- | :- | :- | :- |
-|Helsinki, Espoo, Kauniainen, Vantaa|1\. vuotena|3\. vuotena|5\. vuotena|8\. vuotena|
-
-
-|**II**|2595|2704|2833|2975|
-| :- | :- | :- | :- | :- |
-|**III**|3012|3128|3262|3418|
-||||||
-|Muu Suomi|1\. vuotena|3\. vuotena|5\. vuotena|8\. vuotena|
-|**II**|2444|2551|2672|2809|
-|**III**|2820|2933|3041|3188|
-
-F
-
-Palkkaliite
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.142.png)![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.143.png)Asentajat ja huoltomiehet 1.6.2024–31.1.2025
-
-
-|**ASENTAJAT JA HUOLTOMIEHET**||
-| :- | :- |
-|Helsinki, Espoo, Kauniainen, Vantaa|2037|
-|Muu Suomi|1957|
-
-Huolto- ja liikenneasemien ravintolatyöntekijöiden kuukausi- ja tuntipalkat 1.6.2024–31.1.2025
-
-
-|**HUOLTO- JA LIIKENNEASEMIEN RAVINTOLATYÖNTEKIJÄT**|||||||
-| :- | :- | :- | :- | :- | :- | :- |
-||1\. vuotena|5\. vuotena|8\. vuotena||||
-|<p>Helsinki, Espoo,	2093</p><p>Kauniainen, Vantaa</p>|13,08|2150|13,44|2253|14,08||
-|Muu Suomi	2062|12,89|2145|13,41|2194|13,71||
-
-
-
-Kaupan työehtosopimus 1.2.2023–31.1.2025	195
-
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.193.png)
+> Huolto- ja liikenneasemien ravintolaesihenkilöiden palkkaryhmät ennen
+> 1.4.2018 määräytyivät 1.2.2017--31.1.2018 voimassa olleen Kaupan
+> työehtosopimuksen mukaan.
+
++--------------------+-------------------------------------------------+
+| > Palkkaryhmä 1:   | > vuoropäällikkö                                |
+|                    | >                                               |
+|                    | > Kahvilat, pikaruokaravintolat sekä            |
+|                    | > ravintolat, joissa ei anniskella lainkaan tai |
+|                    | > anniskellaan enintään 5,5 tilavuusprosenttia  |
+|                    | > etyylialkoholia sisältäviä alkoholijuomia.    |
++====================+=================================================+
+| > Palkkaryhmä 2:   | > kerroshoito- ja siivouspäällikkö,             |
+|                    | > baarimestari                                  |
++--------------------+-------------------------------------------------+
+| > Palkkaryhmä 3:   | > vuoropäällikkö ja -mestari, hovimestari,      |
+|                    | > vastaanottopäällikkö                          |
+|                    | >                                               |
+|                    | > Anniskelupaikoissa, joissa anniskellaan yli   |
+|                    | > 5,5 tilavuusprosenttia etyylialkoholia        |
+|                    | > sisältäviä alkoholijuomia.                    |
++--------------------+-------------------------------------------------+
+| > Palkkaryhmä 4:   | > kahvilan päällikkö, henkilöstöravintolan      |
+|                    | > päällikkö                                     |
+|                    | >                                               |
+|                    | > Kahvilat, pikaruokaravintolat sekä            |
+|                    | > ravintolat, joissa ei anniskella lainkaan tai |
+|                    | > anniskellaan enintään 5,5, tilavuusprosenttia |
+|                    | > etyylialkoholia sisältäviä alkoholijuomia.    |
++--------------------+-------------------------------------------------+
+| > Palkkaryhmä 5:   | > keittiömestari                                |
++--------------------+-------------------------------------------------+
+| > Palkkaryhmä 6:   | > ravintolapäällikkö, anniskeluravintolan       |
+|                    | > luvanhaltijan edustaja                        |
+|                    | >                                               |
+|                    | > Anniskelupaikat, joissa anniskellaan yli 5,5  |
+|                    | > tilavuusprosenttia etyylialkoholia sisältäviä |
+|                    | > alkoholijuomia.                               |
++--------------------+-------------------------------------------------+
+
+> Esihenkilön palkkaryhmittelyä sovellettaessa edellytetään henkilön
+> toimivan esi- henkilönä. Palkkaryhmää harkittaessa on ratkaisevaa työ,
+> jota esihenkilö pääasial- lisesti suorittaa.
+
+### Osaamiseen ja suoriutumiseen perustuva palkanosa
+
+##### Järjestelmän käyttöönotto ja siitä irtautuminen
+
+1.  Palvelusajan ja koulutuksen sijasta (jäljempänä
+    vuosiporrasjärjestelmä) voi- daan yrityksessä tai sen osassa käyttää
+    palkkojen porrastamisessa tämän pöytäkirjan mukaista työntekijän
+    osaamisen ja suoriutumisen arviointiin perustuvaa palkanosaa
+    (jäljempänä henkilökohtainen palkanosa), jos asiasta on sovittu
+    työpaikkakohtaisesti luottamusmiehen kanssa.
+
+> Vaihtoehtoisesti henkilökohtaisen palkanosan käyttöönottamisesta
+> sopimi- seksi ja sen ylläpitämiseksi ja kehittämiseksi voidaan nimetä
+> työpaikkakoh- tainen työryhmä (jäljempänä työryhmä). Työryhmässä on
+> vähintään kaksi työnantajan ja kaksi työntekijöiden edustajaa, joista
+> toinen on luottamusmies. Jos luottamusmiestä ei ole valittuna,
+> valitsevat työntekijät keskuudestaan ryh- mään kaksi jäsentä. Heillä
+> on oikeus riittävään ajankäyttöön sekä liittonsa tar- joamaan
+> koulutukseen ja konsultaatioon.
+
+2.  Työpaikkakohtainen sopimus tehdään TES 23 §:n mukaisesti, kuitenkin
+    niin, että sopimus on voimassa toistaiseksi ja irtisanottavissa
+    kuuden (6) kuukau- den irtisanomisaikaa noudattaen, ellei toisin
+    sovita. Ennen irtisanomista on asiasta neuvoteltava ja kirjattava
+    erimielisyyden kohteet. Jommankumman osapuolen aloitteesta voidaan
+    pyytää työmarkkinaosapuolten konsultaatiota. Tällöin irtisanomisaika
+    voi alkaa kulua vasta, kun jompikumpi työmarkkinaosa- puolista
+    toteaa konsultaation päättyneeksi.
+
+3.  Tämä pöytäkirja korvaa palvelusaikaa ja koulutusta koskevat TES 11
+    §:n
+
+> 2.--4. kohdat.
+
+4.  Henkilökohtaista palkanosaa käytettäessä työntekijän tehtäväpalkka
+    mää- räytyy työehtosopimuksen kulloinkin voimassa olevan
+    palkkaliitteen tarkoit- taman 1. vuoden työntekijän palkan
+    mukaisesti.
+
+5.  Osana käyttöönottosopimusta on sovittava koululaisen ja
+    harjoittelijan pal- koista. Koululaisen palkan tulee olla kuitenkin
+    vähintään TES 11 § 11. kohdan mukainen ja harjoittelijan palkka
+    vähintään ao. palkkaryhmän harjoittelijan palkkaa vastaava.
+
+6.  Osana sopimista on suositeltavaa käsitellä lisäksi esimerkiksi
+    seuraavia asioita:
+
+    -   mahdolliset siirtymäajat henkilökohtaisten palkanosien
+        > voimaantuloon
+
+    -   mahdolliset osaamisen ja suoriutumisen tasot, jotka ylittävät
+        > tason 4.
+
+##### Osaamisen ja suoriutumisen arviointimalli ja palkkakytkentä
+
+7.  Henkilökohtainen palkanosa määritetään yrityksen toiminnan kannalta
+    merki- tyksellisten tekijöiden perusteella. Arviointitekijöitä
+    ovat 1. työhön liittyvä osaa- minen ja tavoitteiden
+    saavuttaminen, 2. työyhteisö- ja asiakaspalvelutaidot ja 3. työote.
+    Arviointitekijöiden yksityiskohtaisempi sisältö määritetään osana
+    henki- lökohtaisen palkanosan käyttöönottoa koskevassa paikallista
+    sopimusta.
+
+8.  Osaaminen ja suoriutuminen arvioidaan neliportaisella asteikolla
+    seuraavasti:
+
+> Työhön liittyvä osaaminen ja tavoitteiden saavuttaminen
+>
+> Työyhteisö- ja asiakas- palvelutaidot
+
+2 pistettä 4 pistettä 6 pistettä 8 pistettä
+
+1 piste 2 pistettä 3 pistettä 4 pistettä
+
+Työote 1 piste 2 pistettä 3 pistettä 4 pistettä
+
+> Arviointitekijöiden keskinäisestä painotuksesta voidaan sopia toisin
+> osana henkilökohtaisen palkanosan käyttöönottoa koskevaa
+> työpaikkakohtaista sopimusta.
+
+9.  Henkilökohtainen palkanosa määräytyy arviointipisteiden
+    kokonaismäärän perusteella prosentteina tehtäväkohtaisesta palkasta
+    ja se maksetaan tehtä- väkohtaisen palkan päälle. Jollei muuta
+    työpaikkakohtaisen sopimuksen osana sovita, henkilökohtaisen
+    palkanosan suuruus on seuraava:
+
+> Poikkeuksellinen, odotukset merkit- tävästi ylittävä
+>
+> 15--16 pistettä 16 %
+>
+> Henkilökohtaisen palkanosan toimiva käyttö edellyttää sitä, että
+> arviointias- teikko on kattavasti käytössä suhteessa henkilöstön
+> rakenteeseen.
+
+##### Palkkojen muuntaminen
+
+10. Henkilökohtaista palkanosaa käyttöön otettaessa ja sen lakatessa
+    muutoksen vaikutukset palkkoihin ja palkkaperusteisiin on
+    käsiteltävä luottamusmiehen tai työryhmän kanssa. Lisäksi jokaiselle
+    työntekijälle on viestittävä muutoksen palkkavaikutukset
+    perusteineen.
+
+11. Jos henkilökohtaiseen palkanosaan siirryttäessä työntekijän
+    tehtäväpalkan ja osaamisen ja suoriutumisen perusteella määräytyvän
+    palkanosan yhteis- määrä on aiempaa työehtosopimuksen mukaista
+    palkkaa alempi, muodoste- taan näin syntyvästä palkanerästä
+    siirtolisä. Siirtolisää käsitellään palkanluon- teisena lisänä, joka
+    työsuhteen kestäessä voi hävitä tai supistua vain silloin, jos
+    työntekijä siirtyy vaativamman palkkaryhmän mukaisiin tehtäviin tai
+    hänen tämän pöytäkirjan tarkoittama palkanosa kasvaa osaamisen ja
+    suoriutumisen arvioinnin seurauksena. Lisää käsitellään osana
+    peruspalkkaa esim. vuosilo- mapalkkaa, sairausajan palkkaa,
+    prosentuaalisesti määräytyviä palkanlisiä tai palkankorotuksia
+    laskettaessa.
+
+> Esimerkki 64
+>
+> Ellei toisin sovita, muodostuu henkilökohtainen palkanosa Helsinki,
+> Espoo, Kauniainen, Vantaa -alueella B1-palkkaryhmässä työskentelevän
+> työntekijän osalta 1.6.2023 voimaan tul-
+>
+> leen palkkataulukon mukaisesti seuraavasti:
+
++-----------------+---------------+---------------+-------------------+
+| > **Osaamisen   | >             | > **Hen       | > **Työntekijän   |
+| > ja            |  **Arvioinnin | kilökohtaisen | > palkkarakenteen |
+| > suoriutumisen | > kokonais-   | > palkanosan  | > mukainen palkka |
+| >               | >             | > suuruus**   | > yhteensä**      |
+| kokonaisarvio** |  pistemäärä** |               |                   |
++=================+===============+===============+===================+
++-----------------+---------------+---------------+-------------------+
+
+> **Taso 1**
+>
+> Tilaa kehittyä
+>
+> 4--6 pistettä 4 % = 0,50 €/h 12,62 €/h + 0,50 €/h
+>
+> = 13,12 €/h
+>
+> **Taso 2**
+>
+> Hyvä, odotuksia vastaava
+>
+> 7--10 pistettä 8 % = 1,01 €/h
+>
+> 12,62 €/h + 1,01 €/h
+>
+> = 13,63 €/h
+>
+> **Taso 3** Erinomainen, odotukset ylittävä
+>
+> 11--14 pistettä 12 % = 1,51 €/h
+>
+> 12,62 €/h + 1,51 €/h
+>
+> = 14,13 €/h
+>
+> **Taso 4** Poikkeuksellinen, odotukset merkit- tävästi ylittävä
+>
+> 15--16 pistettä 16 % = 2,02 €/h 12,62 €/h + 2,02 €/h
+>
+> = 14,64 €/h
+>
+> Työntekijä A:n tuntipalkka ennen henkilökohtaisen palkanosan jär-
+> jestelmään siirtymistä on 13,70 €/h. B1-palkkaryhmän 1. vuo-
+>
+> den palkka on 12,62 €/h. Työntekijän osaaminen ja suoriutumi- nen on
+> arvioitu tasolle 2 (hyvä, odotuksia vastaava), minkä myötä työntekijän
+> henkilökohtaisen palkanosan suuruus on 1,01 €/h.
+>
+> Henkilökohtaisen palkanosan järjestelmään siirryttä- essä hänen
+> palkkansa muodostuu seuraavasti:
+
+-   Tehtäväkohtainen palkka 12,62 €/h (1.6.2023 voimaan tulleen
+    Helsinki, Espoo, Kauniainen, Vantaa -taulukon B1-palkkaryhmän 1.
+    vuosi)
+
+-   Henkilökohtainen palkanosa, taso 2 (hyvä, odotuksia vastaava), 8 %
+    teh- täväkohtaisesta palkasta = 12,62 €/h \* 8 % = 1,01 €/h
+
+-   Palkkarakenteen mukainen palkka on yhteensä 12,62 €/h + 1,01 €/h =
+    13,63 €/h
+
+-   Koska aiempi palkka 13,70 €/h on suurempi kuin tehtäväpalkka ja
+    henki- lökohtainen palkanosa yhteensä, muodostetaan erotuksesta
+    13,70 €/h -- 13,63 €/h = 0,07 €/h suuruinen siirtolisä. Työntekijän
+    palkka on yhteensä 12,62 €/h + 1,01 €/h + 0,07 €/h = 13,70 €/h.
+
+> Esimerkki 65
+>
+> Mikäli esimerkki 2:ssa kuvatun työntekijän osaaminen ja suoriutumien
+> myöhemmin arvioidaan tasolle 3 (erinomainen, odotukset ylittävä), pal-
+> kaksi muodostuu 12,62 €/h + 12,62 €/h \* 12 % = 12,62 €/h + 1,51 €/h
+>
+> = 14,13 €/h. Koska uusi henkilökohtainen palkanosa 1,51 €/h on suu-
+> rempi kuin aiempi henkilökohtainen palkanosa 1,01 €/h ja siirtolisä
+> 0,07
+>
+> €/h
+>
+> yhteensä (1,08 €/h), siirtolisä häviää tuossa vaiheessa kysei-
+>
+> sen työntekijän kohdalta. Työntekijän palkka on muuttuneen arvi-
+> oinnin jälkeen yhteensä 12,62 €/h + 1,51 € = 14,13 €/h.
+
+1.  Jos henkilökohtaisen palkanosan käytöstä luovutaan
+    työpaikkakohtaisen sopi- muksen irtisanomisen seurauksena, sijoittuu
+    työntekijä sille TES 11 § 2. kohdan tarkoittamalle vuosiportaalle,
+    jonka mukainen palkka on hänen siirtymähetken palkkaansa lähinnä
+    pienempi. Siirtymähetken jälkeisiin vuosiportaiden muu- toksiin
+    vaikuttava palvelusaika lasketaan siirtymähetkestä lukien. Jos työn-
+    tekijä on suorittanut TES 11 § 4. kohdassa tarkoitetun koulutuksen,
+    sijoittuu työntekijä kuitenkin vähintään 3. vuosiportaalle.
+
+> Mahdolliset työehtosopimukseen perustuvat yleiskorotukset suoritetaan
+> hen- kilökohtaisen palkanosan järjestelmässä työehtosopimusratkaisun
+> mukaisesti.
+
+##### Arviointimenettely
+
+2.  Uuden työntekijän osaaminen ja suoriutuminen arvioidaan viimeistään
+    kuu- den (6) kuukauden kuluessa työsuhteen alkamisesta sekä aina,
+    kun tehtävä muuttuu ja muutoin vähintään kerran kalenterivuodessa.
+    Arviointi perustei- neen ja sen palkkavaikutukset käydään läpi
+    työntekijän kanssa. Tehtävän muu- toksella tarkoitetaan tehtävän
+    muuttumista työsopimuksessa, esimerkiksi siirtymistä myyjän
+    tehtävistä toimihenkilötehtäviin.
+
+> Uuden työntekijän osaamisen ja suoriutumisen arviointi
+
+3.  Uuden työntekijän osaaminen ja suoriutuminen arvioidaan kuuden (6)
+    kuu- kauden kuluessa työsuhteen alkamisesta.
+
+> Palkka tarkistetaan arviointihetkeä seuraavan palkanmaksukauden alusta
+> lukien.
+>
+> Osaamisen ja suoriutumisen kalenterivuosittainen arviointi
+
+4.  Osaaminen ja suoriutuminen arvioidaan vähintään kerran
+    kalenterivuodessa.
+
+> Tarkasteluajankohta sovitaan henkilökohtaisen palkanosan käyttöönottoa
+> koskevassa työpaikkakohtaisessa sopimuksessa.
+>
+> Jos arvioinnin seurauksena osaamisen ja suoriutumisen kokonaisarvio
+> para- nee, tarkistetaan työntekijän palkka arviointia seuraavan
+> palkanmaksukauden alusta lukien alusta lukien.
+>
+> Jos kokonaispistemäärä olisi arvioinnin seurauksena pienenemässä,
+> sovitaan esimiehen ja alaisen kesken niistä kehittämistoimenpiteistä,
+> joiden seurauk- sena kokonaispistemäärä voi pysyä ennallaan. Osaaminen
+> ja suoriutuminen arvioidaan tällöin uudelleen kuuden (6) kuukauden
+> kuluttua, jolloin kokonais- pistemäärä voi laskea.
+>
+> Kokonaispistemäärä voi kuitenkin laskea vain erityisen painavasta
+> syystä henkilökohtaisen palkanosan käyttöönoton yhteydessä
+> arvioidusta.
+>
+> Jos työntekijän osaamisen ja suoriutumisen kokonaispistemäärä ei ole
+> noussut kolmen peräkkäisen arvioinnin tuloksena, on esimiehen
+> perusteltava näkemyk- sensä työntekijälle kirjallisesti.
+>
+> Osaamisen ja suoriutumisen arviointi tehtävän muuttuessa
+
+5.  Osaaminen ja suoriutuminen arvioidaan kuuden (6) kuukauden kuluessa
+    uuteen tehtävään siirtymisestä.
+
+> Uusi henkilökohtainen palkanosa lasketaan uudesta tehtäväpalkasta ja
+> sitä maksetaan arviointihetkeä seuraavan palkanmaksukauden alusta
+> lukien. Siihen saakka maksetaan vähintään uuteen tehtävään siirtymistä
+> edeltävää palkkaa.
+
+##### Erimielisyyksien ratkaiseminen
+
+6.  Osaamisen ja suoriutumisen arviointiin liittyvä erimielisyydet
+    ratkaistaan neu- vottelujärjestyksen mukaisesti. Luottamusmiehellä
+    tai työryhmällä on oikeus saada kaikki asian selvittämisen kannalta
+    tarpeelliset tiedot.
+
+## Taulukkopalkat 1.6.2023--31.5.2024
+
+### Taulukkopalkat 1.6.2023--31.5.2024
+
+> Tätä edeltävät taulukkopalkat ovat olleet voimassa
+> 1.5.2022--31.5.2023.
+
+##### Kaupan työntekijöiden kuukausi- ja tuntipalkat 1.6.2023--31.5.2024
+
++----------+------+------+------+------+------+------+------+------+
+| >        |      |      |      |      |      |      |      |      |
+|  **TYÖNT |      |      |      |      |      |      |      |      |
+| EKIJÄT** |      |      |      |      |      |      |      |      |
++==========+======+======+======+======+======+======+======+======+
+| > H      | >    |      | >    |      | >    |      | >    |      |
+| elsinki, |  1\. |      |  3\. |      |  5\. |      |  8\. |      |
+| > Espoo, | >    |      | >    |      | >    |      | >    |      |
+| > Kau    |  vuo |      |  vuo |      |  vuo |      |  vuo |      |
+| niainen, | tena |      | tena |      | tena |      | tena |      |
+| > Vantaa |      |      |      |      |      |      |      |      |
++----------+------+------+------+------+------+------+------+------+
+| > **A**  | >    | > 1  | >    | > 1  | >    | > 1  | >    | > 1  |
+|          | 1913 | 1,96 | 1982 | 2,39 | 2088 | 3,05 | 2189 | 3,68 |
++----------+------+------+------+------+------+------+------+------+
+| > **B1** | >    | > 1  | >    | > 1  | >    | > 1  | >    | > 1  |
+|          | 2019 | 2,62 | 2091 | 3,07 | 2207 | 3,79 | 2306 | 4,41 |
++----------+------+------+------+------+------+------+------+------+
+| > **B2** | >    | > 1  | >    | > 1  | >    | > 1  | >    | > 1  |
+|          | 2029 | 2,68 | 2105 | 3,16 | 2223 | 3,89 | 2322 | 4,51 |
++----------+------+------+------+------+------+------+------+------+
+| > **C1** | >    | > 1  | >    | > 1  | >    | > 1  | >    | > 1  |
+|          | 2159 | 3,49 | 2235 | 3,97 | 2380 | 4,88 | 2491 | 5,57 |
++----------+------+------+------+------+------+------+------+------+
+| > **C2** | >    | > 1  | >    | > 1  | >    | > 1  | >    | > 1  |
+|          | 2167 | 3,54 | 2245 | 4,03 | 2395 | 4,97 | 2510 | 5,69 |
++----------+------+------+------+------+------+------+------+------+
+| > **D**  | >    | > 1  | >    | > 1  | >    | > 1  | >    | > 1  |
+|          | 2281 | 4,26 | 2367 | 4,79 | 2526 | 5,79 | 2718 | 6,99 |
++----------+------+------+------+------+------+------+------+------+
+
++----------+------+------+------+------+------+------+------+------+
+| > Muu    | >    |      | >    |      | >    |      | >    |      |
+| > Suomi  |  1\. |      |  3\. |      |  5\. |      |  8\. |      |
+|          | >    |      | >    |      | >    |      | >    |      |
+|          |  vuo |      |  vuo |      |  vuo |      |  vuo |      |
+|          | tena |      | tena |      | tena |      | tena |      |
++==========+======+======+======+======+======+======+======+======+
+| > **A**  | >    | > 1  | >    | > 1  | >    | > 1  | >    | > 1  |
+|          | 1838 | 1,49 | 1902 | 1,89 | 1999 | 2,49 | 2090 | 3,06 |
++----------+------+------+------+------+------+------+------+------+
+| > **B1** | >    | > 1  | >    | > 1  | >    | > 1  | >    | > 1  |
+|          | 1939 | 2,12 | 2009 | 2,56 | 2114 | 3,21 | 2202 | 3,76 |
++----------+------+------+------+------+------+------+------+------+
+| > **B2** | >    | > 1  | >    | > 1  | >    | > 1  | >    | > 1  |
+|          | 1950 | 2,19 | 2024 | 2,65 | 2126 | 3,29 | 2218 | 3,86 |
++----------+------+------+------+------+------+------+------+------+
+| > **C1** | >    | > 1  | >    | > 1  | >    | > 1  | >    | > 1  |
+|          | 2068 | 2,93 | 2141 | 3,38 | 2270 | 4,19 | 2371 | 4,82 |
++----------+------+------+------+------+------+------+------+------+
+| > **C2** | >    | > 1  | >    | > 1  | >    | > 1  | >    | > 1  |
+|          | 2074 | 2,96 | 2148 | 3,43 | 2282 | 4,26 | 2387 | 4,92 |
++----------+------+------+------+------+------+------+------+------+
+| > **D**  | >    | > 1  | >    | > 1  | >    | > 1  | >    | > 1  |
+|          | 2185 | 3,66 | 2288 | 4,30 | 2406 | 5,04 | 2576 | 6,10 |
++----------+------+------+------+------+------+------+------+------+
+
+> Tukkumyyjät II ja III 1.6.2023--31.5.2024
+
++-----------+-------------+-------------+-------------+-------------+
+| > **TU    |             |             |             |             |
+| KKUMYYJÄT |             |             |             |             |
+| > II JA   |             |             |             |             |
+| > III**   |             |             |             |             |
++===========+=============+=============+=============+=============+
+| >         | > 1\.       | > 3\.       | > 5\.       | > 8\.       |
+| Helsinki, | > vuotena   | > vuotena   | > vuotena   | > vuotena   |
+| > Espoo,  |             |             |             |             |
+| > Ka      |             |             |             |             |
+| uniainen, |             |             |             |             |
+| > Vantaa  |             |             |             |             |
++-----------+-------------+-------------+-------------+-------------+
+
++---------+-----------+-----------+-----------+-----------+---+----+
+| >       | > 2541    | > 2647    | > 2774    | > 2913    |   |    |
+|  **II** |           |           |           |           |   |    |
++=========+===========+===========+===========+===========+===+====+
+| >       | > 2949    | > 3062    | > 3194    | > 3346    |   |    |
+| **III** |           |           |           |           |   |    |
++---------+-----------+-----------+-----------+-----------+---+----+
+|         |           |           |           |           |   |    |
++---------+-----------+-----------+-----------+-----------+---+----+
+|         |           |           |           |           |   | F  |
++---------+-----------+-----------+-----------+-----------+---+----+
+| > Muu   | > 1\.     | > 3\.     | > 5\.     | > 8\.     |   |    |
+|         | > vuotena | > vuotena | > vuotena | > vuotena |   |    |
++---------+-----------+-----------+-----------+-----------+---+----+
+| > Suomi |           |           |           |           |   |    |
++---------+-----------+-----------+-----------+-----------+---+----+
+| >       | > 2393    | > 2498    | > 2616    | > 2750    |   | P  |
+|  **II** |           |           |           |           |   | al |
+|         |           |           |           |           |   | kk |
++---------+-----------+-----------+-----------+-----------+---+----+
+| >       | > 2761    | > 2872    | > 2977    | > 3121    |   | >  |
+| **III** |           |           |           |           |   |  a |
+|         |           |           |           |           |   | li |
+|         |           |           |           |           |   | it |
++---------+-----------+-----------+-----------+-----------+---+----+
+
++---------------------------------------------+------------------------+
+| > **ASENTAJAT JA HUOLTOMIEHET**             |                        |
++=============================================+========================+
+| > Helsinki, Espoo, Kauniainen, Vantaa       | > 1994                 |
++---------------------------------------------+------------------------+
+| > Muu Suomi                                 | > 1916                 |
++---------------------------------------------+------------------------+
+
+> Kaupan työehtosopimus 1.2.2023--31.1.2025 191
+>
+> Huolto- ja liikenneasemien ravintolatyöntekijöiden kuukausi- ja
+> tuntipalkat 1.6.2023-31.5.2024
+
++-------------------------+------+------+------+------+------+------+
+| > **HUOLTO- JA          |      |      |      |      |      |      |
+| > LIIKENNEASEMIEN       |      |      |      |      |      |      |
+| >                       |      |      |      |      |      |      |
+|  RAVINTOLATYÖNTEKIJÄT** |      |      |      |      |      |      |
++=========================+======+======+======+======+======+======+
+|                         | >    |      | >    |      | >    |      |
+|                         |  1\. |      |  5\. |      |  8\. |      |
+|                         | >    |      | >    |      | >    |      |
+|                         |  vuo |      |  vuo |      |  vuo |      |
+|                         | tena |      | tena |      | tena |      |
++-------------------------+------+------+------+------+------+------+
+| > Helsinki, Espoo, 2049 |      | > 1  | 2105 | 1    | >    | 1    |
+| >                       |      | 2,81 |      | 3,16 | 2206 | 3,79 |
+| > Kauniainen, Vantaa    |      |      |      |      |      |      |
++-------------------------+------+------+------+------+------+------+
+| > Muu Suomi 2019        |      | > 1  | 2100 | 1    | >    | 1    |
+|                         |      | 2,62 |      | 3,13 | 2148 | 3,43 |
++-------------------------+------+------+------+------+------+------+
+
+> Huolto- ja liikenneasemaravintola:
+>
+> luvanhaltijan edustajan sijaisen tuntipalkat 1.6.2023--31.5.2024
+
++----------------+----------------+----------------+-----------------+
+| > **HUOLTO- JA |                |                |                 |
+| > L            |                |                |                 |
+| IIKENNEASEMIEN |                |                |                 |
+| >              |                |                |                 |
+|  LUVANHALTIJAN |                |                |                 |
+| > EDUSTAJAN    |                |                |                 |
+| > SIJAISEN     |                |                |                 |
+| >              |                |                |                 |
+|  TUNTIPALKKA** |                |                |                 |
++================+================+================+=================+
+| > 1\. vuotena  | > 3\. vuotena  | > 5\. vuotena  | > 8\. vuotena   |
++----------------+----------------+----------------+-----------------+
+
+> 14,46 14,80 15,17 15,49
+>
+> Huolto- ja liikenneasemien ravintolaesihenkilöiden kuukausi- ja
+> tuntipalkat 1.6.2023--31.5.2024
+
++---------+------+------+------+------+------+------+------+------+
+| > **    |      |      |      |      |      |      |      |      |
+| HUOLTO- |      |      |      |      |      |      |      |      |
+| > JA    |      |      |      |      |      |      |      |      |
+| > L     |      |      |      |      |      |      |      |      |
+| IIKENNE |      |      |      |      |      |      |      |      |
+| ASEMIEN |      |      |      |      |      |      |      |      |
+| > R     |      |      |      |      |      |      |      |      |
+| AVINTOL |      |      |      |      |      |      |      |      |
+| AESIHEN |      |      |      |      |      |      |      |      |
+| KILÖT** |      |      |      |      |      |      |      |      |
++=========+======+======+======+======+======+======+======+======+
+|         | >    |      | >    |      | >    |      | >    |      |
+|         | 0--2 |      |  yli |      |  yli |      |  yli |      |
+|         | > vu |      | > 2  |      | > 5  |      | > 10 |      |
+|         | otta |      | > vu |      | > vu |      | > vu |      |
+|         |      |      | otta |      | otta |      | otta |      |
++---------+------+------+------+------+------+------+------+------+
+| > **1** | >    | 1    | 2177 | > 1  | >    | > 1  | >    | > 1  |
+|         | 2129 | 3,31 |      | 3,61 | 2230 | 3,94 | 2281 | 4,62 |
++---------+------+------+------+------+------+------+------+------+
+| > **2** | >    | 1    | 2290 | > 1  | >    | > 1  | >    | > 1  |
+|         | 2239 | 3,99 |      | 4,31 | 2346 | 4,66 | 2398 | 4,99 |
++---------+------+------+------+------+------+------+------+------+
+| > **3** | >    | 1    | 2370 | > 1  | >    | > 1  | >    | > 1  |
+|         | 2314 | 4,46 |      | 4,81 | 2426 | 5,16 | 2480 | 5,50 |
++---------+------+------+------+------+------+------+------+------+
+| > **4** | >    | 1    | 2391 | > 1  | >    | > 1  | >    | > 1  |
+|         | 2338 | 4,61 |      | 4,94 | 2448 | 5,30 | 2505 | 5,66 |
++---------+------+------+------+------+------+------+------+------+
+| > **5** | >    | 1    | 2512 | > 1  | >    | > 1  | >    | > 1  |
+|         | 2454 | 5,34 |      | 5,70 | 2575 | 6,09 | 2636 | 6,48 |
++---------+------+------+------+------+------+------+------+------+
+| > **6** | >    | 1    | 2636 | > 1  | >    | > 1  | >    | > 1  |
+|         | 2575 | 6,09 |      | 6,48 | 2701 | 6,88 | 2767 | 7,29 |
++---------+------+------+------+------+------+------+------+------+
+
+## Taulukkopalkat 1.6.2024--31.1.2025
+
+### Taulukkopalkat 1.6.2024--31.1.2025
+
+> Kaupan työntekijöiden kuukausi- ja tuntipalkat 1.6.2024--31.1.2025
+>
+> Tukkumyyjät II ja III 1.6.2024--31.1.2025
+
++-----------+-------------+-------------+-------------+-------------+
+| > **TU    |             |             |             |             |
+| KKUMYYJÄT |             |             |             |             |
+| > II JA   |             |             |             |             |
+| > III**   |             |             |             |             |
++===========+=============+=============+=============+=============+
+| >         | > 1\.       | > 3\.       | > 5\.       | > 8\.       |
+| Helsinki, | > vuotena   | > vuotena   | > vuotena   | > vuotena   |
+| > Espoo,  |             |             |             |             |
+| > Ka      |             |             |             |             |
+| uniainen, |             |             |             |             |
+| > Vantaa  |             |             |             |             |
++-----------+-------------+-------------+-------------+-------------+
+
++-----------+-------------+-------------+-------------+-------------+
+| > **II**  | > 2595      | > 2704      | > 2833      | > 2975      |
++===========+=============+=============+=============+=============+
+| > **III** | > 3012      | > 3128      | > 3262      | > 3418      |
++-----------+-------------+-------------+-------------+-------------+
+|           |             |             |             |             |
++-----------+-------------+-------------+-------------+-------------+
+| > Muu     | > 1\.       | > 3\.       | > 5\.       | > 8\.       |
+| > Suomi   | > vuotena   | > vuotena   | > vuotena   | > vuotena   |
++-----------+-------------+-------------+-------------+-------------+
+| > **II**  | > 2444      | > 2551      | > 2672      | > 2809      |
++-----------+-------------+-------------+-------------+-------------+
+| > **III** | > 2820      | > 2933      | > 3041      | > 3188      |
++-----------+-------------+-------------+-------------+-------------+
+
+> Asentajat ja huoltomiehet 1.6.2024--31.1.2025
+
++---------------------------------------------+------------------------+
+| > **ASENTAJAT JA HUOLTOMIEHET**             |                        |
++=============================================+========================+
+| > Helsinki, Espoo, Kauniainen, Vantaa       | > 2037                 |
++---------------------------------------------+------------------------+
+| > Muu Suomi                                 | > 1957                 |
++---------------------------------------------+------------------------+
+
+> Huolto- ja liikenneasemien ravintolatyöntekijöiden kuukausi- ja
+> tuntipalkat 1.6.2024--31.1.2025
+
++-------------------------+------+------+------+------+------+------+
+| > **HUOLTO- JA          |      |      |      |      |      |      |
+| > LIIKENNEASEMIEN       |      |      |      |      |      |      |
+| >                       |      |      |      |      |      |      |
+|  RAVINTOLATYÖNTEKIJÄT** |      |      |      |      |      |      |
++=========================+======+======+======+======+======+======+
+|                         | >    |      | >    |      | >    |      |
+|                         |  1\. |      |  5\. |      |  8\. |      |
+|                         | >    |      | >    |      | >    |      |
+|                         |  vuo |      |  vuo |      |  vuo |      |
+|                         | tena |      | tena |      | tena |      |
++-------------------------+------+------+------+------+------+------+
+| > Helsinki, Espoo, 2093 |      | > 1  | >    | > 1  | >    | > 1  |
+| >                       |      | 3,08 | 2150 | 3,44 | 2253 | 4,08 |
+| > Kauniainen, Vantaa    |      |      |      |      |      |      |
++-------------------------+------+------+------+------+------+------+
+| > Muu Suomi 2062        |      | > 1  | >    | > 1  | >    | > 1  |
+|                         |      | 2,89 | 2145 | 3,41 | 2194 | 3,71 |
++-------------------------+------+------+------+------+------+------+
+
+> Kaupan työehtosopimus 1.2.2023--31.1.2025 195
 
 ##### Huolto- ja liikenneasemaravintola:
-luvanhaltijan edustajan sijaisen tuntipalkat 1.6.2024–31.1.2025
 
+> luvanhaltijan edustajan sijaisen tuntipalkat 1.6.2024--31.1.2025
 
-|**HUOLTO- JA LIIKENNEASEMIEN LUVANHALTIJAN EDUSTAJAN SIJAISEN TUNTIPALKKA**||||
-| :- | :- | :- | :- |
-|1\. vuotena|3\. vuotena|5\. vuotena|8\. vuotena|
++-----------------+-----------------+-----------------+-----------------+
+| > **HUOLTO- JA  |                 |                 |                 |
+| >               |                 |                 |                 |
+| LIIKENNEASEMIEN |                 |                 |                 |
+| > LUVANHALTIJAN |                 |                 |                 |
+| > EDUSTAJAN     |                 |                 |                 |
+| > SIJAISEN      |                 |                 |                 |
+| > TUNTIPALKKA** |                 |                 |                 |
++=================+=================+=================+=================+
+| > 1\. vuotena   | > 3\. vuotena   | > 5\. vuotena   | > 8\. vuotena   |
++-----------------+-----------------+-----------------+-----------------+
 
-14,77	15,12	15,49	15,82
+> 14,77 15,12 15,49 15,82
+>
+> Huolto- ja liikenneasemien ravintolaesihenkilöiden kuukausi- ja
+> tuntipalkat 1.6.2024--31.1.2025
 
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.163.png)
-
-
-F
-
-Palkkaliite
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.147.png)![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.148.png)Huolto- ja liikenneasemien ravintolaesihenkilöiden kuukausi- ja tuntipalkat 1.6.2024–31.1.2025
-
-
-|**HUOLTO- JA LIIKENNEASEMIEN RAVINTOLAESIHENKILÖT**|||||||||
-| :- | :- | :- | :- | :- | :- | :- | :- | :- |
-||0–2 vuotta|yli 2 vuotta|yli 5 vuotta|yli 10 vuotta|||||
-|**1**|2175|13,59|2224|13,90|2278|14,24|2330|14,56|
-|**2**|2287|14,29|2339|14,62|2396|14,98|2449|15,31|
-|**3**|2364|14,78|2421|15,13|2478|15,49|2533|15,83|
-|**4**|2388|14,93|2442|15,26|2500|15,63|2559|15,99|
-|**5**|2507|15,67|2566|16,04|2630|16,44|2692|16,83|
-|**6**|2630|16,44|2692|16,83|2759|17,24|2826|17,66|
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.140.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
++---------+------+------+------+------+------+------+------+------+
+| > **    |      |      |      |      |      |      |      |      |
+| HUOLTO- |      |      |      |      |      |      |      |      |
+| > JA    |      |      |      |      |      |      |      |      |
+| > L     |      |      |      |      |      |      |      |      |
+| IIKENNE |      |      |      |      |      |      |      |      |
+| ASEMIEN |      |      |      |      |      |      |      |      |
+| > R     |      |      |      |      |      |      |      |      |
+| AVINTOL |      |      |      |      |      |      |      |      |
+| AESIHEN |      |      |      |      |      |      |      |      |
+| KILÖT** |      |      |      |      |      |      |      |      |
++=========+======+======+======+======+======+======+======+======+
+|         | >    |      | >    |      | >    |      | >    |      |
+|         | 0--2 |      |  yli |      |  yli |      |  yli |      |
+|         | > vu |      | > 2  |      | > 5  |      | > 10 |      |
+|         | otta |      | > vu |      | > vu |      | > vu |      |
+|         |      |      | otta |      | otta |      | otta |      |
++---------+------+------+------+------+------+------+------+------+
+| > **1** | >    | 1    | 2224 | > 1  | 2278 | > 1  | >    | > 1  |
+|         | 2175 | 3,59 |      | 3,90 |      | 4,24 | 2330 | 4,56 |
++---------+------+------+------+------+------+------+------+------+
+| > **2** | >    | 1    | 2339 | > 1  | 2396 | > 1  | >    | > 1  |
+|         | 2287 | 4,29 |      | 4,62 |      | 4,98 | 2449 | 5,31 |
++---------+------+------+------+------+------+------+------+------+
+| > **3** | >    | 1    | 2421 | > 1  | 2478 | > 1  | >    | > 1  |
+|         | 2364 | 4,78 |      | 5,13 |      | 5,49 | 2533 | 5,83 |
++---------+------+------+------+------+------+------+------+------+
+| > **4** | >    | 1    | 2442 | > 1  | 2500 | > 1  | >    | > 1  |
+|         | 2388 | 4,93 |      | 5,26 |      | 5,63 | 2559 | 5,99 |
++---------+------+------+------+------+------+------+------+------+
+| > **5** | >    | 1    | 2566 | > 1  | 2630 | > 1  | >    | > 1  |
+|         | 2507 | 5,67 |      | 6,04 |      | 6,44 | 2692 | 6,83 |
++---------+------+------+------+------+------+------+------+------+
+| > **6** | >    | 1    | 2692 | > 1  | 2759 | > 1  | >    | > 1  |
+|         | 2630 | 6,44 |      | 6,83 |      | 7,24 | 2826 | 7,66 |
++---------+------+------+------+------+------+------+------+------+
 
 ## Lisät 1.5.2022 alkaen
 
-
-1. ### **Lisät 1.2.2023–31.1.2025**
-Työaikalisät ovat olleet voimassa 1.5.2022 alkaen.
-
-Kielilisää koskevat määräykset ovat olleet voimassa 31.1.2023 asti.
-
-Logistiikkatyöntekijöiden työryhmän vanhinta (nokkamies) koskeva määräys on voimassa 31.12.2023 asti.
-
-
-|MYYJÄT JA MYYMÄLÄTYÖNTEKIJÄT|Määrä ja laskentapohja|Klo|
-| :- | :- | :- |
-
-Kaupan työehtosopimus 1.2.2023–31.1.2025
-
-203
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.145.png)![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.194.png)
-
-F
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.147.png)Iltalisä
-
-tes 12 § 3. kohta
-
-
-
-Palkkaliite
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.148.png)marras–joulukuu
-
-Hki\*	4,18 e tunnilta
-
-Muu Suomi	4,00 e tunnilta
-
-
-
-Hki\*	 8,36 e tunnilta1) Muu Suomi	8,00 e tunnilta1)
-
-Maanantai–perjantai klo 18–24 ja sunnuntai klo 18–24 aukiolosta riippumatta ja yksinkertaisena.
-
-Sunnuntain lisäksi myös kirkollinen juhla-, vapun- ja itsenäisyyspäivä.
-
-Sunnuntaisin klo 18–24 myymä- län ollessa auki klo 18:n jälkeen.
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.195.png)( 1) Lisä on kaksinkertainen iltalisä.)
-
-
-Aattoiltalisä
-
-tes 12 § 4. kohta
-
-
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.195.png)Sama kuin lauantailisä	Kirkollisen juhlapäivän aattona klo 18–24, jos myymälä auki klo 18 jälkeen.
-
-Yölisä
-
-tes 12 § 5. kohta
-
-
-
-
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.195.png)Lauantailisä
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.195.png)tes 12 § 6. kohta
-
-Hki\*	6,28 e tunnilta
-
-Muu Suomi	6,01 e tunnilta
-
-
-
-
-
-Hki\*	5,46 e tunnilta
-
-Muu Suomi	5,27 e tunnilta
-
-Maanantai–lauantai klo 00–06 aukiolosta riippumatta.
-
-Lisää ei makseta sunnuntaiyönä, kirkollisen juhla-, vapun- ja itsenäisyyspäivän yönä tehdystä työstä.
-
-Arkilauantai klo 13–24 aukiolosta riippumatta.
-
-Inventaarilisä lauantaina
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.195.png)tes 12 § 7. kohta
-
-Vastuulisä
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.195.png)tes 12 § 8. kohta
-
-Myymälänhoitajan sijaisuuslisä
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.195.png)tes 12 § 9. kohta
-
-Kylmähuonelisä
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.195.png)tes 12 § 10. kohta
-
-Pakkashuonelisä
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.195.png)tes 12 § 11. kohta
-
-Hälytysraha
-
-tes 12 § 12. kohta
-
-Sama kuin lauantailisä	Arkilauantai klo 13–24 aukiolosta riippumatta.
-
-Vähintään 5 % taulukkopalkasta.
-
-5–20 %
-
-
-Vähintään 5 % taulukkopalkasta.
-
-Pakkashuoneessa tehdyiltä tunneilta 20 %:lla korotettu palkka.
-
-Hälytystyöstä maksettavan palkan lisäksi 2 tunnin palkka.
-
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.196.png)*\* Helsinki, Espoo, Kauniainen, Vantaa*
-
-|LOGISTIIKKATYÖNTEKIJÄT|Määrä ja laskentapohja|Klo|
-| :- | :- | :- |
-|Iltalisä|3,73 e tunnilta|Maanantai–perjantai klo 18–22.|
-|tes 13 § 2. kohta|7,47 e tunnilta|Sunnuntai klo 18–22. Sunnuntain lisäksi myös kirkollinen juhla-, vapun- ja itsenäisyyspäivä.|
-|<p>Yölisä</p><p>tes 13 § 4. kohta</p>|<p>4,40 e tunnilta</p><p></p><p>8,79 e tunnilta</p>|<p>Maanantai–lauantai klo 00–06 ja 22–24.</p><p>Sunnuntai klo 00–06 ja 22–24. Sunnuntain lisäksi myös kirkollinen juhla-, vapun- ja itsenäisyyspvä.</p>|
-|<p>Lauantailisä</p><p>tes 13 § 6. kohta</p>|<p>Hki\*	5,46 e tunnilta</p><p>Muu Suomi	5,27 e tunnilta</p>|Arkilauantai klo 13–22|
-|Iltalisä myyntityöhön|Hki\*	4,18 e tunnilta|Maanantai–perjantai klo 18–24|
-|<p>liittyvästä logistiikkatyöstä</p><p>tes 12 § 3. kohta</p>|Muu Suomi	4,00 e tunnilta|ja sunnuntai klo 18–24 yksin- kertaisena, jos työ liittyy aukiolon johdosta tehtävään myyntityöhön. Sunnuntain lisäksi myös kirkollinen juhla-, vapun- ja itsenäisyyspäivä.|
-|marras–joulukuu|<p>Hki\*	8,36 e tunnilta</p><p>Muu Suomi	8,00 e tunnilta</p>|Sunnuntaisin klo 18–24, jos työ liittyy aukiolon johdosta tehtävään myyntityöhön.|
-|Aattoiltalisä myyntityöhön|Hki\*	5,46 e tunnilta|Kirkollisen juhlapyhän aattona|
-|<p>liittyvästä logistiikkatyöstä</p><p>tes 12 § 4. kohta</p>|Muu Suomi	5,27 e tunnilta|klo 18–24, jos työ liittyy aukiolon johdostatehtävään myyntityöhön.|
-|Yölisä myyntityöhön|Hki\*	6,28 e tunnilta|Maanantai–lauantai klo 00–06, jos|
-|<p>liittyvästä logistiikkatyöstä</p><p>tes 12 § 5. kohta</p>|Muu Suomi	6,01 e tunnilta|työ liittyy aukiolon johdosta tehtävään myyntityöhön. Lisää ei makseta sunnuntaiyönä, kirkol- lisen juhla-, vapun- ja itsenäisyys- päivän yönä tehdystä työstä.|
-|Lauantailisä myyntityöhön|Hki\*	5,46 e tunnilta|Arkilauantai klo 13–24, jos työ|
-|<p>liittyvästä logistiikkatyöstä</p><p>tes 12 § 6. kohta</p>|Muu Suomi	5,27 e tunnilta|liittyy aukiolon johdosta tehtävään myyntityöhön.|
-
-
-Palkkaliite
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.143.png)Olosuhdelisät
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.161.png)tes 13 § 8. kohta
-
-Pakastevarastolisä
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.161.png)tes 13 § 9. kohta
-
-Työryhmän vanhin (nokkamies)
-
-tes 13 § 10. kohta
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.161.png)Voimassa 31.12.2023 asti.
-
-Hälytysraha
-
-tes 13 § 11. kohta
-
-7–11 % taulukkopalkasta / tunti
-
-F
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.142.png)20 % henkilökohtaisesta palkasta / tunti. Pääasiallisesti pakastevaras- tossa työskentelevälle työntekijälle lisä maksetaan kaikilta tunneilta.
-
-Vähintään 10 % 8. vuoden taulukkopalkasta.
-
-
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.163.png)Hälytystyöstä maksettavan palkan lisäksi 2 tunnin palkka.
-
-
-*\* Helsinki, Espoo, Kauniainen, Vantaa*
-
-TOIMIHENKILÖT	Määrä ja laskentapohja	Klo
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.197.png)
-
-Iltalisä
-
-tes 14 § 2. kohta
-
-
-
-
-
-F
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.147.png)![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.161.png)Iltalisä myyntityöhön liittyvästä toimihenkilötyöstä tes 12 § 3. kohta
-
-
-
-marras–joulukuu
-
-
-Palkkaliite
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.161.png)![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.161.png)![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.148.png)Aattoiltalisä myyntityöhön liittyvästä toimihenkilötyöstä tes 12 § 4. kohta
-
-Yölisä myyntityöhön liittyvästä toimihenkilötyöstä tes 12 § 5. kohta
-
-
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.161.png)Lauantailisä myyntityöhön liittyvästä toimihenkilötyöstä tes 12 § 6. kohta
-
-Hki\*	2,02 e tunnilta
-
-Muu Suomi	1,89 e tunnilta
-
-Hki\*	4,04 e tunnilta1) Muu Suomi	 3,77 e tunnilta1)
-
-
-Hki\*	4,18 e tunnilta
-
-Muu Suomi	4,00 e tunnilta
-
-
-
-
-Hki\*	8,36 e tunnilta
-
-Muu Suomi	8,00 e tunnilta
-
-Hki\*	5,46 e tunnilta
-
-Muu Suomi	5,27 e tunnilta
-
-Hki\*	6,28 e tunnilta
-
-Muu Suomi	6,01 e tunnilta
-
-
-
-
-Hki\*	5,46 e tunnilta
-
-Muu Suomi	5,27 e tunnilta
-
-Maanantai–lauantai klo 00–06 ja 18–24.
-
-Sunnuntai klo 18–24. Sunnuntain lisäksi kirkollinen juhla-, vapun- ja itsenäisyyspäivä.
-
-( 1) Lisä on kaksinkertainen iltalisä.)
-
-Maanantai–perjantai klo 18–24 ja sunnuntai klo 18–24 yksin-
-
-kertaisena, jos työ liittyy aukiolon johdosta tehtävään myyntityöhön. Sunnuntain lisäksi myös kirkollinen juhla-, vapun- ja itsenäisyyspäivä.
-
-Sunnuntaisin klo 18–24, jos työ liit- tyy aukiolon johdosta tehtävään myyntityöhön.
-
-Kirkollisen juhlapyhän aattona klo 18–24, jos työ liittyy aukiolon
-
-johdosta tehtävään myyntityöhön.
-
-Maanantai–lauantai klo 00–06, jos työ liittyy aukiolon johdosta tehtävään myyntityöhön. Lisää ei makseta sunnuntaiyönä, kirkollisen juhla-, vapun- ja itsenäisyyspäivän yönä tehdystä työstä.
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.163.png)Arkilauantai klo 13–24, jos työ liit- tyy aukiolon johdosta tehtävään myyntityöhön.
-
-*\* Helsinki, Espoo, Kauniainen, Vantaa*
-
-VAHTIMESTARIT	Määrä ja laskentapohja	Klo
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.198.png)
-
-Iltalisä
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.161.png)tes 13 § 2. kohta
-
-Yölisä
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.161.png)tes 13 § 4. kohta
-
-Lauantailisä
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.161.png)tes 13 § 6. kohta
-
-Kuten iltalisä logistiikkatyöntekijöillä.
-
-Kuten yölisä logistiikkatyöntekijöillä.
-
-Kuten lauantailisä logistiikkatyöntekijöillä.
-
-
-Iltalisä myyntityöhön liittyvästä vahtimestarin työstä
-
-tes 12 § 3. kohta
-
-
-
-marras–joulukuu
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.161.png)Aattoiltalisä myyntityöhön liittyvästä vahtimestarin työstä
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.161.png)tes 12 § 4. kohta
-
-Yölisä myyntityöhön liittyvästä vahtimestarin työstä
-
-tes 12 § 5. kohta
-
-
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.161.png)Lauantailisä myyntityöhön liittyvästä vahtimestarin työstä
-
-tes 12 § 6. kohta
-
-
-
-Hki\*	4,18 e tunnilta
-
-Muu Suomi	4,00 e tunnilta
-
-
-
-
-Hki\*	8,36 e tunnilta
-
-Muu Suomi	8,00 e tunnilta
-
-Hki\*	5,46 e tunnilta
-
-Muu Suomi	5,27 e tunnilta
-
-
-Hki\*	6,28 e tunnilta
-
-Muu Suomi	6,01 e tunnilta
-
-
-
-
-
-Hki\*	5,46 e tunnilta
-
-Muu Suomi	5,27 e tunnilta
-
-
-
-Maanantai–perjantai klo 18–24 ja sunnuntai klo 18–24 yksin-
-
-F
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.142.png)kertaisena, jos työ liittyy aukiolon johdosta tehtävään myyntityöhön. Sunnuntain lisäksi myös kirkollinen juhla-, vapun- ja itsenäisyyspäivä.
-
-Palkkaliite
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.143.png)Sunnuntaisin klo 18–24, jos työ liittyy aukiolon johdosta tehtävään myyntityöhön.
-
-Kirkollisen juhlapyhän aattona klo 18–24, jos työ liittyy aukiolon
-
-johdosta tehtävään myyntityöhön.
-
-Maanantai–lauantai klo 00–06, jos työ liittyy aukiolon johdosta tehtävään myyntityöhön. Lisää ei makseta sunnuntaiyönä, kirkollisen juhla-, vapun- ja itsenäisyyspäivän yönä tehdystä työstä.
-
-Arkilauantai klo 13–24, jos työ liittyy aukiolon johdosta tehtävään myyntityöhön.
-
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.160.png)
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.163.png)Lisät voidaan sopia osaksi kokonaispalkkaa.
-
-SIIVOOJAT	Määrä ja laskentapohja	Klo
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.199.png)
-
-Iltalisä
-
-tes 15 § 6. kohta
-
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.200.png)Yölisä
-
-tes 15 § 6. kohta
-
-0,95 e tunnilta
-
-1,90 e tunnilta
-
-
-1,79 e tunnilta
-
-3,57 e tunnilta
-
-Maanantai–lauantai klo 18–22.
-
-Sunnuntai klo 18–22.
-
-Sunnuntain lisäksi myös kirkollinen juhla-, vapun- ja itsenäisyyspäivä.
-
-Maanantai–lauantai klo 00–06 ja 22–24.
-
-Sunnuntai klo 00–06 ja 22–24. Sunnuntain lisäksi myös kirkollinen juhla-, vapun- ja itsenäisyyspäivä.
-
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.201.png)
-
-
-
-KIOSKIMYYJÄT	Määrä ja laskentapohja	Klo
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.202.png)
-
-F
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.147.png)Iltalisä
-
-Palkkaliite
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.148.png)ptk 3 § 1. ja 3. kohta
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.200.png)Yölisä
-
-ptk 3 § 2. ja 3. kohta
-
-0,96 e tunnilta	Maanantai–sunnuntai klo 18–23. Sunnuntain lisäksi myös kirkollinen juhla-, vapun- ja itsenäisyyspäivä.
-
-3,52 e tunnilta	Maanantai–sunnuntai klo 00–06 ja 23–24.
-
-Sunnuntain lisäksi myös kirkollinen juhla-, vapun- ja itsenäisyyspäivä.
-
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.201.png)
-
-HUOLTO- JA LIIKENNEASEMATYÖNTEKIJÄT
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.203.png)
-
-Huolto- ja liikenneasemat
-
-jossa alle 2000 artikkelin päivittäistavarakauppa tai jossa ei päivittäistavara- kauppaa.
-
-ptk 4 § 1. kohta
-
-jossa vähintään 2000 artikkelin päivit- täistavarakauppa ja jonka päivittäistavarakaupan myyntipinta-ala
-
-enintään 400 m2.
-
-F
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.142.png)ptk 4 § 2. kohta
-
-jossa yli 400 m2 päivittäistavarakauppa.
-
-
-
-<table><tr><th colspan="1" valign="top"><p>Iltalisä klo 18–24</p><p></p><p></p><p>maanantai–lauantai sunnuntai, kirkol- linen juhla-, vapun- ja itsenäisyyspäivä</p></th><th colspan="1" valign="top"><p></p><p></p><p></p><p>1,06 e tunnilta</p><p>2,12 e tunnilta</p></th><th colspan="1" valign="top"><p></p><p></p><p></p><p>1,86 e tunnilta</p><p>3,72 e tunnilta</p></th><th colspan="1" rowspan="2" valign="top"><p>Päivittäistavarakaupassa tehtävä työ:</p><p>lisät kuten myyjillä ja myymälätyöntekijöillä. tes 12 § 3. - 6.</p><p></p><p>Muualla kuin päivittäistavara- kaupassa tehtävä työ: ptk 4 § 1. kohta</p><p>Iltalisä klo 18–24</p><p>ma–la 1,06 e tunnilta sunnuntai, kirkollinen juhla-, vapun- ja itsenäisyyspäivä 2,12 e tunnilta</p><p>Yölisä klo 00–06 ma–su, kirkollinen juhla-, vapun- ja itsenäisyyspäivä 3,51 e tunnilta</p></th></tr>
-<tr><td colspan="1" valign="top"><p>Yölisä klo 00–06</p><p></p><p></p><p>maanantai– sunnuntai, kirkollinen</p><p>juhla-, vapun- ja itsenäisyyspäivä</p></td><td colspan="1" valign="top"><p></p><p></p><p></p><p>3,51 e tunnilta</p></td><td colspan="1" valign="top"><p></p><p></p><p></p><p>3,72 e tunnilta</p></td></tr>
-</table>
-
-Palkkaliite
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.143.png)Hälytysraha
-
-ptk 4 § 5. kohta
-
-Hälytystyöstä maksettavan palkan lisäksi 2 tunnin palkka.
-
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.204.png)
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.001.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-####### ![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.205.png)**Jäsenyys ja liittyminen**
-030 100 600
-
-####### **Jäsenten työsuhdeasiat**
-030 100 620
-
-####### **Työttömyyskassa**
-020 690 211
-
-[www.pam.fi](http://www.pam.fi/)
-
-
-![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.206.png)![](Aspose.Words.df91fb35-a15e-40a8-b0dc-163e54a8d8ff.207.png)
+### Lisät 1.2.2023--31.1.2025
+
+> Työaikalisät ovat olleet voimassa 1.5.2022 alkaen.
+>
+> Kielilisää koskevat määräykset ovat olleet voimassa 31.1.2023 asti.
+>
+> Logistiikkatyöntekijöiden työryhmän vanhinta (nokkamies) koskeva
+> määräys on voimassa 31.12.2023 asti.
+
++--------------------+-----------------------+------------------------+
+| > MYYJÄT JA        | > Määrä ja            | > Klo                  |
+| >                  | > laskentapohja       |                        |
+| MYYMÄLÄTYÖNTEKIJÄT |                       |                        |
++====================+=======================+========================+
++--------------------+-----------------------+------------------------+
+
+> Iltalisä
+>
+> tes 12 § 3. kohta
+>
+> marras--joulukuu
+>
+> Hki\* 4,18 e tunnilta
+>
+> Muu Suomi 4,00 e tunnilta
+>
+> Hki\* 8,36 e tunnilta1) Muu Suomi 8,00 e tunnilta1)
+>
+> Maanantai--perjantai klo 18--24 ja sunnuntai klo 18--24 aukiolosta
+> riippumatta ja yksinkertaisena.
+>
+> Sunnuntain lisäksi myös kirkollinen juhla-, vapun- ja
+> itsenäisyyspäivä.
+>
+> Sunnuntaisin klo 18--24 myymä- län ollessa auki klo 18:n jälkeen.
+>
+> ( 1) Lisä on kaksinkertainen iltalisä.)
+>
+> Aattoiltalisä
+>
+> tes 12 § 4. kohta
+>
+> Sama kuin lauantailisä Kirkollisen juhlapäivän aattona klo 18--24, jos
+> myymälä auki klo 18 jälkeen.
+>
+> Yölisä
+>
+> tes 12 § 5. kohta
+>
+> Lauantailisä
+>
+> tes 12 § 6. kohta
+>
+> Hki\* 6,28 e tunnilta
+>
+> Muu Suomi 6,01 e tunnilta
+>
+> Hki\* 5,46 e tunnilta
+>
+> Muu Suomi 5,27 e tunnilta
+>
+> Maanantai--lauantai klo 00--06 aukiolosta riippumatta.
+>
+> Lisää ei makseta sunnuntaiyönä, kirkollisen juhla-, vapun- ja
+> itsenäisyyspäivän yönä tehdystä työstä.
+>
+> Arkilauantai klo 13--24 aukiolosta riippumatta.
+>
+> Inventaarilisä lauantaina
+>
+> tes 12 § 7. kohta
+>
+> Vastuulisä
+>
+> tes 12 § 8. kohta
+>
+> Myymälänhoitajan sijaisuuslisä
+>
+> tes 12 § 9. kohta
+>
+> Kylmähuonelisä
+>
+> tes 12 § 10. kohta
+>
+> Pakkashuonelisä
+>
+> tes 12 § 11. kohta
+>
+> Hälytysraha
+>
+> tes 12 § 12. kohta
+>
+> Sama kuin lauantailisä Arkilauantai klo 13--24 aukiolosta riippumatta.
+>
+> Vähintään 5 % taulukkopalkasta.
+>
+> 5--20 %
+>
+> Vähintään 5 % taulukkopalkasta.
+>
+> Pakkashuoneessa tehdyiltä tunneilta 20 %:lla korotettu palkka.
+>
+> Hälytystyöstä maksettavan palkan lisäksi 2 tunnin palkka.
+>
+> *\* Helsinki, Espoo, Kauniainen, Vantaa*
+
++--------------------+-----------------------+------------------------+
+| > LOGI             | > Määrä ja            | > Klo                  |
+| STIIKKATYÖNTEKIJÄT | > laskentapohja       |                        |
++====================+=======================+========================+
+| > Iltalisä         | > 3,73 e tunnilta     | > Maanantai--perjantai |
+|                    |                       | > klo 18--22.          |
++--------------------+-----------------------+------------------------+
+| > tes 13 § 2.      | > 7,47 e tunnilta     | > Sunnuntai klo        |
+| > kohta            |                       | > 18--22. Sunnuntain   |
+|                    |                       | > lisäksi myös         |
+|                    |                       | > kirkollinen juhla-,  |
+|                    |                       | > vapun- ja            |
+|                    |                       | > itsenäisyyspäivä.    |
++--------------------+-----------------------+------------------------+
+| > Yölisä           | > 4,40 e tunnilta     | > Maanantai--lauantai  |
+| >                  | >                     | > klo 00--06 ja        |
+| > tes 13 § 4.      | > 8,79 e tunnilta     | > 22--24.              |
+| > kohta            |                       | >                      |
+|                    |                       | > Sunnuntai klo 00--06 |
+|                    |                       | > ja 22--24.           |
+|                    |                       | > Sunnuntain lisäksi   |
+|                    |                       | > myös kirkollinen     |
+|                    |                       | > juhla-, vapun- ja    |
+|                    |                       | > itsenäisyyspvä.      |
++--------------------+-----------------------+------------------------+
+| > Lauantailisä     | > Hki\* 5,46 e        | > Arkilauantai klo     |
+| >                  | > tunnilta            | > 13--22               |
+| > tes 13 § 6.      | >                     |                        |
+| > kohta            | > Muu Suomi 5,27 e    |                        |
+|                    | > tunnilta            |                        |
++--------------------+-----------------------+------------------------+
+| > Iltalisä         | > Hki\* 4,18 e        | > Maanantai--perjantai |
+| > myyntityöhön     | > tunnilta            | > klo 18--24           |
++--------------------+-----------------------+------------------------+
+| > liittyvästä      | > Muu Suomi 4,00 e    | > ja sunnuntai klo     |
+| >                  | > tunnilta            | > 18--24 yksin-        |
+|  logistiikkatyöstä |                       | > kertaisena, jos työ  |
+| >                  |                       | > liittyy aukiolon     |
+| > tes 12 § 3.      |                       | > johdosta tehtävään   |
+| > kohta            |                       | > myyntityöhön.        |
+|                    |                       | > Sunnuntain lisäksi   |
+|                    |                       | > myös kirkollinen     |
+|                    |                       | > juhla-, vapun- ja    |
+|                    |                       | > itsenäisyyspäivä.    |
++--------------------+-----------------------+------------------------+
+| > marras--joulukuu | > Hki\* 8,36 e        | > Sunnuntaisin klo     |
+|                    | > tunnilta            | > 18--24, jos työ      |
+|                    | >                     | > liittyy aukiolon     |
+|                    | > Muu Suomi 8,00 e    | > johdosta tehtävään   |
+|                    | > tunnilta            | > myyntityöhön.        |
++--------------------+-----------------------+------------------------+
+| > Aattoiltalisä    | > Hki\* 5,46 e        | > Kirkollisen          |
+| > myyntityöhön     | > tunnilta            | > juhlapyhän aattona   |
++--------------------+-----------------------+------------------------+
+| > liittyvästä      | > Muu Suomi 5,27 e    | > klo 18--24, jos työ  |
+| >                  | > tunnilta            | > liittyy aukiolon     |
+|  logistiikkatyöstä |                       | > johdostatehtävään    |
+| >                  |                       | > myyntityöhön.        |
+| > tes 12 § 4.      |                       |                        |
+| > kohta            |                       |                        |
++--------------------+-----------------------+------------------------+
+| > Yölisä           | > Hki\* 6,28 e        | > Maanantai--lauantai  |
+| > myyntityöhön     | > tunnilta            | > klo 00--06, jos      |
++--------------------+-----------------------+------------------------+
+| > liittyvästä      | > Muu Suomi 6,01 e    | > työ liittyy aukiolon |
+| >                  | > tunnilta            | > johdosta tehtävään   |
+|  logistiikkatyöstä |                       | > myyntityöhön. Lisää  |
+| >                  |                       | > ei makseta           |
+| > tes 12 § 5.      |                       | > sunnuntaiyönä,       |
+| > kohta            |                       | > kirkol- lisen        |
+|                    |                       | > juhla-, vapun- ja    |
+|                    |                       | > itsenäisyys- päivän  |
+|                    |                       | > yönä tehdystä        |
+|                    |                       | > työstä.              |
++--------------------+-----------------------+------------------------+
+| > Lauantailisä     | > Hki\* 5,46 e        | > Arkilauantai klo     |
+| > myyntityöhön     | > tunnilta            | > 13--24, jos työ      |
++--------------------+-----------------------+------------------------+
+| > liittyvästä      | > Muu Suomi 5,27 e    | > liittyy aukiolon     |
+| >                  | > tunnilta            | > johdosta tehtävään   |
+|  logistiikkatyöstä |                       | > myyntityöhön.        |
+| >                  |                       |                        |
+| > tes 12 § 6.      |                       |                        |
+| > kohta            |                       |                        |
++--------------------+-----------------------+------------------------+
+
+> Olosuhdelisät
+>
+> tes 13 § 8. kohta
+>
+> Pakastevarastolisä
+>
+> tes 13 § 9. kohta
+>
+> Työryhmän vanhin (nokkamies)
+>
+> tes 13 § 10. kohta
+>
+> Voimassa 31.12.2023 asti.
+>
+> Hälytysraha
+>
+> tes 13 § 11. kohta
+>
+> 7--11 % taulukkopalkasta / tunti
+>
+> 20 % henkilökohtaisesta palkasta / tunti. Pääasiallisesti
+> pakastevaras- tossa työskentelevälle työntekijälle lisä maksetaan
+> kaikilta tunneilta.
+>
+> Vähintään 10 % 8. vuoden taulukkopalkasta.
+>
+> Hälytystyöstä maksettavan palkan lisäksi 2 tunnin palkka.
+>
+> *\* Helsinki, Espoo, Kauniainen, Vantaa*
+>
+> Iltalisä
+>
+> tes 14 § 2. kohta
+>
+> Iltalisä myyntityöhön liittyvästä toimihenkilötyöstä tes 12 § 3. kohta
+>
+> marras--joulukuu
+>
+> Aattoiltalisä myyntityöhön liittyvästä toimihenkilötyöstä tes 12 § 4.
+> kohta
+>
+> Yölisä myyntityöhön liittyvästä toimihenkilötyöstä tes 12 § 5. kohta
+>
+> Lauantailisä myyntityöhön liittyvästä toimihenkilötyöstä tes 12 § 6.
+> kohta
+>
+> Hki\* 2,02 e tunnilta
+>
+> Muu Suomi 1,89 e tunnilta
+>
+> Hki\* 4,04 e tunnilta1) Muu Suomi 3,77 e tunnilta1)
+>
+> Hki\* 4,18 e tunnilta
+>
+> Muu Suomi 4,00 e tunnilta
+>
+> Hki\* 8,36 e tunnilta
+>
+> Muu Suomi 8,00 e tunnilta
+>
+> Hki\* 5,46 e tunnilta
+>
+> Muu Suomi 5,27 e tunnilta
+>
+> Hki\* 6,28 e tunnilta
+>
+> Muu Suomi 6,01 e tunnilta
+>
+> Hki\* 5,46 e tunnilta
+>
+> Muu Suomi 5,27 e tunnilta
+>
+> Maanantai--lauantai klo 00--06 ja 18--24.
+>
+> Sunnuntai klo 18--24. Sunnuntain lisäksi kirkollinen juhla-, vapun- ja
+> itsenäisyyspäivä.
+>
+> ( 1) Lisä on kaksinkertainen iltalisä.)
+>
+> Maanantai--perjantai klo 18--24 ja sunnuntai klo 18--24 yksin-
+>
+> kertaisena, jos työ liittyy aukiolon johdosta tehtävään myyntityöhön.
+> Sunnuntain lisäksi myös kirkollinen juhla-, vapun- ja
+> itsenäisyyspäivä.
+>
+> Sunnuntaisin klo 18--24, jos työ liit- tyy aukiolon johdosta tehtävään
+> myyntityöhön.
+>
+> Kirkollisen juhlapyhän aattona klo 18--24, jos työ liittyy aukiolon
+>
+> johdosta tehtävään myyntityöhön.
+>
+> Maanantai--lauantai klo 00--06, jos työ liittyy aukiolon johdosta
+> tehtävään myyntityöhön. Lisää ei makseta sunnuntaiyönä, kirkollisen
+> juhla-, vapun- ja itsenäisyyspäivän yönä tehdystä työstä.
+>
+> Arkilauantai klo 13--24, jos työ liit- tyy aukiolon johdosta tehtävään
+> myyntityöhön.
+>
+> *\* Helsinki, Espoo, Kauniainen, Vantaa*
+>
+> Iltalisä
+>
+> tes 13 § 2. kohta
+>
+> Yölisä
+>
+> tes 13 § 4. kohta
+>
+> Lauantailisä
+>
+> tes 13 § 6. kohta
+>
+> Kuten iltalisä logistiikkatyöntekijöillä.
+>
+> Kuten yölisä logistiikkatyöntekijöillä.
+>
+> Kuten lauantailisä logistiikkatyöntekijöillä.
+>
+> Iltalisä myyntityöhön liittyvästä vahtimestarin työstä
+>
+> tes 12 § 3. kohta
+>
+> marras--joulukuu
+>
+> Aattoiltalisä myyntityöhön liittyvästä vahtimestarin työstä
+>
+> tes 12 § 4. kohta
+>
+> Yölisä myyntityöhön liittyvästä vahtimestarin työstä
+>
+> tes 12 § 5. kohta
+>
+> Lauantailisä myyntityöhön liittyvästä vahtimestarin työstä
+>
+> tes 12 § 6. kohta
+>
+> Hki\* 4,18 e tunnilta
+>
+> Muu Suomi 4,00 e tunnilta
+>
+> Hki\* 8,36 e tunnilta
+>
+> Muu Suomi 8,00 e tunnilta
+>
+> Hki\* 5,46 e tunnilta
+>
+> Muu Suomi 5,27 e tunnilta
+>
+> Hki\* 6,28 e tunnilta
+>
+> Muu Suomi 6,01 e tunnilta
+>
+> Hki\* 5,46 e tunnilta
+>
+> Muu Suomi 5,27 e tunnilta
+>
+> Maanantai--perjantai klo 18--24 ja sunnuntai klo 18--24 yksin-
+>
+> kertaisena, jos työ liittyy aukiolon johdosta tehtävään myyntityöhön.
+> Sunnuntain lisäksi myös kirkollinen juhla-, vapun- ja
+> itsenäisyyspäivä.
+>
+> Sunnuntaisin klo 18--24, jos työ liittyy aukiolon johdosta tehtävään
+> myyntityöhön.
+>
+> Kirkollisen juhlapyhän aattona klo 18--24, jos työ liittyy aukiolon
+>
+> johdosta tehtävään myyntityöhön.
+>
+> Maanantai--lauantai klo 00--06, jos työ liittyy aukiolon johdosta
+> tehtävään myyntityöhön. Lisää ei makseta sunnuntaiyönä, kirkollisen
+> juhla-, vapun- ja itsenäisyyspäivän yönä tehdystä työstä.
+>
+> Arkilauantai klo 13--24, jos työ liittyy aukiolon johdosta tehtävään
+> myyntityöhön.
+>
+> Lisät voidaan sopia osaksi kokonaispalkkaa.
+>
+> Iltalisä
+>
+> tes 15 § 6. kohta
+>
+> Yölisä
+>
+> tes 15 § 6. kohta
+>
+> 0,95 e tunnilta
+>
+> 1,90 e tunnilta
+>
+> 1,79 e tunnilta
+>
+> 3,57 e tunnilta
+>
+> Maanantai--lauantai klo 18--22.
+>
+> Sunnuntai klo 18--22.
+>
+> Sunnuntain lisäksi myös kirkollinen juhla-, vapun- ja
+> itsenäisyyspäivä.
+>
+> Maanantai--lauantai klo 00--06 ja 22--24.
+>
+> Sunnuntai klo 00--06 ja 22--24. Sunnuntain lisäksi myös kirkollinen
+> juhla-, vapun- ja itsenäisyyspäivä.
+>
+> Iltalisä
+>
+> ptk 3 § 1. ja 3. kohta
+>
+> Yölisä
+>
+> ptk 3 § 2. ja 3. kohta
+>
+> 0,96 e tunnilta Maanantai--sunnuntai klo 18--23. Sunnuntain lisäksi
+> myös kirkollinen juhla-, vapun- ja itsenäisyyspäivä.
+>
+> 3,52 e tunnilta Maanantai--sunnuntai klo 00--06 ja 23--24.
+>
+> Sunnuntain lisäksi myös kirkollinen juhla-, vapun- ja
+> itsenäisyyspäivä.
+>
+> Huolto- ja liikenneasemat
+>
+> jossa alle 2000 artikkelin päivittäistavarakauppa tai jossa ei
+> päivittäistavara- kauppaa.
+>
+> ptk 4 § 1. kohta
+>
+> jossa vähintään 2000 artikkelin päivit- täistavarakauppa ja jonka
+> päivittäistavarakaupan myyntipinta-ala
+>
+> enintään 400 m2.
+>
+> ptk 4 § 2. kohta
+>
+> jossa yli 400 m2 päivittäistavarakauppa.
+
++-------------+-------------+---------------------+--------------------+
+| > Iltalisä  | > 1,06 e    | > 1,86 e tunnilta   | > Päivit           |
+| > klo       | > tunnilta  | >                   | täistavarakaupassa |
+| > 18--24    | >           | > 3,72 e tunnilta   | > tehtävä työ:     |
+| >           | > 2,12 e    |                     | >                  |
+| > maananta  | > tunnilta  |                     | > lisät kuten      |
+| i--lauantai |             |                     | > myyjillä ja      |
+| >           |             |                     | > myym             |
+|  sunnuntai, |             |                     | älätyöntekijöillä. |
+| > kirkol-   |             |                     | > tes 12 § 3. - 6. |
+| > linen     |             |                     | >                  |
+| > juhla-,   |             |                     | > Muualla kuin     |
+| > vapun- ja |             |                     | >                  |
+| > itsen     |             |                     |  päivittäistavara- |
+| äisyyspäivä |             |                     | > kaupassa tehtävä |
+|             |             |                     | > työ: ptk 4 § 1.  |
+|             |             |                     | > kohta            |
+|             |             |                     | >                  |
+|             |             |                     | > Iltalisä klo     |
+|             |             |                     | > 18--24           |
+|             |             |                     | >                  |
+|             |             |                     | > ma--la 1,06 e    |
+|             |             |                     | > tunnilta         |
+|             |             |                     | > sunnuntai,       |
+|             |             |                     | > kirkollinen      |
+|             |             |                     | > juhla-, vapun-   |
+|             |             |                     | > ja               |
+|             |             |                     | > itsenäisyyspäivä |
+|             |             |                     | > 2,12 e tunnilta  |
+|             |             |                     | >                  |
+|             |             |                     | > Yölisä klo       |
+|             |             |                     | > 00--06 ma--su,   |
+|             |             |                     | > kirkollinen      |
+|             |             |                     | > juhla-, vapun-   |
+|             |             |                     | > ja               |
+|             |             |                     | > itsenäisyyspäivä |
+|             |             |                     | > 3,51 e tunnilta  |
++=============+=============+=====================+====================+
+| > Yölisä    | > 3,51 e    | > 3,72 e tunnilta   |                    |
+| > klo       | > tunnilta  |                     |                    |
+| > 00--06    |             |                     |                    |
+| >           |             |                     |                    |
+| >           |             |                     |                    |
+| maanantai-- |             |                     |                    |
+| >           |             |                     |                    |
+|  sunnuntai, |             |                     |                    |
+| >           |             |                     |                    |
+| kirkollinen |             |                     |                    |
+| >           |             |                     |                    |
+| > juhla-,   |             |                     |                    |
+| > vapun- ja |             |                     |                    |
+| > itsen     |             |                     |                    |
+| äisyyspäivä |             |                     |                    |
++-------------+-------------+---------------------+--------------------+
+
+> Hälytysraha
+>
+> ptk 4 § 5. kohta
+>
+> Hälytystyöstä maksettavan palkan lisäksi 2 tunnin palkka.
+
+####### Jäsenyys ja liittyminen
+
+> 030 100 600
+
+####### Jäsenten työsuhdeasiat
+
+> 030 100 620
+
+####### Työttömyyskassa
+
+> 020 690 211
+>
+> [www.pam.fi](http://www.pam.fi/)
